@@ -1,0 +1,194 @@
+{
+ "id": "hurricane_mk1c",
+ "wiki": "https://wiki.warthunder.com/unit/hurricane_mk1c",
+ "name": "Sea Hurricane Mk IC",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "3.3",
+  "RB": "3.0",
+  "SB": "3.3"
+ },
+ "description": "When the Royal Navy’s 880 Squadron was introduced with the Sea Hurricane Mk IB , the FAA immediately pointed out its disadvantages: short flight duration and weak firepower. Poor visibility during landing was also criticised, forcing pilots to land with the canopy open. The aircraft’s ability to stay afloat upon landing on water was also poor; it could remain afloat for no more than two seconds. Despite these drawbacks, all the Navy was offered was a modification with stronger armament, which was the Sea Hurricane Mk IC with four 20 mm Hispano cannons. These aircraft began arriving in the FAA in January 1942 and were all conversions of land-based aircraft that had previously participated in battles. They were a combination of an old fuselage and a new wing and engine. The first of these fighters were given to the 811th Squadron, followed by the 802nd, 883rd, 880th, and 885th Squadrons. All were stationed on the aircraft carriers Eagle, Furious, and Victorious. By July 1942, the British naval aviation force had approximately 300 Sea Hurricanes. Soon, deliveries of more modern modifications, such as the Sea Hurricane Mk IIC, began. The aircraft remained in service until April 1944, when the escort carrier Striker stopped using them. The Sea Hurricane Mk IC was introduced in Update 1.49, \"Weapons of Victory\" . It is a manoeuvrable, carrier-based fighter with powerful armament. However, it is slow, has poor acceleration, and quickly becomes unresponsive in a dive.",
+ "image": "https://static.encyclopedia.warthunder.com/images/hurricane_mk1c.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "509"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "8"
+  },
+  {
+   "label": "Turn time",
+   "value": "17"
+  },
+  {
+   "label": "Max altitude",
+   "value": "11,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Merlin-III"
+  },
+  {
+   "label": "Length",
+   "value": "9.6 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "141 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.07"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.32 t (1h 18m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "660 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.79 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "202 / 247 / 268 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "360 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.32 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "497 → 638"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 80 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,400"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEI/SAP-I/T",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/SAP-I",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/HEI/SAP-I/HEI/SAP-I",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/SAP-I/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI/HEI/SAP-I",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

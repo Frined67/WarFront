@@ -1,0 +1,322 @@
+{
+ "id": "beaufighter_mk21",
+ "wiki": "https://wiki.warthunder.com/unit/beaufighter_mk21",
+ "name": "Beaufighter Mk 21",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "3.7",
+  "SB": "4.0"
+ },
+ "description": "The Beaufighter Mk 21 is a British strike aircraft. It has been in the game since the start of the Open Beta Test prior to Update 1.27. This variant of the Beaufighter represents a version which was manufactured in Australia by the Australian government's Department of Aircraft Production (DAP). The Beaufighter Mk 21 plays very similarly to its predecessor, the Mk X. However the Mk 21 features heavily improved weapons, boosting its ground attack abilities significantly. As before, you are still able to fulfil the roles of a heavy fighter, torpedo bomber, and an attacker. Once again though, added weapon mass will make you slower, and less manoeuvrable, so remember that you can't turn like the Mk 6c. In the ground attack role, the available rockets, combined with the cannons make it very good at defeating convoys. This option also has the benefit of allowing you to largely sidestep the Mk 21's issues of poor top speed and a bad climb rate. When used for bomber hunting as a heavy fighter, you will quickly find the replacement of the Mk X's 7.7 mm machine guns with 12.7 mm machine guns to be of great benefit. The climb rate works heavily against you however, so only medium and low altitude bombers should be targeted. The torpedo bomber role, however, should still be avoided. The torpedo drop requirements are still very bad, making any run against an enemy ship a very risky move. Long story short, stick to medium and low altitude and attack any bombers or ground targets you get the chance to. You should also equip your ammo belts accordingly, to ensure maximum effectiveness. Lastly, try to get fighter cover. More than any other version of the Beaufighter, the Mk 21 will struggle with lighter, more nimble opponents. Stick to what this aircraft is good at, and you can greatly improve your teams chance at victory.",
+ "image": "https://static.encyclopedia.warthunder.com/images/beaufighter_mk21.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "520"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.1"
+  },
+  {
+   "label": "Turn time",
+   "value": "42.2"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,382 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "478 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Hercules XVII"
+  },
+  {
+   "label": "Length",
+   "value": "12.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "17.6 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "201 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "7.59"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.78 t (3h)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "676 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/8 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "216 / 242 / 354 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "242 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,132 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.32 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,400 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.57 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "930 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "285 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "684 → 964"
+  },
+  {
+   "label": "Crew training",
+   "value": "9,200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 90 / 190 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "13,820"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "860"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEI/SAP-I/T",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/SAP-I",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/HEI/SAP-I/HEI/SAP-I",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/SAP-I/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI/HEI/SAP-I",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP-I",
+   "penetration": [
+    "26",
+    "24",
+    "18",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/AP-I/T/I",
+   "penetration": [
+    "26",
+    "24",
+    "18",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP-I/AP-I/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/T/T/AP-I",
+   "penetration": [
+    "26",
+    "24",
+    "18",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/AP-I/I/I",
+   "penetration": [
+    "26",
+    "24",
+    "18",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/AP-I/Ball/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP-I/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

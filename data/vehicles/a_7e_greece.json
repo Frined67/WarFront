@@ -1,0 +1,172 @@
+{
+ "id": "a_7e_greece",
+ "wiki": "https://wiki.warthunder.com/unit/a_7e_greece",
+ "name": "▄A-7E",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "VII",
+ "br": {
+  "AB": "11.0",
+  "RB": "10.3",
+  "SB": "10.7"
+ },
+ "description": "",
+ "image": "https://static.encyclopedia.warthunder.com/images/a_7e_greece.png",
+ "weapons": [
+  "20 mm M61A1 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "1,123"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "55"
+  },
+  {
+   "label": "Turn time",
+   "value": "35"
+  },
+  {
+   "label": "Max altitude",
+   "value": "12,497 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "1,000 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "TF-41-A-2"
+  },
+  {
+   "label": "Length",
+   "value": "14.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "392 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "9.11"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "4.55 t (53m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "1,254 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "1.12 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "407 / 457 / 484 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "407 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "6,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "9.98 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "8,150 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "4,100 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,451"
+  },
+  {
+   "label": "Crew training",
+   "value": "10,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (80 / 325 / 600) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEF-I/API-T/AP-I",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF-I/HEF-I/API-T/HEF-I/HEF-I/AP-I",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "API-T/AP-I/AP-I/AP-I/HEF-I",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF-I/AP-I/AP-I",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

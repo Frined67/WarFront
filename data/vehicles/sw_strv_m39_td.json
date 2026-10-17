@@ -1,0 +1,140 @@
+{
+ "id": "sw_strv_m39_td",
+ "wiki": "https://wiki.warthunder.com/unit/sw_strv_m39_td",
+ "name": "Strv m/39 TD",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "Seeing the effect of tanks on the battlefield, and due to the lack of armour on the Strv m/38, in 1939 KAF placed an order for the production of a new tank named the Strv m/39 . The m/39 was planned to be a simple overall upgrade of the m/38, with the most notable change being an increase in armour to meet the new standards of the time. However, AB Landsverk opposed this change, as the m/38's hull and suspension would have been unable to handle the additional weight. In the end, the m/39 ended up being mostly the same as the m/38, apart from a new, slightly modified turret that included an upgraded fire-control system as well as a new lever steering system, which was considered more favourable. Introduced in 2020 as a reward for watching War Thunder streams on Twitch.tv , the Strv m/39 has a very similar playstyle to the Strv m/38, with decent mobility and firepower but very weak armour. It has a fast reload rate, a highly effective APDS shell capable of knocking out even the heaviest of tanks from the front with ease, as well as an APHE shell that can quickly deal with any enemy from the side. In addition, the gun features 14 degrees of depression, opening up many hull-down positions that are simply impossible to use in other tanks with worse traverse limits. The survivability of this tank, however, is quite sub-par, being vulnerable even to heavy machine guns and having only three crew members.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_strv_m39_td.png",
+ "weapons": [
+  "37 mm kan m/38 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "13 / 13 / 13 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "69 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "45"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16"
+  },
+  {
+   "label": "Ammunition",
+   "value": "100 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.1 → 3.1 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-14 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,500 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "648 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "172 → 221"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 30 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,460"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "slpprj m/38",
+   "type": "APBC",
+   "penetration": [
+    "59",
+    "55",
+    "41",
+    "28",
+    "19",
+    "13"
+   ]
+  },
+  {
+   "name": "slpgr m/39",
+   "type": "APHE",
+   "penetration": [
+    "55",
+    "51",
+    "37",
+    "26",
+    "17",
+    "12"
+   ]
+  },
+  {
+   "name": "3,7 cm slpprj m/49",
+   "type": "APDS",
+   "penetration": [
+    "115",
+    "111",
+    "95",
+    "78",
+    "64",
+    "52"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

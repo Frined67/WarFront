@@ -1,0 +1,130 @@
+{
+ "id": "uk_vickers_mk_6_aa_mk_1",
+ "wiki": "https://wiki.warthunder.com/unit/uk_vickers_mk_6_aa_mk_1",
+ "name": "Light AA Mk I",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The Tank, Light, Anti-Air Mark I is a special modification of the first variant of the Tank, Light, Mark VI family. The Tank, Light, Mark VI was the sixth in the families of light tanks constructed by Vickers-Armstrongs for the British Army between World Wars I and II. The Tank, Light, Anti-Air Mark I was built in the aftermath of the Battle of France to counterattack air raids by German aircraft and dive bombers. It has a power-operated one-crew turret with four 7.92 mm BESA light machine guns. Introduced in Update 1.79 \"Project X\" , the Tank, Light, Anti-Air Mark I is an extremely vulnerable vehicle, players must take care not to expose themselves to hostile fire. Take care to position yourself so that you are not observed by enemy ground vehicles, and keep an eye out for enemy aircraft. Due to the low velocity of the ammunition, players need to wait until the enemy plane is reasonably close before opening fire. Be cautious if there is more than one enemy plane, since they may alternately strafe you. Despite being armed with four 7.92 mm BESA light machine guns, the damage is still insignificant, and players may need to score numerous hits to bring down an enemy plane.",
+ "image": "https://static.encyclopedia.warthunder.com/images/uk_vickers_mk_6_aa_mk_1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "14 / 14 / 14 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "107 %"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "50"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "18"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,600 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.8 → 6 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 65°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "42"
+  },
+  {
+   "label": "Repair cost",
+   "value": "200 → 257"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 20 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,440"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "Ball/T/IT",
+   "penetration": [
+    "5",
+    "4",
+    "2",
+    "1",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/T/IT/Ball",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "7.92 mm API-T",
+   "type": "IT/IT/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "7.92 mm AP-T",
+   "type": "AP/AP/IT/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

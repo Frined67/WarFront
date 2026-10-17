@@ -1,0 +1,398 @@
+{
+ "id": "s_199",
+ "wiki": "https://wiki.warthunder.com/unit/s_199",
+ "name": "Sakeen",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "IV",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.3",
+  "SB": "3.3"
+ },
+ "description": "The S-199 \"Sakeen\" is a modified Bf 109 produced by the Czech firm Avia as the S-199 model. Avia used to produce Bf 109s for Germany, but after the war the lack of fighter engines forced them to produce their own Bf 109 variant using the Junkers Jumo 211F engine, an engine made for use in the Heinkel He 111 heavy bomber. Israel bought 25 S-199s in 1947, which arrived at the start of the 1948 Arab-Israeli War. The aircraft was known to lack reliability, with engine problems, constant jamming of the guns, and even instances where the guns destroyed the propeller of the plane. However despite its problems, it proved successful in the early days of the war, shooting down several Egyptian aircraft over Israeli territory. The Sakeen was added in Update \"Winged Lions\" alongside the initial Israeli air tree. The plane suffers from poor manoeuvrability and lacking engine power. As a result it has very bad flight performance, but excels with amazing armament. It should be used as a support fighter in boom and zoom attacks, climbing to 4,000-5,000 m and diving on unsuspected victims. The upgraded guns in the Sakeen are capable of destroying almost any plane at its BR with a few bursts. Alternatively, pilots can also go to the sides of a match and wait until most planes are at low altitudes, then do attack runs, trying to keep the most amount of speed possible since the Sakeen has very bad acceleration.",
+ "image": "https://static.encyclopedia.warthunder.com/images/s_199.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "581"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "9.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "23.7"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "350 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Jumo 211F"
+  },
+  {
+   "label": "Length",
+   "value": "9.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9.9 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "203 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.3 t (55m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "790 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.82 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 / 409 / 438 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "360 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.53 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "270 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.29 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.53 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,895 → 2,458"
+  },
+  {
+   "label": "Crew training",
+   "value": "45,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "90 / 210 / 420 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "40,200"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,400"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "IT/AP-T/IAI",
+   "penetration": [
+    "19",
+    "16",
+    "8",
+    "4",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/AP-T/IT/IT/IAI",
+   "penetration": [
+    "19",
+    "16",
+    "8",
+    "4",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-T",
+   "penetration": [
+    "19",
+    "16",
+    "8",
+    "4",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "IAI",
+   "type": "IAI",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I",
+   "penetration": [
+    "19",
+    "16",
+    "8",
+    "4",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "IT/IT/APHE/HEI",
+   "penetration": [
+    "20",
+    "18",
+    "10",
+    "5",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "IT/HEI/HEI/AP-I",
+   "penetration": [
+    "27",
+    "24",
+    "14",
+    "7",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-I/HEI/HEI/HEI/HEI/IT",
+   "penetration": [
+    "27",
+    "24",
+    "14",
+    "7",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "APHE/APHE/APHE/IT",
+   "penetration": [
+    "20",
+    "18",
+    "10",
+    "5",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "FI-T/FI-T/FI-T/IT/IT",
+   "penetration": [
+    "10",
+    "9",
+    "5",
+    "3",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI/HEI/HEI/APHE/AP-I",
+   "penetration": [
+    "27",
+    "24",
+    "14",
+    "7",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "IT/AP-T/IAI",
+   "penetration": [
+    "19",
+    "16",
+    "8",
+    "4",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/AP-T/IT/IT/IAI",
+   "penetration": [
+    "19",
+    "16",
+    "8",
+    "4",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-T",
+   "penetration": [
+    "19",
+    "16",
+    "8",
+    "4",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "IAI",
+   "type": "IAI",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I",
+   "penetration": [
+    "19",
+    "16",
+    "8",
+    "4",
+    "2",
+    "1"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

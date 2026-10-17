@@ -1,0 +1,161 @@
+{
+ "id": "it_m13_40_serie_3",
+ "wiki": "https://wiki.warthunder.com/unit/it_m13_40_serie_3",
+ "name": "M13/40 (III)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The M13/40 (III) was the third production series of the Carro Armato M13/40, with 410 vehicles built. A rectangular section was protruded from the turret roof to simplify gun operation, as well as other design improvements. Introduced in Update 1.85 \"Supersonic\" , the M13/40 (III) has satisfactory armour and a decent gun with the same improved fire rate and aiming angles as the M13/40 (II) . As with the rest of the family, it can be used as a breakthrough tank due to the fact that it is very resistant to enemy fire, especially when angled, and can disable or destroy enemy vehicles with only one shot when up close. Beware, however, around the 500 m mark the cannon ammunition starts to lose its punch and can fail to penetrate effectively. The tank also still suffers from poor turret rotation speed and mediocre mobility.",
+ "image": "https://static.encyclopedia.warthunder.com/images/it_m13_40_serie_3.png",
+ "weapons": [
+  "8 mm Breda Mod. 38 machine gun",
+  "8 mm Breda Mod. 38 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "30 / 25 / 25 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "81 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "32"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "9.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "87 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.8 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,536 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,536 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "196 → 252"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Granata Perforante mod.35",
+   "type": "APHE",
+   "penetration": [
+    "50",
+    "47",
+    "37",
+    "27",
+    "20",
+    "15"
+   ]
+  },
+  {
+   "name": "Granata Perforante mod.39",
+   "type": "APHE",
+   "penetration": [
+    "48",
+    "47",
+    "41",
+    "35",
+    "30",
+    "26"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

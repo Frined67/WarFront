@@ -1,0 +1,144 @@
+{
+ "id": "germ_sdkfz_251_9",
+ "wiki": "https://wiki.warthunder.com/unit/germ_sdkfz_251_9",
+ "name": "Sd.Kfz.251/9",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "The Sd.Kfz.251/9 , nicknamed \"Stummel\", was an infantry support vehicle developed by Nazi Germany during WW2 in 1942. Learning from the lessons in the Eastern Front and with a surplus of 7.5 cm howitzers due to the Panzer IV and StuG III being refitted with more capable anti-tank weapons, the Wehrmacht decided to use the already proven Sd.Kfz.251 platform to mount this gun and use it as an infantry support weapon. Initially armed with just the cannon and a narrow range of fire, the vehicle proved unsatisfactory, but after being refitted with a new gun mount and a coaxial machine gun it was deployed in large numbers in the Eastern Front. It mostly served in Armored Recon Units and was used in areas were tanks couldn't support infantry due to poor terrain or weak infrastructure (like roads or bridges) that the Sd.Kfz.251/9 had no problem crossing, as a direct fire platform it proved very good, reliable, cheap to produce and maintain and it filled the need of a \"bunker buster\" vehicle in the Eastern Front. The \"Stummel\" was introduced in Update \"Fire and Ice\" and is considered a competent vehicle against its foes. While the armour is not good enough to stop even 12.7 mm shots, its gun and mobility compensate this lack of protection. The HEAT rounds are the best to deal with most enemies, it can be used effectively against armoured and open top vehicles, the 870 g of explosive mass would make sure most enemies are dealt with, however post penetration damage may feel lacking. The APCBC can be used specially in flanking manoeuvres, but it has less penetration and velocity than the HEAT rounds and thus, hitting enemies would be even harder, the mobility is decent enough, to the point that you can rush for capture points and then hide in favourable positions to ambush passing tanks.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_sdkfz_251_9.png",
+ "weapons": [
+  "75 mm K51 L/24 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "14 / 8 / 8 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "52"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "38 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.3 → 3.3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 16°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-14 / 14°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Repair cost",
+   "value": "289 → 357"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 40 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,950"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "K.Gr.rot Pz.",
+   "type": "APCBC",
+   "penetration": [
+    "52",
+    "51",
+    "45",
+    "39",
+    "34",
+    "30"
+   ]
+  },
+  {
+   "name": "Sprgr. 34",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "Hl.Gr 38B",
+   "type": "HEAT",
+   "penetration": [
+    "80",
+    "80",
+    "80",
+    "80",
+    "80",
+    "80"
+   ]
+  },
+  {
+   "name": "Hl.Gr 38C",
+   "type": "HEAT",
+   "penetration": [
+    "115",
+    "115",
+    "115",
+    "115",
+    "115",
+    "115"
+   ]
+  },
+  {
+   "name": "K.Gr.Rot Nb.",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

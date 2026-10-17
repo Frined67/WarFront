@@ -1,0 +1,226 @@
+{
+ "id": "pby-5a_late_france",
+ "wiki": "https://wiki.warthunder.com/unit/pby-5a_late_france",
+ "name": "▄PBY-5A Late",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "2.0"
+ },
+ "description": "In the early 1940s, France placed an order for 30 PBY-5 Catalinas soon after the British placed their first production order for the aircraft. However, the delivery was never fulfilled since France capitulated before the aircraft could be delivered. France acquired 3 PBY-5A Catalinas from the Royal Canadian Air Force to serve in the Caribbean since their islands lacked proper airfields. These PBY-5As lacked the armament of the Catalina and were used in civil roles, mainly moving passengers. Introduced in Update \"La Royale\" , the French PBY-5A behaves just like its American counterpart, offering a very large bomb load at the cost of speed, manoeuvrability, and survivability for its BR. It can be used with effectiveness in all gamemodes, air, ground and naval battles thanks to its versatility. Its bomb load is capable of destroying several ground targets with carpet bombing or destroying bases in air battles, meanwhile it has access to torpedoes for naval combat.",
+ "image": "https://static.encyclopedia.warthunder.com/images/pby-5a_late_france.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "282"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "5.1"
+  },
+  {
+   "label": "Turn time",
+   "value": "30"
+  },
+  {
+   "label": "Max altitude",
+   "value": "4,420 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "364 m"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x R1830-92"
+  },
+  {
+   "label": "Length",
+   "value": "19.5 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "31.7 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "99 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "9.44"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "3.43 t (3h 40m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "405 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/3 G"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "450 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "956 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,100 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "2,200 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "1,100 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "212"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,400"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (30 / 60 / 115) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/AP/AP/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/API-T",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/I/AP-I/API-T",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

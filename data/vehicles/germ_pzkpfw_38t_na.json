@@ -1,0 +1,140 @@
+{
+ "id": "germ_pzkpfw_38t_na",
+ "wiki": "https://wiki.warthunder.com/unit/germ_pzkpfw_38t_na",
+ "name": "Pz.38(t) n.A.",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "In September 1939, after the invasion of Poland, the Germans realised the obsolescence of their Panzer II and the need to replace it. Development of a new vehicle was undertaken by German companies MAN and Daimler-Benz, as well as the Czech ČKD (renamed as BMM), which had come under German control following the occupation of Czechoslovakia. BMM presented its tank, designated Pz.Kpfw.38(t) n.A. ( neuer Art : \"new type\"), in December 1941. It was a substantial modification of the Pz.38(t) , receiving a new, 220-horsepower engine, larger road wheels and wider tracks, an extended and largely redesigned hull, and a virtually completely reworked turret. Additionally, for the first time for BMM, the tank partially utilised welded armour. A total of 5 prototypes were built by April 1942, with minor differences between them: the initial vehicles lacked full-fledged optics and also used more riveted components. The vehicle ultimately lost out to the MAN design, known as the Luchs, but its running gear design was later used in the development of the Hetzer . One prototype survived the war and was used as a test laboratory. Introduced in Update \"La Royale\" , the Pz.38(t) n.A. is represented by a late prototype with welded armour and optics. In battle, it is a fast and manoeuvrable tank with a good 37 mm gun, which also features a shoulder stabiliser that increases accuracy when firing on the move. However, its crew is positioned quite tightly in the hull, and the armour can only protect against autocannon fire.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_pzkpfw_38t_na.png",
+ "weapons": [
+  "7.92 mm MG34 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "30 / 25 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "72 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "60"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "19.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "60 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.3 → 3.3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "17.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,100 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "257 → 331"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 20 / 30 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Pzgr. 34(t)",
+   "type": "APC",
+   "penetration": [
+    "62",
+    "59",
+    "45",
+    "32",
+    "23",
+    "17"
+   ]
+  },
+  {
+   "name": "Pzgr.(t) umg.",
+   "type": "APC",
+   "penetration": [
+    "61",
+    "58",
+    "44",
+    "31",
+    "22",
+    "15"
+   ]
+  },
+  {
+   "name": "PzGr. 40",
+   "type": "APCR",
+   "penetration": [
+    "86",
+    "77",
+    "47",
+    "26",
+    "14",
+    "8"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

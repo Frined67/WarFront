@@ -1,0 +1,118 @@
+{
+ "id": "jp_type_3_ho_ni_i",
+ "wiki": "https://wiki.warthunder.com/unit/jp_type_3_ho_ni_i",
+ "name": "Ho-Ni I",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "II",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The Type 1 Ho-Ni I ( 一式砲戦車「ホニI」 ) was a Japanese tank destroyer and self-propelled gun that used the Type 97 chassis and engine, and mounted a Type 90 75 mm field gun in an open casemate. It was developed in 1941 and production delayed until 1942. It was intended to provide fire support and anti-tank capabilities for the Japanese armoured divisions. It participated primarily in the Battle of Luzon in the Philippines in 1945. There, it faced superior US forces and many units were lost. The Japanese army replaced it with two new types of self-propelled guns: the Ho-Ni II, which specialized in shelling enemy positions, and the Ho-Ni III , which focused on destroying enemy tanks. The remaining Ho-Ni I's saw a few units in Burma and China with most staying in Japan for home defense until the end of the war. The Ho-Ni I was introduced along with the initial Japanese Ground Forces tree in Update 1.65 \"Way of the Samurai\" . It has a high-velocity 75 mm Type 90 gun, which can penetrate most tanks it encounters at its rank. However, the Ho-Ni I also has very thin armour and no turret, making it vulnerable to enemy fire and flanking manoeuvres. Therefore, it is advisable to use this tank destroyer in a sniping role, taking advantage of its long-range accuracy and powerful gun. The Ho-Ni I can also use its gun depression to hide behind hills and ambush unsuspecting enemies. The Ho-Ni I is a formidable opponent for tanks like the Char B1, which rely on their armour to survive. The Ho-Ni I can easily punch through their frontal armour and disable them with one shot. The Ho-Ni I is a tank destroyer that requires skill and patience, but can reward its commander with devastating results.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_type_3_ho_ni_i.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "25 / 25 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "74 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "40"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "40 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 20°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-11 / 11°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11.2"
+  },
+  {
+   "label": "Repair cost",
+   "value": "416 → 515"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 50 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,930"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Type 1 APHE",
+   "type": "APHE",
+   "penetration": [
+    "102",
+    "100",
+    "91",
+    "81",
+    "72",
+    "64"
+   ]
+  },
+  {
+   "name": "Type 94 HE",
+   "type": "HE",
+   "penetration": [
+    "12",
+    "12",
+    "12",
+    "12",
+    "12",
+    "12"
+   ]
+  },
+  {
+   "name": "Type 90 Smoke",
+   "type": "Smoke",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

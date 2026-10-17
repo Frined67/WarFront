@@ -1,0 +1,141 @@
+{
+ "id": "sw_strv_m41_s2",
+ "wiki": "https://wiki.warthunder.com/unit/sw_strv_m41_s2",
+ "name": "Strv m/41 S-II",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "In March of 1940, Sweden ordered about 90 TNH tanks (known as the Panzer 38(t) in German service). After negotiations, the Swedish manufacturer Scania-Vabis was allowed to produce them under license. The Stridsvagn m/41 was armed with a 37 mm Bofors m/38 gun and the design utilized riveted construction. In June of 1942, Sweden ordered 122 Strv m/41 S-II. The armour was increased from 25 mm to 50 mm thick. Because of the added weight of the armour, a more powerful engine was added, the Type L 603 engine. This meant the hull length needed to be increased by 65 mm. The Strv m/41 served until the late 1950s, when all Strv m/41 were converted to the Pansarbandvagn (Pbv) 301 . It was introduced in Update 1.97 \"Viking Fury\" . The Strv m/41 S-II has a very similar playstyle to the Pz.38(t) F . However it now has access to the Swedish 37 mm APDS round with more than 100 mm of penetration against flat surfaces. With a good aim, the Strv m/41 S-II can even deal with heavier armoured vehicles like B1 bis and M4A3 (105) if it can get the first shell fired into a vital spot, like the crew or the ammo racks. The Strv m/41 S-II shines if it gets to fight a vehicle on its terms, meaning to keep at a distance and wear the enemy down by using the APDS shells and fast reload rate. The 50 mm frontal armour can bounce or stop some shells in close quarters combat, but with the weak side armour it's best to keep distance as a sniper instead rushing in.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_strv_m41_s2.png",
+ "weapons": [
+  "37 mm kan m/38 cannon",
+  "8 mm ksp m/36 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 20 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "81 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "43"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "15.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "100 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.1 → 3.1 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-14 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "648 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "460 → 627"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 40 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "slpprj m/38",
+   "type": "APBC",
+   "penetration": [
+    "59",
+    "55",
+    "41",
+    "28",
+    "19",
+    "13"
+   ]
+  },
+  {
+   "name": "slpgr m/39",
+   "type": "APHE",
+   "penetration": [
+    "55",
+    "51",
+    "37",
+    "26",
+    "17",
+    "12"
+   ]
+  },
+  {
+   "name": "3,7 cm slpprj m/49",
+   "type": "APDS",
+   "penetration": [
+    "115",
+    "111",
+    "95",
+    "78",
+    "64",
+    "52"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

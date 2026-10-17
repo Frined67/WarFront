@@ -1,0 +1,169 @@
+{
+ "id": "jp_sub_i_ii_20mm",
+ "wiki": "https://wiki.warthunder.com/unit/jp_sub_i_ii_20mm",
+ "name": "SUB-I-II",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "IV",
+ "br": {
+  "AB": "5.3",
+  "RB": "5.3",
+  "SB": "5.3"
+ },
+ "description": "The SUB-I-II was a prototype for the Type 73 APC meant to replace the smaller Type 60 APC . Going through multiple prototypes, this particular version was tested with a Rh202 (20 mm) as a self-defense and anti-air cannon, though this armament would not see use in the final version. It was introduced in Update \"Apex Predators\" . The SUB-I-II provides an excellent fire rate with the possibility of an APDS belt in an amphibious yet squishy APC hull only offering up to 20 mm of armour. As such, if positioned correctly against a suitable target, the SUB-I-II can utilize the APDS autocannon to shred their opponent apart.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_sub_i_ii_20mm.png",
+ "weapons": [
+  "20 mm Rh202 cannon",
+  "7.62 mm M1919A4 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "20 / 12 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "60"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "25.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "800 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,030 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 80°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "42"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 10°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-10 / 10°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "14"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,794 → 3,780"
+  },
+  {
+   "label": "Crew training",
+   "value": "45,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "110 / 140 / 200 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "40,400"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,400"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HVAP-T/HEFI-T",
+   "penetration": [
+    "57",
+    "52",
+    "37",
+    "24",
+    "15",
+    "10"
+   ]
+  },
+  {
+   "name": "DM51A1",
+   "type": "HEFI-T/HEFI-T/HEFI-T/HVAP-T",
+   "penetration": [
+    "57",
+    "52",
+    "37",
+    "24",
+    "15",
+    "10"
+   ]
+  },
+  {
+   "name": "DM43",
+   "type": "HVAP-T/HVAP-T/HVAP-T/HEFI-T",
+   "penetration": [
+    "57",
+    "52",
+    "37",
+    "24",
+    "15",
+    "10"
+   ]
+  },
+  {
+   "name": "DM63",
+   "type": "APDS/APDS/APDS/HEFI-T",
+   "penetration": [
+    "66",
+    "64",
+    "58",
+    "50",
+    "44",
+    "38"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

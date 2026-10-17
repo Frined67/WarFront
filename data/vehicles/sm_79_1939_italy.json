@@ -1,0 +1,280 @@
+{
+ "id": "sm_79_1939_italy",
+ "wiki": "https://wiki.warthunder.com/unit/sm_79_1939_italy",
+ "name": "S.M.79 serie 8",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.3"
+ },
+ "description": "The 1939 S.M.79 Serie 8 differed only slightly from earlier models. The most notable external change was the relocation of the right engine exhaust pipe to the outer side of the nacelle. The fuel injection system was replaced to allow for engine boost, and the wing structure was reinforced for increased rigidity. Starting in 1938, the Reggiane, Macchi, and AUSA plants joined the SIAI factory, which had been producing the S.M.79 since 1936, in production. These four companies produced 1,218 S.M.79 aircraft by 1944, and an additional 240 were built under license in Romania. The S.M.79 Serie 8 was introduced in Update 1.69 \"Regia Aeronautica\" . In terms of flight performance, armament, and suspended weaponry, the Serie 8 does not differ noticeably from its predecessor . The only difference is its ability to use engine boost, which temporarily increases engine power. Otherwise, gameplay remains the same. It is a versatile aircraft that excels at destroying ground targets. The aircraft is fairly survivable against machine gun fire but should cannot tank enemy cannons. Its defensive armament is solid, though it has numerous blind spots.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sm_79_1939_italy.png",
+ "weapons": [
+  "12.7 mm Breda-SAFAT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "430"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "5.9"
+  },
+  {
+   "label": "Turn time",
+   "value": "31.6"
+  },
+  {
+   "label": "Max altitude",
+   "value": "6,800 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "450 m"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "3 x 126 RC 34"
+  },
+  {
+   "label": "Length",
+   "value": "15.6 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "21.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "163 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "7.66"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "2.39 t (3h 58m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "530 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.61 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -2/4 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "220 / 298 / 313 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "300 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "350 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.41 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "970 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "550 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "323 → 446"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 60 / 110 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,920"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP-I/HEF/API-T/I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/HEF/HEF",
+   "penetration": [
+    "20",
+    "18",
+    "11",
+    "6",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/AP/AP/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "API-T/AP-I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP-I/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

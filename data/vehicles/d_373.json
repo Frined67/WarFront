@@ -1,0 +1,166 @@
+{
+ "id": "d_373",
+ "wiki": "https://wiki.warthunder.com/unit/d_373",
+ "name": "D.373",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The D.373 is a reserve French fighter. It was introduced in Update 1.73 \"Vive la France\" . The D.373 is the third production aircraft of the D.37 series, which is available as a follow-on aircraft for all pilots advancing in the French tech tree. The D.373 (along with its older siblings D.371 and D.371 D.S.9) is unique compared to other early aircraft in the game as it is a monoplane with a parasol wing, as opposed to other low-wing monoplanes and biplanes. Key features of this aeroplane include 4 x Darne 1933 Mle 33 7.5 mm machine guns and wheel brakes. On the other hand, the D.371 also features an open cockpit and no armour protection like many early aircraft. The key difference between the D.373 and the D.371, other than the type of machine guns utilised, is that the D.373 is a version specially modified to fly for the French Navy and has an added tail-hook for snagging arrestor cables on aircraft carrier flight decks. This aircraft is the second of the D.37 series featured in the game, along with its older sibling, the D.371. As a single-engine monoplane, it is agile and quick and while it can be a formidable turn-fighter, maintaining speed in this aircraft is crucial or else it becomes a slow easy target for other aircraft. The Mle 33 machine guns are not that powerful, however having four of them will enable the pilot to sling quite a bit of lead at the target aircraft. Due to the D.373 being a lower rank I aircraft, it is not uncommon for it to be pitted against higher rank I aircraft and even some lower rank II planes too. While slower than many of the higher aircraft it may face, not all is lost. The D.373 will have a manoeuvrability advantage and if the pilot can pull the higher rank enemy into a turn-fight, the D.373 may be able to turn the tables and score a win. Don't count the D.373 out of the fight until the pilot bails out of the plane, if still flying, it can fight!",
+ "image": "https://static.encyclopedia.warthunder.com/images/d_373.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "411"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "15.7"
+  },
+  {
+   "label": "Turn time",
+   "value": "16"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "150 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "14Kfs"
+  },
+  {
+   "label": "Length",
+   "value": "7.4 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "122 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.83"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.31 t (1h 18m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "630 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "240 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "3,610"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

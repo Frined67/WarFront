@@ -1,0 +1,166 @@
+{
+ "id": "he51c1_late",
+ "wiki": "https://wiki.warthunder.com/unit/he51c1_late",
+ "name": "He 51 C-1/L",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The He 51 C-1/L is a gift German biplane fighter. It has been in the game since the start of the Open Beta Test prior to Update 1.27. It is currently unavailable in-game as a hidden vehicle. When paired up against other reserve fighters in the game, the He 51 can hold its own, though it will not win any speed records, nor will its machine guns out fire some of the early Soviet fighters, however, there is a place for the He 51 C-1/L. Diving straight into a cluster of fighters rolling around with each other is not the best tactic, it is better to pick a target and go after it, however, if cornered, the slower speed and manoeuvrability of the He 51 can get it out of tight spaces and potentially down a few enemy aircraft in the process. With two 7 mm machine guns, tracer rounds work best against early aircraft, especially those which are fabric covered and have non-sealing fuel tanks. Though the pilot may find themselves up-tiered against mono-wing aircraft of faster speeds, the He 51 C-1/L can quickly turn the tables and put the faster enemy fighter on the receiving end of a stream of bullets, and only a few hits are enough to hobble the enemy aircraft allowing the Heinkel to catch up and finish the job.",
+ "image": "https://static.encyclopedia.warthunder.com/images/he51c1_late.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "310"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "14.3"
+  },
+  {
+   "label": "Turn time",
+   "value": "15"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "294 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "VI"
+  },
+  {
+   "label": "Length",
+   "value": "8.4 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "13.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "76 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.76"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.3 t (1h 41m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "550 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "320 / 469 / 498 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "101 → 124"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

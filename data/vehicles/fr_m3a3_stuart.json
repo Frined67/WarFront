@@ -1,0 +1,166 @@
+{
+ "id": "fr_m3a3_stuart",
+ "wiki": "https://wiki.warthunder.com/unit/fr_m3a3_stuart",
+ "name": "▄M3A3 Stuart",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "France operated a large number of M3A3s leased from the United States, part of the 651 light tanks operated by Free France. The 2nd Armored Division was the largest user of this tanks, meanwhile the 1st and 5th divisions operated a mix of M3A3s and M5A1s. The tanks were usually designated for recon roles and sometimes infantry support, although regular Shermans or self propelled howitzers were preferred for this. The units were kept available in Recon Armored units at the battalion level. The tanks were operated from D-Day to the end of World War II. It was introduced in Update 1.97 \"Viking Fury\" . The M3A3 offers a good platform with a mediocre firepower for its BR. Being a Stuart, it has a very good mobility, but it has a lacklustre cannon, while the penetration is not usually a problem the tank does suffer from mediocre ammunition, and the Stuart's high speed makes it hard to aim with the stabilizer, since this stops working at high speeds. The tank however is very fast and nimble, and because of its small size, it is able to evade danger in most situations.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_m3a3_stuart.png",
+ "weapons": [
+  "37 mm M6 cannon",
+  "7.62 mm M1919A4 machine gun",
+  "7.62 mm M1919A4 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "25 / 25 / 25 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "58"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "18.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "174 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.7 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "14"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,500 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 70°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 15°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "436 → 627"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 40 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,430"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M74B1 shot",
+   "type": "AP",
+   "penetration": [
+    "79",
+    "76",
+    "65",
+    "54",
+    "45",
+    "37"
+   ]
+  },
+  {
+   "name": "M51B1 shot",
+   "type": "APCBC",
+   "penetration": [
+    "87",
+    "84",
+    "73",
+    "60",
+    "50",
+    "41"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

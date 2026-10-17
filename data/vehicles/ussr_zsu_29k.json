@@ -1,0 +1,102 @@
+{
+ "id": "ussr_zsu_29k",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_zsu_29k",
+ "name": "YaG-10 (29-K)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "II",
+ "br": {
+  "AB": "3.3",
+  "RB": "3.3",
+  "SB": "3.3"
+ },
+ "description": "In the early 1930s, the Soviet Army realised the need for mobile anti-air defence to protect troops from air attacks, which were becoming increasingly dangerous, and commissioned various SPAA projects. One of these was the 29K , a simple SPAA based on the hull of the Yaroslavl YaG-10 truck, equipped with the 76 mm M1931 AA gun mounted on its reinforced bed. The 29K was created as a cheaper conversion of the cancelled SU-8, which was based on the T-28 tank and armed with the same gun. Between 40-61 YaG-10 trucks were converted into the 29K, and they were deployed for both anti-air and anti-tank duties during the opening stages of World War II. The \"YaG-10 (29-K)\" was introduced in Update 1.67 \"Assault\" . Similar to its German counterpart, the 8,8 cm Flak 37 Sfl. , the 29K was a truck modified to mount an anti-aircraft cannon that ended up being used for anti-tank roles instead. Being first designed as an AA gun, the 76 mm M1931 cannon features a fast reload rate, high shell velocity, and good anti-tank capability. However, much like any other trucks, the 29K relies entirely on its crew of 6 to survive and is extremely vulnerable to any kind of incoming fire. As such, combined with its average overall mobility, the 29K is a pure sniper and should only be used as such. Due to its configuration, the 29K can deliver precise shots at unsuspecting enemies from behind cover, only leaving its rear half exposed to retaliation.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_zsu_29k.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "0 / 0 / 0 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "70 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "44"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "8.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "48 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-3 / 82°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7.7"
+  },
+  {
+   "label": "Repair cost",
+   "value": "722 → 919"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 80 / 100 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,300"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-361",
+   "type": "APHEBC",
+   "penetration": [
+    "121",
+    "119",
+    "109",
+    "98",
+    "88",
+    "79"
+   ]
+  },
+  {
+   "name": "O-361",
+   "type": "HE-TF",
+   "penetration": [
+    "17",
+    "17",
+    "15",
+    "14",
+    "12",
+    "11"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,226 @@
+{
+ "id": "sb2c_5_greece",
+ "wiki": "https://wiki.warthunder.com/unit/sb2c_5_greece",
+ "name": "▄SB2C-5",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "IV",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "4.0"
+ },
+ "description": "During the Greek Civil War (1946–1949), the Kingdom of Greece received a large amount of surplus equipment from its Western allies for use against communist forces. Among these were 48 Curtiss-Wright SB2C-5 Helldivers from the United States. The aircraft were delivered via the escort carrier USS Sicily (CVE-118), arrived in the spring of 1949, and were assigned to the 336th Bomber Squadron of the Royal Hellenic Air Force. The Greek Helldivers saw brief but intense combat during the final stage of the civil war before being phased out in 1953. One example of the former RHAF's SB2C-5 is preserved and on display at the Hellenic Air Force Museum in Acharnes. The Greek SB2C-5 was introduced in Update 2.59 \"Sky Odyssey\" as part of the Israeli tech tree and is identical to its counterpart in the French tech tree . Although the Helldiver's main role is as a dive-bomber or attacker, its good armament and bomber spawn also allow it to hunt other aircraft. Its good turning ability can be a lethal surprise during dogfights if no payload is being carried, since this will reduce its performance in air combat.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sb2c_5_greece.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "459"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "6.1"
+  },
+  {
+   "label": "Turn time",
+   "value": "23"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,230 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "R-2600-20"
+  },
+  {
+   "label": "Length",
+   "value": "11.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "15.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "162 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "5.46"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.89 t (1h 47m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "656 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "250 / 482 / 504 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "333 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "400 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.48 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "2,260 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "1,130 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,813 → 3,615"
+  },
+  {
+   "label": "Crew training",
+   "value": "52,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "120 / 250 / 430 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "47,000"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,500"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEI/AP-T",
+   "penetration": [
+    "39",
+    "36",
+    "25",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP-T/HEI/HEI",
+   "penetration": [
+    "39",
+    "36",
+    "25",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEI/HEI/HEI/AP-T",
+   "penetration": [
+    "39",
+    "36",
+    "25",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP-T/AP-T/HEI",
+   "penetration": [
+    "39",
+    "36",
+    "25",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI",
+   "penetration": [
+    "5",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

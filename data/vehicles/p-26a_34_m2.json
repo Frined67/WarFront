@@ -1,0 +1,241 @@
+{
+ "id": "p-26a_34_m2",
+ "wiki": "https://wiki.warthunder.com/unit/p-26a_34_m2",
+ "name": "P-26A-34 M2",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "In 1932, before testing with the XP-936 was done, the U.S. Army issued a statement for an improved XP-936 for production. Only a year later, the USAAC ordered over 100 examples with the designation P-26A. It was to be fitted with the Pratt & Whitney R-1340-27 Wasp radial engine that also boasted a supercharger. The R-1340-27 made around 500 hp but later variants made 600 hp. P-26As were delivered not long after and proved to be a decently advanced aircraft for its time. The P-26A-34 M2 has been in the game since the start of the Open Beta Test prior to Update 1.27. Although the P-26 is a monoplane, it has an impressive turn radius but biplanes are still far better in terms of turning. Unlike the other P-26s, this specific variant of the P-26 has a 12.7 mm machine gun which is a big improvement over the standard 7.62 mm machine gun it replaced. It packs a much larger punch, more range, and takes more time to overheat. It also has the landing flaps which were eventually fitted to all P-26 variants.",
+ "image": "https://static.encyclopedia.warthunder.com/images/p-26a_34_m2.png",
+ "weapons": [
+  "12.7 mm M2 Browning machine gun",
+  "7.62 mm Browning machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "377"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "12"
+  },
+  {
+   "label": "Turn time",
+   "value": "18"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "170 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "R-1340-27"
+  },
+  {
+   "label": "Length",
+   "value": "7.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "8.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "110 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.23"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.29 t (2h 5m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "508 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "240 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.55 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "3,620"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

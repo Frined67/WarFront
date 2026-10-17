@@ -1,0 +1,145 @@
+{
+ "id": "jp_type_97_chi_ha_12cm",
+ "wiki": "https://wiki.warthunder.com/unit/jp_type_97_chi_ha_12cm",
+ "name": "Chi-Ha Short Gun",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.0",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "The Chi-Ha Short Gun / Short 12cm SPG ( 短十二糎自走砲 ) is a later iteration of the Chi-Ha with a modified turret coming from the Chi-Ha Kai , boasting a Navy short gun (120 mm) meant to defend naval bases and merchant ships in a multipurpose role. The Navy's modification of the Chi-Ha was meant to mimic the role of the Army's Ho-I tank to support infantry as a gun tank during the defense of the homeland. The Chi-Ha Short Gun was introduced along with the initial Japanese Ground Forces tree in Update 1.65 \"Way of the Samurai\" as a pre-order premium pack . It packs a relatively powerful 120 mm cannon that can destroy most enemies with one shot. However, it has a considerable reload time of 10s aced, poor turret traverse, and low shell velocity that make it hard to aim and fight with. It will be able to destroy the lightest targets with near misses, and will need some aim on more armoured targets trying to splash the explosive mass into the bottom or top armour of tanks.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_type_97_chi_ha_12cm.png",
+ "weapons": [
+  "7.7 mm Type 97 machine gun",
+  "7.7 mm Type 97 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "25 / 25 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "74 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "40"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "23 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "13 → 10 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 15°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "4.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-20 / 20°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "934"
+  },
+  {
+   "label": "Crew training",
+   "value": "2,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (35 / 45 / 65) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Short Ordinary HE",
+   "type": "HE",
+   "penetration": [
+    "31",
+    "31",
+    "31",
+    "31",
+    "31",
+    "31"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

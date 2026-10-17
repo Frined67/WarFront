@@ -1,0 +1,142 @@
+{
+ "id": "sw_ikv_72",
+ "wiki": "https://wiki.warthunder.com/unit/sw_ikv_72",
+ "name": "Ikv 72",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "In the early years of the Cold War, the Swedish Army envisioned a new set of armoured fighting vehicles capable of supporting the infantry. Serving as a replacement to the towed artillery pieces, the vehicle had to be produced in large numbers, yet mobile enough to manoeuvre with the infantry and fulfill their support needs. The result was a very small self-propelled gun designated the \"Infanterikanonvagn\" (\"Ikv\", or the Infantry Cannon Carrier ). The first version adopted was the Ikv 72, armed with a 75 mm gun. 36 units would be produced and would see service until the late 1950s, when it started to be replaced by the Ikv 102 . Introduced in Update 1.97 \"Viking Fury\" , the Ikv 72 is an excellent as a light tank destroyer, the good mobility allows usage in \"hit and run\" tactics, flanking the main force of the enemy team that will usually be made of tanks slower than the Ikv 72. The low velocity of the projectiles (580 m/s) and mid-penetration capabilities makes it harder to use as a sniper like most tank destroyers. Users should be aware of artillery fire, aircraft and autocannons/HMGs, as these can destroy the Ikv 72 with ease due to lack of armour and no roof in the vehicle to protect the crew.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_ikv_72.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "12 / 6 / 12 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "62 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "57"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "18.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "42 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.6 → 5.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-20 / 20°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-10 / 10°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "5.6"
+  },
+  {
+   "label": "Repair cost",
+   "value": "105 → 130"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,975"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "slpprj m/40",
+   "type": "AP",
+   "penetration": [
+    "85",
+    "83",
+    "74",
+    "64",
+    "55",
+    "48"
+   ]
+  },
+  {
+   "name": "slpprj m/40B",
+   "type": "APBC",
+   "penetration": [
+    "85",
+    "82",
+    "73",
+    "63",
+    "54",
+    "46"
+   ]
+  },
+  {
+   "name": "rökgr m/22",
+   "type": "Smoke",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "sgr m/40",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "10",
+    "9",
+    "9",
+    "9",
+    "9"
+   ]
+  },
+  {
+   "name": "slpgr m/39",
+   "type": "APHE",
+   "penetration": [
+    "63",
+    "61",
+    "53",
+    "44",
+    "37",
+    "31"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

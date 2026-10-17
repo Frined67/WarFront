@@ -1,0 +1,120 @@
+{
+ "id": "it_sahariano",
+ "wiki": "https://wiki.warthunder.com/unit/it_sahariano",
+ "name": "Celere Sahariano",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The Carro Armato M Celere Sahariano is a medium tank prototype created by the Kingdom of Italy during World War II to match the speed and firepower of British cruiser tanks seen by Italian forces during the North African campaign. Following early 1941 engagements with British Cruiser tanks, the concept of a comparable vehicle swiftly evolved. As the Italian engineers did not have access to the Christie suspension patent, they gained the technology by reverse-engineering a captured A13 Cruiser Mark III. Despite the lack of armour, it was determined that speed could also provide protection to the crew through hit-and-run tactics, as the existing M13/40 variants were unable to match the A13 Cruiser Mark III's mobility. Its most distinctive features were four enormous road wheels suspended by Christie-type vertical springs, two return rollers, and auxiliary rollers in between. The hull was relatively long, with armour plates angled steeply from the front and sides. The total empty weight was 13 tonnes, and the turret had a crew of four, including the commander, gunner, and loader/radio operator. The SPA petrol engine produced 275 horsepower, allowing it to reach a top speed of 55 kilometres per hour on flat ground. The project was cancelled after the withdrawal of Axis forces from North Africa in May 1943. Introduced in Update \"New Power\" , the Carro Armato M Celere Sahariano is the Italian Army's answer to British cruiser tanks during World War II. The tank was designed with speed in mind as a quick hit-and-run vehicle. They were to charge through the enemy lines, attack their rear sectors, and engage the enemy in the supply line in combat. This enormous tank has very heavily sloped armour all around, which improves survivability since many poorly aimed rounds just ricochet off the tank without penetrating it. This, combined with exceptional mobility, will undoubtedly cause havoc in the enemy lines by employing quick flanking tactics early in the battle. However, its main armament will occasionally prove inadequate, as players will struggle to attack stronger armoured adversaries or targets from long distances.",
+ "image": "https://static.encyclopedia.warthunder.com/images/it_sahariano.png",
+ "weapons": [
+  "8 mm Breda Mod. 38 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 15 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "66 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "60"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "20.4"
+  },
+  {
+   "label": "Ammunition",
+   "value": "122 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "288 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "424"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,400"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (35 / 50 / 60) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Granata mod.35",
+   "type": "HE",
+   "penetration": [
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "Granata Perforante mod.39",
+   "type": "APHE",
+   "penetration": [
+    "62",
+    "61",
+    "53",
+    "46",
+    "39",
+    "33"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

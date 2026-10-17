@@ -1,0 +1,158 @@
+{
+ "id": "p-26a_34",
+ "wiki": "https://wiki.warthunder.com/unit/p-26a_34",
+ "name": "P-26A-34",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The P-26A-34 Peashooter was an American monoplane fighter aircraft used by the Philippine Army Air Corps. A total of 28 P-26s were stationed in the Philippines, 12 of which belonged to the 6th Pursuit Squadron. Following the Japanese attack on Pearl Harbor and their subsequent invasion of the Philippines, the 6th Squadron pilots, led by Captain Jesús Villamor, engaged in unequal battles with the superior Zero fighters, achieving victory in some engagements. However, the heroic efforts of the American and Filipino pilots could not stop the Japanese blitzkrieg. In mid-December 1941, the last four Philippine P-26s were burned by their pilots and mechanics during the retreat. The P-26A-34 was introduced in Update 1.43 . Its main features are a unique Philippine Army Air Corps camouflage and two 7.62 Brownings instead of 12.7 Browning M2 found on the American P-26A-34 . The P-26 does not stand out among other reserve and near-reserve fighters in terms of flight characteristics. Its speed is good for a biplane, and its maneuverability is good for a monoplane, but it will lose dogfights against biplanes or in speed to monoplanes.",
+ "image": "https://static.encyclopedia.warthunder.com/images/p-26a_34.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "377"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "12"
+  },
+  {
+   "label": "Turn time",
+   "value": "18"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "170 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "R-1340-27"
+  },
+  {
+   "label": "Length",
+   "value": "7.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "8.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "107 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.19"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.29 t (2h 5m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "508 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -9/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "240 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "384"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 35 / 130) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

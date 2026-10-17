@@ -1,0 +1,318 @@
+{
+ "id": "sunderland_mk5",
+ "wiki": "https://wiki.warthunder.com/unit/sunderland_mk5",
+ "name": "Sunderland Mk V",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.0",
+  "SB": "2.3"
+ },
+ "description": "The Short Sunderland Mk V was a late-war version of the Short Sunderland patrol flying boat. Developed to address concerns from crews over the insufficient power of the Bristol Pegasus engines, the Mk V was outfitted with American Pratt & Whitney Twin Wasp engines, which were already used in large numbers on RAF-operated PBY Catalinas and Douglas Dakotas, meaning logistical and maintenance issues were not a concern. In total, 155 Sunderland Mk Vs were produced, with a further 33 Mk IIIs were converted to Mk V specification. The Sunderland Mk V was introduced in Update 1.65 “Way of the Samurai” . While largely similar to its predecessor – being a slow and large flying boat – the Mk V features some marginal improvements. Chief among these are the improved engines, which increase the plane’s top speed and climb rate, as well as the addition of two .50 Browning machine guns on the waist position to bolster its defensive capabilities. However, placed at a rank where fighters and SPAA armed with heavier armaments started to appear, the Sunderland’s once seemingly indestructible airframe begins to falter. As such, it is advised to avoid confrontation with enemies if possible and focus on eliminating them at longer ranges.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sunderland_mk5.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "401"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "7.8"
+  },
+  {
+   "label": "Turn time",
+   "value": "35"
+  },
+  {
+   "label": "Max altitude",
+   "value": "6,096 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "740 m"
+  },
+  {
+   "label": "Crew",
+   "value": "7 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "4 x S3C4-G"
+  },
+  {
+   "label": "Length",
+   "value": "28.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "34.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "179 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "16.55"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "8.22 t (8h 48m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "414 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.65 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -2/3 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "204 / 232 / 395 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "950 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "636 → 873"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 100 / 200 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,440"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/AP-I/Ball/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/I/AP-I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/T",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/AP-I/T",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/AP-I/Ball/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP-I/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/AP-I/Ball/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP-I/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

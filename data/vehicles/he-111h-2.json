@@ -1,0 +1,158 @@
+{
+ "id": "he-111h-2",
+ "wiki": "https://wiki.warthunder.com/unit/he-111h-2",
+ "name": "He 111 H-3",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "2.0",
+  "SB": "2.3"
+ },
+ "description": "The He 111 H-3 \"Doppel Blitz\" (German for \"Double Lightning\") was a German front-line bomber used during World War II. Along with its other variants, it was the second most numerous bomber in Germany at the time. Production of the H-3 variant began in November 1939 and ended in early 1940. The differences between the H-2 and H-3 variants were minor; the H-3's engines were upgraded from Jumo 211 A-3 to Jumo 211 D-1. Compared to the H-1, the H-3 introduced cockpit armor, external bomb racks, and three additional MG 15 machine guns. Some aircraft in field conditions had their rear turrets replaced with MG FF autocannons using special kits. A total of 504 H-3s were built, making it a fairly common version. These aircraft saw action in the Spanish Civil War against Republican forces, primarily serving as a test bed for combat conditions. The He 111 H-3 has been in the game since the start of the Open Beta Test prior to Update 1.27. Its main roles are delivering bombing strikes on enemy bases in air battles and providing close support to ground forces in mixed battles. Key features include a decent bomb load, large cockpit glazing, solid defensive armament, and a respectable top speed. However, the aircraft has low survivability and only moderate flight characteristics for a bomber.",
+ "image": "https://static.encyclopedia.warthunder.com/images/he-111h-2.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "435"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "6.3"
+  },
+  {
+   "label": "Turn time",
+   "value": "33"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "510 m"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Jumo 211D"
+  },
+  {
+   "label": "Length",
+   "value": "16.4 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "22.6 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "108 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "7.3"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "2.05 t (3h 54m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "480 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.6 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/4 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 / 379 / 402 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "350 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,375"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "342 → 428"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 60 / 110 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,990"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-I/AP-T/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,165 @@
+{
+ "id": "jp_type_2_ka_mi",
+ "wiki": "https://wiki.warthunder.com/unit/jp_type_2_ka_mi",
+ "name": "Ka-Mi",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The Special Ka-Mi was a special type light tank built by the Japanese Navy for naval landing operations. Primarily based on the Ha-Go tank, the Ka-Mi was majorly modified to be a water-tight hull allowing it to float in the water, with add-on pontoons to improve high sea traversability. The Ka-Mi was introduced along with the initial Japanese Ground Forces tree in Update 1.65 \"Way of the Samurai\" . Unlike the Ha-Go, it features a slightly better Type 1 37 mm instead of the Type 94 37 mm and comes with a coaxial machine gun which is rather rare for WWII Japanese tanks. While the Ka-Mi doesn't receive its pontoons in-game, it still can float through the water as the propellers are mounted directly to the chassis and allows the tank crew to exploit aquatic terrain to their advantage, especially since the gun is shoulder stabilized, making it easier to aim with the waves.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_type_2_ka_mi.png",
+ "weapons": [
+  "37 mm Type 1 cannon",
+  "7.7 mm Type 97 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "12 / 10 / 10 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "74 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "40"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "132 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.7 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 24°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "8.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "7,000"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 70°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "106 → 136"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,985"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Type 94 APHE",
+   "type": "APHE",
+   "penetration": [
+    "46",
+    "44",
+    "36",
+    "29",
+    "23",
+    "18"
+   ]
+  },
+  {
+   "name": "Type 1 APHE",
+   "type": "APHE",
+   "penetration": [
+    "57",
+    "54",
+    "39",
+    "26",
+    "18",
+    "12"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

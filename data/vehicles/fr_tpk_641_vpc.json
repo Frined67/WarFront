@@ -1,0 +1,118 @@
+{
+ "id": "fr_tpk_641_vpc",
+ "wiki": "https://wiki.warthunder.com/unit/fr_tpk_641_vpc",
+ "name": "TPK 6.41",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "III",
+ "br": {
+  "AB": "5.7",
+  "RB": "5.7",
+  "SB": "5.7"
+ },
+ "description": "The VLRA (Véhicule de Liaison, de Reconnaissance et d'Appui) is a light multipurpose chassis developed by the French defense company ACMAT. Design of the chassis began in the 1950s, and mass production of vehicles based on it started in 1965 and continues to this day. Due to its low cost, versatility, simplicity, and availability in 4x4, 6x6, and 8x8 configurations, the VLRA has become the basis for more than 75 different vehicle models. The most popular model is a simple cargo transport variant. The vehicle's simplicity and low cost also prompted the French army to experiment with mounting various weapons on it, including the TPK 6.41 SPAA with a twin GAI-D01 mount for 20 mm Oerlikon KAD cannons, which was intended for convoy escort. However, the project did not progress beyond the prototype stage. The TPK 6.41 was introduced in Update 2.33 \"Air Superiority\" . This anti-aircraft vehicle is distinguished by its excellent mobility and rapid-fire twin 20mm cannons, which pose a great threat to enemy aircraft and light armored vehicles. However, it has virtually no armor, and its gun has poor depression angles, particularly with limited ability to fire forward due to the driver's cabin.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_tpk_641_vpc.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "0 / 0 / 0 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "115 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "90"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "22.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,200 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "9.1 → 7 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "996 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-3 / 81°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "56"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,691 → 2,193"
+  },
+  {
+   "label": "Crew training",
+   "value": "30,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "90 / 120 / 160 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "29,600"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,200"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HVAP-T/HEI-T",
+   "penetration": [
+    "57",
+    "52",
+    "37",
+    "24",
+    "15",
+    "10"
+   ]
+  },
+  {
+   "name": "20 mm HE",
+   "type": "HEI-T/HEI-T/HVAP-T",
+   "penetration": [
+    "57",
+    "52",
+    "37",
+    "24",
+    "15",
+    "10"
+   ]
+  },
+  {
+   "name": "20 mm AP",
+   "type": "HVAP-T/HVAP-T/HEI-T",
+   "penetration": [
+    "57",
+    "52",
+    "37",
+    "24",
+    "15",
+    "10"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

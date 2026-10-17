@@ -1,0 +1,210 @@
+{
+ "id": "tandem_mai",
+ "wiki": "https://wiki.warthunder.com/unit/tandem_mai",
+ "name": "Tandem MAI",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "1.7",
+  "SB": "2.0"
+ },
+ "description": "The Tandem-MAI , also known as the Sh-Tandem, Sh-MAI, or MAI-3, was an experimental light attack aircraft built in the production workshops of the Moscow Aviation Institute (MAI) in 1938. In the mid-1930s, the USSR was searching for promising designs for a \"battlefield aircraft.\" One such design was the tandem configuration, in which two wings are located one behind the other at different heights. This unusual design improved the aircraft's longitudinal stability and increased the firing angles of its defensive weapons. Additionally, the small wingspan made it difficult for other aircraft to fire at the attacker. Inspired by this idea, Pyotr Grushin, a Moscow Aviation Institute graduate, developed a small tandem aircraft called the Oktyabrenok in 1936. The design was so interesting that the Air Force Research Institute recommended adopting it as a liaison aircraft. By 1938, Grushin had begun developing a larger aircraft based on this design. In addition to MAI employees, representatives from the Air Force and TsAGI joined the development team. The first unarmed prototype of the Tandem-MAI, powered by an M-87 engine, took to the skies on November 29, 1938. Further testing continued until July 1939, when the Defense Committee changed its stance on promising attack aircraft and halted all work on the tandem. Only one Tandem-MAI was ever built. A second planned model with an M-63 engine was never constructed. The Tandem-MAI was introduced as a reward for the 2018 \"Chronicles of World War II\" event . It is a fast, maneuverable attack aircraft with a large ammunition load and good firing angles for its defensive weapons. However, it loses energy quickly during maneuvers, and its suspended weapons are weak.",
+ "image": "https://static.encyclopedia.warthunder.com/images/tandem_mai.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "488"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "22"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "500 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "M-87"
+  },
+  {
+   "label": "Length",
+   "value": "7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "173 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.77"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.29 t (1h 13m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "650 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.72 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "270 / 419 / 448 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "310 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,400 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "700 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "690"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,400"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (30 / 45 / 95) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AI/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-I/AP-I/AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "API-T/API-T/API-T/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

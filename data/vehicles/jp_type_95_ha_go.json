@@ -1,0 +1,117 @@
+{
+ "id": "jp_type_95_ha_go",
+ "wiki": "https://wiki.warthunder.com/unit/jp_type_95_ha_go",
+ "name": "Ha-Go",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The Ha-Go was developed in response to the limitations of the I-Go Ko , which became evident as it could not keep pace with motorized infantry moving at 40 km/h. Consequently, it failed to fulfil its role as a \"light tank,\" as it had to cover long distances separately by train, akin to other heavy equipment. The primary goal was to ensure that the new tank could match the speed of motorized infantry, facilitating their combined mobility. By 1935, when the design was finalized, the Ha-Go would assume the role of the Army's primary tank until the development of the Chi-Ha. Due to its lightweight and cost-effective design, the Ha-Go became Japan's most numerous tank built during the war. Introduced in Update 1.65 \"Way of the Samurai\" along with the initial Japanese Ground Forces Tree, the Ha-Go is a small yet nimble tank, serving as a primary flanking support vehicle to assist larger tanks in advancing. However, due to its limited armour, typical of early Japanese tanks, it can be easily penetrated by cannons and autocannons. To make the most of the Ha-Go's capabilities, it is recommended to use its gun depression by hiding the hull behind terrain and obstacles while exposing only the turret to the enemy. The Ha-Go was removed from its reserve status and hidden from the main tech tree during Update 1.85 \"Supersonic\" after the ammo update, but becomes unlockable after reaching rank II Japanese ground vehicles.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_type_95_ha_go.png",
+ "weapons": [
+  "37 mm Type 94 cannon",
+  "7.7 mm Type 97 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "12 / 12 / 10 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "74 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "48"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16"
+  },
+  {
+   "label": "Ammunition",
+   "value": "119 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.7 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "106 → 136"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Type 94 APHE",
+   "type": "APHE",
+   "penetration": [
+    "34",
+    "33",
+    "27",
+    "22",
+    "17",
+    "14"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

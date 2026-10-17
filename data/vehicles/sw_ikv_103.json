@@ -1,0 +1,130 @@
+{
+ "id": "sw_ikv_103",
+ "wiki": "https://wiki.warthunder.com/unit/sw_ikv_103",
+ "name": "Ikv 103",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "III",
+ "br": {
+  "AB": "4.0",
+  "RB": "4.0",
+  "SB": "4.0"
+ },
+ "description": "The Ikv 103 originated from Sweden's requirement in 1949 for an assault gun, that was meant to be light, cheap and small. The Ikv 72 fulfilled this request. But in 1956 the tank was upgraded to the Ikv 102 standard. Soon, this tank was also improved, and the Ikv 103 was born. Compared to the original Ikv 72, it featured a new 105mm cannon instead of the original 75mm. A new armored roof protected the crew, the original engine was replaced by the Volvo B42 and the air intake was moved to grills on the rear of the vehicle, instead of through the crew compartment. Introduced in Update 1.97 \"Viking Fury\" and just like other Swedish assault guns, the Infanterikanonvagn 103 is a very small vehicle, with thin armour and good firepower. Featuring a 105mm gun with a HEAT-FS round, which is unusual at such low BR, the tank is capable of dealing with tanks like the T95. Although it has neutral steering, the tank mobility is mediocre, it lacks an MG, which is necessary to destroy fences that may stop your HEAT shells and the armour is very unreliable, it can even be penetrated by 12.7mm HMGs, making the tank extremely vulnerable to aircraft or nearby artillery.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_ikv_103.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "12 / 6 / 12 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "62 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "53"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "17"
+  },
+  {
+   "label": "Ammunition",
+   "value": "24 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-16 / 20°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-10 / 10°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "5.6"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,335 → 1,651"
+  },
+  {
+   "label": "Crew training",
+   "value": "30,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "90 / 130 / 170 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "30,000"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,200"
+  }
+ ],
+ "shells": [
+  {
+   "name": "psgr m/49",
+   "type": "HEAT",
+   "penetration": [
+    "240",
+    "240",
+    "240",
+    "240",
+    "240",
+    "240"
+   ]
+  },
+  {
+   "name": "sgr m/34 LT",
+   "type": "HE",
+   "penetration": [
+    "23",
+    "23",
+    "23",
+    "23",
+    "23",
+    "23"
+   ]
+  },
+  {
+   "name": "slpsgr m/65",
+   "type": "HEATFS",
+   "penetration": [
+    "400",
+    "400",
+    "400",
+    "400",
+    "400",
+    "400"
+   ]
+  },
+  {
+   "name": "rökgr m/49",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

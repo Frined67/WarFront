@@ -1,0 +1,182 @@
+{
+ "id": "mc200_serie3",
+ "wiki": "https://wiki.warthunder.com/unit/mc200_serie3",
+ "name": "▀C. 200 serie 3",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.3",
+  "SB": "1.7"
+ },
+ "description": "The C.200 Saetta is an Italian fighter aircraft and was the first large-scale production aircraft developed entirely by Aeronautica Macchi. Its development was carried out by aircraft designer Mario Castoldi from the spring of 1935 to 1937, and the aircraft was accepted into service in the autumn of 1938. By the start of the Second World War, the C.200 was the most modern fighter in the Italian Air Force, although it did not see combat until September 1940, having previously been used only in an air defence role. The C.200 was actively employed by Italy across the entire southern European theatre, in North Africa, and on the Eastern Front. Until 1942, the Saetta could compete on equal terms with virtually any enemy fighter, but with the appearance of the latest Allied aircraft in 1942, the C.200 quickly lost its relevance. Nevertheless, its combat career only ended in the summer of 1944. Several aircraft captured by Germany after Italy’s capitulation were used as trainers in flight schools. Starting with the third production series , the C.200 abandoned the retractable tail wheel in favour of a fixed one. In addition to Aeronautica Macchi, production of the Saetta was carried out by the Breda and SAI-Ambrosini factories. Serial production lasted from July 1939 to December 1942. During this period, more than 1,100 C.200 aircraft of all variants were built, making it one of the most widely produced Italian fighters of the Second World War. The C.200 series 3 in the German tech tree has been in the game since the start of the Open Beta Test prior to Update 1.27. The aircraft performs best in turning engagements, where, in skilled hands, it can out-turn almost any opponent except biplanes. Boom-and-zoom tactics can also be used, but usually only once, as the C.200 rapidly loses energy when climbing back to altitude. Its main drawbacks are a low climb rate and only average speed at low altitude. The pair of heavy machine guns is effective against enemy fighters, but may lack the firepower to quickly destroy some bombers, making fighter combat the preferred role for this aircraft.",
+ "image": "https://static.encyclopedia.warthunder.com/images/mc200_serie3.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "504"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "18"
+  },
+  {
+   "label": "Turn time",
+   "value": "16"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,900 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "280 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "A74"
+  },
+  {
+   "label": "Length",
+   "value": "8.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.6 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "142 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.17"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.2 t (54m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "845 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.81 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/15 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 / 451 / 535 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "300 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "740 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "242 → 325"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 40 / 100 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,960"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP-I/HEF/API-T/I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/HEF/HEF",
+   "penetration": [
+    "20",
+    "18",
+    "11",
+    "6",
+    "4",
+    "2"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

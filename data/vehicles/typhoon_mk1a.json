@@ -1,0 +1,170 @@
+{
+ "id": "typhoon_mk1a",
+ "wiki": "https://wiki.warthunder.com/unit/typhoon_mk1a",
+ "name": "Typhoon Mk Ia",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "3.0",
+  "SB": "2.7"
+ },
+ "description": "While the Hawker Hurricane was still in production, the Hawker Company had already planned its successor in advance. What would later become the Hawker Typhoon was at first a private proposal to the Air Ministry in July 1937. While the design was positively received, it was noted to be not structurally strong enough and Hawker was advised to wait until the official design contest commenced. When the Air Ministry later issued Specification F.18/37 in March 1938, calling for a high-speed fighter to be equipped with twelve .30 mm Browning machine guns, Hawker re-submitted the Typhoon design, which was then accepted for testing. The prototype managed to accomplish the designated requirements, however it suffered from the structural integrity problem that often caused the aircraft to disintegrate when reaching its top speed. When the Battle of Britain commenced and after one prototype crashed in 1940, development and production of the Typhoon were halted to prioritise the production of more proven designs such as the Hurricane and Spitfire. A year later, the Luftwaffe introduced the high-speed Focke-Wulf Fw 190 fighters, which were capable of outrunning any British planes at that time. Scrambling for a counter to this new menace, the Air Ministry decided to resume development of the Typhoon and rushed it into production. While the Typhoon was capable of keeping up with the Fw 190, the decision to rush it into service without fixing its structural integrity proved to be a fatal mistake, and several Typhoons were lost between 1941 and 1943. After the Battle of Britain, the need for a high-speed fighter was no longer a priority, and after further improvements to its airframe, the Typhoon was repurposed into a ground attack aircraft and served in this role until the end of the war. The Typhoon Mk Ia has been in the game since the start of the Open Beta Test prior to Update 1.27. It is notable for its incredibly fast top speed, high climb rate, and acceleration for its rank. This results in the Typhoon being capable of outrunning or catching almost any aircraft with ease, especially in a boom-and-zoom approach. On the other hand, the Typhoon’s twelve .30 cal machine guns are now a hit-or-miss at its BR; it can shred any light aircraft with ease, but struggles to deal substantial damage against large or heavily armoured planes.",
+ "image": "https://static.encyclopedia.warthunder.com/images/typhoon_mk1a.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "634"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "17.1"
+  },
+  {
+   "label": "Turn time",
+   "value": "21"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "580 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Sabre 2a"
+  },
+  {
+   "label": "Length",
+   "value": "9.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12.7 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "192 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "4.48"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.51 t (59m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "845 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.81 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "315 / 393 / 408 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "5,680"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "470 → 629"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 80 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,420"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/AP-I/Ball/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,129 @@
+{
+ "id": "fr_somua_s35",
+ "wiki": "https://wiki.warthunder.com/unit/fr_somua_s35",
+ "name": "S.35",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "The Char de Cavalerie SOMUA 1935 S was a French cavalry tank. It was a remarkably manoeuvrable tank for its period, superior in armour and armament to both its French and foreign counterparts. It was constructed of well-sloped, mostly cast armour parts, which made it costly to create and time-consuming to maintain. The hull and turret were cast armour with maximum thicknesses of 47 mm and 40 mm, respectively; the bottom was made by two longitudinal plates, and the superstructure was separated into front and back sections. The turret was a variant of the APX 1 turret that was primarily used on the Char B1 heavy tank. Similarly to the Char B1 heavy tank , the commander was tasked with directing the tank while also loading, aiming, and firing the 47 mm SA35 L/32 tank gun. Introduced in Update 1.75 \"La Résistance\" , the Char de Cavalerie SOMUA 1935 S is best used as a support tank, following allies and hitting the enemy from a safe distance. Do not attempt to lead the assault. Light tanks are all dangerous since they can easily outmanoeuvre this tank. Another challenge for this tank is the tremendous reduction in armour penetration at long ranges. While inferior to tanks from other countries, the main weapon of this tank has adequate anti-tank capability when compared to other French tanks in its rank. Its biggest flaws are its lengthy reload time and poor post-penetration damage. The commander performing multiple duties was the fundamental weakness of early French tanks, and knocking out the commander effectively meant destroying the tank.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_somua_s35.png",
+ "weapons": [
+  "47 mm SA35 L/32 cannon",
+  "7.5 mm MAC 31 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "35 / 40 / 35 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "99 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "40"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "9.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "84 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-18 / 18°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "8.4"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,300 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "550 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "132 → 170"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Mle1935",
+   "type": "APC",
+   "penetration": [
+    "62",
+    "59",
+    "47",
+    "36",
+    "27",
+    "20"
+   ]
+  },
+  {
+   "name": "Mle1935 HE",
+   "type": "HE",
+   "penetration": [
+    "6",
+    "6",
+    "5",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

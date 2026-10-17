@@ -1,0 +1,126 @@
+{
+ "id": "fr_amd_35_kwk39",
+ "wiki": "https://wiki.warthunder.com/unit/fr_amd_35_kwk39",
+ "name": "AMD.35 (PaK)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "After the Second World War in 1945, several Pz.Sp.Wg.P204(f) armored cars were captured by the French army after they had been taken over by the Wehrmacht in 1941. The converted Panhards had either a 50 mm L/42 or a 50 mm L/60 mounted, both of which were previously used in the Pz.III . They continued to be used by the French army as they were used before the war. The AMD.35 (PaK) was introduced in Update \"Hornet's Sting\" . Its 50 mm L/60 KwK is an excellent weapon for a more armoured vehicle capable of operating quickly and agilely. It combines the speed and high penetration power of its 50 mm L/60 KwK. However, it has limited ammunition, so you can quickly run out of ammunition if you're not careful. Players must beware of HE grenades, ground attack aircraft, and combat aircraft because the AMD.35 is a lightly armoured vehicle and therefore easy prey for them.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_amd_35_kwk39.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "20 / 15 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "76 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "72"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.4"
+  },
+  {
+   "label": "Ammunition",
+   "value": "18 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.8 → 3.7 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-7 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "17.5"
+  },
+  {
+   "label": "Repair cost",
+   "value": "337 → 464"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 30 / 40 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,950"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "PzGr 39",
+   "type": "APC",
+   "penetration": [
+    "106",
+    "101",
+    "83",
+    "65",
+    "50",
+    "39"
+   ]
+  },
+  {
+   "name": "Sprgr. 38",
+   "type": "HE",
+   "penetration": [
+    "12",
+    "11",
+    "9",
+    "7",
+    "6",
+    "5"
+   ]
+  },
+  {
+   "name": "PzGr 40/1",
+   "type": "APCR",
+   "penetration": [
+    "130",
+    "121",
+    "90",
+    "62",
+    "42",
+    "29"
+   ]
+  },
+  {
+   "name": "PzGr 40",
+   "type": "APCR",
+   "penetration": [
+    "137",
+    "126",
+    "88",
+    "56",
+    "36",
+    "23"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

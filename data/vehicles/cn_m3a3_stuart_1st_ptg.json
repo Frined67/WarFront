@@ -1,0 +1,158 @@
+{
+ "id": "cn_m3a3_stuart_1st_ptg",
+ "wiki": "https://wiki.warthunder.com/unit/cn_m3a3_stuart_1st_ptg",
+ "name": "␗M3A3 (1st PTG)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The M3A3 Stuart 1st Provisional Tank Group (1st PTG) is the premium third variant of the Light Tank M3 (Stuart) family. It features hull improvements inspired by the new Light Tank M5 (Stuart) family, which was developed from the Light Tank M3 (Stuart) family (the M3A2 Stuart was never produced). Other enhancements to the original M3 light tank included a turret with a rear overhang to accommodate the SCR-508 radio and a welded hull with sloping armour 20°from the vertical on the front and sides. During World War II, it was part of the Chinese-American 1st Provisional Tank Group of the Chinese Expeditionary Forces (中國遠征軍), where the Chinese Kuomintang government equipped 48 such tanks under the lend-lease program and established the first tank battalion under the \"China-U.S. First Temporary Tank Group\" stationed in India. This lesser-known battalion received little coverage while fighting in the China-Burma-India theatre (CBI). While the U.S. Army Air Corps flew crucial supplies from India to China over the Himalayas, the 1st Provisional Tank Group helped the Allies reopen the land route through Japanese-occupied Burma by securing and repairing the Ledo-Burma Road. Introduced in Update \"Wind of Change\" , the M3A3 light tank is a continuation of the M3 Stuart family that shares many similarities with other U.S. Army light tanks of rank I. It is essentially identical to the Chinese Army ground forces tech tree M3A3 Stuart. Given the presence of sloping armour, the M3A3 provides significantly better protection than other light tanks in its rank. It improves survivability by preventing some small calibre shells from penetrating its frontal armour. However, since it is still a light tank, players should not rely heavily on its armour to exchange shots with adversaries.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cn_m3a3_stuart_1st_ptg.png",
+ "weapons": [
+  "37 mm M6 cannon",
+  "7.62 mm M1919A4 machine gun",
+  "7.62 mm M1919A4 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "25 / 25 / 25 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "58"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "18.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "174 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.7 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "14"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,500 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 70°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 15°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "659"
+  },
+  {
+   "label": "Crew training",
+   "value": "2,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (35 / 35 / 40) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M74B1 shot",
+   "type": "AP",
+   "penetration": [
+    "79",
+    "76",
+    "65",
+    "54",
+    "45",
+    "37"
+   ]
+  },
+  {
+   "name": "M51B1 shot",
+   "type": "APCBC",
+   "penetration": [
+    "87",
+    "84",
+    "73",
+    "60",
+    "50",
+    "41"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

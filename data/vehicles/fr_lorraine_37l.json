@@ -1,0 +1,96 @@
+{
+ "id": "fr_lorraine_37l",
+ "wiki": "https://wiki.warthunder.com/unit/fr_lorraine_37l",
+ "name": "Lorraine 37L",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "During WWII, France armoured forces were decimated, suffering heavy losses against German units and especially against their tanks. One of the attempts made to overcome this issue was the conversion of a Lorraine 37L tractor into a tank destroyer, fitted with a 47 mm SA37 anti-tank gun. Even though construction of the prototype was finished quickly, by the time it was ready for production France had already capitulated. It was introduced in Update \"New Power\" . Considering the characteristics of this vehicle, mobility of a tractor and no armour at all, the Lorraine 37L is best used in sniping positions, behind hills or bushes. It does have a small size, so in hidden positions it is hard to observe, especially when surrounded by foliage and vegetation. The tank features an SA37 anti-tank gun, with very good penetration values for its BR, and as such, this tank should be played passively, it is a good anti-tank complement for any French rank I line-up.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_lorraine_37l.png",
+ "weapons": [
+  "47 mm SA37 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "9 / 6 / 6 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "72 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "35"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "9.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "22 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-13 / 16°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-34 / 34°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "8.4"
+  },
+  {
+   "label": "Repair cost",
+   "value": "200 → 247"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 30 / 30 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Mle1936",
+   "type": "APCBC",
+   "penetration": [
+    "105",
+    "102",
+    "89",
+    "75",
+    "63",
+    "53"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,224 @@
+{
+ "id": "swordfish_mk1",
+ "wiki": "https://wiki.warthunder.com/unit/swordfish_mk1",
+ "name": "Swordfish Mk I",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The Swordfish Mk I was affectionately known as the \"Stringbag\" by the pilots, engineers and crews who operated her. Taking to the skies for the first time in 1934, the Swordfish was born into an era that ensured its time would be limited from its very conception, as just one year later in 1935, the Hawker Hurricane and Messerschmitt Bf 109 also made their debut. It was developed initially as a torpedo bomber/spotter/reconnaissance aircraft. It was powered by a radial air-cooled Bristol Pegasus Mk IIIM engine and was equipped with one synchronised, fuselage-mounted 0.303 inch Vickers Mk.II machine gun and one 0.303 inch Lewis or Vickers 'K' machine gun in the rear cockpit. The Swordfish became immortalised in the annals of naval aviation history when, on the night of 11th-12th November 1940, 21 Swordfish of 813 NAS, 815 NAS, 819 NAS, and 824 NAS carried out a daring attack on the Italian port of Taranto, crippling three Italian battleships and causing significant damage to smaller warships and coastal installations. It has been in the game since the start of the Open Beta Test prior to Update 1.27. The Swordfish is a plane often overlooked by new players, but it is common for more experienced players to hold a special love for \"ugly ducklings\". As such, the Swordfish is valued for providing a change of pace towards slower gameplay and simultaneously a challenge, being difficult to stay alive. As with all torpedo bombers, maintain low altitude and a high speed. The optimal distance for launching a torpedo is 1 km from the target, though the Swordfish is slow enough to be able to drop torpedoes efficiently from shorter distances. Targets should be engaged from directly ahead or astern, making \"leading\" the target much easier. If torpedo bombing is not an option, the plane can carry bombs for attacking ground targets.",
+ "image": "https://static.encyclopedia.warthunder.com/images/swordfish_mk1.png",
+ "weapons": [
+  "7.7 mm Vickers E machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "226"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "9.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "13"
+  },
+  {
+   "label": "Max altitude",
+   "value": "3,300 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "296 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "Pegasus III M3"
+  },
+  {
+   "label": "Length",
+   "value": "11.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "19.6 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "56 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.65"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.49 t (2h 41m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "390 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/8 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "257 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "950 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "705 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "350 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "97 → 131"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 30 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,960"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/IAI/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "I/AP/AP/AP/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/Ball/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "IT/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "IT/AP-I/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

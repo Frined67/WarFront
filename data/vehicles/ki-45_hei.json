@@ -1,0 +1,278 @@
+{
+ "id": "ki-45_hei",
+ "wiki": "https://wiki.warthunder.com/unit/ki-45_hei",
+ "name": "Ki-45 Hei",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The Ki-45 Kai-Hei , otherwise designated as Type 2 Two-Seat Fighter, Improved Model C (Hei/丙) ( 二式複座戦闘機 丙型 ) , was the third production variant of the Ki-45 series. After the relatively poor performance of the previous Ki-45 Kai-Otsu , the 37 mm cannon was replaced back to a 20 mm, while the nose-mounted armament of two 12.7 mm machine guns was replaced by a single Ho-203 37 mm drum-fed autocannon. This variant also solidified the role of the Ki-45 as an interceptor, offering heavy armament and the ability to climb to bomber altitudes to attack them. It was introduced in Update 1.31 . The Ki-45 Kai-Hei is the strongest and most deadly version of the Ki-45 series, delivering a powerful forward burst of 20 mm and 37 mm shells. Playing closer to the Ki-45 Kai-Kō again, as it also features autocannons, though the nose-mounted 37 mm requires trigger discipline since the shells deplete rapidly if the trigger is held down.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ki-45_hei.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "570"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "19.5"
+  },
+  {
+   "label": "Turn time",
+   "value": "24"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,900 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "520 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Ha-102"
+  },
+  {
+   "label": "Length",
+   "value": "10.6 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "15.1 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "166 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "4.3"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.05 t (2h 42m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "713 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.73 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "308 / 445 / 450 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "350 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "15 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "100 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.76 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "100 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "400 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.91 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,050 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "247 → 322"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 40 / 90 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,940"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEFI-T/P",
+   "penetration": [
+    "26",
+    "25",
+    "20",
+    "15",
+    "12",
+    "9"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "P",
+   "penetration": [
+    "26",
+    "25",
+    "20",
+    "15",
+    "12",
+    "9"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEFI-T",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "FI/HEFI-T/HEF-I/AP-T",
+   "penetration": [
+    "36",
+    "34",
+    "25",
+    "17",
+    "12",
+    "8"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "HEFI-T/HEF-I/AP-T",
+   "penetration": [
+    "36",
+    "34",
+    "25",
+    "17",
+    "12",
+    "8"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP-T/FI/HEF-I",
+   "penetration": [
+    "36",
+    "34",
+    "25",
+    "17",
+    "12",
+    "8"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEFI-T",
+   "penetration": [
+    "36",
+    "34",
+    "25",
+    "17",
+    "12",
+    "8"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "FI/FI/HEF-I/HEF-I",
+   "penetration": [
+    "5",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-I/AP-T/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

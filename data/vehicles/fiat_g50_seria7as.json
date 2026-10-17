@@ -1,0 +1,182 @@
+{
+ "id": "fiat_g50_seria7as",
+ "wiki": "https://wiki.warthunder.com/unit/fiat_g50_seria7as",
+ "name": "▀G.50 AS serie 7",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "1.7",
+  "SB": "2.0"
+ },
+ "description": "The G.50 AS serie 7 (Germany) is a gift German fighter. It has been in the game since the start of the Open Beta Test prior to Update 1.27 in the German aviation tree. In Update 1.69 \"Regia Aeronautica\" , the G.50, as well as the other Italian planes in the German tech tree, were moved to the new Italian tree, although it still exists in the German tree for those who unlocked it prior to Update 1.69. The Fiat G.50 is the oldest of the Series 0 planes, its fellow stablemates are the M.C 200 and Re 2000, both built around the same 860 HP radial engine and having the same armament.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fiat_g50_seria7as.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "470"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.3"
+  },
+  {
+   "label": "Turn time",
+   "value": "15"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,200 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "317 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "A74"
+  },
+  {
+   "label": "Length",
+   "value": "8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "147 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.19"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.3 t (1h 22m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "870 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.81 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/13 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 / 451 / 535 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "300 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "157 → 211"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 30 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,440"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP-I/HEF/API-T/I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/HEF/HEF",
+   "penetration": [
+    "20",
+    "18",
+    "11",
+    "6",
+    "4",
+    "2"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

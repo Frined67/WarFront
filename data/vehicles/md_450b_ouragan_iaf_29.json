@@ -1,0 +1,194 @@
+{
+ "id": "md_450b_ouragan_iaf_29",
+ "wiki": "https://wiki.warthunder.com/unit/md_450b_ouragan_iaf_29",
+ "name": "M.D.450B (29)",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "V",
+ "br": {
+  "AB": "7.3",
+  "RB": "7.7",
+  "SB": "7.7"
+ },
+ "description": "The Dassault M.D.450 Ouragan was a French jet fighter that was later sold to the Israeli Air Force. The first jet aircraft in service with Israel was the British Gloster Meteor . However, the Israelis were constantly looking for opportunities to expand their fleet. When there were delays in delivering the French Mystere IV fighter, Dassault management offered a batch of Ouragan aircraft. The first 12 arrived at Hazor Air Base on October 6, 1955. They were sent to the newly formed 113th Squadron. Because of the growing tension between Israel and Arab countries, the Ouragan fleet kept growing bigger. Eventually, the Israeli Air Force had a total of 75 M.D.450Bs. Ouragans participated in numerous Arab–Israeli conflicts, including the Suez Crisis of 1956 and the Six-Day War of 1967. The aircraft were primarily used for ground attacks, but Ouragan pilots still achieved several air combat victories, including against Egyptian MiG-21s. During the Suez Crisis, one of the Ouragan aircraft was the M.D.450B \"29\" of the 113th Squadron, which was piloted by Captain Jaacon Agasi. On October 31, 1956, the aircraft participated in the attack on the Egyptian destroyer Mohammed Ali el-Kebir , leading to the ship's subsequent surrender to Israel. The Israeli M.D.450B (29) was introduced in Update 2.51 \"Spearhead\" . Similar to most early post-war aircraft, such as the F-80 , Meteor , and Su-11 , this fighter has good manoeuvrability and tightly packed nose armament, but it has poor acceleration and a relatively low maximum speed. Additionally, the Ouragan's small payload allows it to be used in joint combat as a light attack aircraft. Its unique camouflage distinguishes it from the standard Israeli M.D.450B Ouragan .",
+ "image": "https://static.encyclopedia.warthunder.com/images/md_450b_ouragan_iaf_29.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "942"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "28"
+  },
+  {
+   "label": "Turn time",
+   "value": "24"
+  },
+  {
+   "label": "Max altitude",
+   "value": "12,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "700 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Nene-Mk.104"
+  },
+  {
+   "label": "Length",
+   "value": "9.6 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12.3 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "256 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "4.84"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.19 t (27m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "1,030 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.87 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "450 / 599 / 628 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "450 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.65 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,100 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "550 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,367"
+  },
+  {
+   "label": "Crew training",
+   "value": "10,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (130 / 350 / 600) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEI/SAP-I/T",
+   "penetration": [
+    "21",
+    "19",
+    "14",
+    "9",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/SAP-I",
+   "penetration": [
+    "36",
+    "33",
+    "24",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "SAP-I/HEI/AP-T/HEI/SAP-I",
+   "penetration": [
+    "36",
+    "33",
+    "24",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI/AP-T",
+   "penetration": [
+    "36",
+    "33",
+    "24",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/SAP-I/HEI/AP-T",
+   "penetration": [
+    "36",
+    "33",
+    "24",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI/SAP-I",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

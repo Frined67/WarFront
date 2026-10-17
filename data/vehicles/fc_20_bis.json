@@ -1,0 +1,280 @@
+{
+ "id": "fc_20_bis",
+ "wiki": "https://wiki.warthunder.com/unit/fc_20_bis",
+ "name": "F.C.20 Bis",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "I",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.0",
+  "SB": "2.3"
+ },
+ "description": "The F.C.20 is an Italian twin-engine aircraft that was developed by CANSA engineers between 1937 and 1941. In 1938, the Italian military announced a competition for a multirole aircraft that could perform as a tactical bomber, an attacker, or an escort fighter. CANSA participated with its F.C.20 prototype, which did not make its first flight until April 1941. By that time, the more successful Caproni Ca.313 had already begun entering service. Rather than abandoning the project, CANSA continued refining the aircraft, resulting in the F.C.20 Bis variant. This variant featured a shortened nose housing a 37 mm cannon and two heavy machine guns, as well as two pylons for carrying bombs and a defensive turret. Between 1941 and 1943, CANSA built a total of ten F.C.20 aircraft of various versions, including several F.C.20 Bis. These aircraft saw limited and largely unsuccessful use by Italy during World War II. The F.C.20 Bis was introduced in Update 2.1 \"New Power\" . Its main strength lies in its powerful offensive armament, consisting of a 37 mm cannon and two heavy machine guns. This allows the aircraft to effectively engage both planes and ground targets. Its ability to carry two 160-kilogram bombs also makes it a viable attacker in combined battles. Meanwhile, the defensive turret with a 12.7-millimeter machine gun provides a decent protection against fighter attacks from the rear. However, the F.C.20 Bis is slow and heavy with a poor climb rate. It rapidly loses its modest speed during maneuvers, which significantly limits its effectiveness in air combat.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fc_20_bis.png",
+ "weapons": [
+  "37 mm Breda Model 39 37/54 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "439"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "6.4"
+  },
+  {
+   "label": "Turn time",
+   "value": "25"
+  },
+  {
+   "label": "Max altitude",
+   "value": "7,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "600 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x A.74 R.C.38"
+  },
+  {
+   "label": "Length",
+   "value": "12.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "16 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "181 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "5.64"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.87 t (1h 59m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "720 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.78 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/9 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 / 317 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "280 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "42 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "138 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.75 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "700 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "650 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.44 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "242 → 335"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 40 / 90 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEF-T/APHE",
+   "penetration": [
+    "48",
+    "46",
+    "38",
+    "30",
+    "24",
+    "19"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF-T",
+   "penetration": [
+    "9",
+    "8",
+    "7",
+    "6",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "APHE",
+   "penetration": [
+    "48",
+    "46",
+    "38",
+    "30",
+    "24",
+    "19"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP-I/HEF/API-T/I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/HEF/HEF",
+   "penetration": [
+    "20",
+    "18",
+    "11",
+    "6",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/AP/AP/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "API-T/AP-I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,182 @@
+{
+ "id": "re_2000_heja_1",
+ "wiki": "https://wiki.warthunder.com/unit/re_2000_heja_1",
+ "name": "◔Héja I",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "2.0",
+  "SB": "1.7"
+ },
+ "description": "The Héja I (Héja is Hungarian for \"Hawk\") was a Hungarian fighter aircraft based on the Italian Reggiane Re.2000 . In 1939, Hungary signed a contract with Italy for a batch of Reggiane Re.2000s and acquired a license to manufacture them. The imported aircraft were modernized with the addition of 8-mm armor plate, one more fuel tank, and several other minor modifications. They were then designated the Héja I. The Héja I was actively used by Hungary during World War II. At least one squadron took part in combat on the Eastern Front against the Soviet Union. However, the Héja I gradually became obsolete and was replaced by the more advanced German Bf 109 . The Héja I was introduced to the game in Update 2.55 \"Ninth Wave\" , as part of the Italian aviation research tree. The 8-mm armor plate, which weighs nearly 150 kg, adds weight to the aircraft, but it significantly increases survivability. The pilot is protected from all rifle-caliber bullets, as well as some heavy machine guns, from the rear. Otherwise, it's the same Re.2000—a decent early fighter with a good top speed and a pair of Breda-SAFAT heavy machine guns but a mediocre climb rate. Unlike the Re.2000, this aircraft has a weaker engine.",
+ "image": "https://static.encyclopedia.warthunder.com/images/re_2000_heja_1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "500"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "12.9"
+  },
+  {
+   "label": "Turn time",
+   "value": "18"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "220 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "WM K-14A"
+  },
+  {
+   "label": "Length",
+   "value": "8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "140 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.36"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.46 t (2h 7m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "740 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 429 / 458 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "159 → 214"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 30 / 70 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP-I/HEF/API-T/I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/HEF/HEF",
+   "penetration": [
+    "20",
+    "18",
+    "11",
+    "6",
+    "4",
+    "2"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

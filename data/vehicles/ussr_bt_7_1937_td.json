@@ -1,0 +1,129 @@
+{
+ "id": "ussr_bt_7_1937_td",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_bt_7_1937_td",
+ "name": "BT-7 TD",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "The BT-7 TD was a Soviet light tank, developed from the previous BT-5 light tank. Both designs shared the same 45 mm 20-K cannon aswell as coaxial DT machine gun. Unlike the BT-5, the BT-7s hull was welded and the shape of hull at front was also redesigned. The frontal armour protection was slightly increased from 13 to 20 mm of armour. New short-pitch tracks were installed and Mikulin M-17T engine which was a licensed copy of German BMW VI V-12 engine was used instead of the M-5-400 found in BT-5 and earlier BT series tanks. New turret turret featuring sloped armour was also adopted. The BT-7 was used during Winter War and Continuation war with Finland aswell as during the early stages of Operation Barbarossa. Their numbers greatly reduced due to combat losses after 1941, the BTs served for the remainder of war. One example in running condition is preserved to this day. The BT-7 TD was introduced during Update \"Hot Tracks\" as reward for watching Enlisted streams on Twitch.tv . The BT-7 TD is identical to the BT-7 in every way except for the exclusive camouflage, of a BT tank during the battle of Moscow, similar to the one found on the T-26 (1st Gv.T.Br.) . The BT-7 TD features a very powerful gun on a highly mobile chassis, at the cost of no valuable armour. The tank commanders should utilize the speed of the BT to flank their enemies and shoot them from sides and then quickly change position and perform another ambush as the vehicle itself is very lightly armoured and any hit is fatal.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_bt_7_1937_td.png",
+ "weapons": [
+  "45 mm 20-K cannon",
+  "7.62 mm DT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "20 / 15 / 13 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "83 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "54"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "29.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "188 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.8 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-6 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,394 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "172 → 221"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,430"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-240",
+   "type": "APHEBC",
+   "penetration": [
+    "70",
+    "67",
+    "58",
+    "47",
+    "39",
+    "32"
+   ]
+  },
+  {
+   "name": "BR-240SP",
+   "type": "APBC",
+   "penetration": [
+    "73",
+    "70",
+    "60",
+    "50",
+    "41",
+    "34"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

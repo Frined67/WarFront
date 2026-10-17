@@ -1,0 +1,178 @@
+{
+ "id": "so_4050_vautour_2n_iaf",
+ "wiki": "https://wiki.warthunder.com/unit/so_4050_vautour_2n_iaf",
+ "name": "Vautour IIN(C)",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "VI",
+ "br": {
+  "AB": "9.7",
+  "RB": "8.7",
+  "SB": "8.0"
+ },
+ "description": "The Vautour IIN was a two seat interceptor jet powered aircraft designed by France in the 1950s. It was designed around the Vautour IIA but with a radar and all weather capabilities. It featured cannons and air to air missiles (both IR and radar guided) as offensive armaments. By 1972 the French Vautours recieved a modernization, which caused all unmodified variants to recieve additional \"Classique\" designation. These aircrafts where used by Israel until the arrival of the Mirage IIIC when they where given to the \"Knights of the Heart\" division. The Vautours were replaced later by the A-4E Skyhawk and the F-4E Phantom being retired in 1972. The Vautour IIN(C) was introduced in Update \"Winged Lions\" and is classified as a bomber. Is better used in air RB and air SB since in other game modes faces enemies that are much more capable than the Vautour, like modern SPAA systems and supersonic interceptors in air AB. In air RB it can destroy almost 2 full bases and also has 4 x Shafrir missiles for air to air kills against distracted enemies. It also has a powerful radar, with BVR capabilities, making it very usefull in SB to pick up enemies from long distances, and since most aircrafts at this BR lack RWR, most players wont know if they are being detected.",
+ "image": "https://static.encyclopedia.warthunder.com/images/so_4050_vautour_2n_iaf.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "1,107"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "55"
+  },
+  {
+   "label": "Turn time",
+   "value": "32"
+  },
+  {
+   "label": "Max altitude",
+   "value": "15,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "900 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Atar 101E5"
+  },
+  {
+   "label": "Length",
+   "value": "17.6 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "15.1 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "320 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "11.21"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "3.18 t (26m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "1,166 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "1.1 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/8 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "463 / 565 / 585 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "425 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "400 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "5.03 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "4,400 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "1,500 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,874 → 3,906"
+  },
+  {
+   "label": "Crew training",
+   "value": "135,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "100 / 270 / 600 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "145,300"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,600"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/HEI/HEF",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "HEI/API-T/API-T/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF/HEI/HEF/HEI/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF/HEI",
+   "penetration": [
+    "4",
+    "4",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

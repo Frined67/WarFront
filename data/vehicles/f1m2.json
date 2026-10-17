@@ -1,0 +1,214 @@
+{
+ "id": "f1m2",
+ "wiki": "https://wiki.warthunder.com/unit/f1m2",
+ "name": "F1M2",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The F1M , designated as Type 0 Observation Plane ( 零式水上観測機 ) , replaced the E8N2 and served as a scout for battleships. It also performed various other tasks, such as escorting convoys, bombing targets, maritime patrol, rescue, transport, and anti-shipping strike. The F1M2 has been in the game since the start of the Open Beta Test prior to Update 1.27. Although it is classified as a bomber, it only carries 2 x 60 kg bombs and has a high-altitude bomber spawn, which limits its effectiveness in that role. The best approach is to spawn at the airfield and compete with fellow biplanes as a fighter, a role the F1M2 performs better at, surprising unsuspecting enemies with its versatility.",
+ "image": "https://static.encyclopedia.warthunder.com/images/f1m2.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "412"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "13.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "17"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,200 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "Zuisey 13"
+  },
+  {
+   "label": "Length",
+   "value": "9.5 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "88 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.18"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.35 t (1h 29m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "550 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.45 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "240 / 337 / 356 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "582 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.13 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "97 → 131"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 30 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/IAI/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "I/AP/AP/AP/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/Ball/AP/I/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

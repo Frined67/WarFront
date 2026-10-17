@@ -1,0 +1,182 @@
+{
+ "id": "fiat_g50_seria2_italy",
+ "wiki": "https://wiki.warthunder.com/unit/fiat_g50_seria2_italy",
+ "name": "G.50 serie 2",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "The Fiat G.50 \"Freccia\" (Italian for \"Arrow\") is an Italian interceptor fighter from World War II that was developed under the personal supervision of Giuseppe Gabrielli (the \"G\" in the aircraft's name comes from his initials). It was the first all-metal Italian monoplane with a closed cockpit and retractable landing gear. Italy, a previously leading country in aviation, fell behind global trends due to various circumstances. The country favored the long-term production of older, proven aircraft over investing in cutting-edge designs that offered no guaranteed success. This had significant consequences; by the start of World War II, much of the Italian air fleet was outdated. Nevertheless, modernization efforts were undertaken after the Spanish Civil War, when the Italian command observed the successes of German Bf 109A prototypes and Soviet aircraft like the I-16 . They decided to improve the planes in their airforce. Design of the G.50 began in June 1936, and mass production started by November 1937. The aircraft would later play a significant role in the Battle of North Africa. The second production series introduced an open rear cockpit to reduce exhaust gas buildup, revised instrument placement, a reworked firewall and rear cockpit panels, and a modified fuel system to prevent sudden overflow. Around 200 aircraft of this second series were produced. The G.50 serie 2 was introduced in Update 1.69 \"Regia Aeronautica\" , replacing the version in the German research tree . In combat, the G.50 performs well as a fairly agile aircraft and can hold its own in dogfights against most opponents. Its relatively powerful radial engine allows it to keep the pace with some of the fastest planes. However, its mediocre durability, including frequent fuel fires, and limited armament are significant weaknesses that restrict its combat effectiveness.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fiat_g50_seria2_italy.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "470"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "15"
+  },
+  {
+   "label": "Turn time",
+   "value": "15"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,200 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "283 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "A74"
+  },
+  {
+   "label": "Length",
+   "value": "8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "137 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.06"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.27 t (1h 12m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "870 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.81 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/14 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 / 451 / 535 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "300 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "157 → 211"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 30 / 70 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP-I/HEF/API-T/I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/HEF/HEF",
+   "penetration": [
+    "20",
+    "18",
+    "11",
+    "6",
+    "4",
+    "2"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

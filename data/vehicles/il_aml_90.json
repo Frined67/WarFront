@@ -1,0 +1,177 @@
+{
+ "id": "il_aml_90",
+ "wiki": "https://wiki.warthunder.com/unit/il_aml_90",
+ "name": "AML-90",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "IV",
+ "br": {
+  "AB": "7.3",
+  "RB": "7.7",
+  "SB": "7.7"
+ },
+ "description": "The AML-90 was developed by the French company Panhard in the late 1950s, as a response to a commission by the French Ministry of Defense. It was based on the earlier AML-60, which mounted a 60 mm mortar as its main weapon. The AML-90 replaced the mortar with a DEFA low-pressure 90 mm rifled gun capable of firing high-explosive and high-explosive anti-tank shells. The AML-90 was used by several countries in Africa, Asia, and Latin America, but one of its most notable users was Israel. Israel acquired about 23 AML-90s from France in the early 1960s, and used them extensively in the Six-Day War of 1967 and the Yom Kippur War of 1973, amongst others. Introduced in Update \"Wind of Change\" , relies heavily on its speed and good positioning to avoid getting killed, since the lack of armour of the AML-90 makes it so that any shot would result in death, even .50 cal can penetrate the armour of the AML-90. Therefore, it should be used in flanking manoeuvres, harassing enemies, capturing points, and supporting allies. It features a very powerful 90 mm cannon with good penetration and decent reload speed. Since it is a wheeled vehicle, it may get stuck in some terrains, and as such using it in flat areas should be prioritized.",
+ "image": "https://static.encyclopedia.warthunder.com/images/il_aml_90.png",
+ "weapons": [
+  "7.62 mm AA NF1 machine gun",
+  "7.62 mm AA NF1 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "10 / 10 / 10 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "84 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "91"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16.4"
+  },
+  {
+   "label": "Ammunition",
+   "value": "20 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "8.7 → 6.7 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-8 / 15°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "12.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,200 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 40°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-120 / 120°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,445 → 3,550"
+  },
+  {
+   "label": "Crew training",
+   "value": "57,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "110 / 140 / 190 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "52,700"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,700"
+  }
+ ],
+ "shells": [
+  {
+   "name": "OCC 90-62",
+   "type": "HEATFS",
+   "penetration": [
+    "350",
+    "350",
+    "350",
+    "350",
+    "350",
+    "350"
+   ]
+  },
+  {
+   "name": "OFUM PH90-F2",
+   "type": "Smoke",
+   "penetration": [
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "OE 90 F1",
+   "type": "HE",
+   "penetration": [
+    "13",
+    "13",
+    "13",
+    "13",
+    "13",
+    "13"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

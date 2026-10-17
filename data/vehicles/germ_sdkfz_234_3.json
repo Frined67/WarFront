@@ -1,0 +1,161 @@
+{
+ "id": "germ_sdkfz_234_3",
+ "wiki": "https://wiki.warthunder.com/unit/germ_sdkfz_234_3",
+ "name": "Sd.Kfz.234/3",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "To increase the firepower of the Sd.Kfz.234, the Sd.Kfz.234/3 installed a short-barrelled 75 mm KwK37 - the same as that used on early models of the Pz.IV tank - on the open chassis, replacing the turret of previous models. From June to December 1944, a total of 88 vehicles were built, and it was used for reconnaissance and as infantry support during large offensive operations. Introduced during Update 1.79 \"Project X\" in the 2018 \"Good Old S.U.M.M.E.R\" event , the Sd.Kfz.234/3 is an armoured car requires skillful manoeuvring to be effective. The commander should exploit the vehicle's speed and agility to set up ambushes, flank enemies and retreat when needed, because of its thin armour. The main ammunition type used will be HEAT, which has decent penetration but low accuracy and range. The coaxial MG42 is a fast-firing machine gun that can damage trucks, but it has a limited traverse angle that restricts its use.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_sdkfz_234_3.png",
+ "weapons": [
+  "75 mm K51 L/24 cannon",
+  "7.92 mm MG42 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "30 / 8 / 10 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "84 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "90"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "18.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "50 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.3 → 3.3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 16°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-14 / 14°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,950 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "405"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 25 / 30) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "K.Gr.rot Pz.",
+   "type": "APCBC",
+   "penetration": [
+    "52",
+    "51",
+    "45",
+    "39",
+    "34",
+    "30"
+   ]
+  },
+  {
+   "name": "Sprgr. 34",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "Hl.Gr 38B",
+   "type": "HEAT",
+   "penetration": [
+    "80",
+    "80",
+    "80",
+    "80",
+    "80",
+    "80"
+   ]
+  },
+  {
+   "name": "Hl.Gr 38C",
+   "type": "HEAT",
+   "penetration": [
+    "115",
+    "115",
+    "115",
+    "115",
+    "115",
+    "115"
+   ]
+  },
+  {
+   "name": "K.Gr.Rot Nb.",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

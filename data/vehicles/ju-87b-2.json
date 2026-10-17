@@ -1,0 +1,222 @@
+{
+ "id": "ju-87b-2",
+ "wiki": "https://wiki.warthunder.com/unit/ju-87b-2",
+ "name": "Ju 87 B-2",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.0",
+  "SB": "1.3"
+ },
+ "description": "The Junkers Ju 87 , popularly known as the “Stuka” (short for “Sturzkampfflugzeug” , lit. “dive bomber” in German), is a German dive bomber developed during the interwar period. Originating from a design by Junkers’ chief designer Hermann Pohlmann, who believed in the potential of a dive bomber concept, the design was immediately liked by the Luftwaffe’s R&D chief Ernst Udet, who often had to contend with political resistance from Nazi party members due to skepticism about the dive bomber concept. The first variant, designated Ju 87 A, was designed with robustness and simplicity in mind; the aircraft was made with a fixed undercarriage to both simplify production and allow it to operate in any environment. Starting from the B-1 version, the Stuka were outfitted with ram-air sirens officially called the “Lärmgerät” (noise device), better known as the “Jericho trumpets,” with two main purposes: to give an audible feedback to the pilot for the aircraft’s speed to safely pull out of a dive and as a psychological weapon against enemies. The Ju 87 B-2 variant was further refined to feature oil hydraulic systems for cowling flaps, as well as provisions for tropical and winter operation. In total, 225 of the B-2 variant were built. The Ju 87 B-2 has been in the game since the start of the Open Beta Test prior to Update 1.27. The B-2 is the first variant of the Stuka in the German tech tree. It can mount an exceptional payload for its rank, with up to 1,200 kg of bombs in total and capable of carrying a large 1,000 kg bomb, making it highly capable of providing close air support. As a dive bomber, the Stuka can quickly gain speed in a dive and safely pull away, though it is lacklustre in anything else, especially its poor level speed and manoeuvrability. Much like in real life, the Stuka’s CAS capabilities allowed it to remain effective even at a higher BR, where it would often face more advanced adversaries.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ju-87b-2.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "383"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "9.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "27"
+  },
+  {
+   "label": "Max altitude",
+   "value": "7,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "433 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "Jumo 211D"
+  },
+  {
+   "label": "Length",
+   "value": "10.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "13.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "151 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.15"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.58 t (2h 12m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "680 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.65 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/16 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "320 / 469 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "900 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,220 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "610 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "226 → 285"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 50 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,430"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-I/AP-T/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

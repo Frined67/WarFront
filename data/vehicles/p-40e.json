@@ -1,0 +1,182 @@
+{
+ "id": "p-40e",
+ "wiki": "https://wiki.warthunder.com/unit/p-40e",
+ "name": "P-40E-1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.7",
+  "SB": "2.3"
+ },
+ "description": "The P-40E-1 is an American fighter. It has been in the game since the start of the Open Beta Test prior to Update 1.27. The P-40E Warhawk is an excellent \"boom-n-zoom\" fighter/bomber, however, it is not limited to this kind of warfare. It is equipped with 6 x M2 Browning .50 cal machine guns which are remarkably effective against light pillboxes, some light tanks/AAA, and of course, planes. The P-40 can also equip bombs to round itself out as a decent low-rank fighter bomber. Any competent realistic battle Warhawk flyer will tell you that it is only good at Medium altitudes (3,000 m is normally considered that middle altitude). This is because the engine's performance is poor at higher altitudes, unlike its future successors- the P-51 and P-47. The P-40's main asset is its straight-line speed- it will easily outrun Bf 109s, A6Ms, and some \"modernized\" biplanes you may see at its battle rating. Head-ons are almost never advisable, but given the high velocity and fire rate of the .50 cals, lightly armoured planes such as the A6M can be taken head-on from a distance. Otherwise, use the high speed and decent engine performance at low altitude to out-speed and energy-fight enemy planes. At high speeds, the P-40 can out-turn a select few Axis and British fighters, including some lower-rank Bf 109s and Hawker Hurricanes. Never attempt to turn with Zeros, He 112s, Spitfires or low-rank Soviet fighters as they will almost always have the turn advantage and get the better angle of attack. In short, the P-40 is one of the best performing low-rank US planes due to its high speed and general performance which outmatches most, if not all, opponents at the 2.3 battle rating.",
+ "image": "https://static.encyclopedia.warthunder.com/images/p-40e.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "560"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "21"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,555 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "342 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "V-1710-39"
+  },
+  {
+   "label": "Length",
+   "value": "9.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "175 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.44"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.4 t (1h 20m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "819 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.78 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "245 / 530 / 595 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "300 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,686"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.55 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "487 → 612"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 80 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,400"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP/AP/T/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

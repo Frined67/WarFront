@@ -1,0 +1,178 @@
+{
+ "id": "md_460_sambad",
+ "wiki": "https://wiki.warthunder.com/unit/md_460_sambad",
+ "name": "Sambad",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "VI",
+ "br": {
+  "AB": "9.0",
+  "RB": "9.0",
+  "SB": "8.7"
+ },
+ "description": "During the 1956 Suez Crisis, Israel realised a need for a new, long-range, high-endurance jet fighter. Thus, with close ties to France, they placed an order for 24 Super Mystere B2s (called Sambad in Israel) in 1958. These planes were involved in the Six-Day War in which it saw extensive use. The aircraft were also involved in the USS Liberty incident where 2 Sambads released their napalm bombs on the USS Liberty. The Sambad also saw use in the Yom Kippur War in 1973, during which 6 were shot down. It served well as the first supersonic fighter in IAF service. The Sambad was introduced in Update \"Winged Lions\" . It plays similarly to a delta wing fighter, capable of pulling extreme manoeuvres while it has enough speed. The acceleration and cruise speed of the plane at low and medium altitudes is mediocre compared to similar BR fighters. This, alongside the awful low-speed manoeuvrability and bad energy retention makes this plane best used as a support fighter. It can use the afterburner to climb to high altitudes or stay fast in the outskirts of the fight, picking slow moving enemies with its excellent guns or the Shafrir missiles. Pilots should stay fast, do wide turns to avoid losing energy and help the team in different ways, picking up enemies that are closing in allies and destroying damaged targets that are fleeing the battlefield.",
+ "image": "https://static.encyclopedia.warthunder.com/images/md_460_sambad.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "1,199"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "61"
+  },
+  {
+   "label": "Turn time",
+   "value": "31"
+  },
+  {
+   "label": "Max altitude",
+   "value": "17,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "800 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Atar 101G2"
+  },
+  {
+   "label": "Length",
+   "value": "13.9 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "263 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "7.37"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.83 t (31m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "1,265 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "1.47 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "435 / 590 / 620 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "447 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "300 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "5.03 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,100 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "550 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,343 → 4,543"
+  },
+  {
+   "label": "Crew training",
+   "value": "135,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "130 / 380 / 600 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "145,200"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,600"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/HEI/HEF",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "HEI/API-T/API-T/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF/HEI/HEF/HEI/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF/HEI",
+   "penetration": [
+    "4",
+    "4",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

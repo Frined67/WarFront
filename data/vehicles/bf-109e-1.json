@@ -1,0 +1,170 @@
+{
+ "id": "bf-109e-1",
+ "wiki": "https://wiki.warthunder.com/unit/bf-109e-1",
+ "name": "Bf 109 E-1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.0"
+ },
+ "description": "In the late 1930s, as aircraft were becoming faster and faster, the earlier variants of the Bf 109 started to show their age due to their underpowered engines, being unable to keep up with more modern designs. Thus, the Bf 109 Emil variant was developed. Officially accepted into service in 1939, it featured a stronger Daimler-Benz DB 601A engine along with a new three-blade variable-pitch propeller, redesigned wings with a new and more effective cooling system, as well as more ammo for the nose-mounted machine guns. While still having some of the flaws of earlier variants (lacking self-sealing fuel tanks as well as drop tanks), this new variant proved to be a decent stopgap until newer variants were developed. The Bf 109 E-1 was introduced in Update 1.35 . Being one of the first variants of the Bf 109 family, it features relatively light armaments, consisting of four rifle-calibre machine guns. As a monoplane, the flight performance is quite average; being equipped with a decent engine and relatively lightweight, it is a good all-rounder that can hold its own in dogfights against other early monoplanes. Unlike its earlier counterparts, however, the Bf 109 E-1 gains the ability to carry bombs under its fuselage, making it a viable multirole aircraft.",
+ "image": "https://static.encyclopedia.warthunder.com/images/bf-109e-1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "570"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "17.8"
+  },
+  {
+   "label": "Turn time",
+   "value": "20"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "358 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "DB-601A"
+  },
+  {
+   "label": "Length",
+   "value": "8.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9.9 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "159 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.27"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.3 t (1h 11m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "790 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.82 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "300 / 449 / 478 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "358 → 448"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 60 / 130 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,910"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

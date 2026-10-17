@@ -1,0 +1,220 @@
+{
+ "id": "saab_j21a_1",
+ "wiki": "https://wiki.warthunder.com/unit/saab_j21a_1",
+ "name": "J21A-1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "IV",
+ "br": {
+  "AB": "5.3",
+  "RB": "4.3",
+  "SB": "3.3"
+ },
+ "description": "The SAAB 21 rose from the drawing board in anticipation of World War 2. The development of this aircraft came with the need to develop a national fighter without having to rely on foreign designs like the Re.2000 and CR.42. The Saab 21's unique twin-boom layout, offering exceptional pilot visibility and easy maintenance, was chosen and fitted with a modified German Daimler-Benz DB 605 engine. Despite missing wartime action, the Saab 21 remained relevant, with over 300 produced to bolster Sweden's air defenses. Introduced in Update 1.95 \"Northern Wind\" along with the initial Swedish air tree, the J21A-1 is quite sluggish but a heavily durable fighter. It has a top speed of 640 km/h, courtesy of the Daimler-Benz DB 605B engine; however, the speed and manoeuvrability are not the most impressive characteristics of the aircraft: it's the weaponry it comes armed with. A total of four 13.2 mm Akan m/39A and a 20 mm Akan m/41A makes it a heavy firepower-reliant fighter able to eliminate any enemy aircraft with ease.",
+ "image": "https://static.encyclopedia.warthunder.com/images/saab_j21a_1.png",
+ "weapons": [
+  "20 mm Akan m/41A cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "640"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "15.5"
+  },
+  {
+   "label": "Turn time",
+   "value": "20"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,800 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "DB-605B"
+  },
+  {
+   "label": "Length",
+   "value": "10.4 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.6 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "184 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.7"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.38 t (1h 15m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "683 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.76 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "325 / 426 / 445 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "325 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "140 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "630 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.43 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,350"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,080 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.84 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,891 → 2,581"
+  },
+  {
+   "label": "Crew training",
+   "value": "45,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "90 / 200 / 420 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "40,500"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,400"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEF-T/AP-T/HEF-T/AP-T",
+   "penetration": [
+    "38",
+    "35",
+    "24",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEFI-T/HEFI-T/HEFI-T/AP-T",
+   "penetration": [
+    "38",
+    "35",
+    "24",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP-T/AP-T/HEF-T",
+   "penetration": [
+    "38",
+    "35",
+    "24",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "HEF-T/AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "HEF-T/AP/AP/AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF-T/HEF-T/AP/HEF-T",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

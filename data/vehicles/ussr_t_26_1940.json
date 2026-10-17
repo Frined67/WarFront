@@ -1,0 +1,129 @@
+{
+ "id": "ussr_t_26_1940",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_t_26_1940",
+ "name": "T-26",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The T-26 was based in the British Vickers 6 ton tank. Developed during the 1930s, the T-26 soon became the primary light tank of the Soviet Red Army. It saw combat during the Spanish Civil War and the Winter War, with mixed results due to poor leadership and tactics. Even though it was outclassed by the start of World War 2, it saw extensive use in the first year alongside the BT cavalry tanks, with heavy losses against the far superior Panzer III and Panzer IV. It was produced between 1931 and 1941, with different variants, command tanks, artillery variants, flamethrower tanks and many others, with a total sum of 12,000 units produced. Introduced during the Closed Beta Test for Ground Forces before Update 1.41 , the T-26 is a small vehicle with thin armour but a heavy-hitting 45 mm cannon that can devastate most enemies at its battle rating thanks to its APHE ammunition, with enough penetration and explosive filler to one shot most opponents. It has very poor armour like most light tanks, but it also has very poor mobility, being outmatched by tanks like the Panzer II and all BT models. It also suffers from the poor gun depression that characterizes all soviet tanks.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_t_26_1940.png",
+ "weapons": [
+  "45 mm 20-K cannon",
+  "7.62 mm DT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "15 / 15 / 6 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "74 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "30"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "9.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "205 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.8 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-6 / 22°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,890 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 10 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "3,730"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-240",
+   "type": "APHEBC",
+   "penetration": [
+    "70",
+    "67",
+    "58",
+    "47",
+    "39",
+    "32"
+   ]
+  },
+  {
+   "name": "BR-240SP",
+   "type": "APBC",
+   "penetration": [
+    "73",
+    "70",
+    "60",
+    "50",
+    "41",
+    "34"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

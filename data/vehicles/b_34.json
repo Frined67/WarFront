@@ -1,0 +1,326 @@
+{
+ "id": "b_34",
+ "wiki": "https://wiki.warthunder.com/unit/b_34",
+ "name": "B-34",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "3.3",
+  "SB": "2.7"
+ },
+ "description": "The Lockheed Ventura was a military version of the Model 18 Lodestar passenger aircraft. L-108, as it would be temporarily named, was developed as a successor to the Lockheed Hudson, which saw massive use in the Royal Air Force. The Ventura was intended to be a slightly larger, more powerful aircraft compared to the Hudson. At this time, the B-34 designation was not given. The RAF became the primary user of the Ventura until the Ventura IIA which was given the designation \"B-34\". It was delivered under the Lend-Lease Act, and thus were given both RAF and US serial numbers. Soon after, they were put into service by the United States Army Air Force and received the name \"Lexington\". B-34s were largely relegated to training, and most never saw active combat in US service. In fact, they were given the designation \"RB-34\", which states that it was not allowed to be used in combat. Introduced in Update 1.65 \"Way of the Samurai\" , the B-34 is a medium-sized bomber and is a significant improvement over the Hudson. The B-34 features a better payload of up to 2,500 lbs of bombs and more defensive armament. In addition, the B-34 also has two 12.7 mm machine guns and two 7.62 mm machine guns for offensive use, which can also be used against enemy aircraft. Thanks to its structural limit of over 630 km/h (391 mph), B-34 players can easily dive to bases to quickly drop bombs and either attack enemy fighters or ground targets. It can also defend itself with a twin 12.7 mm machine gun turret and a twin 7.62 mm machine gun turret. Both have ample ammunition as well.",
+ "image": "https://static.encyclopedia.warthunder.com/images/b_34.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "539"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "12"
+  },
+  {
+   "label": "Turn time",
+   "value": "27"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "480 m"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x R-2800-31"
+  },
+  {
+   "label": "Length",
+   "value": "16.9 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "20 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "211 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "9.22"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.55 t (1h 58m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "633 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.66 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/7 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "235 / 313 / 328 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "235 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "750 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "800 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "449 → 625"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 60 / 140 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,950"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP-I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/AP-I/T/I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP/AP-I/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/T/T/AP-I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP-I/AP-I/I/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP/T/T/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/I/AP-I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/T",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/AP-I/T",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

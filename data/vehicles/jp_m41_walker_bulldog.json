@@ -1,0 +1,202 @@
+{
+ "id": "jp_m41_walker_bulldog",
+ "wiki": "https://wiki.warthunder.com/unit/jp_m41_walker_bulldog",
+ "name": "▅M41A1",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "IV",
+ "br": {
+  "AB": "6.0",
+  "RB": "6.3",
+  "SB": "6.3"
+ },
+ "description": "The M41A1 (Japan) was part of the second defense build-up plan, introduced to enhance the self defense capability of the JSDF. Japan also developed its own domestic tanks, such as the Type 61 MBT and the Type 60 APC . The M41s were supplied by the Americans to replace the obsolete M24 , while the Type 61 took over the role of the M4A3 (76) W . It was introduced in Update 1.65 \"Way of the Samurai\" along with the rest of the initial Japanese Ground Forces Tree. It shares its performance with the American M41 Walker Bulldog . The playstyle of the M41A1 returns to the M24 after the previous medium tank in the line, the M4A3: shoot and scoot. The 'Bulldog' is best utilized as a flanker with its respectable 76 mm gun and high speed and manoeuvrability. Since the ammunition available is solid shot (no explosive filler), an idea of the internal layouts of the tanks it faces is necessary to make the shots count. At its current BR, it will regularly face American, British, Soviet, and in arcade battles, German heavy tanks, and anything it meets, including self propelled anti-aircraft vehicles will be able to reliable penetrate the M41A1's armour, so utilization of the terrain to maximize cover and good situational awareness is a must.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_m41_walker_bulldog.png",
+ "weapons": [
+  "76 mm M32 cannon",
+  "12.7 mm M2HB machine gun",
+  "7.62 mm M1919A4E1 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "31 / 25 / 19 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "72"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "21.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "65 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.6 → 5.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,200 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 70°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Ammunition",
+   "value": "5,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,272 → 3,099"
+  },
+  {
+   "label": "Crew training",
+   "value": "52,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "110 / 140 / 180 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "47,200"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,500"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M339 shot",
+   "type": "APBC",
+   "penetration": [
+    "177",
+    "173",
+    "159",
+    "143",
+    "129",
+    "116"
+   ]
+  },
+  {
+   "name": "M352 shell",
+   "type": "HE",
+   "penetration": [
+    "15",
+    "15",
+    "14",
+    "12",
+    "12",
+    "12"
+   ]
+  },
+  {
+   "name": "M319 shot",
+   "type": "APCR",
+   "penetration": [
+    "206",
+    "200",
+    "174",
+    "146",
+    "122",
+    "103"
+   ]
+  },
+  {
+   "name": "M331A2 shot",
+   "type": "APDS",
+   "penetration": [
+    "300",
+    "296",
+    "278",
+    "256",
+    "237",
+    "219"
+   ]
+  },
+  {
+   "name": "M361",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

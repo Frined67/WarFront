@@ -1,0 +1,250 @@
+{
+ "id": "pe-3",
+ "wiki": "https://wiki.warthunder.com/unit/pe-3",
+ "name": "Pe-3",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "I",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.0",
+  "SB": "2.7"
+ },
+ "description": "The Petlyakov Pe-3 was a modification of the already-existing Pe-2 dive bomber. It was an attempt to turn the widely available airframe into a heavy/night fighter in response to the rise in night bombings during the early months of Operation Barbarossa. Despite its initial intentions, the Pe-3 was unable to effectively fulfill its role as a night fighter. This was due to the challenges pilots faced when trying to target enemy aircraft: dazzling searchlights and blinding gunfire. Before a solution to this could be found, it was repurposed as a daytime attack aircraft. However, even in this role, it struggled. One notable weakness was its insufficient frontal protection, rendering it susceptible to enemy attacks, which resulted in the significant loss of around 25% of the initial production aircraft. Attempts to bolster the aircraft's armour were initiated, though the ticking clock of World War II posed a problem, preventing the timely completion of this upgrade. Ultimately, a decision materialized to reassign the Pe-3 to reconnaissance divisions, relegating it to a rarity in subsequent ground attack missions. The Pe-3 has been in the game since the start of the Open Beta Test prior to Update 1.27. As one of the earliest Soviet dedicated strike fighter platforms in the game, it doesn't disappoint with its loadouts, consisting of lightweight rockets and bombs. Unfortunately, the same cannot be said for its flight performance, which is disappointing when compared to other aircraft in its class due to a lack of manoeuvrability and relatively low engine power. Even so, it is very forgiving in mixed battles and serves as a good introduction to later aircraft in the line.",
+ "image": "https://static.encyclopedia.warthunder.com/images/pe-3.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "504"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "9.7"
+  },
+  {
+   "label": "Turn time",
+   "value": "26"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,400 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "326 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x VK-105R"
+  },
+  {
+   "label": "Length",
+   "value": "12.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "17.1 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "198 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "6.32"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.68 t (2h 56m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "760 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "320 / 469 / 498 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "450 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,026 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.82 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "720 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "360 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "254 → 322"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 40 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,940"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/AP/IAI",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "11",
+    "7"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/API-T/IAI/IAI",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/AP-I/IAI",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-I(c)/AP-I/AP-I/API-T/IAI",
+   "penetration": [
+    "34",
+    "32",
+    "24",
+    "17",
+    "12",
+    "8"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/IAI",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-I/AP-I/AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "API-T/API-T/API-T/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

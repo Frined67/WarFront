@@ -1,0 +1,145 @@
+{
+ "id": "uk_ac1_sentinel",
+ "wiki": "https://wiki.warthunder.com/unit/uk_ac1_sentinel",
+ "name": "A.C.I",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "3.3",
+  "RB": "3.0",
+  "SB": "3.0"
+ },
+ "description": "The war with the Axis powers demanded ever-increasing investments from all members of the British Commonwealth. Australia was no exception, as it faced the threat of a Japanese invasion. In response, in 1940, work began in Australia on the development of its own tank. Development and construction of the vehicle were delayed due to the country's underdeveloped industry and increasing army demands, resulting in the first prototype being ready only by January 1942, followed by a second in March. Around this time, the tank was named Australian Cruiser Mark I \"Sentinel\" , or shortened to A.C.I . Prototypes underwent tests until January 1943, with serial production commencing even before their completion in November 1942. A total of 65 vehicles were produced by June 1943, but they were not adopted for service due to serious technical problems identified during testing. Coupled with the rise in M4 production in the USA and the redirection of Australian industry towards supporting Allied forces, this led to the cancellation of the Australian tank program. The only \"action\" in which the A.C.I participated was its appearance in the 1944 film \"Rats of Tobruk\", where it was used as a stand-in for German tanks. Currently, three surviving examples are held in collections at the Bovington Museum, Puckapunyal Military Museum, and the Australian Armour and Artillery Museum. The A.C.I was introduced during Update \"Winged Lions\" as a reward for the 2021 Operation W.I.N.T.E.R. event. Originally conceived as a cruiser tank, the A.C.I shares characteristics more akin to British infantry tanks such as the Matilda III and Valentine I . The frontal armour of the hull is thick and well-angled, with one vulnerable spot in its centre covered by a developed machine gun shield. Side armour is notably weaker, but sufficient to allow angling the hull to improve protection. The turret also boasts robust armour. However, it's important to remember that the A.C.I can still encounter tanks capable of penetrating its defences. Furthermore, its armament is underwhelming: the gun has low penetration and post-penetration damage, though somewhat mitigated by a high rate of fire. Mobility is also subpar; the tank accelerates slowly and struggles to reach its maximum speed.",
+ "image": "https://static.encyclopedia.warthunder.com/images/uk_ac1_sentinel.png",
+ "weapons": [
+  "40 mm QF 2-pounder cannon",
+  "7.7 mm Vickers machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "64 / 46 / 32 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "90 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "48"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "11.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "130 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.6 → 2.8 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "21"
+  },
+  {
+   "label": "Ammunition",
+   "value": "5,500 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "390 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "780"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,400"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (40 / 50 / 70) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Shot Mk.1 AP/T",
+   "type": "AP",
+   "penetration": [
+    "72",
+    "68",
+    "52",
+    "37",
+    "27",
+    "19"
+   ]
+  },
+  {
+   "name": "Shell Mk.2",
+   "type": "HE",
+   "penetration": [
+    "9",
+    "8",
+    "7",
+    "6",
+    "6",
+    "5"
+   ]
+  },
+  {
+   "name": "Shot Mk.IXB APCBC/T",
+   "type": "APCBC",
+   "penetration": [
+    "89",
+    "86",
+    "77",
+    "66",
+    "57",
+    "50"
+   ]
+  },
+  {
+   "name": "Shell Mk.1 AP/T",
+   "type": "APHE",
+   "penetration": [
+    "66",
+    "62",
+    "49",
+    "36",
+    "26",
+    "19"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "IT/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

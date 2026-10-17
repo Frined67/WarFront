@@ -1,0 +1,324 @@
+{
+ "id": "saab_t18b_2",
+ "wiki": "https://wiki.warthunder.com/unit/saab_t18b_2",
+ "name": "T18B (57)",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "III",
+ "br": {
+  "AB": "3.7",
+  "RB": "4.3",
+  "SB": "4.0"
+ },
+ "description": "The T18B (57) is a Swedish bomber. It was introduced in Update 1.95 \"Northern Wind\" . The T18B is an attacker/bomber designed to take out ground targets and give support. Designed and built by SAAB for use by the Swedish Air Force, it bears similarities to the T18B-1. The B-2 is the version which carries the 57 mm akan m/47 autocannon with a 41-round magazine to take out heavily armoured opponents. It is an attacker-in-disguise in terms of flight performance and firepower, with the downsides that come from housing a large-calibre autocannon.",
+ "image": "https://static.encyclopedia.warthunder.com/images/saab_t18b_2.png",
+ "weapons": [
+  "13.2 mm Akan m/39A machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "592"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.1"
+  },
+  {
+   "label": "Turn time",
+   "value": "26"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,800 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "450 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x DB-605B"
+  },
+  {
+   "label": "Length",
+   "value": "13.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "17 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "216 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "7.92"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.23 t (2h 3m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "735 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.84 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/7 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "290 / 439 / 468 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "41 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "180 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "7.4 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "120 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "630 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.43 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "300 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,080 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.84 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "300 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,080 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.84 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,620 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "810 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,176 → 1,710"
+  },
+  {
+   "label": "Crew training",
+   "value": "30,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "90 / 200 / 320 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "29,600"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,200"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEF/HEF/AP-T",
+   "penetration": [
+    "75",
+    "73",
+    "65",
+    "55",
+    "47",
+    "40"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF",
+   "penetration": [
+    "9",
+    "9",
+    "8",
+    "7",
+    "6",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T",
+   "penetration": [
+    "75",
+    "73",
+    "65",
+    "55",
+    "47",
+    "40"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "HEF-T/AP-T/HEF-T/AP-T",
+   "penetration": [
+    "38",
+    "35",
+    "24",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEFI-T/HEFI-T/HEFI-T/AP-T",
+   "penetration": [
+    "38",
+    "35",
+    "24",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP-T/AP-T/HEF-T",
+   "penetration": [
+    "38",
+    "35",
+    "24",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "HEF-T/AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "HEF-T/AP/AP/AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF-T/HEF-T/AP/HEF-T",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "HEF-T/AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "HEF-T/AP/AP/AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "HEF-T/HEF-T/AP/HEF-T",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

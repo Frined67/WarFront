@@ -1,0 +1,94 @@
+{
+ "id": "germ_amd_35_kwk",
+ "wiki": "https://wiki.warthunder.com/unit/germ_amd_35_kwk",
+ "name": "P204(f) KwK 38",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The capitulation of France in 1940 saw a number of equipment captured by the Germans, including the AMD.35 armoured car and their production facilities. The German Wehrmacht pressed the Panhard armoured car into service, issuing them to their reconnaissance units and they would see prominent use during Operation Barbarossa. However, as the years passed, the AMD.35 were seen as becoming obsolete in frontline service and saw more use behind the lines such as occupational and policing duties. In 1944, it was decided to take 34 AMD.35 and modify them to accommodate the 50 mm L/42 tank gun used in the Panzer III. Transformed into open-top vehicles and designated as Pz.Sp.Wg.P204(f) KwK 38 , they were utilized in occupation duties until the Allied invasion of Normandy, where the vehicles were then committed to combat the invading Allies. Introduced as part of a reward for the 2023 Summer Extreme event during Update \"La Royale\" , the P204(f) KwK 38 is a fairly unique armoured car in the early German tech tree line-up. The AMD.35 armoured car chassis provides decent mobility on hard surfaces, but the star of the show is the 50 mm cannon, which is powerful enough to penetrate tanks it will encounter. However, limitations in the turret traverse and the open-top nature of the turret limit the full potential of this cannon at the rank it is in. The P204(f) KwK 38 can help players strike true with power, but only in the right situations that the player can put the armoured car into against an incoming enemy.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_amd_35_kwk.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "26 / 15 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "76 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "72"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "26 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-12 / 14°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11"
+  },
+  {
+   "label": "Repair cost",
+   "value": "121"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (15 / 20 / 20) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "PzGr 39",
+   "type": "APC",
+   "penetration": [
+    "80",
+    "76",
+    "62",
+    "48",
+    "38",
+    "29"
+   ]
+  },
+  {
+   "name": "PzGr 40",
+   "type": "APCR",
+   "penetration": [
+    "116",
+    "107",
+    "74",
+    "47",
+    "30",
+    "19"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

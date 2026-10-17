@@ -1,0 +1,254 @@
+{
+ "id": "mosquito_f_mk2_norway",
+ "wiki": "https://wiki.warthunder.com/unit/mosquito_f_mk2_norway",
+ "name": "◢Mosquito F.Mk.II",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "III",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "3.7"
+ },
+ "description": "The de Havilland Mosquito was a British twin-engine multi-role aircraft of the early 1940s. With the release of its reconnaissance and fighter variants, the British also became interested in creating a fighter to intercept German high-altitude reconnaissance aircraft and bombers. The first two fighter modifications were the F.Mk.II and NF.Mk.II . Their main difference from the bomber-fighter and reconnaissance variants was the absence of a bomb bay or space for mounting cameras. The first F.Mk.II prototype was built on May 15, 1941, and made its first flight on September 14, piloted by John de Havilland, son of the company's founder. Unlike the NF. Mk.II night version, the F.Mk.II daytime version went into production in extremely limited numbers and was mainly used against German high-altitude reconnaissance aircraft. On May 5, 1943, the 333rd Squadron of the Royal Norwegian Air Force was established, and many pilots were transferred to various Mosquito aircraft, including the F.Mk.II. The squadron technically belonged to the Royal Air Force until November 1945, which is why it bore their identification marks. By late summer 1943, the squadron had suffered heavy losses, and the remaining crews were transferred to more modern modifications. The Norwegian Mosquito F.Mk.II was introduced in Update 2.49 \"Tusk Force\" as a part of the Swedish aviation research tree. Similar to the NF.Mk.II , this modification has no payload options; however, it is 800 kg lighter, making the aircraft slightly more maneuverable. However, the F.Mk.II resembles the early Mosquitoes in that the aircraft is fast and has powerful armament but low survivability and poor maneuverability. Unlike the NF.Mk.II, this variant lacks radar.",
+ "image": "https://static.encyclopedia.warthunder.com/images/mosquito_f_mk2_norway.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "618"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "8.5"
+  },
+  {
+   "label": "Turn time",
+   "value": "28"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,300 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "450 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Merlin-25"
+  },
+  {
+   "label": "Length",
+   "value": "12.4 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "16.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "200 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "6.72"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.38 t (2h 24m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "720 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.71 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/8 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "312 / 356 / 390 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "315 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.32 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "808 → 1,123"
+  },
+  {
+   "label": "Crew training",
+   "value": "13,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 130 / 270 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "19,660"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "980"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEI/SAP-I/T",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/SAP-I",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/HEI/SAP-I/HEI/SAP-I",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/SAP-I/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI/HEI/SAP-I",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/AP-I/Ball/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

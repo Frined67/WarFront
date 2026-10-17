@@ -1,0 +1,226 @@
+{
+ "id": "su-2_mv5",
+ "wiki": "https://wiki.warthunder.com/unit/su-2_mv5",
+ "name": "Su-2 MV-5",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "2.0"
+ },
+ "description": "The Su-2 (or BB-1) is a Soviet light bomber that served with the Red Army Air Force during World War II. Originally designed as a bomber, its primary frontline duties shifted to artillery spotting and dropping propaganda leaflets over enemy-occupied cities from 1942 onward. Production lasted from December 1940 to February 1942, during which time a total of 893 aircraft were built. Continuous repairs and restoration of damaged airframes allowed the Su-2 to remain in combat service until January 1944. On December 7, 1940, by government decree, the aircraft's original designation, BB-1, was changed to Su-2. After entering service, the aircraft underwent several improvements. The main differences from the early production version included improved nose aerodynamics, armor protection for the navigator installed in the rear fuselage behind the MV-5 turret, and an inert gas fuel tank protection system. The Su-2 MV-5 has been in the game since the beginning of the Open Beta Test prior to Update 1.27. It is well suited for attacking ground targets with bombs and rockets. Its four high-rate-of-fire ShKAS machine guns, mounted in the wings, and its flexible defensive machine gun, mounted in the turret with excellent firing angles, also make it capable of defending itself against enemy aircraft. Its flight performance is respectable, though engagements with enemy fighters should be approached with caution. Compared to the BB-1, the Su-2 MV-5 is primarily distinguished by the addition of armor protection in the rear fuselage.",
+ "image": "https://static.encyclopedia.warthunder.com/images/su-2_mv5.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "460"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "8.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "24"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,900 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "425 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "M-88"
+  },
+  {
+   "label": "Length",
+   "value": "10.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "14.3 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "134 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.32"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.56 t (2h 2m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "541 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.65 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/8 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "340 / 340 / 395 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "350 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,400 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "900 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,245 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "510 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "160 → 216"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 30 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,460"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AI/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-I/AP-I/AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "API-T/API-T/API-T/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

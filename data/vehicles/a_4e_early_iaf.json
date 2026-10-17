@@ -1,0 +1,182 @@
+{
+ "id": "a_4e_early_iaf",
+ "wiki": "https://wiki.warthunder.com/unit/a_4e_early_iaf",
+ "name": "A-4E Early (M)",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "VI",
+ "br": {
+  "AB": "9.0",
+  "RB": "8.7",
+  "SB": "9.3"
+ },
+ "description": "The A-4E Early (A4D-5) was part of the revision that improved the previous Skyhawk variants. It featured the J52-P-6A engine, which had better fuel consumption while also providing much more thrust. Other improvements included more hardpoints and new computers for navigation, bomb dropping, and more. The A-4E also marked the beginning of the new naming system for the Skyhawk. The \"Early\" versions of the A-4E lacked the iconic \"humpback\" behind the cockpit, which housed additional electronics. They also lacked the improved J52-P-8 engine. During the Yom Kippur War, Israel was losing Skyhawks at an astonishing rate, which led to more than 25 A-4E Skyhawks being transferred over. The Israeli A-4E Early (M) Skyhawk was introduced in Update \"Winged Lions\" and can be seen as a weaker version of the premium A-4E . Most importantly, the A-4E Early lacks the J52-P-8A engine found in the A-4E, which provides an 8% increase in thrust. Other than that, it is very similar to the regular A-4E. The A-4E Early comes armed with the standard two 30 mm DEFA cannons mounted in the chin as well as two AIM-9B Sidewinders. The Sidewinders are quite useful for forcing opponents to lose energy and speed, and for picking off slower targets. The A-4E Early also has 60 countermeasures, allowing for 30 drops. These are particularly useful against Sea Vixens, and in uptiers where missiles like the AIM-9G and R-60 are prevalent.",
+ "image": "https://static.encyclopedia.warthunder.com/images/a_4e_early_iaf.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "1,080"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "47"
+  },
+  {
+   "label": "Turn time",
+   "value": "37"
+  },
+  {
+   "label": "Max altitude",
+   "value": "12,400 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "1,000 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "J52-P-6A"
+  },
+  {
+   "label": "Length",
+   "value": "12.6 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "8.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "310 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "5.02"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "2.47 t (40m)"
+  },
+  {
+   "label": "Fuel for additional engines",
+   "value": "0.08 t"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "1,167 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "1.28 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/8 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "410 / 563 / 592 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "437 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "300 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "5.03 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "3,720 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "1,860 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,026 → 4,112"
+  },
+  {
+   "label": "Crew training",
+   "value": "135,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "120 / 340 / 600 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "143,700"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,600"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/HEI/HEF",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "HEI/API-T/API-T/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF/HEI/HEF/HEI/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF/HEI",
+   "penetration": [
+    "4",
+    "4",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

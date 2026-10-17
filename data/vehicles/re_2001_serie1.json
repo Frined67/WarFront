@@ -1,0 +1,242 @@
+{
+ "id": "re_2001_serie1",
+ "wiki": "https://wiki.warthunder.com/unit/re_2001_serie1",
+ "name": "Re.2001 serie 1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "3.0",
+  "SB": "2.3"
+ },
+ "description": "The Re.2001 serie 1 is an Italian fighter. It was introduced in Update 1.85 \"Supersonic\" . The Re.2001 serie 1 is a lot like the C. 202 , other than having different, slower-to-lower/retract landing gear, a different engine that overheats a bit more quickly, and worse armour. The Re.2001 is also a tad more manoeuvrable, with a turn time (upgraded) of 18 seconds, versus the C. 202's upgraded turn time of 21.4 seconds. Additionally, the Re.2001 has a worse climb rate and is slower. Thanks to all of this, the Re.2001 should be played similarly to the C. 202. Just be careful, as you have worse armour.",
+ "image": "https://static.encyclopedia.warthunder.com/images/re_2001_serie1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "545"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "15.9"
+  },
+  {
+   "label": "Turn time",
+   "value": "18"
+  },
+  {
+   "label": "Max altitude",
+   "value": "11,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "155 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "R.A.1000 RC.41"
+  },
+  {
+   "label": "Length",
+   "value": "8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "151 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.67"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.4 t (1h 45m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "740 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.85 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -9/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "250 / 421 / 454 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "700 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "587 → 798"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 100 / 200 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,380"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP-I/HEF/API-T/I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/HEF/HEF",
+   "penetration": [
+    "20",
+    "18",
+    "11",
+    "6",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T",
+   "penetration": [
+    "5",
+    "4",
+    "2",
+    "1",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/AP/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

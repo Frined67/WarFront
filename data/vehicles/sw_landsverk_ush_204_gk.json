@@ -1,0 +1,118 @@
+{
+ "id": "sw_landsverk_ush_204_gk",
+ "wiki": "https://wiki.warthunder.com/unit/sw_landsverk_ush_204_gk",
+ "name": "U-SH 204 GK",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "IV",
+ "br": {
+  "AB": "5.0",
+  "RB": "5.3",
+  "SB": "5.3"
+ },
+ "description": "In October 1956, with the launch of the Unimog S military truck into series production, the German company Daimler-Benz joined forces with the Swedish company Landsverk to create armored vehicles based on it. The vehicles had to be bulletproof and have similar mobility to the unarmored version. The first vehicle prototype was ready by early 1957. The engine was located at the rear, which is why it was designated Unimog-SH ; H stands for Heckmotor, meaning \"rear engine\". In 1958, Landsverk acquired the rights to develop the vehicle, meaning that, when series production began, the chassis were assembled in Gaggenau, Germany, and final assembly took place in Sweden. Six chassis were sold to India, nine finished vehicles were sold to Belgium for use in its colonies, and another 15 units were sold to Ireland. The Bundeswehr expressed interest in using the vehicles as medical transports, but no order was ever placed. The companies planned to create various vehicles based on this design, including armored personnel carriers, anti-aircraft guns, and tank destroyers. As a result, a prototype was created in the 1960s equipped with a 20mm Swiss Oerlikon Type 204GK gun, also known as the KAA-01. This experimental self-propelled gun was designated the Landsverk U-SH 204 GK . However, it was not as successful as the original design and failed to attract buyers. The fate of the only prototype remains unknown. The U-SH 204 GK was introduced in Update 2.37 \"Seek & Destroy\" . It is a fast, small vehicle with an extremely effective 20mm gun for taking down air targets. In this respect, it resembles the Italian R3 T20 FA-HS . Like the R3, the Landsverk has weak armor and is ineffective against heavily armored targets. It cannot penetrate their armor, even on the side or rear of some tanks.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_landsverk_ush_204_gk.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "10 / 8 / 8 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "84 %"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "80"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "18.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "400 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "9.1 → 7 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "996 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 75°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "28"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,494 → 4,532"
+  },
+  {
+   "label": "Crew training",
+   "value": "52,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "130 / 150 / 210 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "47,100"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,500"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HVAP-T/HEI-T",
+   "penetration": [
+    "57",
+    "52",
+    "37",
+    "24",
+    "15",
+    "10"
+   ]
+  },
+  {
+   "name": "20 mm HE",
+   "type": "HEI-T/HEI-T/HVAP-T",
+   "penetration": [
+    "57",
+    "52",
+    "37",
+    "24",
+    "15",
+    "10"
+   ]
+  },
+  {
+   "name": "20 mm AP",
+   "type": "HVAP-T/HVAP-T/HEI-T",
+   "penetration": [
+    "57",
+    "52",
+    "37",
+    "24",
+    "15",
+    "10"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

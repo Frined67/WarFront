@@ -1,0 +1,182 @@
+{
+ "id": "f4f-4",
+ "wiki": "https://wiki.warthunder.com/unit/f4f-4",
+ "name": "F4F-4",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "3.0",
+  "SB": "3.0"
+ },
+ "description": "The F4F-4 was a workhorse of US Naval aviation in the first years of World War II until the arrival of more powerful and advanced carrier based fighters such as F6F Hellcat and F4U Corsair. F4F was initially designed as a competitor to Brewster F2A Buffalo, but lost the contract. Although slower, the more manoeuvrable Buffalo was chosen. Grumman then redesigned his XF4F-2 prototype into what was to become a F4F-3 Wildcat. The Wildcat was inferior to A6M Zero used by Japanese in the Pacific Theatre in most aspects. Unlike the A6M, it was heavily armoured which allowed the fighter to take significant damage and still return to its carrier. Jimmy Thach developed a tactic for Wildcat pilots fighting Zeros which consisted of using altitude advantage and hit and run attacks on the Japanese fighters. Unlike the F4F-3, the F4F-4 featured Grumman patented Sto-Wing folding wing system where the wings folded behind the aircraft, saving valuable space on the carriers. Another change was installing two additional .50 cal machine guns into the wing, total of six. Unfortunately the ammunition amount stayed the same, so instead of 450 rpg, pilots had only 240 rpg at their disposal. Installing the extra guns and folding wings came at cost of performance decrease as the extra weight slowed down the plane to max speed of about 512 km/h at 5900 m. The F4F-4 has been in the game since the start of the Open Beta Test prior to Update 1.27. The F4F-4 is nimble, heavily armoured and heavily armed fighter compared to its contemporaries. It cannot achieve speeds higher than its foes, although it is possible to utilize the sheer weight of the plane to gain speed for fast boom & zoom attacks on the foes under your aircraft. Due to abysmal climb rate, side climbing is advised.",
+ "image": "https://static.encyclopedia.warthunder.com/images/f4f-4.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "517"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "14"
+  },
+  {
+   "label": "Turn time",
+   "value": "19.9"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "257 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "R-1830-86"
+  },
+  {
+   "label": "Length",
+   "value": "8.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.6 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "146 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.14"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.38 t (1h 43m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "826 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/13 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "420 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,440 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.55 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "593 → 797"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 100 / 200 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,320"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP/AP/T/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

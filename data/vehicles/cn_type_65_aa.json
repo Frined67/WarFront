@@ -1,0 +1,130 @@
+{
+ "id": "cn_type_65_aa",
+ "wiki": "https://wiki.warthunder.com/unit/cn_type_65_aa",
+ "name": "Phòng không T-34",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "III",
+ "br": {
+  "AB": "5.7",
+  "RB": "5.0",
+  "SB": "5.0"
+ },
+ "description": "The Xe tăng phòng không 37 mm (37 mm anti-air tank), known in short as the Phòng không T-34 (Chữ Nôm: 防空 T-34; English: Anti-air T-34), or mistakenly referred to as \"Type 65\" in some Chinese sources, was a North Vietnamese SPAAG developed during the mid-1960s for the Vietnam War. This vehicle utilises the hull of a Soviet T-34-85 with a unique open-top, box-style turret equipped with dual Chinese 37 mm Type 65 cannons. It is likely that the NVA improvised this design during the war, as North Vietnam heavily invested in anti-aircraft weaponry to counter US air support. However, no official NVA documentation on the vehicle has been found, and all known details come from a single unit captured by US forces, which is now on display at Fort Sill, Oklahoma. The name \"Phòng không T-34\" was created specifically for the game, following the naming conventions of other NVA vehicles from that era, as the vehicle’s actual designation is unknown. Introduced in Update 1.91 \"Night Vision\" alongside the initial Chinese tech tree, the Phòng không T-34 is easily recognised by its box-shaped, open turret mounted on a T-34-85 hull, as well as the absence of the standard 85 mm main gun. It also has a higher profile than a typical T-34-85. While the turret’s armour offers minimal protection, sufficient only against rifle-calibre rounds, and nearby explosive blasts are likely to disable the vehicle instantly, the Phòng không T-34’s higher turret traverse speed, adequate rate of fire, and HVAP shells enable it to perform effectively in both air defence and flanking roles.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cn_type_65_aa.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "45 / 45 / 45 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "120 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "55"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "20.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "390 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "1.3 → 1 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "160 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 85°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "42"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,210 → 2,844"
+  },
+  {
+   "label": "Crew training",
+   "value": "39,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "100 / 130 / 180 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "35,000"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/HEFI-T",
+   "penetration": [
+    "70",
+    "68",
+    "56",
+    "45",
+    "36",
+    "29"
+   ]
+  },
+  {
+   "name": "UO-167",
+   "type": "HEFI-T",
+   "penetration": [
+    "8",
+    "8",
+    "7",
+    "5",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "BR-167",
+   "type": "AP-T",
+   "penetration": [
+    "70",
+    "68",
+    "56",
+    "45",
+    "36",
+    "29"
+   ]
+  },
+  {
+   "name": "BR-167P",
+   "type": "HVAP-T",
+   "penetration": [
+    "87",
+    "82",
+    "65",
+    "49",
+    "37",
+    "28"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

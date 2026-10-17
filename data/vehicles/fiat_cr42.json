@@ -1,0 +1,174 @@
+{
+ "id": "fiat_cr42",
+ "wiki": "https://wiki.warthunder.com/unit/fiat_cr42",
+ "name": "▀CR.42",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "The CR.42 (Germany) is a German biplane fighter. It has been in the game since the start of the Open Beta Test prior to Update 1.27 in the German aviation tree. In Update 1.69 \"Regia Aeronautica\" , the CR.42, as well as the other Italian planes in the German tree, were moved to the new Italian tree, although it still exists in the German tree for those who unlocked it prior to the update. The CR.42 is a biplane in the \"German\" Italian line of fighters. It possesses exceptional manoeuvrability, speed, and durability, especially for a biplane. Armament is quite good as well, due to the Breda-SAFAT .50 calibre MGs. Due to its BR, the CR.42 gets thrown with the likes of P-36 and LaGG-3 fighters. As such, the majority of aircraft the CR.42 will engage are faster, and more heavily armed. The best bet for survival, and securing kills, is to climb to about medium altitude and lure fighters into turning combat. An overwhelming majority of pilots are unwilling to run from a lowly biplane, allowing you to score critical damage before they realise that they have expended all their energy and must extend away from you. By that time, the damage is usually severe enough that they cannot accelerate away from you quickly enough to escape further damage. For the armament, the same applies to all other Italian aircraft; generally, you want to use \"Tracers\", \"Anti-air\" or \"Stealth\" belts since they deal the most damage. Shell velocity is low, hence they suffer above 300 m, so only fire at or below that range for best effects. Furthermore, much like the other Italian fighters, the armament is woefully inadequate to deal with bombers, hence it is best to avoid them entirely, or focus on taking out the engines. The only exceptions are the very early biplane bombers, such as Swordfish , Po-2 and other light bombers.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fiat_cr42.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "429"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "17.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "19.2"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "294 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "A74"
+  },
+  {
+   "label": "Length",
+   "value": "8.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "101 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.96"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.31 t (1h 23m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "578 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/14 G"
+  },
+  {
+   "label": "Ammunition",
+   "value": "800 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "108 → 145"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP-I/HEF/API-T/I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/HEF/HEF",
+   "penetration": [
+    "20",
+    "18",
+    "11",
+    "6",
+    "4",
+    "2"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,186 @@
+{
+ "id": "cn_is_2_1944",
+ "wiki": "https://wiki.warthunder.com/unit/cn_is_2_1944",
+ "name": "␗IS-2 (1944)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "heavy_tank",
+ "role": "Heavy tank",
+ "rank": "IV",
+ "br": {
+  "AB": "6.3",
+  "RB": "6.3",
+  "SB": "6.3"
+ },
+ "description": "Due to China's lack of proper heavy support tanks in the 1950s, the Soviet Union agreed to the sale of multiple IS-2 tanks in order to reinforce the People's Liberation Army's armoured divisions. The IS-2, being a tank designed during the Second World War as a response to German heavy tanks such as the Tiger and Panther, was armed with the powerful 122 mm D-25T cannon, which was capable of knocking out these tanks from over a kilometre away. At least 20 IS-2 tanks were utilised in the Korean War in both anti-tank and anti-fortification duties by the PLA, with varying levels of success. During the late 1950s, the new Type 59 project, combined with a general parts shortage, led to the end of the IS-2's service, with the People's Liberation Army retiring the tank in favour of the smaller and cheaper Type 59. Introduced in Update 1.91 \"Night Vision\" , the IS-2 (1944) is the second heavy tank available in the Chinese tech tree, featuring the BR-471D shell and a DShK mounted on the commander's cupola. This variant of the IS-2 features a new hull design with a much stronger upper front plate, with an effective thickness similar to tanks like the Tiger II and Somua SM . The main armament is the 122 mm D-25T, a very powerful cannon that can knock out any tank it penetrates with a single shot, something made easier by the excellent normalisation profile of the BR-471B shell. Due to its calibre and turret layout, the reload of this tank is significantly longer than most tanks it will face, meaning that having to reverse into cover during reloads is a necessity in order to survive. Despite being a heavy tank, however, the IS-2's mobility is good enough to allow for reaching good early-game positions as well as retreating to cover if necessary.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cn_is_2_1944.png",
+ "weapons": [
+  "122 mm D-25T cannon",
+  "12.7 mm DShK machine gun",
+  "7.62 mm DT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "100 / 90 / 60 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "102 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "37"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "11.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "28 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "27.1 → 20.8 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-3 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "250 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,890 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "4,506 → 5,849"
+  },
+  {
+   "label": "Crew training",
+   "value": "61,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "140 / 190 / 220 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "61,700"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,800"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-471",
+   "type": "APHE",
+   "penetration": [
+    "205",
+    "201",
+    "182",
+    "161",
+    "143",
+    "126"
+   ]
+  },
+  {
+   "name": "OF-471",
+   "type": "HE",
+   "penetration": [
+    "37",
+    "37",
+    "37",
+    "37",
+    "37",
+    "37"
+   ]
+  },
+  {
+   "name": "BR-471B",
+   "type": "APHEBC",
+   "penetration": [
+    "205",
+    "203",
+    "192",
+    "178",
+    "166",
+    "155"
+   ]
+  },
+  {
+   "name": "BR-471D",
+   "type": "APCBC",
+   "penetration": [
+    "230",
+    "227",
+    "215",
+    "200",
+    "186",
+    "173"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/IAI/API-T/AP-I(c)",
+   "penetration": [
+    "34",
+    "32",
+    "24",
+    "17",
+    "12",
+    "8"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

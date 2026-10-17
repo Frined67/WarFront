@@ -1,0 +1,256 @@
+{
+ "id": "mig_3_series_1_15",
+ "wiki": "https://wiki.warthunder.com/unit/mig_3_series_1_15",
+ "name": "MiG-3-15",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "1.7"
+ },
+ "description": "The MiG-3-15 is a Soviet fighter. It was introduced in Update 1.31 . In early War Thunder aerial matches, it is not uncommon for bomber aircraft to climb higher up into higher altitudes. Doing so they can circle their targets and bomb in relative comfort. This is because a majority of early fighters struggle to reach these heights. One of the first aircraft in the game to break this tradition is the MiG-3-15 designed by and built at the Mikoyan-Gurevich manufacturing plant. The design of the MiG-3 specifically allocated it to be a high altitude interceptor, one that could out-pace a Bf 109 of the time at an altitude of 6,096 m (20,000 ft) by over 20 km/h (just under 20 mph). However, when flying at sea-level, the Mikulin AM-35A struggled to maintain pace with the 109 at 505 km/h (314 mph). At lower altitudes, especially in arcade battles, using WEP to gain altitude goes a long way. With only a couple of cycles of WEP, the MiG-3 pilot will find themselves comfortably sitting at 3,660 m (12,000 ft) where the Mikulin engine is in its element. It is here that the MiG-3-15 can continue to climb or can watch for unwary prey below which it can pounce on with Boom & Zoom tactics. Dogfighting in the MiG-3 can be difficult but is not impossible; the primary keys are to maintain energy and have plenty of altitude to work with. The MiG-3 is nowhere as agile as the Bf 109 or many other fighters and can seem quite stiff in the controls. Utilising engine control (speed), combat flaps and the aircraft's strong rudder, the MiG-3 can get out of some sticky situations or even position themselves on the tail of an enemy aircraft. Centrally located machine guns do not require configuring a convergence point and make it easier to target aircraft both right in front or those 600+ m away. Unfortunately, the MiG-3-15 only has a single 12.7 mm machine gun and two 7.62 machine guns to pummel their enemies. The guns while reliable tend not to jam, however, the low calibre of the ammunition requires decisive shots on the enemy pilot, engine or fuel tanks to be effective at all. Aircraft fuselage, especially those of bombers, can take a severe beating with these machine guns and show virtually no damage at all. On the other hand, engines, flesh and ignitable fuel area less forgiving against the machine gunfire. Due to the weaker nature of the machine gun ammunition, Stealth ammunition may provide the necessary amount of time to dial in on the enemy aircraft's weak points. This critical amount of time allows more shots before the enemy pilot can determine where the shots are coming from and then evade. Knowing the aircraft's weaknesses will help the pilot discover its strengths. While it is not as agile as its counterparts and contemporaries, it can be a battering ram in its own right. Underestimating a MiG-3 can lead another pilot to scratch their head in wonder as they try to figure out how they were shot down. It can also cause bomber pilots to immediately dive away when they realise a MiG-3-15 is bearing down on them.",
+ "image": "https://static.encyclopedia.warthunder.com/images/mig_3_series_1_15.png",
+ "weapons": [
+  "12.7 mm Berezin UBS machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "640"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "16"
+  },
+  {
+   "label": "Turn time",
+   "value": "24"
+  },
+  {
+   "label": "Max altitude",
+   "value": "12,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "AM-35A"
+  },
+  {
+   "label": "Length",
+   "value": "8.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "233 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.93"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.34 t (58m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "677 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 429 / 458 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "300 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "996 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.79 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "169 → 214"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 30 / 70 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,440"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/AP/IAI",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "11",
+    "7"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/API-T/IAI/IAI",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/AP-I/IAI",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-I(c)/AP-I/AP-I/API-T/IAI",
+   "penetration": [
+    "34",
+    "32",
+    "24",
+    "17",
+    "12",
+    "8"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/IAI",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AI/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

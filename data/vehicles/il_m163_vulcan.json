@@ -1,0 +1,120 @@
+{
+ "id": "il_m163_vulcan",
+ "wiki": "https://wiki.warthunder.com/unit/il_m163_vulcan",
+ "name": "Hovet",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "IV",
+ "br": {
+  "AB": "7.7",
+  "RB": "7.3",
+  "SB": "7.3"
+ },
+ "description": "Hovet (חובט - \"batsman\") was the Israeli designation for the American M163 VADS . The vehicle joined the Israeli Air Defense Command (IADC) in 1975, operating alongside the MIM-72 Chaparral which had been introduced a year earlier. It earned its first victory against an enemy target in the 1982 Lebanon War, and further served in the IDF for more than two decades until the IADC was disbanded, leading to the decommissioning of the Hovet and its modernised variant, Machbet . Introduced in Update \"Wind of Change\" along with the initial Israeli tech tree, the Hovet performs identically to its American counterpart. It is a fairly strong self-propelled gun, the main feature of which is its six-barreled M168 gun with a rate of fire of 3,000 rounds per minute. However, it lacks a search radar, and has a relatively low effective range. The M113 chassis offers minimal protection due to the aluminium alloy construction, but provides good mobility and manoeuvrability.",
+ "image": "https://static.encyclopedia.warthunder.com/images/il_m163_vulcan.png",
+ "weapons": [
+  "20 mm M168 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "38 / 44 / 38 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "117 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "64"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "18.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,200 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "26 → 20 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "3,000 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 80°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "52.5"
+  },
+  {
+   "label": "Repair cost",
+   "value": "4,003 → 5,152"
+  },
+  {
+   "label": "Crew training",
+   "value": "68,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "140 / 170 / 230 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "71,200"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,900"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-I/HEI-T/API-T",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "20 mm HEFI-T",
+   "type": "HEI-T/HEF-I/API-T/HEF-I",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "20 mm API-T",
+   "type": "AP-I/API-T/HEF-I/API-T",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

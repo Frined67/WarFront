@@ -1,0 +1,128 @@
+{
+ "id": "germ_pzkpfw_iii_ausf_b",
+ "wiki": "https://wiki.warthunder.com/unit/germ_pzkpfw_iii_ausf_b",
+ "name": "Pz.III B",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The Panzerkampfwagen III Ausführung B (Panzer III B) (Sd.Kfz. Index: Sd.Kfz. 141 ) is the second variant of the Panzerkampfwagen III medium tank family. The Panzer III A variant's arrival into service provided the Germans with a foundation for the construction of an excellent medium tank. While the Germans were largely pleased with the overall concept and design, there was still plenty of space for enhancements and changes. The most serious flaw with the Panzer III A version was its unstable suspension. As a result, the Germans introduced a new variant, the Panzer III B, with the intention of improving the vehicle's suspension and other minor components. The commander's cupola was additionally enhanced by the addition of a new two-part hatch opening. The 37 mm Kampfwagenkanone (KwK) 36 L/46.5 tank gun with 121 rounds of ammo was the main armament of the Panzer III B variant. The secondary armament consisted of three 7.92 mm MG 34 light machine guns, two of which were mounted coaxially with the main gun and one in the hull. Despite being produced in small numbers, the Panzer III B variant saw service during the beginning of World War II. The Germans had no choice but to utilise the Panzer III B during the invasion of Poland in 1939 due to a lack of more advanced tanks. Introduced in Update 1.59 \"Flaming Arrows\" , the Panzer III B is a basic medium tank that will eventually evolve into more advanced Panzer III variants later in World War II. It is significantly weaker than many other tanks of its rank, being armed with a 37 mm KwK36 L/46.5 tank gun. The tank is made of light armour plates and will struggle to protect the tank crew even from close-range heavy machine guns fire. As a result, this tank is practically weak to almost all vehicles in its rank from any angle. Nonetheless, it is a fairly ordinary medium tank with very few advantages and should be used with caution in battle.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_pzkpfw_iii_ausf_b.png",
+ "weapons": [
+  "37 mm KwK36 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "14 / 14 / 14 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "85 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "35"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "18.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "121 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.7 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "14"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,600 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 10 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,040"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "PzGr",
+   "type": "APHE",
+   "penetration": [
+    "47",
+    "44",
+    "31",
+    "21",
+    "14",
+    "9"
+   ]
+  },
+  {
+   "name": "PzGr 40",
+   "type": "APCR",
+   "penetration": [
+    "86",
+    "77",
+    "47",
+    "26",
+    "14",
+    "8"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

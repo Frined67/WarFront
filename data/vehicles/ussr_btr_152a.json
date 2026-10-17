@@ -1,0 +1,118 @@
+{
+ "id": "ussr_btr_152a",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_btr_152a",
+ "name": "BTR-152A",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The BTR-152A is the first variant of the BTR-152-based self-propelled anti-aircraft gun family. Two 14.5 mm KPVT heavy machine guns are mounted in a turret on a BTR-152 and are manually operated by a single soldier. The turret is installed inside the troop compartment and is manually reloaded by other soldiers. The BTR-152 is a Soviet armoured personnel carrier (APC) with six wheels based on the chassis and drive train of a ZIS-151 utility truck. Beginning in 1950, it saw service with several Warsaw Pact member states and served as the mainstay of Soviet motor rifle battalions until the 1960s. Introduced in Update 1.71 \"New E.R.A.\" , the BTR-152A offers strong anti-air capability during battles. Despite being armed with only two 14.5 mm KPVT heavy machine guns, they can cause significant damage to enemy aircraft. Some lightly armoured ground vehicles can also be destroyed or damaged by players. Overall, this is a strong and mobile anti-air platform that can protect teammates on the ground from enemy air strikes.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_btr_152a.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "13 / 10 / 8 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "100 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "83"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,200 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 89°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "32.2"
+  },
+  {
+   "label": "Repair cost",
+   "value": "678 → 879"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 50 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,410"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Universal",
+   "type": "AP-I/API-T/IAI",
+   "penetration": [
+    "39",
+    "37",
+    "27",
+    "18",
+    "13",
+    "9"
+   ]
+  },
+  {
+   "name": "14.5 mm API-T",
+   "type": "API-T/AP-I(c)/API-T/IAI",
+   "penetration": [
+    "49",
+    "46",
+    "34",
+    "23",
+    "16",
+    "11"
+   ]
+  },
+  {
+   "name": "14.5 mm IAI",
+   "type": "IAI/API-T",
+   "penetration": [
+    "38",
+    "35",
+    "25",
+    "17",
+    "11",
+    "7"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

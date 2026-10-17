@@ -1,0 +1,206 @@
+{
+ "id": "g4m1",
+ "wiki": "https://wiki.warthunder.com/unit/g4m1",
+ "name": "G4M1",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "2.7",
+  "SB": "3.0"
+ },
+ "description": "The G4M , designated as the Type 1 Ground-based Attack Bomber ( 一式陸上攻撃機 ) , was a Japanese bomber that improved on the previous G3M model. It had high performance and long range, but it sacrificed armour and crew protection to reduce weight. This made it vulnerable to enemy fire and earned it the nickname \"flying lighter\". Despite its flaws, it was the most widely used and most famous bomber by Japan in World War II. It participated in many battles and missions, such as the sinking of the British battleships HMS Prince of Wales and HMS Repulse in 1941, and the bombing of Darwin in 1942. The G4M1 has been around since the Open Beta Test before Update 1.27. It can perform well as an attacker, especially later in the battle, because it can carry a lot of bombs (4 x 250 kg or 12 x 60 kg) and destroy many targets. However, bombing bases is risky, because the plane will be exposed to enemy fighters who will climb to intercept it. It is better off attacking ground targets like Light Pillboxes, tanks and guns, or ships with the 250 kg bombs. Climbing is not advisable in the G4M1, because it will need friendly fighters to cover it, but they will have to deal with the Allied planes first. The pilot has to be skilled with the rear gunner, or the plane will be shot down easily by an enemy behind it. The 20 mm cannon is powerful, but hard to hit with. The other guns on the G4M1 are weak, but use them if possible.",
+ "image": "https://static.encyclopedia.warthunder.com/images/g4m1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "452"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "7.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "32"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "313 m"
+  },
+  {
+   "label": "Crew",
+   "value": "7 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Kasei 15"
+  },
+  {
+   "label": "Length",
+   "value": "20 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "24.9 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "148 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "7.62"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "3.32 t (4h 34m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "540 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.8 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/5 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "250 / 399 / 428 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "300 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "360 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "535 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.14 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,328 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.13 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "465 → 632"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 70 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,950"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/HEF/APHE",
+   "penetration": [
+    "19",
+    "18",
+    "12",
+    "7",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "HEF-T/APHE/APHE/APHE/APHE",
+   "penetration": [
+    "21",
+    "20",
+    "13",
+    "8",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF/HEF-T/HEF/APHE/HEF-T",
+   "penetration": [
+    "21",
+    "20",
+    "13",
+    "8",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/Ball/AP/I/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

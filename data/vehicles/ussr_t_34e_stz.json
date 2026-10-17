@@ -1,0 +1,201 @@
+{
+ "id": "ussr_t_34e_stz",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_t_34e_stz",
+ "name": "T-34E STZ",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "4.3",
+  "RB": "4.3",
+  "SB": "4.3"
+ },
+ "description": "The T-34E STZ is an armoured modification of the T-34 (1941), which is the second variant of the T-34 medium tank family. When the Germans were confronted with the significantly better-protected T-34 medium tanks during Operation Barbarossa, they promptly began improving their current designs to combat it. In response, many early T-34 variations, such as the T-34E STZ (\"ehkranami\" - screened), had additional armour plates welded to the front in an attempt to improve the tank's protection. The frontal hull protection was significantly increased over the original T-34 (1941) variant . This modification was principally performed in the STZ factory in Stalingrad in January 1942. Introduced in Update 1.49 \"Weapons of Victory\" , the T-34E STZ is essentially an armoured derivative of the T-34 (1941) variant. It is not a distinct variant in and of itself since nothing was modified from the T-34 (1941) variant, except the addition of a thin armour plate to the frontal hull. The gameplay is nearly identical to those of the other early T-34 variants ( 1941 and 1942 ). With the same long-barrelled 76.2 mm F-34 tank gun and an extensive selection of ammunition, players will be glad to discover that the T-34E STZ is significantly better protected against adversaries from the front. While the T-34E STZ's increased armour substantially improves frontal protection, it does slow the tank down.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_t_34e_stz.png",
+ "weapons": [
+  "76 mm F-34 cannon",
+  "7.62 mm DT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "60 / 45 / 40 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "83 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "56"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "77 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "9 → 6.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 30°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "17.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,898 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "856 → 1,102"
+  },
+  {
+   "label": "Crew training",
+   "value": "9,200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 80 / 90 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "13,840"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "860"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-350A (MD-5 fuze)",
+   "type": "APHEBC",
+   "penetration": [
+    "87",
+    "85",
+    "77",
+    "69",
+    "62",
+    "55"
+   ]
+  },
+  {
+   "name": "OF-350M",
+   "type": "HE",
+   "penetration": [
+    "13",
+    "12",
+    "11",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "Sh-354T",
+   "type": "Shrapnel",
+   "penetration": [
+    "35",
+    "34",
+    "30",
+    "26",
+    "22",
+    "19"
+   ]
+  },
+  {
+   "name": "BR-350SP",
+   "type": "APBC",
+   "penetration": [
+    "99",
+    "96",
+    "87",
+    "76",
+    "66",
+    "58"
+   ]
+  },
+  {
+   "name": "BR-354P",
+   "type": "APCR",
+   "penetration": [
+    "125",
+    "117",
+    "87",
+    "60",
+    "41",
+    "28"
+   ]
+  },
+  {
+   "name": "BP-353A",
+   "type": "HEAT",
+   "penetration": [
+    "80",
+    "80",
+    "80",
+    "80",
+    "80",
+    "80"
+   ]
+  },
+  {
+   "name": "BR-350B (MD-8 fuze)",
+   "type": "APHEBC",
+   "penetration": [
+    "96",
+    "94",
+    "84",
+    "74",
+    "64",
+    "56"
+   ]
+  },
+  {
+   "name": "D-350A",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,189 @@
+{
+ "id": "uk_cruiser_ram_1",
+ "wiki": "https://wiki.warthunder.com/unit/uk_cruiser_ram_1",
+ "name": "Ram I",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "3.0",
+  "SB": "3.0"
+ },
+ "description": "By 1940, it had become apparent that Great Britain and the United States would be unable to fulfill Canada's needs for armored forces, prompting the country to manufacture tanks independently. Initially, the decision was made to have CPR manufacture British Valentine tanks. Ultimately, 1,420 tanks were built, but production was problematic. Most of the components were manufactured in Great Britain, so it would have been impossible to organize local production. The Canadians considered building M3 Lee tanks under license as a solution, but the idea was abandoned due to the tanks' outdated design. In early 1941, they decided to develop their own tank using the M3 chassis instead. The upper hull was made of cast metal, and a new cast turret was developed. Additionally, the driver's seat was moved to the other side. The tank was named the Ram . Montreal Locomotive Works (MLW) was appointed to oversee production. However, construction of the initial vehicles posed problems again: the engine and transmission were manufactured in the US and were in short supply. Since there were no more powerful guns available, the first 50 Ram I tanks were armed with a 40 mm cannon. These tanks were soon replaced in production by the Ram II , which had 57 mm guns. Unlike the Sexton self-propelled gun and the Ram Kangaroo armored personnel carrier, the tank versions of the vehicle did not see combat. The Canadian Ram I was introduced in Update 2.49 \"Tusk Force\" and is placed in the British ground research tree. While the tank has decent armor and a fast reload time, these advantages are offset by the poor armor penetration and low damage of the 40 mm gun.",
+ "image": "https://static.encyclopedia.warthunder.com/images/uk_cruiser_ram_1.png",
+ "weapons": [
+  "40 mm QF 2-pounder cannon",
+  "7.62 mm M1919A4 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "89 / 70 / 38 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "138 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "40"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "171 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.6 → 2.8 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "14"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 70°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "21"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,500 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "568 → 731"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 50 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,380"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Shot Mk.1 AP/T",
+   "type": "AP",
+   "penetration": [
+    "72",
+    "68",
+    "52",
+    "37",
+    "27",
+    "19"
+   ]
+  },
+  {
+   "name": "Shell Mk.2",
+   "type": "HE",
+   "penetration": [
+    "9",
+    "8",
+    "7",
+    "6",
+    "6",
+    "5"
+   ]
+  },
+  {
+   "name": "Shot Mk.IXB APCBC/T",
+   "type": "APCBC",
+   "penetration": [
+    "89",
+    "86",
+    "77",
+    "66",
+    "57",
+    "50"
+   ]
+  },
+  {
+   "name": "Shell Mk.1 AP/T",
+   "type": "APHE",
+   "penetration": [
+    "66",
+    "62",
+    "49",
+    "36",
+    "26",
+    "19"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

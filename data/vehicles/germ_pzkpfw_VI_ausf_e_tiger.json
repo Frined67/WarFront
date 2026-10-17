@@ -1,0 +1,202 @@
+{
+ "id": "germ_pzkpfw_VI_ausf_e_tiger",
+ "wiki": "https://wiki.warthunder.com/unit/germ_pzkpfw_VI_ausf_e_tiger",
+ "name": "Tiger E",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "heavy_tank",
+ "role": "Heavy tank",
+ "rank": "III",
+ "br": {
+  "AB": "6.0",
+  "RB": "6.0",
+  "SB": "6.0"
+ },
+ "description": "The Panzerkampfwagen VI \"Tiger\" was a German heavy tank from the period of World War II. The Henschel company developed it between 1937 and 1942. From August 1942 to August 1944, 1,355 Tiger tanks were built in a process known as serial production. The tank saw combat on all German fronts from autumn 1942 until the end of the war. Initially, it was designated the Ausf. H1. Following the introduction of the Tiger II in 1944, all Panzerkampfwagen VI Ausf. H1 vehicles were redesignated as Ausf. E and became commonly known as Tiger I. Throughout its production, the Tiger I underwent numerous significant and minor modifications. Starting with vehicle number 251, the tank was fitted with a new Maybach HL 230 P45 engine while the infantry grenade launchers were removed from the hull and turret. Starting in the second half of 1943 with vehicle number 391, the tank received a new commander's cupola with an MG 34 anti-aircraft machine gun mount and a revised layout for spare track links on the hull. Today, only around ten surviving examples remain in museums. The Tiger E was introduced in Update 1.47 \"Big Guns\" . It largely retained the armor protection and firepower of its predecessor, while gaining slightly improved engine performance and faster turret traverse, making it more mobile overall. Additionally, extra track links were added to the lower front plate to slightly increase survivability, and a machine gun was installed on the commander’s cupola for anti-aircraft defense. However, the armor without significant sloping remains vulnerable. For maximum effectiveness, the tank should be in a hull-down position or angled against incoming fire.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_pzkpfw_vi_ausf_e_tiger.png",
+ "weapons": [
+  "88 mm KwK36 cannon",
+  "7.92 mm MG34 machine gun",
+  "7.92 mm MG34 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "100 / 80 / 80 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "111 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "45"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "92 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "9.6 → 7.4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-8 / 16°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,400 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,100 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 25°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-55 / 158°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,948 → 2,529"
+  },
+  {
+   "label": "Crew training",
+   "value": "39,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "90 / 140 / 160 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "35,000"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "PzGr 39",
+   "type": "APCBC",
+   "penetration": [
+    "165",
+    "162",
+    "151",
+    "139",
+    "127",
+    "117"
+   ]
+  },
+  {
+   "name": "Sprgr. L/4.5",
+   "type": "HE",
+   "penetration": [
+    "18",
+    "18",
+    "17",
+    "15",
+    "14",
+    "13"
+   ]
+  },
+  {
+   "name": "Pzgr.",
+   "type": "APCBC",
+   "penetration": [
+    "153",
+    "151",
+    "140",
+    "128",
+    "116",
+    "106"
+   ]
+  },
+  {
+   "name": "Hl.Gr 39",
+   "type": "HEAT",
+   "penetration": [
+    "110",
+    "110",
+    "110",
+    "110",
+    "110",
+    "110"
+   ]
+  },
+  {
+   "name": "PzGr 40",
+   "type": "APCR",
+   "penetration": [
+    "211",
+    "207",
+    "191",
+    "172",
+    "155",
+    "140"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

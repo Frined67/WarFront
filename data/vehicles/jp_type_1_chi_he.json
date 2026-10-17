@@ -1,0 +1,165 @@
+{
+ "id": "jp_type_1_chi_he",
+ "wiki": "https://wiki.warthunder.com/unit/jp_type_1_chi_he",
+ "name": "Chi-He",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The Chi-He was a tank designed to streamline the design of the Chi-Ha Kai and improve on armour and engine power. While the streamlining of the design featured welded armour instead of riveted armour, a 5th crew member and slightly more armour, the final design only weighed 1.5 tons more than the Chi-Ha Kai. Production only caught on in 1943 due to the Navy's priority in raw materials and all Chi-He's were reserved for the defence of the Home Islands. While the Chi-He did improve on the Chi-Ha Kai, it didn't improve enough to compete with the likes of a M4 Sherman, and served its hull to build the Type 3 Chi-Nu . It was introduced in Update 1.65 \"Way of the Samurai\" along with the initial Japanese Ground Forces Tree. Featuring better armour, slightly better mobility with the same 47 mm Type 1 gun as its Chi-Ha Kai predecessor, the Chi-He is an enjoyable tank to play in the early ranks of the game. Stick to allies and use mobility to get to the point with other fast vehicles. Use its good gun depression to hide behind hills and snipe enemies. With its good reverse speed, it can easily get out of nasty situations or hide quickly.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_type_1_chi_he.png",
+ "weapons": [
+  "7.7 mm Type 97 machine gun",
+  "7.7 mm Type 97 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 25 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "44"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "14"
+  },
+  {
+   "label": "Ammunition",
+   "value": "121 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.3 → 3.3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 70°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "566 → 728"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 50 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,390"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Type 1 APHE",
+   "type": "APHE",
+   "penetration": [
+    "77",
+    "75",
+    "67",
+    "58",
+    "50",
+    "44"
+   ]
+  },
+  {
+   "name": "Type 1 HE",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "9",
+    "8",
+    "7",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

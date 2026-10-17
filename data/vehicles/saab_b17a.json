@@ -1,0 +1,337 @@
+{
+ "id": "saab_b17a",
+ "wiki": "https://wiki.warthunder.com/unit/saab_b17a",
+ "name": "B17A",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "2.0"
+ },
+ "description": "In the late 1930s, the Swedish Air Force was looking to replace their ageing Fokker S 6 biplane reconnaissance aircraft with a newer aircraft. Work began by ASJA and was designated as the L 10, however in 1939 after merging with Saab, the designation was changed to Saab 17 . Though only serving for a few short years with the Swedish Air Force due to the advent of turbojet aircraft, the B17 continued to serve with other countries for another 20 years. The B17A was the first production variant of the Saab 17, it was also the one with most units built, at 132, it was powered by an Svenska Flygmotor AB-built STWC-3 (Pratt & Whitney R-1830-S1C3G Twin Wasp) radial engine. The powerplant had to be changed in the B17B, however the new engine was more reliable. Introduced in Update 1.95 \"Northern Wind\" . Much like its predecessor in the tech tree, the B17B , the B17A is a manoeuvrable and relatively fast attacker, and the fastest of all B17s. The offensive armament is very normal for its BR, however it has access to a good payload with enough bombs to be a threat in ground RB for players and to destroy several AI units in air matches. In air RB, the 250 kg and 500 kg bombs are more suited to deal with the heavier tanks, but in air matches the 50 kg bombs are enough to destroy most AI units. The vehicle however can feel a bit sluggish, the defensive armament is not strong enough to deter other fighters from intercepting you and it will easily be outmanoeuvred by biplanes.",
+ "image": "https://static.encyclopedia.warthunder.com/images/saab_b17a.png",
+ "weapons": [
+  "8 mm Ksp m/22 Fv machine gun",
+  "8 mm Ksp m/22 Fh machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "435"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.5"
+  },
+  {
+   "label": "Turn time",
+   "value": "19"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "STWC3"
+  },
+  {
+   "label": "Length",
+   "value": "9.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "13.7 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "115 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.81"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.43 t (1h 34m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "620 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.8 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 369 / 387 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.25 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.25 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "300 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "520 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "260 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "339 → 427"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 60 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,940"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/AP/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/T/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "T/I/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/AP/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/T/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "T/I/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/T",
+   "penetration": [
+    "5",
+    "4",
+    "2",
+    "1",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "T/I/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

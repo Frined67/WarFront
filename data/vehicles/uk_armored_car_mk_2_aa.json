@@ -1,0 +1,118 @@
+{
+ "id": "uk_armored_car_mk_2_aa",
+ "wiki": "https://wiki.warthunder.com/unit/uk_armored_car_mk_2_aa",
+ "name": "AEC AA",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "II",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "3.3"
+ },
+ "description": "In 1941, the Associated Equipment Company (AEC) created a chassis for an armoured car based on their Matador artillery tractor, drawing on experience gained while fighting Italian armoured cars in North Africa. The prototype was shown at the Cavalry Guard Parade and impressed Churchill, after which a contract was signed initially for 120 units, and ultimately 629 were produced between 1942 and 1943. They were used in battles in North Africa, sometimes alongside the Staghound. The main modifications to the vehicle used the QF 2-pounder, QF 6-pounder, and QF 75 mm guns. In 1944, a prototype SPAA on an AEC chassis was built using a Crusader AA Mk II turret featuring two 20 mm Oerlikon automatic cannons. However, due to the Allies' widespread air superiority, it did not enter mass production. Introduced in Update 1.55 \"Royal Armour\" along with the initial British ground tree, the AEC AA is a fairly effective wheeled anti-aircraft gun with good protection. It packs quite the punch, able to be used effectively against both aircraft and light armour. Its armour provides decent protection even against heavy machine guns, while its wheeled chassis has mediocre cross-country ability but high speed, which can help avoid enemy attention if position changes are frequent enough.",
+ "image": "https://static.encyclopedia.warthunder.com/images/uk_armored_car_mk_2_aa.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "31 / 25 / 14 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "90 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "67"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.8 → 6 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "450 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 87°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "28"
+  },
+  {
+   "label": "Repair cost",
+   "value": "653 → 847"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 50 / 70 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,410"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/HEF-I/AP-T",
+   "penetration": [
+    "38",
+    "35",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "20 mm HE",
+   "type": "HEFI-T/HEF-I/HEF-I",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "20 mm AP",
+   "type": "AP-T",
+   "penetration": [
+    "38",
+    "35",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

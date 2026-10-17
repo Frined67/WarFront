@@ -1,0 +1,166 @@
+{
+ "id": "ussr_garford_putilov",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_garford_putilov",
+ "name": "Garford",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "With the outbreak of the Great War in 1914, Russia found itself in need of large quantities of military hardware. After observing the success of armored cars on the Western Front, the Imperial Russian Army developed a series of armored cars based on existing commercial chassis. One such design was the Garford–Putilov armoured car , a heavy armored car based on the chassis of the American Garford 5-ton truck. The Garford, rather simple in design, consisted of an armored cab built over the truck chassis. Unlike other armored cars at the time that were armed only with machine guns, the Garford was armed with the 76.2 mm Model 1910 gun as well as three Maxim machine guns, intended to be used against fortifications and in assault roles. After 48 units were produced between 1915 and 1916, the Garford proved itself to be a valuable asset due to its mechanical reliability. However, it was plagued by an overweight chassis and poor off-road mobility. Despite its small production run, the Garford saw relatively long service life, including examples captured by Germany and some being used in the subsequent Russian Civil War. Introduced during Update \"Hornet's Sting\" as a reward for the 2025 \"The Great War!\" event , the Garford is an archaic armored car based on a truck chassis, with very poor mobility and barely enough armor to resist small-calibre machine guns. Being designed before armored warfare came into being, the Garford was ill-equipped to deal with tanks and armored vehicles. The 76.2 mm gun was designed solely to deal with infantry and emplacements, and as such it does not have access to AP shells. Instead, it only has HE and shrapnel shells, both of which can only damage thin-skinned vehicles such as its contemporaries or unarmored AAs, on top of having abysmal shell velocity. Because of this, the Garford should only be played as a support tank to deal with less-protected enemies, as the vehicle is unable to hold its own.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_garford_putilov.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "6 / 6 / 6 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "70 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "18"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "3.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "44 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 15°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-125 / 140°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "10.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-4 / 10°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-80 / 1°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "42"
+  },
+  {
+   "label": "Repair cost",
+   "value": "105 → 136"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "76 mm Granata",
+   "type": "HE",
+   "penetration": [
+    "24",
+    "24",
+    "21",
+    "18",
+    "16",
+    "14"
+   ]
+  },
+  {
+   "name": "76 mm Shrapnel",
+   "type": "Shrapnel",
+   "penetration": [
+    "18",
+    "17",
+    "16",
+    "14",
+    "12",
+    "10"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AI/AP-I/AP-I/AP-I/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AI/AP-I/AP-I/AP-I/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

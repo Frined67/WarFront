@@ -1,0 +1,242 @@
+{
+ "id": "p-36g",
+ "wiki": "https://wiki.warthunder.com/unit/p-36g",
+ "name": "P-36G",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The P-36G Hawk , also known by its export designation H-75A-8 Hawk , was a variant of the Curtiss P-36 Hawk originally built as an export fighter for the Norwegian Air Force. This variant of the P-36 is unique for featuring the Wright R-1820-95 Cyclone engine with 1,200 hp, as well as increasing the main armament to a pair of 12.7 mm and four 7.62 mm Browning MGs. However, when Norway was invaded and occupied by Germany in June 1940, there was nowhere to deliver the aircraft and, as a result, 30 of the produced aircraft were transferred to the \"Little Norway\" training camp in Ontario, Canada, for the Norwegian Air Force in exile. These aircraft were later sold back to the USAAF and received the designation \"P-36G\". The P-36Gs were later transferred to Peru in 1943 under the Lend-Lease agreement. Introduced in Update 1.35 , the P-36G is a further up-gunned variant of the P-36C, with sufficient firepower to tackle most of its targets. While the P-36G retains the impressive handling of its predecessor, being able to compete with the likes of the Bf 109 or the Hurricanes , its top speed remains the same. This often results in it being easily caught by most of its opponents. While the P-36G has improved survivability against small-calibre guns thanks to additional armour plates and the removal of wing fuel tanks, the P-36's airframe fares poorly against large-calibre machine guns and autocannons, which become increasingly common.",
+ "image": "https://static.encyclopedia.warthunder.com/images/p-36g.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "501"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "17"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,754 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "182 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "R-1820-95"
+  },
+  {
+   "label": "Length",
+   "value": "8.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "122 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.3"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.38 t (1h 19m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "770 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.78 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "232 / 447 / 488 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "290 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "400 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.55 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "353 → 447"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 60 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,930"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP/AP/T/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP/T/T/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

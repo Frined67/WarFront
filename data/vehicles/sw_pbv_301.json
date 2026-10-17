@@ -1,0 +1,118 @@
+{
+ "id": "sw_pbv_301",
+ "wiki": "https://wiki.warthunder.com/unit/sw_pbv_301",
+ "name": "Pbv 301",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The Pbv 301 was a Swedish infantry fighting vehicle based on ageing Strv m/41 hulls that were no longer intended for service. The rebuilding of these hulls was tasked to Hägglund & Söner, to create a vehicle able to safely carry a squad of eight fully equipped soldiers for use by the Swedish Army. A total of 220 Strv m/41s were converted to the Pbv 301, which had a short service life but provided valuable lessons for the upcoming Pbv 302 that would replace them. Able to carry eight soldiers, the Pbv 301 was also equipped with an oscillating casing housing a 20 mm Akan m/45B cannon taken from old decommissioned J21A-2 s to provide direct fire support for the infantry, enabling them to engage both hostile infantry and lightly armoured vehicles. Infantry could also fight from inside the vehicle via two hatches on the roof, which provided cover for the Pbv 301 if the main armament was occupied with other targets. It served from 1962 as troop transport for armoured brigades until it was phased out in the early 1970s in favour of the newer Pbv 302. Introduced in Update \"Direct Hit\" , the Pbv 301 is a fully enclosed infantry fighting vehicle within the Swedish Army's beginner ranks. The Pbv 301 has a low profile, allowing players to simply hide behind obstacles to avoid unwanted attention from adversaries. The weapon has a high rate of fire and can attack both ground targets and low-flying aircraft. Furthermore, it is outfitted with hull-mounted smoke grenades, enabling retreat in difficult situations - a feature unique among its counterparts. However, due to its incredibly low crew count (just two crew members), the chances of surviving penetrating shots are poor. Finally, since the vehicle has a high reload time, it is critical for players to conserve ammunition throughout combat.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_pbv_301.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "15 / 8 / 8 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "45"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13"
+  },
+  {
+   "label": "Ammunition",
+   "value": "480 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "725 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 48°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "21"
+  },
+  {
+   "label": "Repair cost",
+   "value": "428 → 579"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 40 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,930"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/HEF/HEF",
+   "penetration": [
+    "38",
+    "36",
+    "27",
+    "20",
+    "14",
+    "10"
+   ]
+  },
+  {
+   "name": "20 mm HE",
+   "type": "HEF",
+   "penetration": [
+    "4",
+    "4",
+    "3",
+    "2",
+    "2",
+    "2"
+   ]
+  },
+  {
+   "name": "slpgr m/42",
+   "type": "AP-T",
+   "penetration": [
+    "38",
+    "36",
+    "27",
+    "19",
+    "13",
+    "9"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

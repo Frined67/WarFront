@@ -1,0 +1,106 @@
+{
+ "id": "it_40_43m_zrinyi_2",
+ "wiki": "https://wiki.warthunder.com/unit/it_40_43m_zrinyi_2",
+ "name": "Zrinyi II",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The 43M Zrínyi II was a Hungarian World War II assault gun inspired by the German success with the StuG III. Like the StuG, a versatile self-propelled gun built on the chassis of a medium tank, the Hungarians decided to create their own version using the Hungarian Turán tank's chassis. The project was named Zrínyi, after a famous Hungarian noble family and military leader, Miklós Zrínyi. The plan was to produce two variants of the Zrínyi: one with a 75 mm anti-tank gun ( Zrínyi I ), and one with a 105 mm howitzer for assault operations (Zrínyi II). Around 72 Zrínyi IIs were built and the vehicle saw combat fighting against the Soviets on the Eastern Front and in the defence of Hungary. The production of Zrínyi IIs was severely slowed due to Hungarian factories being targeted by a serious Allied strategic bombing campaign. The Zrinyi II was introduced in Update \"Sons of Attila\" as part of the Hungarian subtree in the Italian tech tree. Armed with a powerful 105 mm howitzer, this low-profile Hungarian tank destroyer with adequate frontal armour is a dangerous opponent for almost any enemy tank it might face, whilst still retaining the decent mobility, excellent reverse speed and smoke grenades of the Turán series.",
+ "image": "https://static.encyclopedia.warthunder.com/images/it_40_43m_zrinyi_2.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "75 / 25 / 25 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "65 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "40"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "11.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "52 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "13 → 10 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-7 / 16°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-10 / 10°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Repair cost",
+   "value": "593 → 770"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 60 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,390"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "105 mm 38/33M",
+   "type": "HE",
+   "penetration": [
+    "27",
+    "27",
+    "27",
+    "27",
+    "27",
+    "27"
+   ]
+  },
+  {
+   "name": "105 mm 42M",
+   "type": "HEAT",
+   "penetration": [
+    "120",
+    "120",
+    "120",
+    "120",
+    "120",
+    "120"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

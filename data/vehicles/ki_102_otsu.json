@@ -1,0 +1,278 @@
+{
+ "id": "ki_102_otsu",
+ "wiki": "https://wiki.warthunder.com/unit/ki_102_otsu",
+ "name": "Ki-102 Otsu",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "3.3",
+  "SB": "3.3"
+ },
+ "description": "The Ki-102 otsu , designated (by personnel) as Type 4 Assault Aircraft ( 四式襲撃機 ) was a Japanese twin-engine, two-seat, ground-attack aircraft that entered service in 1944. It was the main variant of the Ki-102, which was itself derived from the Ki-45. The Ki-102 otsu had a 57 mm cannon in the nose, two 20 mm cannons in the belly, and a 12.7 mm machine gun in the rear. It was designed to attack enemy ground targets with its powerful armament. The Ki-102 otsu saw limited action in the Okinawa campaign but was mostly kept in reserve to defend Japan from the expected Allied invasion. It was introduced in Update 1.35 . The Ki-102 otsu can be used in two ways: as its intended ground attacker role or as an ad-hoc bomber hunter. For ground attack, the Ki-102 otsu can destroy light and unarmoured targets with its 57 mm cannon, then return to base or use its 20 mm guns for more targets or self-defense. It also has a 12.7 mm rear gun to fend off enemy fighters. For bomber hunting, the Ki-102 otsu can fire its 57 mm cannon from a distance or get close and unleash its 20 mm guns on large and heavy bombers. The 57 mm cannon is powerful but inaccurate, so it is better to fire single shots than bursts. The Ki-102 otsu should avoid the gunner fire of the bombers and attack from a safe angle.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ki_102_otsu.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "580"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "19.5"
+  },
+  {
+   "label": "Turn time",
+   "value": "24.5"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "450 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Ha-112"
+  },
+  {
+   "label": "Length",
+   "value": "11.4 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "15.7 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "213 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "6.09"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.14 t (57m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "762 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.79 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/9 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 / 409 / 438 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "310 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "16 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "80 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "2.07 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "400 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "850 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.38 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.53 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "471 → 627"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 70 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,390"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "P/HEF",
+   "penetration": [
+    "28",
+    "26",
+    "22",
+    "17",
+    "13",
+    "10"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF",
+   "penetration": [
+    "6",
+    "6",
+    "6",
+    "6",
+    "6",
+    "6"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "P",
+   "penetration": [
+    "28",
+    "26",
+    "22",
+    "17",
+    "13",
+    "10"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "HEF-I/P/AP-T",
+   "penetration": [
+    "27",
+    "25",
+    "17",
+    "10",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "HEF-I/HEF-I/AP-T",
+   "penetration": [
+    "27",
+    "25",
+    "17",
+    "10",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP-T/HEF-I",
+   "penetration": [
+    "27",
+    "25",
+    "17",
+    "10",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "27",
+    "25",
+    "17",
+    "10",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF-I/HEF-I/HEF-I/P",
+   "penetration": [
+    "16",
+    "13",
+    "8",
+    "6",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/AP/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-T/AP/AP-T",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEF-I/HEF-I/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

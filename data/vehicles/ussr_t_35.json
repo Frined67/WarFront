@@ -1,0 +1,210 @@
+{
+ "id": "ussr_t_35",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_t_35",
+ "name": "T-35",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "heavy_tank",
+ "role": "Heavy tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "The T-35 was one of many interwar period multi-turreted tanks built by various countries. Unfortunately, the use of multiple turrets proved worse in combat than using just a single one, so such tanks were abandoned. The T-35 was the first and only five-turreted tank in the world. Designed in the 1930s, the T-35 was basically an enlarged T-28 , with a crew of ten instead of six. Unfortunately, the T-35 was plagued with mechanical problems and failures, such as a weak engine, cramped crew compartments, and thin armour of up to only 30 mm. Only 59 were produced between 1934 and 1939. Its last combat usage was recorded during the Battle of Kharkov in 1941. A single example has survived and is now located in the Kubinka Tank Museum, in running condition. Introduced in Update 1.43 , the T-35 possesses a crew of 10, allowing it to survive a few shots that would otherwise be lethal for other vehicles. Unfortunately, the T-35's main gun is a low-velocity KT-28 howitzer. The gun itself has problems penetrating most opponents, so using the front turret-mounted 45 mm 20-K cannon is advised instead. The 45 mm 20-K is able to pierce up to 58 mm of armour using its BR-243 APHEBC shell, which is sufficient for most opponents. Despite being a heavy tank, the T-35 is protected only by 30 mm of armour from the front, 23 mm on the sides, and 20 mm at the rear, making the tank vulnerable even to 12.7 mm machine gun fire. The T-35 is also powered by a very weak engine, resulting in very poor manoeuvrability, especially in urban areas, and a top speed of only 28 km/h.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_t_35.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "30 / 23 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "194 %"
+  },
+  {
+   "label": "Crew",
+   "value": "10 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "28"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "9.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "96 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "15.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "226 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.8 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-8 / 32°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-50 / 123°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "10.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,780 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,520 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 15°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-130 / 10°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "17.5"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,307"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,400"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (30 / 30 / 40) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Sh-353",
+   "type": "Shrapnel",
+   "penetration": [
+    "18",
+    "17",
+    "15",
+    "13",
+    "12",
+    "10"
+   ]
+  },
+  {
+   "name": "OF-350M",
+   "type": "HE",
+   "penetration": [
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11"
+   ]
+  },
+  {
+   "name": "BR-350A (MD-5 fuze)",
+   "type": "APHEBC",
+   "penetration": [
+    "37",
+    "37",
+    "34",
+    "30",
+    "27",
+    "25"
+   ]
+  },
+  {
+   "name": "BR-240",
+   "type": "APHEBC",
+   "penetration": [
+    "70",
+    "67",
+    "58",
+    "47",
+    "39",
+    "32"
+   ]
+  },
+  {
+   "name": "BR-240SP",
+   "type": "APBC",
+   "penetration": [
+    "73",
+    "70",
+    "60",
+    "50",
+    "41",
+    "34"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

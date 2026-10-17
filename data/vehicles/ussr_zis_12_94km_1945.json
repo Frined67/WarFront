@@ -1,0 +1,118 @@
+{
+ "id": "ussr_zis_12_94km_1945",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_zis_12_94km_1945",
+ "name": "ZiS-12 (94-KM)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "II",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.3",
+  "SB": "3.0"
+ },
+ "description": "The ZIS-12 (94-KM) is the first and only variant of the ZIS-12-based self-propelled anti-aircraft gun family. The ZIS-12 is an extended long wheelbase modification of the ZIS-5, a 4x2 Soviet truck manufactured by the Moscow ZIS factory from 1932 to 1948. During World War II, two 25 mm 72-K autocannons in a twin configuration were installed on the back of the ZIS-12 to provide deterrence against enemy aircraft for ground units. Introduced in Update 1.57 \"Battle March\" , the ZIS-12 (94-KM) plays similarly to the GAZ-MM (72-K) . While they are not based on the same platform, their roles in battle are similar. The twin 25 mm 72-K autocannons provide a high rate of fire against enemy aircraft. Armour-piercing ammunition belts are also available to players, allowing them to engage lightly armoured targets. Although it is capable of carrying a large pool of ammunition to battles, players should avoid wasting ammunition in continuous firing as the high rate of fire quickly depletes the available ammunition.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_zis_12_94km_1945.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "0 / 0 / 0 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "78 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "51"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "23.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "560 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "0.3 → 0.2 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "240 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 85°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "24.5"
+  },
+  {
+   "label": "Repair cost",
+   "value": "852 → 1,105"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "60 / 60 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,340"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/FI-T",
+   "penetration": [
+    "57",
+    "54",
+    "44",
+    "34",
+    "27",
+    "21"
+   ]
+  },
+  {
+   "name": "25 mm FI-T",
+   "type": "FI-T",
+   "penetration": [
+    "7",
+    "7",
+    "6",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "25 mm AP-T",
+   "type": "AP-T",
+   "penetration": [
+    "57",
+    "54",
+    "44",
+    "34",
+    "27",
+    "21"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

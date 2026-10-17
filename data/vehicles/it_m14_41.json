@@ -1,0 +1,161 @@
+{
+ "id": "it_m14_41",
+ "wiki": "https://wiki.warthunder.com/unit/it_m14_41",
+ "name": "M14/41",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "I",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The Carro Armato M14/41 was an Italian medium tank from World War II. Essentially a modified version of the M13/40 tank, it was designed to address operational issues encountered in North Africa. The tank was equipped with a more powerful engine, additional fuel and air filters, and improved electrical systems. Approximately 750 of these tanks were produced between 1941 and 1943, with the first models converted from M13/40 tanks. While no longer the most modern or reliable vehicle of its time, the tank was used in the North African campaign and to defend Italy against the Allied invasion. A number of them were also operated by Allied forces and the Wehrmacht. The M14/41 was introduced in Update 1.85 \"Supersonic\" . It stands out in battle for its good mobility, rate of fire, and decent gun. However, it has a large silhouette, mediocre armor, and slow turret rotation speed.",
+ "image": "https://static.encyclopedia.warthunder.com/images/it_m14_41.png",
+ "weapons": [
+  "8 mm Breda Mod. 38 machine gun",
+  "8 mm Breda Mod. 38 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "30 / 25 / 25 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "81 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "33"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "11"
+  },
+  {
+   "label": "Ammunition",
+   "value": "87 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.8 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,536 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,536 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "318 → 409"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 30 / 30 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Granata Perforante mod.35",
+   "type": "APHE",
+   "penetration": [
+    "50",
+    "47",
+    "37",
+    "27",
+    "20",
+    "15"
+   ]
+  },
+  {
+   "name": "Granata Perforante mod.39",
+   "type": "APHE",
+   "penetration": [
+    "48",
+    "47",
+    "41",
+    "35",
+    "30",
+    "26"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

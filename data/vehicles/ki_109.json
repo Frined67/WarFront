@@ -1,0 +1,218 @@
+{
+ "id": "ki_109",
+ "wiki": "https://wiki.warthunder.com/unit/ki_109",
+ "name": "Ki-109",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "2.0",
+  "SB": "2.3"
+ },
+ "description": "The Ki-109 is based on the Mitsubishi Ki-67 heavy bomber, refitted as an interceptor in an attempt to counter the American high-altitude bombing raids that devastated Japan. It is armed with a 75 mm anti-aircraft gun modified for aircraft use, and almost all defensive armament from the bomber version has been stripped, except for the tail turret, to maximize performance. This bomber-interceptor was introduced in Update 1.71 \"New E.R.A.\" . Its 75 mm gun is effective against bombers but should not be used on agile fighters or fast-moving vehicles. The Ki-109's defensive armament is poor, and conflicts with fighters should be avoided at all costs. Alternatively, the 75 mm gun is also effective against tanks if a clean hit can be obtained.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ki_109.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "550"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.9"
+  },
+  {
+   "label": "Turn time",
+   "value": "20"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,300 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "650 m"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Ha-104"
+  },
+  {
+   "label": "Length",
+   "value": "18.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "22.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "161 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "9.03"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.57 t (1h 40m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "650 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.67 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -2/6 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "250 / 399 / 428 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "300 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "15 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "21 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "2.17 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.53 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "236 → 321"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 40 / 90 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEI-T/APHE",
+   "penetration": [
+    "83",
+    "82",
+    "75",
+    "67",
+    "60",
+    "54"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "APHE",
+   "penetration": [
+    "83",
+    "82",
+    "75",
+    "67",
+    "60",
+    "54"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "HEI-T",
+   "penetration": [
+    "17",
+    "17",
+    "15",
+    "14",
+    "12",
+    "11"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "APHE",
+   "penetration": [
+    "113",
+    "111",
+    "103",
+    "93",
+    "84",
+    "76"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/AP/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-T/AP/AP-T",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEF-I/HEF-I/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

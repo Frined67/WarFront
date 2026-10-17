@@ -1,0 +1,220 @@
+{
+ "id": "do_17e_1",
+ "wiki": "https://wiki.warthunder.com/unit/do_17e_1",
+ "name": "Do 17 E-1",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.3"
+ },
+ "description": "The Do-17 was a light bomber developed by Dornier for the Luftwaffe. It was originally designed very early in the 1930s and saw combat during the Spanish Civil War and, subsequently, World War II. It was developed as a \"Schnellbomber\" (fast bomber), and it can be clearly seen in its design. Its almost pencil-like airframe earned the Do 17 the nickname \"flying pencil\". Its fuselage made it a relatively hard target to hit from directly behind and helped it reach a respectable top speed of 338 km/h (210 mph). The E-1 was fitted with two BMW VI V12 engines, which produced around 739 hp each. The thin fuselage, which helped with performance, unfortunately came with the drawback of a relatively low bomb load. The E-1 comes armed with an offensive 7.92 mm machine gun and is defended by two turrets also utilizing 7.92 mm machine guns. Introduced in Update 1.51 \"Cold Steel\" , the Do 17 E-1 is a decently fast bomber. At its battle rating, many enemy fighters will struggle to catch up to the Do 17 in a dive thanks to its structural speed limit of 640 km/h (397 mph). This is also the Do 17's best defense against enemy fighters since it has very weak defensive armament. There is a single 7.92 mm machine gun turret mounted on top of the fuselage and another 7.92 mm machine gun turret mounted on the bottom. These have limited firing angles, and it will be difficult to quickly take down enemy opponents that get close. Since the Do 17 was optimized for speed, it also has a relatively weak bomb load and can only carry up to 500 kg of bombs.",
+ "image": "https://static.encyclopedia.warthunder.com/images/do_17e_1.png",
+ "weapons": [
+  "7.92 mm MG 15 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "357"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "4.8"
+  },
+  {
+   "label": "Turn time",
+   "value": "33"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "350 m"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x IV 7.3"
+  },
+  {
+   "label": "Length",
+   "value": "16.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "18 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "114 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "5.45"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.84 t (3h 15m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "640 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/7 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "320 / 469 / 498 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "450 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "375 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,125"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "104 → 131"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 30 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-I/AP-T/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

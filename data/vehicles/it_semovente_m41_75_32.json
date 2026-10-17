@@ -1,0 +1,130 @@
+{
+ "id": "it_semovente_m41_75_32",
+ "wiki": "https://wiki.warthunder.com/unit/it_semovente_m41_75_32",
+ "name": "75/32 M41",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The 75/32 M41 was an Italian self-propelled gun. During the North African campaign, the Royal Italian Army encountered Allied armored vehicles that the M13/40 and M14/41 tanks could not counter. While the 75/18 M41 assault guns, produced since 1941, could effectively engage enemy vehicles, as this required HEAT shells with a short effective range. The Italian Army High Command therefore tasked FIAT with creating a more advanced self-propelled gun with suitable armament for engaging enemy armored vehicles. While it was being developed, the military took the initiative and, in 1943, modernized several M41 self-propelled guns by mounting the 75/32 Modello 37 anti-tank gun on them. This gun was essentially an extended version of the 75/18 Modello 34. Plans were in place to modernize most of the self-propelled gun fleet, but production halted at around 20 vehicles due to the introduction of the more advanced 75/34 M42 . The self-propelled guns initially saw action as part of the Ariete II Tank Division. After Italy’s surrender, the Wehrmacht captured them and used them until the end of the war. The 75/32 M41 was introduced in Update 1.85 \"Supersonic\" . It is a small tank destroyer with a good gun equipped with HEAT rounds. However, its armor is weak, its mobility is inferior to that of other similar self-propelled guns, the main gun’s reload time is slow, and it lacks a machine gun for clearing obstacles and engaging unarmored vehicles.",
+ "image": "https://static.encyclopedia.warthunder.com/images/it_semovente_m41_75_32.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "30 / 25 / 27 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "62 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "33"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "11"
+  },
+  {
+   "label": "Ammunition",
+   "value": "43 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.8 → 6 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-12 / 22°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-18 / 18°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Repair cost",
+   "value": "600 → 742"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 60 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,410"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Granata Perforante mod.32",
+   "type": "APCBC",
+   "penetration": [
+    "77",
+    "75",
+    "66",
+    "57",
+    "49",
+    "42"
+   ]
+  },
+  {
+   "name": "Granata mod.32",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "Gr. Fumogena",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "EPS M42",
+   "type": "HEAT",
+   "penetration": [
+    "100",
+    "100",
+    "100",
+    "100",
+    "100",
+    "100"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

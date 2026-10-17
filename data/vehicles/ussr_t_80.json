@@ -1,0 +1,153 @@
+{
+ "id": "ussr_t_80",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_t_80",
+ "name": "T-80",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The T-80 was a Soviet light tank developed from the T-70. As the crew of T-70 was only two men, this proved difficult when operating, as the commander was also gunner, loader, and radio operator at the same time, causing an overwhelm of duties and inability to perform all of the tasks at the same time. The Soviets tried to solve this issue by adding a third crew member into the T-70, the redesigned turret allowing for higher elevation and more space to fit the additional crew member was added to the existing T-70 hull. Unlike the T-70's turret, the turret of the T-80 was less armoured with 35 mm thick armour overall, however, the hull sides were strengthened from 15 to 25 mm; the rest of the armour remained unchanged. The increased weight was compensated by installing a stronger version of the engine used in the T-70. Unfortunately, by the time the T-80 appeared, lend-lease equipment was abundant and the scouting role was given to armoured cars instead. All light tank production was ceased in October 1943 after 120 T-80 tanks were built. After the reorganization of the Red Army in November 1943, the light tanks were replaced by T-34 medium tanks. No new light tanks were designed until the post-war period with the PT-76 . The T-80 was introduced during the Closed Beta Test for Ground Forces before Update 1.41. An upgrade over the T-70 , the T-80 introduces a larger turret, allowing for an extra crew member to shorten the reload time and increase the tank's survivability in the battlefield. As the armour of T-70 was already inadequate at times, the opponents the T-80 faces make the armour protection even more meaningless. The crew placement allows for disabling the tank by killing entire crew in single hit centre mass into the vehicle. The tank also suffers from very poor traverse speed of only 4.2° per second.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_t_80.png",
+ "weapons": [
+  "45 mm 20-K cannon",
+  "7.62 mm DT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "35 / 25 / 25 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "73 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "45"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "14.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "94 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.2 → 2.5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-8 / 65°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "4.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,071 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "316 → 431"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 30 / 40 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,910"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-240",
+   "type": "APHEBC",
+   "penetration": [
+    "70",
+    "67",
+    "58",
+    "47",
+    "39",
+    "32"
+   ]
+  },
+  {
+   "name": "O-240",
+   "type": "HE",
+   "penetration": [
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "BR-240SP",
+   "type": "APBC",
+   "penetration": [
+    "73",
+    "70",
+    "60",
+    "50",
+    "41",
+    "34"
+   ]
+  },
+  {
+   "name": "BR-240P",
+   "type": "APCR",
+   "penetration": [
+    "94",
+    "87",
+    "64",
+    "43",
+    "29",
+    "20"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

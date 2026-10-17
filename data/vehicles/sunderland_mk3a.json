@@ -1,0 +1,262 @@
+{
+ "id": "sunderland_mk3a",
+ "wiki": "https://wiki.warthunder.com/unit/sunderland_mk3a",
+ "name": "Sunderland Mk IIIa",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "II",
+ "br": {
+  "AB": "2.0",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "The Short S.25 Sunderland is a British flying boat patrol bomber developed during the flying boat boom of the interwar period. First designed as a spin-off project of the Short Empire flying boat airliner in 1934, in response to specification R.2/33, calling for a new-generation flying boat patrol aircraft. The Sunderland made its first flight on 16 October 1937; during testing, the second prototype demonstrated its capabilities by performing a record-breaking continuous flight to Singapore in 1938. Due to its impressive range and short refuelling time, the Sunderland was accepted for service that year and went on to make a name for itself as the main anti-submarine patrol aircraft of the RAF during World War II. The Sunderland Mk IIIa is the most produced version of the flying boat, featuring a revised hull to improve seaworthiness, as well as provisions for additional defensive armaments. In total, 461 of the Sunderland Mk III were built. Introduced in Update 1.57 \"Battle March\" , the Sunderland Mk IIIa is a traditional flying boat: very large and slow, with good defensive capabilities. Due to most of the enemies that the Sunderland faces being only armed with small-calibre machine guns, the Sunderland’s large hull is capable of taking several hits. Unlike other flying boats, the Sunderland features unique offensive capabilities in the form of four machine guns mounted in the nose. However, due to the Sunderland's poor speed and agility, attempting to use these guns against air targets is not recommended.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sunderland_mk3a.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "394"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "6.5"
+  },
+  {
+   "label": "Turn time",
+   "value": "35"
+  },
+  {
+   "label": "Max altitude",
+   "value": "6,096 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "740 m"
+  },
+  {
+   "label": "Crew",
+   "value": "7 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "4 x Pegasus XVIII"
+  },
+  {
+   "label": "Length",
+   "value": "28.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "34.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "173 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "15.65"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "8.22 t (9h 41m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "414 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.65 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -2/3 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "204 / 232 / 395 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "454 → 613"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 80 / 160 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,940"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/AP-I/Ball/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/AP-I/Ball/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP-I/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/AP-I/Ball/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP-I/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

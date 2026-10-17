@@ -1,0 +1,178 @@
+{
+ "id": "md_454_mystere_4a_iaf",
+ "wiki": "https://wiki.warthunder.com/unit/md_454_mystere_4a_iaf",
+ "name": "Mystere IVA",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "VI",
+ "br": {
+  "AB": "9.0",
+  "RB": "8.7",
+  "SB": "8.7"
+ },
+ "description": "The first contact between Israel and the Mystere IVA came from an order for 24 units placed in 1955 and 12 were delivered on April of 1956, while the other 12 planes were sent April 23. Another 36 planes would be flown in Operation 'Shaharit'. Israel operated 61 Mystere IVAs in total. During the Suez Crisis, Israeli Mysteres flew 147 sorties, losing only 1 aircraft and claiming several Egyptian MiG-15s and de Havilland Vampires Introduced in Update \"Winged Lions\" , the Mystere IVA is a strong aircraft for dogfighting if it has enough energy. It deals excellent damage with its 2 x 30 mm DEFA cannons that can destroy aircraft in a few shots. As a dogfighter, it bleeds a lot of energy in manoeuvres at low speeds (less than 700 km/h). Pilots should prioritize staying at high speeds above 850 km/h in order to retain good fighting capabilities and have enough speed to dodge missiles if necessary. The lack of acceleration and cruise speed favours a passive styles over a more aggressive style.",
+ "image": "https://static.encyclopedia.warthunder.com/images/md_454_mystere_4a_iaf.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "1,109"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "37"
+  },
+  {
+   "label": "Turn time",
+   "value": "25"
+  },
+  {
+   "label": "Max altitude",
+   "value": "13,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "800 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Verdon-350"
+  },
+  {
+   "label": "Length",
+   "value": "12.9 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "240 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "6.03"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.66 t (28m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "1,166 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "1.05 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "408 / 586 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "447 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "300 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "5.03 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,860 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "980 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,265 → 4,437"
+  },
+  {
+   "label": "Crew training",
+   "value": "120,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "130 / 380 / 600 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "128,900"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,400"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/HEI/HEF",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "HEI/API-T/API-T/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF/HEI/HEF/HEI/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF/HEI",
+   "penetration": [
+    "4",
+    "4",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

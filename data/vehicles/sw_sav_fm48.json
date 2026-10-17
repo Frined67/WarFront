@@ -1,0 +1,98 @@
+{
+ "id": "sw_sav_fm48",
+ "wiki": "https://wiki.warthunder.com/unit/sw_sav_fm48",
+ "name": "SAV 20.12.48",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "III",
+ "br": {
+  "AB": "4.0",
+  "RB": "4.0",
+  "SB": "4.0"
+ },
+ "description": "The SAV 20.12.48 was a private venture by Bofors to design a next generation assault gun for both export purposes and indigenous use following WWII. The main goal was to make a light and manoeuvrable armoured vehicle with a 12 cm autocannon, capable of dealing with both soft targets and enemy tanks. A prototype was built during the late 1940s but no one was willing to buy it in a world that was littered in cheap surplus military vehicles and the project was scrapped. Introduced in Update 1.95 \"Northern Wind\" as a premium pack in the Gaijin store, the SAV 20.12.48 is a very fast vehicle with a low silhouette that can easily manoeuvre around the map and flank enemies. It is armed with the aforementioned 12 cm autocannon of Bofors design and has a fire rate of 50 rounds per minute, meaning a reload speed of 1.2 seconds between shots, which is the highest in the game for its calibre. The gun's velocity however is subpar and requires good aim and close quarters combat to be effective. Another result of the low velocity is subpar penetration, but because of the vehicle's high mobility, coupled with the gun's high rate of fire and powerful ammunition, it has no trouble taking on any type of vehicle that it may come across during conventional matches. The SAV 20.12.48 was removed from sale after the 2022 May sale . It was briefly made available for purchase with Golden Eagles during the 2023 \"Swedish Armed Forces Day\" , 2023 \"Swedish Home Guards Day\" mini-events, and was brought back as a GE Premium in the 2024 \"Swedish Armed Forces Day\" and the 2024 \"Swedish National Security Forces Day\" mini-events.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_sav_fm48.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "30 / 15 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "69 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "48"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "20"
+  },
+  {
+   "label": "Ammunition",
+   "value": "62 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "1.2 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 25°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-15 / 15°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "10.5"
+  },
+  {
+   "label": "Repair cost",
+   "value": "600"
+  },
+  {
+   "label": "Crew training",
+   "value": "10,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (70 / 105 / 135) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "hpgr M/50",
+   "type": "APCBC",
+   "penetration": [
+    "95",
+    "94",
+    "89",
+    "84",
+    "79",
+    "75"
+   ]
+  },
+  {
+   "name": "sgr M/50Z",
+   "type": "HE",
+   "penetration": [
+    "28",
+    "28",
+    "28",
+    "28",
+    "28",
+    "28"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

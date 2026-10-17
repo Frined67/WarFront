@@ -1,0 +1,141 @@
+{
+ "id": "us_m22_locust",
+ "wiki": "https://wiki.warthunder.com/unit/us_m22_locust",
+ "name": "M22",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The M22 , also known as the Light Tank (Locust) M22, is a World War II airborne light tank designed by the U.S. Army for the British Airborne Forces. In 1941, the British War Office requested that the American government design a purpose-built airborne light tank that could be transported by military glider into the battlefield to provide direct armoured fire support for the British Airborne Forces. The British War Office had previously decided that the British Airborne Forces would be equipped with the Light Tank Mark VII \"Tetrarch\" . However, as the Light Tank Mark VII \"Tetrarch\" had not been designed specifically for airdrop operations, the British War Office determined that a new tank would be necessary. The M22 was one of the smallest tanks ever manufactured by the U.S., having a three-crew configuration. The commander, who also took on the role of loader, was stationed in the turret with the gunner, while the driver was stationed on the right side of the hull. The initial order of around 1,900 M22 tanks was cancelled later during World War II, resulting in only a total of 830 units being produced. Introduced in Update 1.45 \"Steel Generals\" , the M22 delivers a new experience for U.S. Army ground forces gamers based on a different doctrine. The M22, with its low profile, takes full advantage of any mountainous terrain while scouting enemies for friendly units. The M22 has acceptable firepower, comparable to other light tanks in the U.S. Army's early ground forces. However, as the tank was designed to be lightweight, a vertical stabilizer is not integrated into the main gun position, making accurate fire on the move difficult.",
+ "image": "https://static.encyclopedia.warthunder.com/images/us_m22_locust.png",
+ "weapons": [
+  "37 mm M6 cannon",
+  "7.62 mm M1919A4 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "25 / 12 / 12 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "62 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "56"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "25.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "50 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.7 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 30°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "14.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,500 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "179 → 230"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,430"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M74B1 shot",
+   "type": "AP",
+   "penetration": [
+    "79",
+    "76",
+    "65",
+    "54",
+    "45",
+    "37"
+   ]
+  },
+  {
+   "name": "M63 shell",
+   "type": "SAPHEI",
+   "penetration": [
+    "32",
+    "31",
+    "26",
+    "21",
+    "16",
+    "13"
+   ]
+  },
+  {
+   "name": "M51B1 shot",
+   "type": "APCBC",
+   "penetration": [
+    "87",
+    "84",
+    "73",
+    "60",
+    "50",
+    "41"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

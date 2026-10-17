@@ -1,0 +1,182 @@
+{
+ "id": "p-40e_china",
+ "wiki": "https://wiki.warthunder.com/unit/p-40e_china",
+ "name": "␗P-40E-1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.7",
+  "SB": "2.3"
+ },
+ "description": "The P-40E-1 (China) is a Chinese fighter. It was introduced in Update 1.91 \"Night Vision\" . Other than the lovely emerald green camouflage, this P-40E-1 is identical to the original US version . Succeeding the P-66 in the Chinese air tree, the P-40E-1 is not dissimilar, having good firepower and protection but rather average flying characteristics. Its six M2 Browning heavy machine guns, a typical armament for US fighters, pack a hefty punch and can rip targets apart despite being limited to early-war belts. It can also carry bombs for ground attack. While it is often outperformed by contemporary aircraft, the Warhawk is still a formidable opponent when flown carefully.",
+ "image": "https://static.encyclopedia.warthunder.com/images/p-40e_china.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "560"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "21"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,555 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "342 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "V-1710-39"
+  },
+  {
+   "label": "Length",
+   "value": "9.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "175 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.44"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.4 t (1h 20m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "819 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.78 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "245 / 530 / 595 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "300 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,686"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.55 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "487 → 612"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 80 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,400"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP/AP/T/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

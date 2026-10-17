@@ -1,0 +1,276 @@
+{
+ "id": "ju-88a-4_finland",
+ "wiki": "https://wiki.warthunder.com/unit/ju-88a-4_finland",
+ "name": "▄Ju 88 A-4",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "II",
+ "br": {
+  "AB": "3.3",
+  "RB": "3.0",
+  "SB": "2.7"
+ },
+ "description": "The Ju 88 A-4 (Sweden) was a multirole combat aircraft with a twin engine configuration, this specific variant was placed under Finnish service in 1943. The A-4 variant was a very much needed improvement, longer wingspan, redesigned wingtips, stronger defensive armament, a more powerful engine, external bomb racks and reinforced undercarriage. Finland bought 24 Ju 88s during April 1943 and they were assigned to the No.44 squadron that was already experienced in twin engine bombers. The aircraft wasn't liked by the crews however, due to its complexity, crews stayed on the ground during most of 1943 in training, doing just a handful of raids and bombing missions into enemy territory. It was introduced in Update \"Fire and Ice\" . The Ju 88 A-4 (Sweden) is just like its German counterpart, being very capable at dive bombing and horizontal bombing, it has good speed for a bomber as well as air brakes to lose that speed quickly. It is a formidable bomber that its even capable of destroying bases in air matches, with a total payload of 2,400 kg, the defensive armament is also very decent and you can destroy some aircraft that try to intercept you. However it has some downsides, for example, while the defensive armament is good, it has a blind spot below the fuselage, since it does not have ventral gunners aiming down, the offensive armament is also extremely bad, with a single light machine gun facing forward.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ju-88a-4_finland.png",
+ "weapons": [
+  "7.92 mm MG 81 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "455"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "6.8"
+  },
+  {
+   "label": "Turn time",
+   "value": "30"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,800 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "530 m"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Jumo 211J"
+  },
+  {
+   "label": "Length",
+   "value": "14.4 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "18.3 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "199 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "9.65"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.22 t (2h 13m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "675 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.68 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/8 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 429 / 458 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "310 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "750 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,100 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.19 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,596 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.27 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,800 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,596 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.27 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "2,450 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "1,025 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "690 → 870"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 90 / 180 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,440"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-I/AP-T/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-I/AP-T/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

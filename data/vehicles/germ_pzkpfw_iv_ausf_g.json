@@ -1,0 +1,164 @@
+{
+ "id": "germ_pzkpfw_iv_ausf_g",
+ "wiki": "https://wiki.warthunder.com/unit/germ_pzkpfw_iv_ausf_g",
+ "name": "Pz.IV G",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "3.7"
+ },
+ "description": "The Panzerkampfwagen IV Ausführung G (Panzer IV G) (Sd.Kfz. Index: Sd.Kfz. 161/2 ) is the seventh variant of the Panzerkampfwagen IV medium tank family. The Panzer IV G variant effectively changed the Panzer IV's overall combat purpose. While all previous variants were primarily meant to engage fortifications and entrenched positions in support of the infantry, the Panzer IV G was the first entirely new variant to receive a significant increase in firepower against armoured targets. Previously, Panzer IIIs were usually assigned to such tasks. Aside from its rearmament with the long-barrelled 75 mm Kampfwagenkanone (KwK) 40 L/43 tank gun, relatively few modifications were made to its overall design in comparison to the earlier Panzer IV F2 variant . The production of this variant began in 1942, considerably assisting the German armoured divisions in fighting more effectively against the well-armoured enemy tanks on the Eastern Front and in North Africa. Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Panzer IV G variant is very identical to the previous Panzer IV F2 variant except for three obvious differences. To begin, the thickness of the hull frontal armour was increased from 50 mm to 80 mm. Second, the previous Panzer IV F2 variant's ball-shaped muzzle brake was replaced with the more common double-chambered muzzle brake type. Third, since the new Panzer IV G's first operational employment was during the North African Campaign during intense skirmishes with British forces, the tank was painted in the unique Dunkelgelb yellow coat. Small changes, such as the addition of smoke grenade launchers on either side of the turret, were also made, giving players the chance to hide from enemy sight when the situation becomes complicated. Otherwise, the gameplay is identical to the previous Panzer IV F2 variant.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_pzkpfw_iv_ausf_g.png",
+ "weapons": [
+  "7.92 mm MG34 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "80 / 30 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "98 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "40"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "87 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "638 → 920"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 60 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,430"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "PzGr 39",
+   "type": "APCBC",
+   "penetration": [
+    "137",
+    "135",
+    "123",
+    "110",
+    "98",
+    "87"
+   ]
+  },
+  {
+   "name": "Sprgr. 34",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "Hl.Gr 38B",
+   "type": "HEAT",
+   "penetration": [
+    "80",
+    "80",
+    "80",
+    "80",
+    "80",
+    "80"
+   ]
+  },
+  {
+   "name": "PzGr 40",
+   "type": "APCR",
+   "penetration": [
+    "163",
+    "159",
+    "143",
+    "126",
+    "110",
+    "96"
+   ]
+  },
+  {
+   "name": "K.Gr.Rot Nb.",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

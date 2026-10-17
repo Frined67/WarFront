@@ -1,0 +1,118 @@
+{
+ "id": "jp_m42_duster",
+ "wiki": "https://wiki.warthunder.com/unit/jp_m42_duster",
+ "name": "▅M42",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "III",
+ "br": {
+  "AB": "4.3",
+  "RB": "4.0",
+  "SB": "4.0"
+ },
+ "description": "The M42 (Japan) was purchased by the JSDF to replace the aging M19 in the 1960s. While the Type 87 was still in development, only a few M42s were bought, due to the high development cost of the Type 87. Even though the Type 87 was adopted in 1987, the M42 stayed in service until 1994 to fill the ranks. The M42 (Japan) was introduced along with the initial Japanese Ground Forces tree in Update 1.65 \"Way of the Samurai\" . It is identical in characteristics to the American M42 . Its twin 40 mm Bofors guns and exposed crew make the M42 quite a mediocre anti-aircraft vehicle, with relatively slow-firing guns that make it hard to quickly get a hit, and low protection that any aircraft can strafe to pieces. However, this SPAA is quite fast and can relocate and get to a different position quite quickly.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_m42_duster.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "12 / 12 / 12 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "108 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "72"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "22.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "480 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "0.6 → 0.5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "120 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-3 / 85°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "28"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,525 → 1,963"
+  },
+  {
+   "label": "Crew training",
+   "value": "22,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "80 / 100 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "24,700"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,100"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/FI-T",
+   "penetration": [
+    "72",
+    "69",
+    "58",
+    "46",
+    "37",
+    "29"
+   ]
+  },
+  {
+   "name": "40 mm Mk.II",
+   "type": "FI-T",
+   "penetration": [
+    "9",
+    "8",
+    "7",
+    "6",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "40 mm M81A1",
+   "type": "AP-T",
+   "penetration": [
+    "72",
+    "69",
+    "58",
+    "46",
+    "37",
+    "29"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

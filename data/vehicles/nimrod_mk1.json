@@ -1,0 +1,162 @@
+{
+ "id": "nimrod_mk1",
+ "wiki": "https://wiki.warthunder.com/unit/nimrod_mk1",
+ "name": "Nimrod Mk I",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The Nimrod Mk I was a single-seat, carrier-borne biplane fighter of composite structure, this aircraft was created by Hawker Aircraft Ltd and based on the Hawker Fury land-based fighter. In early 1930, Hawker Aircraft Ltd built two prototypes, which initially had the unofficial name of \"Norn\", at their own expense. In early 1931, the first Hawker Nimrod prototype was sent on the aircraft carrier HMS Eagle to Buenos Aires as part of the British Empire Trade Exhibition. By 1932, Nimrod Mk.I fighters began to replace the Fairey Flycatcher in Great Britain's Fleet Air Arm squadrons. The Nimrod's armament consisted of two synchronized 0.303 inch Vickers Mk.IV machine guns with 600 rounds each mounted on the forward fuselage. The aircraft was able to carry up to 80 lb (36 kg) of bombs on underwing hardpoints; usually this was made up of four 20 lb (9 kg) bombs. It has been in the game since the start of the Open Beta Test prior to Update 1.27. The Nimrod Mk I has inadequate speed, but makes up for it with an excellent climb rate that will get it above most other biplanes. It is also a highly manoeuvrable. Being slow makes it easy prey to faster fighters. Like Fury Mk I , Fury Mk II , and Nimrod Mk II , the Nimrod Mk I is lacking in firepower, only armed with two Vickers E (7.7 mm) machine guns. Enemies to be aware of are aircraft like I-15 and Ki-10 which are able to out-turn the Nimrod and in the case of the I-15 being able to outgun it.",
+ "image": "https://static.encyclopedia.warthunder.com/images/nimrod_mk1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "394"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "15.7"
+  },
+  {
+   "label": "Turn time",
+   "value": "16"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,100 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "231 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Kestrel IIS"
+  },
+  {
+   "label": "Length",
+   "value": "8.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "13.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "57 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.44"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.16 t (1h 11m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "600 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/11 G"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,690"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/IAI/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "I/AP/AP/AP/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

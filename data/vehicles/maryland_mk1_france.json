@@ -1,0 +1,218 @@
+{
+ "id": "maryland_mk1_france",
+ "wiki": "https://wiki.warthunder.com/unit/maryland_mk1_france",
+ "name": "Martin 167-A3",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.3"
+ },
+ "description": "In December 1937, the U.S. Army Air Corps issued a requirement for an attack aircraft that could carry more than 540 kilograms of bombs and fly more than 1,900 kilometers at speeds exceeding 320 kilometers per hour. Glenn L. Martin was one of the many companies that offered its aircraft. The company sent the military its Model 167 , which was later designated the XA-22. However, the Army Air Corps preferred the Douglas DB-7 , which was selected for service. Although Glenn L. Martin did not receive any orders in the US, there were buyers abroad. One such country was France, which needed to quickly strengthen its air force due to the tense situation in Europe. In the late 1930s, France placed an order for 200 Model 167Fs, which featured a Wright R-1820 Cyclone engine instead of a Pratt & Whitney R-1830-37 Twin Wasp and French equipment, including metric instruments in the cockpit. In France, the new aircraft was designated the Martin 167 A-3 . However, due to an American embargo and other delays, the aircraft did not begin arriving in the French Air Force until early 1940. By the start of the French campaign, only four bomber squadrons had been equipped with the aircraft. In total, about 215 aircraft were delivered to France. Only 4% of the aircraft were lost in 400 sorties, a much better result than the 16% loss rate of the LeO 451 . Immediately after the Second Compiègne Armistice, all combat-ready Martin 167s were evacuated to North Africa to avoid capture by the Germans. One landed in Spain and was interned, while the rest fought against Great Britain during the Vichy regime, particularly in the Syrian-Lebanese operation. In 1943, after Operation Torch, the aircraft were replaced by another Martin product, the B-26 Marauder . The Martin 167 A-3 was introduced in Update 1.77 \"Advancing Storm\" . It is a fast, maneuverable bomber with a good climb rate. However, it has weak defensive armament, a small bomb load, and no armor.",
+ "image": "https://static.encyclopedia.warthunder.com/images/maryland_mk1_france.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "479"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "9"
+  },
+  {
+   "label": "Turn time",
+   "value": "21"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,600 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "350 m"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x R-1830-S1C3-G"
+  },
+  {
+   "label": "Length",
+   "value": "14.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "18.7 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "134 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "5.66"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.01 t (1h 27m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "574 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.72 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/9 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "210 / 307 / 326 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "278 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,350 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "950 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "330 → 446"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 60 / 110 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,940"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/Ball/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "IT/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "IT/AP-I/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

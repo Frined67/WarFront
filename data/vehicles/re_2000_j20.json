@@ -1,0 +1,182 @@
+{
+ "id": "re_2000_j20",
+ "wiki": "https://wiki.warthunder.com/unit/re_2000_j20",
+ "name": "J20",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "1.7"
+ },
+ "description": "The J20 is a Swedish export variant of the Italian Re.2000 serie 1 . The purchase of Re.2000 serie 1 aircraft was due to the US stopping the sales of any sort of military aircraft to foreign operators. Thus, Sweden acquired 60 units of the aircraft, with Hungary being the second biggest foreign operator. The J20's engine proved to be very unreliable, but it was still liked by its crew, thanks to its good flying characteristics and stable performance in Sweden's harsh conditions. During World War II, the fighter was used by fighter wing F 10 at Malmö and had the task of intercepting any aircraft that violated the neutral Swedish airspace. A single unit was shot down in 1945 intercepting a German Dornier Do 24 near Sölvesborg. Introduced in Update 1.95 \"Northern Wind\" , the J20 behaves exactly the same as the Italian Re.2000 serie 1 . The aircraft has an amazing climb rate, outperforming many other fighters at its BR. It is a good energy fighter when it is used with its climb rate in consideration and it can also be very decent as a turn fighter thanks to its low turn time. Its biggest issue is the weak armament, only two 12.7 mm MGs and the compression at relatively medium speeds (only 400 km/h). The aircraft also has full engine controls for its use if necessary, but this is only advised for very skilled pilots.",
+ "image": "https://static.encyclopedia.warthunder.com/images/re_2000_j20.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "529"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "16.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "16"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "220 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "P.XI. R.C. 40"
+  },
+  {
+   "label": "Length",
+   "value": "8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "130 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.36"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.26 t (1h 3m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "740 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -9/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 429 / 458 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "314 → 422"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 60 / 140 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,930"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "I/AP/I/T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "I/I/AP/T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T",
+   "penetration": [
+    "9",
+    "8",
+    "4",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

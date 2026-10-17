@@ -1,0 +1,304 @@
+{
+ "id": "do_17z_7",
+ "wiki": "https://wiki.warthunder.com/unit/do_17z_7",
+ "name": "Do 17 Z-7",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "The Dornier Do 17 Z-7 Kauz I (Screechowl I) was a night fighter variant of the Dornier Do 17 light bombers. Conceived in 1940 after the Do 17’s successors, the Do 215 and Do 217 , entered service, the Z-7 series was a conversion plan for existing Do 17s – by that time an obsolete design – to be repurposed into a multi-purpose night fighter tasked with intercepting enemy bombers at low altitudes while also being capable of supporting ground troops when needed. Despite facing increasingly modern opposition, the Z-7s were used extensively throughout World War II, in particular as an interceptor against Allied bombing raids against Germany. In total, 420 Do 17Zs of all variants were built or converted. The Do 17 Z-7 was introduced in Update 1.53 \"Firestorm\" . A night fighter conversion of the Do 17 schnellbomber , the Z-7 retained most of its handling characteristics. The Z-7 is capable of outrunning most early tier aircraft, though it is generally outclassed by more advanced monoplanes in uptiers. However, being a converted design, the Z-7 suffers from poor manoeuvrability, climb rate, as well as the tendency for its wings to rip off in hard manoeuvres. On the other hand, the Z-7 features heavy firepower for its rank, which is more than capable of dismantling any enemy it will face. In addition, the Z-7 is capable of carrying the same amount of small bombs as the E-1 variant, making it capable of close air support when needed.",
+ "image": "https://static.encyclopedia.warthunder.com/images/do_17z_7.png",
+ "weapons": [
+  "20 mm MG 151 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "448"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10"
+  },
+  {
+   "label": "Turn time",
+   "value": "34"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "350 m"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Bramo 323P"
+  },
+  {
+   "label": "Length",
+   "value": "15.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "18 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "154 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "6.62"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.83 t (4h 39m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "620 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -2/5 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "300 / 454 / 480 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "350 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "400 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.29 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,125"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "114 → 146"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,960"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "IT/IT/APHE/HEI",
+   "penetration": [
+    "20",
+    "18",
+    "10",
+    "5",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "IT/HEI/HEI/AP-I",
+   "penetration": [
+    "27",
+    "24",
+    "14",
+    "7",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-I/HEI/HEI/HEI/HEI/IT",
+   "penetration": [
+    "27",
+    "24",
+    "14",
+    "7",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "APHE/APHE/APHE/IT",
+   "penetration": [
+    "20",
+    "18",
+    "10",
+    "5",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "FI-T/FI-T/FI-T/IT/IT",
+   "penetration": [
+    "10",
+    "9",
+    "5",
+    "3",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI/HEI/HEI/APHE/AP-I",
+   "penetration": [
+    "27",
+    "24",
+    "14",
+    "7",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-I/AP-T/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

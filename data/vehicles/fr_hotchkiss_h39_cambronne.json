@@ -1,0 +1,112 @@
+{
+ "id": "fr_hotchkiss_h39_cambronne",
+ "wiki": "https://wiki.warthunder.com/unit/fr_hotchkiss_h39_cambronne",
+ "name": "H.39 \"Cambronne\"",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The Char léger modèle 1935 (Hotchkiss) H modifié 39 “Cambronne” 14èBCC is a special Char léger modèle 1935 (Hotchkiss) H modifié 39 of the French Army's 14ème Bataillon de Chars de Combat. It is part of the larger 2e Division Cuirassée of the French Army, which was founded during World War II and participated in the Battle of France in 1940. Introduced in Update 1.75 \"La Résistance\" as part of the 2017 \"Christmas Presents\" giveaway, the Char léger modèle 1935 (Hotchkiss) H modifié 39 \"Cambronne\" 14éBCC outperforms its predecessor in every way. It possesses a somewhat better main armament, thicker overall armour, and a far more powerful engine, which allows it to go remarkably fast on smooth terrain. Nonetheless, when compared to opponents from other countries, this vehicle falls short. While it travels rapidly in a straight line, it moves slowly over muddy terrain, and its narrow tracks slow it down significantly while travelling cross-country. It works best in urban situations as a close support tank, following allies while waiting for a good opportunity to engage the opponent.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_hotchkiss_h39_cambronne.png",
+ "weapons": [
+  "7.5 mm MAC 31 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "40 / 40 / 40 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "74 %"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "36"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "9.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "100 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-16 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,400 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "550 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "322"
+  },
+  {
+   "label": "Crew training",
+   "value": "150"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (15 / 15 / 40) %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,870"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Mle1938",
+   "type": "APC",
+   "penetration": [
+    "54",
+    "50",
+    "36",
+    "24",
+    "16",
+    "11"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

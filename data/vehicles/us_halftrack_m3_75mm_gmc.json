@@ -1,0 +1,130 @@
+{
+ "id": "us_halftrack_m3_75mm_gmc",
+ "wiki": "https://wiki.warthunder.com/unit/us_halftrack_m3_75mm_gmc",
+ "name": "M3 GMC",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "When the German Wehrmacht overrun France in 1940, the US Army began to re-evaluate their anti-tank strategy and inventory to face the Panzer Divisions. The result was the Tank Destroyer Branch in 1941 with its own dedicated tank destroyer vehicles to destroy German tanks. The urgency of setting up the branch caused the first vehicles to be more akin of an improvised weapon, resulting in the M3 Gun Motor Carriage (GMC), which consisted of a M3 half-track with a French 75 mm cannon installed on top. Despite the slapdash construction, the vehicle was approved for service and up to 2,200 were produced between 1941 to 1943, seeing combat in both the Pacific, North Africa, and Italian theaters. The M3 GMC would be slowly be replaced by the more powerful M10 GMC , equipped with the larger 3-inch M7 gun. The M3 GMC was introduced in Update 1.49 \"Weapons of Victory\" as an American tank destroyer. The half-track construction does not inspire confidence in the vehicle's survivability, but the 75 mm gun packs a punch at its rank placement. However, the 75 mm gun suffers from a prolonged reload time, requiring users to make careful shot placements and make sure they have tactics to stay safe during the reload time. The M3 GMC can be a complicated tank destroyer to play with its vulnerabilities, but can enable players to bring to battle a large gun capable of decimating the opponent it hits, a good weapon to bring against the occasional medium or heavy tanks that could be seen in Rank I battles.",
+ "image": "https://static.encyclopedia.warthunder.com/images/us_halftrack_m3_75mm_gmc.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "6 / 6 / 6 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "76"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "60 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.8 → 6 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 29°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-19 / 21°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "4.2"
+  },
+  {
+   "label": "Repair cost",
+   "value": "298 → 369"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 30 / 40 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M72 shot",
+   "type": "AP",
+   "penetration": [
+    "89",
+    "86",
+    "76",
+    "65",
+    "56",
+    "48"
+   ]
+  },
+  {
+   "name": "M48 shell",
+   "type": "HE",
+   "penetration": [
+    "11",
+    "11",
+    "10",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "M61 shot",
+   "type": "APCBC",
+   "penetration": [
+    "102",
+    "100",
+    "91",
+    "82",
+    "74",
+    "66"
+   ]
+  },
+  {
+   "name": "M89",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

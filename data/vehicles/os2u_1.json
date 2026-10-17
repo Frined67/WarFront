@@ -1,0 +1,204 @@
+{
+ "id": "os2u_1",
+ "wiki": "https://wiki.warthunder.com/unit/os2u_1",
+ "name": "OS2U-1",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The OS2U-1 \"Kingfisher\" was built by Vought-Sikorsky Aircraft Division as a catapult-launched observation floatplane designed to be used by various cruisers and battleships employed by the US Navy. It was a revolutionary design for its time, using spot welding construction, creating a smooth fuselage with reduced drag. The first prototype flew in 1938 and production started in early 1940. While its performance was modest, it soon replaced the previous Curtiss SOC Seagull thanks to its more modern airframe. The production model used a Pratt & Whitney R-985-48 radial engine. The OS2U-1 had a limited maximum range compared to the OS2U-3 , which was improved in said version with the fitting of additional self-sealing fuel tanks in the wings. As an observation aircraft, the OS2U-1 Kingfisher lacks the performance and armament to be very effective in frontline battles. It is not recommended to engage in direct combat with enemy fighters, instead opting to attack undefended ground targets. Following its intended role, it is very effective as a reconnaissance aircraft in naval matches. It has been in the game since the start of the Open Beta Test prior to Update 1.27 . It was previously made unavailable after it was removed from the research tree in Update 1.57 \"Battle March\" , however, in Update 14.11.18 it was returned, available for research after researching Rank II of American naval forces. In Update \"Winged Lions\" , the OS2U-1 also became available as a shipboard reconnaissance aircraft, able to be launched by some American naval vessels.",
+ "image": "https://static.encyclopedia.warthunder.com/images/os2u_1.png",
+ "weapons": [
+  "7.62 mm Browning machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "296"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "6.8"
+  },
+  {
+   "label": "Turn time",
+   "value": "33.1"
+  },
+  {
+   "label": "Max altitude",
+   "value": "5,950 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "304 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "R-985-48"
+  },
+  {
+   "label": "Length",
+   "value": "10.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.9 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "78 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.61"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.38 t (3h 23m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "405 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.55 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -18/18 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "160 / 309 / 338 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "97 → 131"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 30 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,820"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP/T/T/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

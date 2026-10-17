@@ -1,0 +1,206 @@
+{
+ "id": "sm_79_iar_italy",
+ "wiki": "https://wiki.warthunder.com/unit/sm_79_iar_italy",
+ "name": "S.M.79 B",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The S.M.79 B was an Italian-made medium bomber which served in the Romanian air force. In 1936, Romania showed interest in the Italian Savoia-Marchetti 79 triple-engined bomber, and asked the manufacturer if they could develop a twin-engined version. The work on the aircraft finished in 1939. Unlike the regular S.M.79, the S.M.79B had two locally built licensed versions of the French Gnome-Rhône K14 radial engine, which also powered the Romanian IAR-80 fighter. The nose section was redesigned, with the typical hump housing the forward-facing 12.7 mm machine gun being removed and the cockpit positioned above the fuselage, offering better all-around view compared to the base S.M.79. The nose received a glazing, improving the bombardier's view, and the tail was slightly enlarged. Due to having two engines, both climb rate and speed were decreased compared to the regular S.M.79. A total of 24 aircraft were ordered, later on another 80 were made locally by IAR, using German Jumo 211 engines. The S.M.79B was introduced in Update 1.69 \"Regia Aeronautica\" . The bomb load of the twin-engined version is same as their triple-engined counterpart, however the S.M.79B is notably slower, with worse climb rate and no offensive weaponry. The aircraft has no weaponry to defend against frontal attacks, and the angles the defensive weaponry can fire around the aircraft are very bad. Only the dorsal 12.7 mm machine gun features very good vertical angle of fire. The aircraft features very good horizontal and vertical manoeuvrability due to its large elevator surface area, however the elevator stiffens above 390 km/h.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sm_79_iar_italy.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "445"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "5.9"
+  },
+  {
+   "label": "Turn time",
+   "value": "35"
+  },
+  {
+   "label": "Max altitude",
+   "value": "7,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "580 m"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x 14K II c32"
+  },
+  {
+   "label": "Length",
+   "value": "16.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "21.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "156 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "7.26"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "2.39 t (5h 18m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "540 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.61 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/4 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 429 / 458 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "300 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.41 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "550 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,007 → 1,370"
+  },
+  {
+   "label": "Crew training",
+   "value": "9,200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "80 / 150 / 310 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "13,740"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "860"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/AP/AP/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "API-T/AP-I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP-I/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

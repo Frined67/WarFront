@@ -1,0 +1,165 @@
+{
+ "id": "germ_pzkpfw_iv_ausf_f",
+ "wiki": "https://wiki.warthunder.com/unit/germ_pzkpfw_iv_ausf_f",
+ "name": "Pz.IV F1",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "I",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The Panzerkampfwagen IV Ausführung F1 (Panzer IV F1) (Sd.Kfz. Index: Sd.Kfz. 161 ) is the early version of the sixth variant of the Panzerkampfwagen IV medium tank family. Several shortcomings in the Panzer IV E and prior variants were discovered by the time it went into production. The inadequate armour protection was the most apparent. While 50 mm thick frontal armour was planned for the Panzer IV E, it was not implemented by the start of production. When the Panzer IV F went into production in April 1941, it was achievable to install thicker, single-piece armour plates instead of the previous version's two weaker armour plates welded together. On the new Panzer IV F, minor structural improvements to the superstructure and chassis were also planned. Aside from this, the Panzer IV F would function as a support tank. It would be assigned to Panzer divisions to replace vehicles lost in earlier battles. Later, when the purpose of the Panzer III vs. Panzer IV was significantly revised, it was re-designated as the Panzer IV F1. The Panzer III was gradually phased out, and a new variant, the Panzer IV F2 , was assigned to anti-tank and infantry support roles. Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Panzer IV F1 was almost identical to the Panzer IV E. The sole difference was that the hull frontal armour plate was a single 50 mm plate rather than two separate 30 mm plates welded together. The protection and ammo selections are the same as the previous Panzer IV E variant. It was outfitted with the same short-barrelled 75 mm Kampfwagenkanone (KwK) 37 L/24 tank gun as the previous Panzer IV C, thus gameplay should be identical. However, this concept was modified and significantly changed when the Panzer IV F began to serve as an tank platform as well, resulting in the revised Panzer IV F2 variant.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_pzkpfw_iv_ausf_f.png",
+ "weapons": [
+  "75 mm KwK37 cannon",
+  "7.92 mm MG34 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 30 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "98 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "43"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "80 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.3 → 3.3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,700 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "300 → 409"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 30 / 30 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "K.Gr.rot Pz.",
+   "type": "APCBC",
+   "penetration": [
+    "52",
+    "51",
+    "45",
+    "39",
+    "34",
+    "30"
+   ]
+  },
+  {
+   "name": "Sprgr. 34",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "Hl.Gr 38B",
+   "type": "HEAT",
+   "penetration": [
+    "80",
+    "80",
+    "80",
+    "80",
+    "80",
+    "80"
+   ]
+  },
+  {
+   "name": "Hl.Gr 38C",
+   "type": "HEAT",
+   "penetration": [
+    "115",
+    "115",
+    "115",
+    "115",
+    "115",
+    "115"
+   ]
+  },
+  {
+   "name": "K.Gr.Rot Nb.",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

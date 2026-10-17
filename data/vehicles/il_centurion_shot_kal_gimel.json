@@ -1,0 +1,214 @@
+{
+ "id": "il_centurion_shot_kal_gimel",
+ "wiki": "https://wiki.warthunder.com/unit/il_centurion_shot_kal_gimel",
+ "name": "Sho't Kal Gimel",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "VI",
+ "br": {
+  "AB": "8.7",
+  "RB": "8.7",
+  "SB": "8.7"
+ },
+ "description": "The Sho't Kal Gimel was the third serial modification of the Sho't Kal series developed based on the British Centurion. The Sho't Kal Gimel modification took place from the late 1970s to the early 1980s. The tank received additional machine guns, new 10-round smoke grenade launchers on the turret sides, and \"Blazer\" ERA on the hull and turret. This variant was withdrawn from service along with other Sho't Kal variants in 2007. Introduced in Update \"Wind of Change\" , the Sho't Kal Gimel shares similar capabilities to previous Sho't Kal series tanks, but with better chemical protection and small improvements to firepower. Unlike its predecessor , it receives a laser rangefinder, smoke grenade launchers, the powerful M111 \"Hetz\" HEAT round, and \"Blazer\" ERA, allowing the tank to withstand hits from high-explosive rounds and ATGMs. While the firepower is good, it lacks the thermal imaging system of the Sho't Kal Dalet . It is still a relatively competitive tank that has very capable gun depression, and the ERA blocks improve tank survivability against shaped-charge warheads like HEAT and ATGMs, which become increasingly common at this rank. In addition, the tank retains good mobility.",
+ "image": "https://static.encyclopedia.warthunder.com/images/il_centurion_shot_kal_gimel.png",
+ "weapons": [
+  "105 mm Sharir cannon",
+  "12.7 mm M2HB machine gun",
+  "7.62 mm L3A1 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "127 / 50 / 38 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "119 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "48"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "72 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "8.7 → 6.7 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 18°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,250 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,500 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 12°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-120 / 80°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "4,179 → 6,080"
+  },
+  {
+   "label": "Crew training",
+   "value": "110,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "140 / 200 / 240 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "112,500"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M152",
+   "type": "HEATFS",
+   "penetration": [
+    "400",
+    "400",
+    "400",
+    "400",
+    "400",
+    "400"
+   ]
+  },
+  {
+   "name": "M156",
+   "type": "HESH",
+   "penetration": [
+    "127",
+    "127",
+    "127",
+    "127",
+    "127",
+    "127"
+   ]
+  },
+  {
+   "name": "M111",
+   "type": "APFSDS",
+   "penetration": [
+    "338",
+    "336",
+    "330",
+    "323",
+    "315",
+    "307"
+   ]
+  },
+  {
+   "name": "M416",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

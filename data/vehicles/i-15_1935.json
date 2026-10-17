@@ -1,0 +1,166 @@
+{
+ "id": "i-15_1935",
+ "wiki": "https://wiki.warthunder.com/unit/i-15_1935",
+ "name": "I-15 M-22",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The I-15 M-22 is a Soviet fighter. It has been in the game since the start of the Open Beta Test prior to Update 1.27. The I-15 M-22 is a single-engine fighter developed from the OKB Polikarpov I-15 (TsKB-3) for a 1935 release. Attempt to introduction the Soviet license modification of the Wright Cyclone SGR-1820 engine under the designation M-25 was progressing very slowly, therefore most of the production I-15 aircraft at this time were outfitted with the 9-cylinder Gnome et Rhône air-cooled M-22 engines (the licensed version of the British Bristol Jupiter VI) which had a nominal power of only 480 hp, which caused this aircraft's flight performance to suffer. While on the final production series of this aircraft the M-25 engines were installed, this version of the aircraft in-game features the weaker M-22 engine. However, M-22 engine has less weight than the M-25, so this aircraft is 153 kg lighter.",
+ "image": "https://static.encyclopedia.warthunder.com/images/i-15_1935.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "368"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "13.4"
+  },
+  {
+   "label": "Turn time",
+   "value": "8"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,200 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "125 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "M-22"
+  },
+  {
+   "label": "Length",
+   "value": "6.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "54 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.03"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.23 t (1h 37m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "560 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,200"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.12 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "3,550"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/AP-I/AI/AI/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP-I/AI/AI/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/AP-I/AI/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

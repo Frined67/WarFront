@@ -1,0 +1,94 @@
+{
+ "id": "germ_sdkfz_221_s_pz_b_41",
+ "wiki": "https://wiki.warthunder.com/unit/germ_sdkfz_221_s_pz_b_41",
+ "name": "Sd.Kfz.221 (s.Pz.B.41)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The le.Pz.Sp.Wg. Sd.Kfz. 221 ( Leichter Panzerspähwagen, Sonderkraftfahrzeug 221 ), first produced in 1935, was a German armoured car used as a reconnaissance vehicle for the German Panzer Divisions during World War II. With 339 vehicles manufactured between 1935 to 1940, the Sd.Kfz. 221 saw use in Nazi Germany's early campaigns in Europe, North Africa, and the Eastern Front. Some of these vehicles were armed with the 2.8 cm s.Pz.B. 41, a squeeze-bore anti-tank weapon that was capable of producing high-velocity projectiles to penetrate armour. The Sd.Kfz. 221 in German service was eventually succeeded by the larger Sd.Kfz.222 design and the more off-road capable Sd.Kfz. 250 half-tracks. Introduced into War Thunder in Update 1.79 \"Project X\" , the Sd.Kfz.221 (s.Pz.B.41) is a unique armoured car with its squeeze-bore armament attached to the car's high mobility and relatively thin armour on the body. The squeeze-bore armament, named the 28/20 mm S.Pz.B.41, functions by firing a 28 mm caliber shell down a barrel that narrows it to 20 mm at the muzzle end. This method creates a very high pressure within the barrel that causes the projectile to exit with a high velocity to penetrate more armour relative to the caliber diameter. While providing a bigger punch for the caliber size, the weapon only fires APCR shots as a consequence. Due to this, players using the gun would find some issues such as relatively poor armour-piercing performance against highly sloped armour plating and poor post-penetration damage.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_sdkfz_221_s_pz_b_41.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "8 / 8 / 8 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "107 %"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "80"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "18.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "60 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "2.6 → 2 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-20 / 2°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "24.5"
+  },
+  {
+   "label": "Repair cost",
+   "value": "170 → 220"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 30 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "2.8/2cm Pzgr.41",
+   "type": "APCR",
+   "penetration": [
+    "90",
+    "84",
+    "63",
+    "44",
+    "31",
+    "21"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

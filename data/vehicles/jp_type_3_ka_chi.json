@@ -1,0 +1,160 @@
+{
+ "id": "jp_type_3_ka_chi",
+ "wiki": "https://wiki.warthunder.com/unit/jp_type_3_ka_chi",
+ "name": "Ka-Chi",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The Special Ka-Chi was an improvement program by the Navy over the Ka-Mi , going larger and stronger using the Chi-He as a base instead of the Ha-Go. During development, the idea of making the tank transportable by submarine came up, allowing the tank to stealthily approach islands, emerge with the submarine, and offload into the water to then land on the island amphibiously. While a very potent tank and operationally interesting, during 1943-45 the Navy had more pressing issues on top of being on the defensive, diminishing the Ka-Chi's priority and use case. Only 12-19 were built and all were reserved for homeland defense. The Ka-Chi was introduced during Update \"Red Skies\" as a reward for the 2021 Summer Landing event . It may seem vaguely familiar to some Japanese tankers, as it is essentially a much larger, amphibious Chi-He , featuring the same turret, maximum armour of 50 mm, and the same engine. Although the maximum armour is identical to that of the Chi-He, the Ka-Chi is significantly more survivable due to its enormous size, which spaces out more crew members, including two additional onboard engineers located behind the fighting compartment. Additionally, the mounted pontoons serve as extra spaced armour. However, these modifications strain the engine, which was not upgraded, resulting in slower mobility. Consequently, the Ka-Chi functions as an ad hoc assault tank, supposed to draw enemy fire with its large size, absorb shots, and push forward to engage enemy tanks with its decent 47 mm gun while providing support to allied forces.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_type_3_ka_chi.png",
+ "weapons": [
+  "7.7 mm Type 97 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 10 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "250 %"
+  },
+  {
+   "label": "Crew",
+   "value": "7 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "35"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "8.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "120 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.3 → 3.3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "10.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "120 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.3 → 3.3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "10.5"
+  },
+  {
+   "label": "Repair cost",
+   "value": "638"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 20 / 20) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Type 1 APHE",
+   "type": "APHE",
+   "penetration": [
+    "77",
+    "75",
+    "67",
+    "58",
+    "50",
+    "44"
+   ]
+  },
+  {
+   "name": "Type 1 HE",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "9",
+    "8",
+    "7",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Type 1 APHE",
+   "type": "APHE",
+   "penetration": [
+    "77",
+    "75",
+    "67",
+    "58",
+    "50",
+    "44"
+   ]
+  },
+  {
+   "name": "Type 1 HE",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "9",
+    "8",
+    "7",
+    "5",
+    "5"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

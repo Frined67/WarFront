@@ -1,0 +1,244 @@
+{
+ "id": "ms_406c1",
+ "wiki": "https://wiki.warthunder.com/unit/ms_406c1",
+ "name": "M.S.406C1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The M.S.406C1 is a French fighter aircraft. It was designed by engineers at Morane-Saulnier between 1935 and 1938. An improvement on the M.S.405C1 , it featured a Hispano-Suiza 12Y-31 engine with a lower rated altitude. The aircraft was adopted for service, and the French Air Force began introducing the new fighters in May 1938. The M.S.406C1 was easy to fly, even for inexperienced pilots. However, it was largely inferior to the German Bf 109 E. A total of 1,176 M.S.406C1s were built from 1938 to 1939. These aircraft were used by the Finnish and French air forces during the Winter War and World War II. The M.S.406C1 was introduced in Update 1.75 \"La Résistance\" . The aircraft stands out for its maneuverability among monoplanes, although it is inferior to many biplanes. However, its lower climb rate compared to the M.S.405C1 prevents it from using hit-and-run tactics in combat, despite its high maximum speed of about 750 km/h. Like the 405C1, the fighter has no armor and mediocre survivability.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ms_406c1.png",
+ "weapons": [
+  "20 mm Hispano 404 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "483"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "12.3"
+  },
+  {
+   "label": "Turn time",
+   "value": "20"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "12Y-31"
+  },
+  {
+   "label": "Length",
+   "value": "8.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.6 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "154 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.17"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.3 t (1h 27m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "756 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.76 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -9/14 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "270 / 359 / 394 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "60 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.45 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,350 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "240 → 326"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 40 / 90 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "PT/HEI/AP/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/AP-T/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP/AP-T/HEI/AP-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

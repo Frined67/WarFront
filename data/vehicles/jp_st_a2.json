@@ -1,0 +1,189 @@
+{
+ "id": "jp_st_a2",
+ "wiki": "https://wiki.warthunder.com/unit/jp_st_a2",
+ "name": "ST-A2",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "IV",
+ "br": {
+  "AB": "6.3",
+  "RB": "6.3",
+  "SB": "6.3"
+ },
+ "description": "The ST-A2 was the 2nd prototype towards the Type 61 , starting to resemble the tank more and more with the main difference over the ST-A1 being the design of the hull. Offering the same engine, overall weight, and cannon, other than design differences, the ST-A2 is a very similar vehicle. It was introduced along with the initial Japanese Ground Forces tree in Update 1.65 \"Way of the Samurai\" . It is more of a sidegrade to the ST-A1 , which takes sniping duty as its main work while neglecting most of the other roles. One can treat them as the same tank, but they have some minor quality of life differences.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_st_a2.png",
+ "weapons": [
+  "90 mm M3A1 cannon",
+  "7.62 mm M1919A4 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "45 / 35 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "95 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "45"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "40 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "9.7 → 7.5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 13°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,500 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,225 → 4,151"
+  },
+  {
+   "label": "Crew training",
+   "value": "57,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "120 / 180 / 210 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "52,600"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,700"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M318 shot",
+   "type": "APBC",
+   "penetration": [
+    "175",
+    "173",
+    "161",
+    "147",
+    "135",
+    "123"
+   ]
+  },
+  {
+   "name": "M71 shell",
+   "type": "HE",
+   "penetration": [
+    "20",
+    "20",
+    "18",
+    "17",
+    "16",
+    "16"
+   ]
+  },
+  {
+   "name": "M82 shot",
+   "type": "APCBC",
+   "penetration": [
+    "185",
+    "183",
+    "173",
+    "161",
+    "150",
+    "140"
+   ]
+  },
+  {
+   "name": "M304 shot",
+   "type": "APCR",
+   "penetration": [
+    "287",
+    "281",
+    "259",
+    "234",
+    "211",
+    "191"
+   ]
+  },
+  {
+   "name": "M332 shot",
+   "type": "APCR",
+   "penetration": [
+    "291",
+    "286",
+    "264",
+    "240",
+    "217",
+    "197"
+   ]
+  },
+  {
+   "name": "M348 shell",
+   "type": "HEATFS",
+   "penetration": [
+    "305",
+    "305",
+    "305",
+    "305",
+    "305",
+    "305"
+   ]
+  },
+  {
+   "name": "M313",
+   "type": "Smoke",
+   "penetration": [
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

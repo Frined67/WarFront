@@ -1,0 +1,106 @@
+{
+ "id": "sw_bkan_1c",
+ "wiki": "https://wiki.warthunder.com/unit/sw_bkan_1c",
+ "name": "Bkan 1C",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "IV",
+ "br": {
+  "AB": "7.0",
+  "RB": "6.7",
+  "SB": "6.7"
+ },
+ "description": "The bandkanon (bkan) 1C ( Bofors VK 155 S 62 ) was a Self-Propelled Artillery Gun (SPAG) based on the S-tank chassis, initially developed by Bofors from 1960 to 1965 as part of a longer Swedish Army project to develop a modern autoloading 155 mm-equipped SPAG. The initial bkan 1 version was delivered to the Swedish Army from 1965 to 1969 and used the strv 103A's underpowered powerpack, subsequently receiving the suffix A. In 1988, it was decided to upgrade the powerpack of the existing bkan 1A vehicles to the stronger strv 103C powerpack, redesignating them bkan 1C. However, only the piston engine was upgraded to C-standard in the end. The bkan 1 remained in service from 1967 to 2003, with a total of 26 units built over the years. Introduced in Update \"Winged Lions\" , the Bkan 1C mounts a massive 155 mm cannon firing powerful HE and HE-VT shells. It has an extremely quick reload of 3.2s, but is otherwise extremely sluggish, has only -2 degrees of gun depression, thin armour, and only 14 rounds. The turret does not have full traverse, which means that the tank is not capable of looking backwards with its cannon without moving the chassis. The 155 mm shells are more than capable of destroying medium to light targets; however, heavier targets like the Ferdinand and the Maus can be much more difficult to destroy and require good shot placement. It is recommended to aim for the tops of tanks or their commander's cupola.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_bkan_1c.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "15 / 15 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "115 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "30"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "11.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "14 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.2 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-3 / 40°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-15 / 15°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7"
+  },
+  {
+   "label": "Repair cost",
+   "value": "4,257 → 5,266"
+  },
+  {
+   "label": "Crew training",
+   "value": "61,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "130 / 200 / 250 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "61,500"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,800"
+  }
+ ],
+ "shells": [
+  {
+   "name": "sgr m/60",
+   "type": "HE",
+   "penetration": [
+    "58",
+    "58",
+    "58",
+    "58",
+    "58",
+    "58"
+   ]
+  },
+  {
+   "name": "sgr m/60 (PF)",
+   "type": "HE-VT",
+   "penetration": [
+    "58",
+    "58",
+    "58",
+    "58",
+    "58",
+    "58"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

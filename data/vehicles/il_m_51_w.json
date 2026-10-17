@@ -1,0 +1,169 @@
+{
+ "id": "il_m_51_w",
+ "wiki": "https://wiki.warthunder.com/unit/il_m_51_w",
+ "name": "M-51 (W)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "IV",
+ "br": {
+  "AB": "6.3",
+  "RB": "6.3",
+  "SB": "6.3"
+ },
+ "description": "The M-51 (W) was designed similarly to the M-51 ; the only difference was the hull. Instead of the M4A1 hull, it was built using the chassis of the M4A3 and M4A4. Considered to be the most advanced version of the Sherman ever produced, the M-51 featured a 105 mm gun, an improved engine, a new turret, and access to a powerful HEAT shell. Developed based on the M-50, it was Israel's primary tank against Soviet-made T-55s and T-62s during the Yom Kippur War. In this conflict, neither Centurions nor Patton tanks were capable of consistently penetrating the armour of the new Soviet designs. While the M-51 was unreliable, slow, and had little to no protection, its armament was the most capable of all tanks in service with the IDF. Despite being obsolete, 180 were built, and they achieved decent results during the Six-Day War and the Yom Kippur War, even against the most modern Soviet designs. Introduced in Update \"Winged Lions\", the M-51 (W) has two differences compared to the regular M-51 found in the tech tree. The first is that it uses the M4A3 chassis instead of the M4A1. While the difference in armour is not enough to make a significant difference, the shape of the armour makes it possible for the M-51 (W) to bounce some shells off the front. The second is that the pintle-mounted machine gun has been upgraded from a 7.62 mm LMG to a 12.7 mm HMG, allowing it to more easily deal with lightly armoured vehicles and break down obstructions. Its HEAT shell is capable of dealing with any enemy at its BR. However, it has very poor mobility, particularly off-road and in reverse, its armour is non-existent, and if it's penetrated, surviving is unlikely. It also does not have access to a stabilizer like the original Shermans. Since it relies on its firepower, it's recommended to stay back in comfortable positions behind the protection of your team, and if you are going to be at the frontline, stay close to your teammates.",
+ "image": "https://static.encyclopedia.warthunder.com/images/il_m_51_w.png",
+ "weapons": [
+  "12.7 mm M2HB machine gun",
+  "7.62 mm M1919A4 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "63 / 38 / 38 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "121 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "38"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "11.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "56 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "9.7 → 7.5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-8 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 70°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,750 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,096"
+  },
+  {
+   "label": "Crew training",
+   "value": "10,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (115 / 180 / 210) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "OCC 105 F1",
+   "type": "HEAT",
+   "penetration": [
+    "400",
+    "400",
+    "400",
+    "400",
+    "400",
+    "400"
+   ]
+  },
+  {
+   "name": "OE 105 F1 Mle.60",
+   "type": "HE",
+   "penetration": [
+    "25",
+    "25",
+    "25",
+    "25",
+    "25",
+    "25"
+   ]
+  },
+  {
+   "name": "OFPH 105 F1",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

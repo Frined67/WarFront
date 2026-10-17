@@ -1,0 +1,340 @@
+{
+ "id": "mig_3_series_1_15_bk_pod",
+ "wiki": "https://wiki.warthunder.com/unit/mig_3_series_1_15_bk_pod",
+ "name": "MiG-3-15 (BK)",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The MiG-3-15 (BK) is a Soviet fighter. It was introduced in Update 1.37 . It follows the MiG-3 in the tech tree and differs only in the additional non-synchronised suspended armament. It is armed with 2 x ShKAS 7.62 mm MGs and 3 x 12.7 mm Berezin UB MGs. It also has a Mikulin AM-35A engine sporting 1,200 hp. Being a fighter with an inline engine distinguishes the MiG-3 greatly from its predecessors, the I-16 Ishak line, and they have very different play styles. The MiG-3 is an excellent early Boom & Zoom fighter and should be used accordingly. The Mig-3-15 is relatively unique owing to the fact that it has the highest number of Berezin UB MGs as the main armament of any plane in War Thunder. To put this into perspective, compare the efficacy of the Berezin to the M2 Browning. The Berezin UB has a heavier round due to the longer length (12.7 x 108 mm vs. 12.7 mm x 99 mm) which thus gives it a higher muzzle velocity, also. Additionally, the fire rate of the Berezin UB is faster at about 900-950 rpm (vs. about 850 rpm with the M2). Also, the Berezin has access to cermet-core rounds, which give it better penetration. This benefit the MiG-3-15 (BK) since, when combined with the ShKAS for range finding, the Berezin MGs can be devastating. A 2- to 3-second burst is all that is needed to either slice off a wing or set the engine on fire, whether it be a BF-109 F-1 or an A6M2 (especially). Always aim for the wings, however, as many airframes can absorb the 12.7 mm bullets. Against bombers, however, the MGs may be slightly less effective than cannon. Use either the Air-Targets Belt, pure API-T (Tracers), or Ground Targets (which have cermet core rounds). The MGs are also more effective than the ShVAKs at longer range, as they are generally more accurate and lose less velocity. Therefore, depending on whether you enjoy the larger ammo reserve or are a weaker player who prefers spraying over taking careful shots, the Mig-3-15 could be the plane for you, or it may not (in terms of armament).",
+ "image": "https://static.encyclopedia.warthunder.com/images/mig_3_series_1_15_bk_pod.png",
+ "weapons": [
+  "12.7 mm Berezin UBS machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "633"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "16"
+  },
+  {
+   "label": "Turn time",
+   "value": "24"
+  },
+  {
+   "label": "Max altitude",
+   "value": "12,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "AM-35A"
+  },
+  {
+   "label": "Length",
+   "value": "8.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "243 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.07"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.34 t (58m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "677 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 429 / 458 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "280 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "996 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.79 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "290 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,026 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.82 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "354 → 448"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 60 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,930"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/AP/IAI",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "11",
+    "7"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/API-T/IAI/IAI",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/AP-I/IAI",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-I(c)/AP-I/AP-I/API-T/IAI",
+   "penetration": [
+    "34",
+    "32",
+    "24",
+    "17",
+    "12",
+    "8"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/IAI",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/AP/IAI",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "11",
+    "7"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/API-T/IAI/IAI",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/AP-I/IAI",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-I(c)/AP-I/AP-I/API-T/IAI",
+   "penetration": [
+    "34",
+    "32",
+    "24",
+    "17",
+    "12",
+    "8"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/IAI",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AI/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

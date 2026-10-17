@@ -1,0 +1,214 @@
+{
+ "id": "sb_2m_103u_china",
+ "wiki": "https://wiki.warthunder.com/unit/sb_2m_103u_china",
+ "name": "␗SB 2M-103U",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The SB 2M-103U is a modified version of the Soviet high-speed front-line bomber, the SB-2 (also known as the ANT-40), which was developed by the Tupolev Design Bureau and is its the most mass-produced aircraft.This version features a new liquid cooling system for the M-103A engines in the form of regulated air ducts. Starting in fall 1937, several dozen SB-2Ms of various modifications were sent to support Kuomintang China in its fight against the Japanese. The Chinese SB 2M-103U was introduced in Update 1.91 \"Night Vision\" , and is depicted in the colors of Kuomintang China. The aircraft's primary use is bombing. Despite its low rate of climb and poor maneuverability, it is capable of reaching speeds higher than those of pre-war aircraft, and it has three ShKAS machine gun turrets that reliably protect the bomber.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sb_2m_103u_china.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "423"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "8.9"
+  },
+  {
+   "label": "Turn time",
+   "value": "24.2"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,560 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "366 m"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x M-103A"
+  },
+  {
+   "label": "Length",
+   "value": "12.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "20.3 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "115 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "5.38"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.13 t (2h 25m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "580 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/4 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 310 / 316 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "350 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,920 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,500"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,600 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "600 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "666 → 891"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 100 / 200 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,420"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-I/AP-I/AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "API-T/API-T/API-T/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-I/AP-I/AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "API-T/API-T/API-T/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

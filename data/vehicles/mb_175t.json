@@ -1,0 +1,242 @@
+{
+ "id": "mb_175t",
+ "wiki": "https://wiki.warthunder.com/unit/mb_175t",
+ "name": "M.B.175T",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "3.3",
+  "SB": "3.3"
+ },
+ "description": "The M.B.175T was an adaptation of the Bloch MB.170 for naval purposes. After WWII, France had to use any aircraft to its disposal to rearm their air force; thus the M.B.175T was created, the most important upgrade being the introduction of a single F5W torpedo, which, paired with the aircraft's long range, made it suitable for maritime patrol. The aircraft was retired in 1950 with the introduction of more modern fighter-bombers like the F6F. It was introduced in Update 1.83 \"Masters of the Sea\" . Although called a \"bomber\", with its hard-hitting armament of two 20 mm MG 151/20 cannons, this plane can be used in a more aggressive role as an attacker, or even a bomber interceptor. The HVAR rockets and the MG 151/20s make it a perfect counter to the much-feared BV 238 . Meanwhile, for naval battles, having access to an F5W torpedo gives you the chance to destroy a single ship with a good launch, however the aircraft's large size makes it easy for enemy AA to target you and shoot you down.",
+ "image": "https://static.encyclopedia.warthunder.com/images/mb_175t.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "450"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "7.9"
+  },
+  {
+   "label": "Turn time",
+   "value": "26"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "650 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "14N-66"
+  },
+  {
+   "label": "Length",
+   "value": "12.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "18 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "173 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "5.8"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.53 t (3h 21m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "680 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 / 317 / 330 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "280 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "400 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.29 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "250 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.29 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "976 → 1,332"
+  },
+  {
+   "label": "Crew training",
+   "value": "9,200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "70 / 130 / 220 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "13,860"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "860"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "IT/IT/APHE/HEI",
+   "penetration": [
+    "20",
+    "18",
+    "10",
+    "5",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "IT/HEI/HEI/AP-I",
+   "penetration": [
+    "27",
+    "24",
+    "14",
+    "7",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-I/HEI/HEI/HEI/HEI/IT",
+   "penetration": [
+    "27",
+    "24",
+    "14",
+    "7",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "APHE/APHE/APHE/IT",
+   "penetration": [
+    "20",
+    "18",
+    "10",
+    "5",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "FI-T/FI-T/FI-T/IT/IT",
+   "penetration": [
+    "10",
+    "9",
+    "5",
+    "3",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI/HEI/HEI/APHE/AP-I",
+   "penetration": [
+    "27",
+    "24",
+    "14",
+    "7",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "IT/HEI/APHE/AP-I",
+   "penetration": [
+    "27",
+    "24",
+    "14",
+    "7",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-I/AP-I/APHE/IT/AP-I",
+   "penetration": [
+    "27",
+    "24",
+    "14",
+    "7",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/FI-T/HEI/HEI",
+   "penetration": [
+    "27",
+    "24",
+    "14",
+    "7",
+    "3",
+    "2"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

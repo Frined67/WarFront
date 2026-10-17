@@ -1,0 +1,230 @@
+{
+ "id": "beaufighter_mk6c",
+ "wiki": "https://wiki.warthunder.com/unit/beaufighter_mk6c",
+ "name": "Beaufighter Mk VIc",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "3.0",
+  "SB": "3.3"
+ },
+ "description": "The Beaufighter Mk VIc is a British strike aircraft. It has been in the game since the start of the Open Beta Test prior to Update 1.27. The Beaufighter Mk VI is one of the best early-tier heavy fighters. When its engines and survivability are fully upgraded, it is truly a bomber killer to behold, capable of bringing down any rank 1, 2 or 3 planes with ease. Unfortunately, there are several drawbacks to the amazing power of the 4 x 20 mm Hispano cannons. You will normally spawn quite high, so use that to your advantage when attacking enemy planes. The recommended speed of this plane is only around 500 km/h (310 mph). Any higher results in severe and poor handling, making the heavy armament useless if your quarry turns. Therefore, the Beaufighter is not suited for BnZ, but better for head-on and tail-end combat. If you are caught by any single-engine fighter, try to dive and climb. If that does not work, resort to the turret or turning. The high fire rate of the turret makes it especially effective for pilot sniping if you are accurate enough.",
+ "image": "https://static.encyclopedia.warthunder.com/images/beaufighter_mk6c.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "536"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.5"
+  },
+  {
+   "label": "Turn time",
+   "value": "23.7"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,100 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "370 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Hercules VI"
+  },
+  {
+   "label": "Length",
+   "value": "12.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "17.6 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "197 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "7.42"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.78 t (3h 5m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "676 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/8 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "216 / 242 / 354 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "242 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "960 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.32 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "950 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "445 → 605"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 60 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,400"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEI/SAP-I/T",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/SAP-I",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/SAP-I/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI/HEI/SAP-I",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/Ball/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "IT/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "IT/AP-I/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

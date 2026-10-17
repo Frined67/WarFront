@@ -1,0 +1,286 @@
+{
+ "id": "il-10_1946_china",
+ "wiki": "https://wiki.warthunder.com/unit/il-10_1946_china",
+ "name": "␗IL-10 (1946)",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "IV",
+ "br": {
+  "AB": "5.0",
+  "RB": "5.0",
+  "SB": "5.3"
+ },
+ "description": "The IL-10 (1946) (China) was the batches of attackers supplied by the Soviet Union in the early 1950s to reinforce the close air support capabilities of the newly formed PLAAF. A total of 242 IL-10s were eventually delivered. Due to lack of experience to utilize them, the units that received them could only join the later conflicts against Nationalist forces on the outer islands of Mainland China's coastline in 1954, where the IL-10 shone during their attacks on air-defence positions on the Dachen Island in Zhejiang and eventually cleared the path for Tu-2S' to bomb the heavy fortifications on the island, forcing the Nationalist forces to retreat; as well as sinking a Nationalist LST during the later Yijiangshan Island landing. Two planes were later modified with a Dongan WJ-6 (a licence-built Ivchenko AI-20) turboprop engine to extend the combat capabilities of the remaining fleet, which lacked spare parts for the original engine, but these prototypes were subsequently destroyed in accidents. The remaining trainers and IL-10s were decommissioned in 1972 with the Q-5 taking their positions. Introduced in Update 1.91 \"Night Vision\" alongside the Chinese aircraft tech-tree, IL-10 (1946) is an attacker aircraft of identical make to the Soviet version , the IL-10 (1946) provides the substantial ability for ground attack with its ordnance and four 23 mm autocannons. A gunner with an autocannon armament as well at the rear also helps to provide powerful deterrence to any fighters attempting to follow the IL-10 (1946).",
+ "image": "https://static.encyclopedia.warthunder.com/images/il-10_1946_china.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "528"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.4"
+  },
+  {
+   "label": "Turn time",
+   "value": "24"
+  },
+  {
+   "label": "Max altitude",
+   "value": "7,600 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "550 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "AM-42"
+  },
+  {
+   "label": "Length",
+   "value": "11.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "13.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "208 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "5.72"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.54 t (57m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "720 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -14/14 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "320 / 469 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "450 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "300 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.97 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "300 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.97 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "150 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.29 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "600 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "300 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,810 → 2,304"
+  },
+  {
+   "label": "Crew training",
+   "value": "45,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "90 / 150 / 570 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "40,300"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,400"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-I/FI-T",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "FI-T/AP-I/AP-I/AP-I",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "FI-T/FI-T/FI-T/AP-I",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/FI-T",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "FI-T/AP-I/AP-I/AP-I",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "FI-T/FI-T/FI-T/AP-I",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "FI-T/AP-I",
+   "penetration": [
+    "28",
+    "24",
+    "14",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-I/FI-T/AP-I",
+   "penetration": [
+    "28",
+    "24",
+    "14",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "FI-T/HEF/HEF-I",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,118 @@
+{
+ "id": "us_m42_duster",
+ "wiki": "https://wiki.warthunder.com/unit/us_m42_duster",
+ "name": "M42",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "III",
+ "br": {
+  "AB": "4.3",
+  "RB": "4.0",
+  "SB": "4.0"
+ },
+ "description": "The M42 \"Duster\" is a self-propelled anti-aircraft gun mounted on the M41 Walker Bulldog chassis used by the U.S. Army during World War II. It is an easily transported, lightly armoured vehicle that was constructed for the U.S. Army between 1952 and December 1960 and remained operational until 1988. General Motors Corporation's tank division was in charge of producing the M42 \"Duster\". The primary armament is comprised of two fully automatic 40 mm M2A1 Bofors autocannons. In the Vietnam War, it proved to be effective against unarmored ground forces despite its original design for anti-aircraft use. Introduced in Update 1.47 \"Big Guns\" , the M42 \"Duster\" is a highly mobile and lightly armoured vehicle. Avoid taking on opponents that have enough armour to withstand your shots. Utilize your exceptional mobility to execute flanking manoeuvres early in the fight to strike the flanks of the adversary. The primary armament works just as well against aircraft. Even the largest plane can be brought down with a single direct hit. Please note, nonetheless, that most crews are in complete exposure without any protection. Remain under cover at all times and be aware of plane strafing.",
+ "image": "https://static.encyclopedia.warthunder.com/images/us_m42_duster.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "12 / 12 / 12 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "108 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "72"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "22.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "480 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "0.6 → 0.5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "120 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-3 / 85°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "28"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,525 → 1,963"
+  },
+  {
+   "label": "Crew training",
+   "value": "22,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "80 / 100 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "24,700"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,100"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/FI-T",
+   "penetration": [
+    "72",
+    "69",
+    "58",
+    "46",
+    "37",
+    "29"
+   ]
+  },
+  {
+   "name": "40 mm Mk.II",
+   "type": "FI-T",
+   "penetration": [
+    "9",
+    "8",
+    "7",
+    "6",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "40 mm M81A1",
+   "type": "AP-T",
+   "penetration": [
+    "72",
+    "69",
+    "58",
+    "46",
+    "37",
+    "29"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,232 @@
+{
+ "id": "la-11_china",
+ "wiki": "https://wiki.warthunder.com/unit/la-11_china",
+ "name": "␗La-11",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "IV",
+ "br": {
+  "AB": "5.3",
+  "RB": "5.0",
+  "SB": "5.3"
+ },
+ "description": "The La-11 was among the last propeller fighters ever built, as a result of requirements of the VSS (Soviet Air Force) for long-range escort fighters. They were introduced into the PLAAF as supplementary forces alongside the La-9 before the introduction of new jet fighters. Although the La-11 achieved the first propeller-versus-jet kill for the PLAAF (as the PVAF), they were also part of the infamy where they shot down a civil flight in mid-1950s. The remaining aircraft served for another 2 decades before lack of spare parts brought them to their ultimate end of service. Introduced in Update \"Winged Lions\" , the La-11 proves itself as a fearsome interceptor with sufficient firepower and speed to chase-off American or British fighters, despite lacking one 23 mm cannon compared to the preceding La-9.",
+ "image": "https://static.encyclopedia.warthunder.com/images/la-11_china.png",
+ "weapons": [
+  "23 mm NS-23 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "680"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "16.1"
+  },
+  {
+   "label": "Turn time",
+   "value": "22"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,250 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "500 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "M-82FN"
+  },
+  {
+   "label": "Length",
+   "value": "8.5 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "208 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.14"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.55 t (1h 7m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "850 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.8 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "290 / 434 / 460 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "75 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.97 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "150 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.97 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,062 → 2,590"
+  },
+  {
+   "label": "Crew training",
+   "value": "45,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "90 / 190 / 410 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "40,700"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,400"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-I/FI-T",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "FI-T/AP-I/AP-I/AP-I",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "FI-T/FI-T/FI-T/AP-I",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/FI-T",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "FI-T/AP-I/AP-I/AP-I",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "FI-T/FI-T/FI-T/AP-I",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "10",
+    "7"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,242 @@
+{
+ "id": "mc-205_serie1",
+ "wiki": "https://wiki.warthunder.com/unit/mc-205_serie1",
+ "name": "C. 205 serie 1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "3.3",
+  "RB": "3.7",
+  "SB": "3.7"
+ },
+ "description": "After the entry of the C.202 into service in 1941, the Regia Aeronautica was already beginning to look for new possibilities for a new generation of fighters requiring better engine power and high performance so that they could change armament. With the Germans' permission to build the DB605A engine in Italy, two development paths were created, one leading to the C.205N 'Orione' programme and the other to the C.202Bis. On 16 December 1941, the first aircraft of the former type, which would later be renamed C.205 V, were built by Macchi with 100 units of the 1st series armed with two 12.7 mm and two 7.7 mm, later by FIAT with 300 units of the 2nd series. The aircraft would fly for the first time on April 19, 1942, then be put into service in February 1943, after which it would participate in several battles, for the most part to defend Italian airspace from enemy aircraft. Even after the armistice, it would still be used by both the Italy Co-belligerent forces and that of the RSI. The C.205 serie 1 was introduced in Update 1.69 \"Regia Aeronautica\" along with the initial Italian aviation tree. It is a fighter with a great balance of manoeuvrability and speed, it can fight both in turn fights and energy fights, using combat flaps to turn a little tighter while in combat. However, it has relatively poor armament consisting of two 12.7 mm and two 7.7 mm machine guns for which you will have to shoot many shots at the enemy aircraft. The aircraft's survivability is also rather poor, as many opponents at the battle rating will have hard-hitting cannons that can easily send you back to the hangar.",
+ "image": "https://static.encyclopedia.warthunder.com/images/mc-205_serie1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "683"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "20.4"
+  },
+  {
+   "label": "Turn time",
+   "value": "18"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,360 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "250 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "DB-605A"
+  },
+  {
+   "label": "Length",
+   "value": "8.9 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.6 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "194 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.92"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.31 t (1h 1m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "845 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.81 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/14 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 / 451 / 535 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "300 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "800 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "634 → 803"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 100 / 200 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,320"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP-I/HEF/API-T/I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/HEF/HEF",
+   "penetration": [
+    "20",
+    "18",
+    "11",
+    "6",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T",
+   "penetration": [
+    "5",
+    "4",
+    "2",
+    "1",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/AP/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

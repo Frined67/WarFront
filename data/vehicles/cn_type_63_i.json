@@ -1,0 +1,164 @@
+{
+ "id": "cn_type_63_i",
+ "wiki": "https://wiki.warthunder.com/unit/cn_type_63_i",
+ "name": "Type 63",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "IV",
+ "br": {
+  "AB": "6.3",
+  "RB": "6.3",
+  "SB": "6.3"
+ },
+ "description": "The Type 63 amphibious tank (63式水陆坦克) , the first variant of the Type 63 amphibious tank family, was China's first generation of amphibious tanks, based on the Soviet PT-76 and developed and built by China North Industries Corporation. In 1950, China purchased some PT-76 amphibious tanks from the Soviet Union. Using the PT-76 as a guide, China began the development of its own amphibious tank. In 1959, factories code-named 201 and 617 developed initial prototypes that replicated the PT-76, and a small number of prototypes were delivered to the Chinese People's Liberation Army for trial in 1960. Improvements were made in response to problems discovered during trial production and testing, and the design was finalized in March 1963. It was given the designation Type 63 amphibious tank and went into full production. The Type 63 amphibious tank first saw service in 1964 and was sent to North Vietnam for deployment throughout the Vietnam War. It also saw limited action in the 1979 Sino-Vietnamese War. Introduced in Update 1.91 \"Night Vision\" , the Type 63 is the first domestic Chinese amphibious tank based on the Soviet-produced PT-76 amphibious light tank. The Type 63, which uses the same turret as the Type 62 , possesses significantly greater firepower than its Soviet counterpart. Despite its lack of armour, the Type 63 amphibious tank is equipped with HEAT-FS, which can penetrate 300 mm of armour. However, it lacks the two-plane stabilizer featured in later PT-76 variants, making accurate fire while moving difficult.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cn_type_63_i.png",
+ "weapons": [
+  "7.62 mm Type 59 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "14 / 13 / 10 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "74 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "64"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "21.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "47 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "9.2 → 7 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-4 / 22°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,641 → 3,602"
+  },
+  {
+   "label": "Crew training",
+   "value": "57,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "110 / 150 / 190 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "52,700"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,700"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Type 56 APBC",
+   "type": "APHEBC",
+   "penetration": [
+    "135",
+    "133",
+    "124",
+    "114",
+    "104",
+    "95"
+   ]
+  },
+  {
+   "name": "Type 56 HE",
+   "type": "HE",
+   "penetration": [
+    "19",
+    "18",
+    "17",
+    "16",
+    "15",
+    "14"
+   ]
+  },
+  {
+   "name": "Type 56 APCBC",
+   "type": "APCBC",
+   "penetration": [
+    "164",
+    "162",
+    "154",
+    "143",
+    "134",
+    "125"
+   ]
+  },
+  {
+   "name": "Type 56 HVAP",
+   "type": "APCR",
+   "penetration": [
+    "208",
+    "201",
+    "176",
+    "148",
+    "125",
+    "106"
+   ]
+  },
+  {
+   "name": "Type 56 HEAT-FS",
+   "type": "HEATFS",
+   "penetration": [
+    "300",
+    "300",
+    "300",
+    "300",
+    "300",
+    "300"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

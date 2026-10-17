@@ -1,0 +1,157 @@
+{
+ "id": "germ_sdkfz_222",
+ "wiki": "https://wiki.warthunder.com/unit/germ_sdkfz_222",
+ "name": "Sd.Kfz.222",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The Sonderkraftfahrzeug (Sd.Kfz.) 222 was a German light armoured car, designed in 1935 by order of the Ministry of Armaments as an improved version of its predecessor, Sd.Kfz.221 . Unlike its predecessor, the Sd.Kfz.222 received a 20 mm automatic gun, in addition to an upgraded hull. Both the Sd.Kfz.221 and Sd.Kfz.222 were actively used in all military campaigns of the Third Reich as reconnaissance and staff vehicles, proving themselves most successfully in the first years of World War II, when combat operations were conducted predominantly on terrain densely criss-crossed by roads. Later, the Sd.Kfz.222 lost its relevance due to its increasingly inadequate armour protection and poor off-road mobility. Nonetheless, the vehicle remained in service with Wehrmacht units until Germany's surrender, being used both for its intended purpose of reconnaissance and for supporting advancing infantry, providing anti-aircraft fire, and conducting police operations. A total of 994 Sd.Kfz.222s were manufactured. Introduced in Update \"Sky Guardians\" , the Sd.Kfz.222 can fulfil the role of an SPAA, as the armoured car is equipped with a good KwK38 20 mm automatic gun capable of destroying even a bomber with several rounds. However, the long reload time and low shot dispersion prevent the vehicle from effectively combating fast and small aircraft. However, thanks to its excellent mobility on hard ground and the availability of armour-piercing belts for the gun, the Sd.Kfz.222 is also well-suited as a light tank that can quickly reach a key point, outmanoeuvre opponents on the flanks and launch a surprise attack, then swiftly retreat without exposing itself to return fire. However, one should not forget about the vehicle's weak armour protection.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_sdkfz_222.png",
+ "weapons": [
+  "20 mm KwK38 cannon",
+  "7.92 mm MG34 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "30 / 8 / 8 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "68 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "90"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "18"
+  },
+  {
+   "label": "Ammunition",
+   "value": "180 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.8 → 6 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "450 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-7 / 85°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "28"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,700 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "198 → 270"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 20 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,440"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/HEFI-T",
+   "penetration": [
+    "37",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "20 mm Sprgr.",
+   "type": "HEFI-T",
+   "penetration": [
+    "5",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "20 mm PzGr.",
+   "type": "API-T",
+   "penetration": [
+    "37",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "20 mm PzGr.40",
+   "type": "HVAP-T",
+   "penetration": [
+    "48",
+    "45",
+    "31",
+    "20",
+    "13",
+    "8"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,177 @@
+{
+ "id": "jp_type_4_chi_to_late",
+ "wiki": "https://wiki.warthunder.com/unit/jp_type_4_chi_to_late",
+ "name": "Chi-To Late",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "III",
+ "br": {
+  "AB": "4.7",
+  "RB": "4.7",
+  "SB": "4.7"
+ },
+ "description": "The Chi-To Late was the final design of the Chi-To and the proposed production model, having a more streamlined turret design easing production, the armour is also slightly more angled giving it more effective armour than its initial design. However, like its prototype, production was delayed for too long due to material shortages, factory bombings, and ultimately the end of the war. It was introduced in Update 1.69 \"Regia Aeronautica\" . Compared to its previous design before it, the Chi-To late is slightly more forgiving due to armour effectiveness, able to shrug off shells slightly more often with the same deadly cannon as the Chi-To . It is still advised to keep the Chi-To Late at a long sniper distance, offering the high velocity and deadly 75 mm cannon would be a shame to lose in the frontline.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_type_4_chi_to_late.png",
+ "weapons": [
+  "7.7 mm Type 97 machine gun",
+  "7.7 mm Type 97 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "75 / 35 / 35 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "45"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "75 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "8.4 → 6.5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "8.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 90°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,582 → 2,036"
+  },
+  {
+   "label": "Crew training",
+   "value": "39,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "80 / 130 / 160 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "35,000"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Type 1 APHE",
+   "type": "APHE",
+   "penetration": [
+    "148",
+    "145",
+    "132",
+    "117",
+    "104",
+    "93"
+   ]
+  },
+  {
+   "name": "Type 4 Kou",
+   "type": "APHE",
+   "penetration": [
+    "151",
+    "148",
+    "137",
+    "124",
+    "112",
+    "101"
+   ]
+  },
+  {
+   "name": "Type 90 HE",
+   "type": "HE",
+   "penetration": [
+    "17",
+    "17",
+    "15",
+    "14",
+    "12",
+    "11"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

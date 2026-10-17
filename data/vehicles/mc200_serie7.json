@@ -1,0 +1,182 @@
+{
+ "id": "mc200_serie7",
+ "wiki": "https://wiki.warthunder.com/unit/mc200_serie7",
+ "name": "▀C. 200 serie 7",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The Macchi C.200 Serie 7 \"Saetta\" (Italian for \"Lightning\") is an Italian light fighter developed by the Aeronautica Macchi design bureau under the direction of Mario Castoldi. The Serie 7 was one of the further developments of the effective and highly maneuverable C.200. The Serie 7 differed from the Serie 3 mainly with slightly modified radio equipment and the addition of extra fuel tanks. There were no significant differences between the two versions. The Italian C.200 Serie 7 was introduced before the beginning of the Open Beta test as a part of the German aviation research tree. Overall, it is essentially the same aircraft as the Serie 3 , offering good handling and maneuverability, a powerful engine, and excellent fixed armament. However, it has some drawbacks. The extra fuel tanks make it more vulnerable to enemy fire, and the engine's somewhat \"temperamental\" behavior when damaged further complicates its usage.",
+ "image": "https://static.encyclopedia.warthunder.com/images/mc200_serie7.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "504"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "16"
+  },
+  {
+   "label": "Turn time",
+   "value": "16"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,900 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "280 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "A74"
+  },
+  {
+   "label": "Length",
+   "value": "8.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.6 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "150 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.22"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.29 t (1h 18m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "845 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.81 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/16 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 / 451 / 535 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "300 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "740 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "242 → 325"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 40 / 90 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,960"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP-I/HEF/API-T/I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/HEF/HEF",
+   "penetration": [
+    "20",
+    "18",
+    "11",
+    "6",
+    "4",
+    "2"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

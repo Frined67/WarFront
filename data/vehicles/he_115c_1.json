@@ -1,0 +1,276 @@
+{
+ "id": "he_115c_1",
+ "wiki": "https://wiki.warthunder.com/unit/he_115c_1",
+ "name": "He 115 C-1",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "He 115 was a German seaplane developed by Heinkel between 1935 and 1938 to replace the outdated He 59 floatplane bomber. It was produced at the Heinkel Rostock factory from December 1938 to July 1940, with a total of 223 aircraft of all variants built. The plane served extensively with the German coastal aviation from 1939, performing reconnaissance, bombing, torpedo attacks, and mine-laying missions. By mid-1940, however, the He 115’s relatively low speed made it increasingly unsuitable for many tasks, leading to the end of production, although the aircraft continued operating in Norway for Arctic convoy patrols. The He 115 C series was the last production variant. The C-1 featured improved defensive turret armament and added a 15 mm MG 151 forward-firing cannon in the nose. An additional fuel tank could also be installed in the bomb bay. A total of 67 aircraft of all C variants were produced. The He 115 C-1 was introduced in Update 2.29 “Sons of Attila” . It is a slow and unwieldy aircraft even among bombers. While its bomb load is modest, the 15 mm forward cannon allows it to engage light armored vehicles and attack inattentive enemy bombers or fighters. Despite several defensive turrets with good firing arcs, the He 115 C-1 is vulnerable in aerial combat, so players are advised to avoid prolonged encounters with multiple enemies or stay close to allied fighters.",
+ "image": "https://static.encyclopedia.warthunder.com/images/he_115c_1.png",
+ "weapons": [
+  "15 mm MG 151 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "300"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "4.3"
+  },
+  {
+   "label": "Turn time",
+   "value": "23"
+  },
+  {
+   "label": "Max altitude",
+   "value": "6,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "420 m"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x 132K"
+  },
+  {
+   "label": "Length",
+   "value": "17.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "22.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "116 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "7.57"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "2.55 t (5h 49m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "480 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.6 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/4 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 / 379 / 402 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.71 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,150 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.2 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,025"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "225 → 285"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 50 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,440"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/IT/IT/HEFI-T",
+   "penetration": [
+    "33",
+    "30",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEFI-T/AP-T/HEFI-T",
+   "penetration": [
+    "33",
+    "30",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-I/HEFI-T/HEFI-T/HEFI-T",
+   "penetration": [
+    "34",
+    "30",
+    "17",
+    "8",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-I(c)/AP-I(c)/AP-I(c)/HEFI-T",
+   "penetration": [
+    "53",
+    "48",
+    "32",
+    "19",
+    "11",
+    "7"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I",
+   "penetration": [
+    "34",
+    "30",
+    "17",
+    "8",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-I/AP-T/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-I/AP-T/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

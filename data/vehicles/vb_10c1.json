@@ -1,0 +1,182 @@
+{
+ "id": "vb_10c1",
+ "wiki": "https://wiki.warthunder.com/unit/vb_10c1",
+ "name": "VB.10C-1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "III",
+ "br": {
+  "AB": "3.7",
+  "RB": "4.0",
+  "SB": "3.7"
+ },
+ "description": "The VB.10C-1 was a heavy fighter designed in France, based in the V.G.33 that failed to enter production in WWII due to the capitulation of France in 1940. The aircraft was meant for post-war service with 200 aircraft ordered in 1946, however this was reduced to only 50 a few years later. Powered by two Hispano-Suiza HS 12Z Ars 15/16 engines, the aircraft was armed with four 20 mm cannons, although further versions also added six 12.7 mm HMGs. However, in the end, the order for this aircraft was cancelled, with the French Air Force deciding to rely on Allied aircraft such as the F6F, F8F, and F4U while their own jet-powered aircraft were being developed. It was introduced in Update 1.73 \"Vive la France\" . The VB.10 is a twin-engine fighter, with the second engine hidden behind the pilot driving its own set of propellers. Owing to its sleek design and contra-rotating propellers, it might appear as a single-engine super-prop fighter. With 2 engines, the plane can achieve high speeds but it is heavy and does not fare well in dogfights. It has access to a powerful offensive armament in the form of four 20 mm cannons, this paired with its good top speed, makes the aircraft great for boom and zoom, however for this, side climbing at the start of the match is highly recommended.",
+ "image": "https://static.encyclopedia.warthunder.com/images/vb_10c1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "710"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "15.4"
+  },
+  {
+   "label": "Turn time",
+   "value": "24"
+  },
+  {
+   "label": "Max altitude",
+   "value": "11,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "700 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "12Zars-15"
+  },
+  {
+   "label": "Length",
+   "value": "13 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "15.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "243 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "7.58"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.05 t (1h 35m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "820 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.9 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "320 / 469 / 498 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "450 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.45 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "816 → 1,097"
+  },
+  {
+   "label": "Crew training",
+   "value": "13,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 130 / 270 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "19,900"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "980"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "PT/HEI/AP/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/AP-T/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP/AP-T/HEI/AP-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,182 @@
+{
+ "id": "ki_43_2",
+ "wiki": "https://wiki.warthunder.com/unit/ki_43_2",
+ "name": "Ki-43-II",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The Nakajima Ki-43-II Hayabusa was a variant of the Japanese Army's Ki-43-I fighter developed in 1942. Although the Ki-43, adopted in early 1941, was a successful and modern fighter, it did not meet all the Army's requirements: the wings were fragile, preventing sharp maneuvers at high speeds and significantly limiting the maximum speed limit, and the aircraft was slow and practically couldn't carry bombs. Immediately after completing work on the first version, Nakajima engineers began developing an improved version, the Ki-43-II. This new fighter was equipped with a more powerful version of the Nakajima Sakae engine (Army designation Ha-115), a three-bladed propeller, and a reinforced wing capable of carrying bombs or drop tanks. It also had protected fuel tanks and a backplate. The first Ki-43-II prototype made its maiden flight in February 1942. After testing and refinement, the aircraft entered production in November of that year. Approximately 5,000 Ki-43-IIs were produced during the war and were used by the Imperial Japanese Army on virtually all fronts in the Pacific Theater. The Ki-43-II has been in the game since the start of the Open Beta Test prior to Update 1.27. Unlike the first version of the Hayabusa, the second received several minor yet significant improvements. For example, a slightly more powerful engine increased the aircraft’s maximum speed slightly, and a sturdier wing increased the speed limit and made it possible to perform maneuvers at virtually any speed without risking wing failure. Additionally, the Ki-43-II can carry two bombs of different calibers, making this Japanese fighter a decent choice for mixed battles. The second version of the Hayabusa is also one of the most maneuverable aircraft, making it a dangerous opponent in dogfights.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ki_43_2.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "558"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "15.3"
+  },
+  {
+   "label": "Turn time",
+   "value": "15"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,800 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "190 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Ha-115"
+  },
+  {
+   "label": "Length",
+   "value": "8.9 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "111 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.02"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.39 t (1h 22m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "661 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.65 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "250 / 362 / 383 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "300 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.53 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "260 → 327"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 40 / 90 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,960"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEF-I/AP/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/HEF-I/HEF-I/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/AP/AP-T",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/HEF-I/HEF-I/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

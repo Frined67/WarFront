@@ -1,0 +1,118 @@
+{
+ "id": "it_semovente_m42_75_34",
+ "wiki": "https://wiki.warthunder.com/unit/it_semovente_m42_75_34",
+ "name": "75/34 M42",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The Semovente da 75/34 M42 was an Italian self-propelled gun used during World War II. During the North African campaign, the Italian Army encountered Allied armored vehicles that the M13/40 and M14/41 tanks could not counter. Although the 75/18 M41 assault guns, produced since 1941, could engage enemy vehicles, they required HEAT shells with a short effective range, making it difficult to combat moving targets. The Italian Army High Command therefore tasked FIAT with developing a more advanced self-propelled gun with better-suited armament for engaging armored vehicles. A prototype based on the M15/42 medium tank was ready in 1942, and the 75/34 M42 entered service in April 1943. The SPG was equipped with a 75mm 75/34 mod. 39 gun whose power was comparable to that of the Soviet 76mm F-34 gun. Fire was most often conducted with armor-piercing and HEAT shells, though high-explosive shells were also produced for the gun. The guns saw almost no action in North Africa or on the Eastern Front but were used to defend Rome in 1943. During Operation Achse, the Wehrmacht captured 36 of these vehicles, which Germany subsequently used in the Balkans. A total of 165 Semovente 75/34 M42 were produced. The 75/34 M42 was introduced in Update 1.85 \"Supersonic\" . Although it boasts an excellent gun and decent mobility, the vehicle lacks good armor and crew survivability. The crew is crammed into a small fighting compartment, and the hull-mounted gun severely limits the 75/34 M42’s combat effectiveness.",
+ "image": "https://static.encyclopedia.warthunder.com/images/it_semovente_m42_75_34.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "30 / 25 / 25 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "63 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "38"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "45 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "8.5 → 6.5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 22°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-18 / 18°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Repair cost",
+   "value": "712 → 924"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 80 / 100 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,400"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Granata Perforante 75/32",
+   "type": "APCBC",
+   "penetration": [
+    "79",
+    "78",
+    "71",
+    "64",
+    "58",
+    "52"
+   ]
+  },
+  {
+   "name": "EPS M42",
+   "type": "HEAT",
+   "penetration": [
+    "100",
+    "100",
+    "100",
+    "100",
+    "100",
+    "100"
+   ]
+  },
+  {
+   "name": "Granata 75/32",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "10",
+    "9",
+    "9",
+    "9",
+    "9"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

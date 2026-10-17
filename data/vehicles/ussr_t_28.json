@@ -1,0 +1,176 @@
+{
+ "id": "ussr_t_28",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_t_28",
+ "name": "T-28",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "The T-28 was a Soviet medium tank developed in the early 1930s as a complement to the heavier T-35 tank, sharing turret and hull design with it. The T-28 was also influenced by the British Vickers A1E1 Independent multi-turreted tank. The T-28 featured three turrets, two armed with 7.62 mm DT machine guns and a third with a 76 mm L-10 howitzer and coaxial DT machine gun. The role of the T-28 was to provide infantry support, while the BT series tanks were to deal with enemy armour. After the experience gained during Winter and Continuation War, the T-28s were uparmoured with appliqué armour increasing the armour thickness from 30 to 80 mm at the front and 40 mm on the sides and rear. The T-28s took part in the defence of Leningrad and Moscow in 1941 and were quickly phased out after. A total of seven T-28s were captured by Finland during the war. Three tanks survived to this day with two in the Finnish Tank Museum in Parola and one in Moscow. The T-28 was introduced during the Closed Beta Test for Ground Forces before Update 1.41. As the T-28 was intended to be used against pillboxes and fortified positions, the default ammo choice leaves much to be desired with shrapnel and HE shells being nearly unusable against enemy armour, so researching the APHEBC BR-350A shell as soon as possible is advised. The tank itself is quite mobile for its size and weight, as well as decent top speed of 40 km/h. The armour is not particularly strong, and the six crew members being tightly packed together in the hull leave the tank vulnerable to being destroyed in single well-aimed shot.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_t_28.png",
+ "weapons": [
+  "7.62 mm DT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "30 / 20 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "94 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "38"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "19.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "69 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "5,292 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 28°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-33 / 145°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "17.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,646 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "208 → 268"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Sh-354T",
+   "type": "Shrapnel",
+   "penetration": [
+    "31",
+    "30",
+    "26",
+    "22",
+    "19",
+    "16"
+   ]
+  },
+  {
+   "name": "OF-350M",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "BR-350A (MD-5 fuze)",
+   "type": "APHEBC",
+   "penetration": [
+    "67",
+    "66",
+    "60",
+    "54",
+    "48",
+    "43"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

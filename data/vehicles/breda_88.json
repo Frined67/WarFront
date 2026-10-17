@@ -1,0 +1,230 @@
+{
+ "id": "breda_88",
+ "wiki": "https://wiki.warthunder.com/unit/breda_88",
+ "name": "Breda 88 (P.XI)",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "2.0"
+ },
+ "description": "The Breda 88 (P.XI) was developed in the mid-1930s as a heavy fighter with a range of 2,000 km, capable of fast interception against enemy bombers and fighters at high altitude. For the time it was seen as revolutionary; multiple records were set with the prototype Ba.88, thus it was a very promising design. It was amazingly fast for its time, and was used as an air racer too. However after being deployed, the aircraft performed much more poorly due to the added weight of navigation equipment, weapons, and other systems, so it never saw use as a heavy fighter/interceptor. Introduced in Update 1.69 \"Regia Aeronautica\" , the Breda 88 (P.XI) works as an interceptor, with a decent firepower. However, it does have a few issues; in a straight line, it has a good top speed, especially when compared to the biplanes around its BR, but the aircraft is not well suited for high altitude combat due to the poor rate of climb. It comes with a very standard armament for an interceptor, three 12.7 mm Breda-SAFAT machine guns that have a good rate of fire and range. Since the flight performance is not the most optimal, the vehicle should use its good top speed to its advantage, being mainly a support fighter. A good idea is to stay away from the centre of combat and pick off slow enemies or help teammates stuck in a dogfight. Dogfights with this aircraft are not recommended since it is a very heavy target and lacks the agility to outperform most aircraft in a fight.",
+ "image": "https://static.encyclopedia.warthunder.com/images/breda_88.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "490"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "7.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "29"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,800 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "730 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x P.XI. R.C. 40"
+  },
+  {
+   "label": "Length",
+   "value": "10.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "15.6 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "190 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "5.2"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.14 t (1h 58m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "713 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.73 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/9 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "283 / 389 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "262 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,250"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "167 → 223"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 30 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,430"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP-I/HEF/API-T/I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/HEF/HEF",
+   "penetration": [
+    "20",
+    "18",
+    "11",
+    "6",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP-I/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

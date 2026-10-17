@@ -1,0 +1,166 @@
+{
+ "id": "ar_2",
+ "wiki": "https://wiki.warthunder.com/unit/ar_2",
+ "name": "Ar-2",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.3",
+  "SB": "2.7"
+ },
+ "description": "The Ar-2 , also known as the SB-RK, was a major upgrade to the Soviet SB 2M-105 high-speed bomber. It was designed by Alexander Arkhangelsky in 1937. By the time this modification was developed, the concept of dive bombing had emerged in military circles. Dive bombing was much more accurate than classic level bombing. Consequently, the SB-RK (RK stands for radiator-wing) was designed specifically as a dive bomber. This new version of the aircraft had a modified nose for improved aerodynamics, wings with reduced span and area, and an automatic dive recovery system. Three SB-RK prototypes were built in August 1940 and underwent testing until December. Nevertheless, the aircraft went into serial production in October 1940, and by the end of 1941, approximately 200 had been produced. The Ar-2 played an active role in the early stages of the Great Patriotic War, delivering a few accurate strikes against German troops. However, due to their limited numbers, they were soon replaced by the legendary Pe-2 . The Ar-2 has been in the game since the start of the Open Beta Test prior to Update 1.27. This aircraft's main purpose is to deliver precision bombing strikes on various ground vehicles and enemy bases. The Ar-2 has a wide range of bombs of various calibers for this purpose. Additionally, the bomber has decent defensive armaments consisting of several turrets with rapid-fire ShKAS machine guns. It also has a decent maximum speed, which allows it to significantly increase its chances of survival, if not escape pursuit by enemy fighters. However, the Ar-2 has poor maneuverability, especially when damaged.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ar_2.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "512"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "12.5"
+  },
+  {
+   "label": "Turn time",
+   "value": "22"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,900 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "366 m"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x VK-105R"
+  },
+  {
+   "label": "Length",
+   "value": "12.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "18 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "139 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "5.75"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.95 t (1h 39m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "650 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/8 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 310 / 316 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "350 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,100"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,530 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "715 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "354 → 474"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 60 / 100 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-I/AP-I/AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "API-T/API-T/API-T/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

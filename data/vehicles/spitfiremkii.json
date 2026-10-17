@@ -1,0 +1,242 @@
+{
+ "id": "spitfiremkii",
+ "wiki": "https://wiki.warthunder.com/unit/spitfiremkii",
+ "name": "Spitfire Mk IIb",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "3.0"
+ },
+ "description": "In 1939, a trial was undertaken in which a Spitfire Mk I was fitted with a new 1,175-hp Merlin XII engine, the success of which resulted in the designation of a new variant: the Spitfire Mk II. Other improvements included a new, more efficient cooling system, and a move away from the previous external electric engine starting systems. The Mk IIb variant in particular was fitted with the \"B-type\" wing, a modification of the A-type wing of the Mk Ia and Mk IIa replacing the inner .303 machine guns with 20 mm Hispano cannons. Spitfire Mk IIs were rapidly manufactured and delivered, replacing all Mk Is in active service by April 1941. The Spitfire Mk IIb has been in the game since the start of the Open Beta Test. With the introduction of the 20 mm Hispano cannons, the Mk IIb resolves the flaws of the preceding Mk IIa , namely the weak armaments, while retaining all of its other characteristics. However, this also comes with an increase in battle rating, meaning that its previous advantages in climb rate and speed against common opponents, while still adequate, are no longer as prominent. Turn-fighting becomes even more important against the sheer speed and power of German and American fighters. While the increased power of the cannons will be helpful in taking down opponents once a firing solution is achieved, trigger discipline is advised in order to preserve ammunition for those crucial moments.",
+ "image": "https://static.encyclopedia.warthunder.com/images/spitfiremkii.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "571"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "19.4"
+  },
+  {
+   "label": "Turn time",
+   "value": "15.1"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Merlin-XII"
+  },
+  {
+   "label": "Length",
+   "value": "9.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "125 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.52"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.29 t (1h)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "760 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.82 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "230 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "270 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "120 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.32 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,400 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "495 → 627"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 70 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,400"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEI/SAP-I/T",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/SAP-I",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/SAP-I/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI/HEI/SAP-I",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/AP-I/Ball/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

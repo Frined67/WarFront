@@ -1,0 +1,194 @@
+{
+ "id": "meteor_frmk9_iaf",
+ "wiki": "https://wiki.warthunder.com/unit/meteor_frmk9_iaf",
+ "name": "Meteor FR.9",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "V",
+ "br": {
+  "AB": "7.7",
+  "RB": "8.0",
+  "SB": "8.0"
+ },
+ "description": "Following the creation of the Meteor F Mk.8 , a reconnaissance version was developed based on it—the Meteor FR.9 . The main difference was its 22 cm longer nose, which housed a remotely controlled F.24 camera. The first prototype, VW360, took flight on March 22, 1950. Production of the aircraft began in January 1952 and ended in August. A total of 126 Meteor FR.9s were built. Pilots were pleased that the aircraft's maneuverability characteristics were preserved, except for slightly reduced stability and poorer controllability at high speeds. The FR.9 remained in service with the Royal Air Force until January 1958. After that, the remaining aircraft were decommissioned and sold to other countries or scrapped. During an intense arms race with its neighbors in the 1950s, Israel purchased several versions of the Meteor, including the F.8 , FR.9 , and NF.13 , as well as T.7 trainers. In 1955, seven former British Meteor FR.9s were delivered to Israel. That same year, one of the FR.9s shot down two Egyptian Vampire fighters. Otherwise, however, the FR.9's service was unremarkable. The aircraft performed reconnaissance roles during several Arab-Israeli conflicts and were decommissioned in 1962. The Israeli Meteor FR.9 was introduced as a reward for the 2025 “Eye in the Sky” event . The fighter resembles the previous Meteor F.8 modification in many ways, differing only in slightly worse flight characteristics. It is a maneuverable aircraft with good dynamics and a large ammunition capacity. However, it has poor roll performance and quickly loses energy during prolonged turns, taking a long time to recover.",
+ "image": "https://static.encyclopedia.warthunder.com/images/meteor_frmk9_iaf.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "962"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "40.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "23"
+  },
+  {
+   "label": "Max altitude",
+   "value": "12,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "325 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Derwent 8"
+  },
+  {
+   "label": "Length",
+   "value": "12.6 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "217 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "5.54"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.53 t (23m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "999 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.89 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "290 / 462 / 495 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "390 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "780"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.32 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,293 → 4,689"
+  },
+  {
+   "label": "Crew training",
+   "value": "86,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "130 / 360 / 600 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "91,400"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,100"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEI/SAP-I/T",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/SAP-I",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/HEI/SAP-I/HEI/SAP-I",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/SAP-I/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI/HEI/SAP-I",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

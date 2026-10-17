@@ -1,0 +1,186 @@
+{
+ "id": "gladiator_j8a_iacobi",
+ "wiki": "https://wiki.warthunder.com/unit/gladiator_j8a_iacobi",
+ "name": "Iacobi's J8A",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "In 1936, the Swedish Air Force adopted a new defensive doctrine and required a new fighter. Since the government was on good terms with the United Kingdom at that time, it was possible to order 55 Gloster Gladiator aircraft (37 Mk.Is and 18 Mk.IIs) from them. The Gladiator Mk.I was designated J8 in the Swedish Air Force, and the Gladiator Mk.II was designated J8A . The latter were distinguished by their more powerful Mercury VIII engines. By 1939, the Gladiators were considered obsolete compared to monoplanes and were mostly transferred to the Air Cadet School in Uppsala. The aircraft were retired in 1947, and by that time, Sweden had lost 29 of them in various incidents. It is believed that Swedish pilot Friedrich Heinrich Ian Arnold Iacobi shot down a Soviet Polikarpov I-15 fighter while serving in a volunteer corps of 12 J8 fighters during the Winter War. This made Jacobi the first Swedish Air Force pilot to shoot down an enemy aircraft. Iacobi's J8A was introduced in Update 1.95 \"Northern Wind\" . It stands out for having one of the highest maximum speeds among biplanes, good armament, and average maneuverability, though it has a poor roll rate.",
+ "image": "https://static.encyclopedia.warthunder.com/images/gladiator_j8a_iacobi.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "414"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "15.7"
+  },
+  {
+   "label": "Turn time",
+   "value": "16"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,211 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "231 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Mercury VIIIA/AS"
+  },
+  {
+   "label": "Length",
+   "value": "8.4 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "73 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.84"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.28 t (1h 24m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "600 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "320 / 469 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.25 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "364"
+  },
+  {
+   "label": "Crew training",
+   "value": "150"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (15 / 25 / 85) %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,340"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/AP/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/T/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "T/I/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

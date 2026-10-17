@@ -1,0 +1,256 @@
+{
+ "id": "bf-109g-2_finland",
+ "wiki": "https://wiki.warthunder.com/unit/bf-109g-2_finland",
+ "name": "▄Bf 109 G-2",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "IV",
+ "br": {
+  "AB": "5.3",
+  "RB": "4.3",
+  "SB": "4.7"
+ },
+ "description": "The Bf 109 G-2 (\"Gustav\") was a German fighter aircraft that entered service with the Finnish Air Force in early 1943. In an effort to modernize its fighter fleet and compensate for losses sustained in battles with Soviet fighters, Finland purchased 30 Bf 109 G-2s from Germany in December 1942. In total, Finland acquired approximately 160 \"Gustavs\" of various modifications. These new German fighters greatly improved the Finns’ ability to counter Soviet aircraft in the air. After the war, the aircraft remained in service with the Finnish Defense Forces until 1954. The Finnish Bf 109 G-2 was introduced in Update 2.21 \"Fire and Ice\" as a part of the Swedish aviation research tree. The Bf 109 G-2 is similar to its predecessor, the Bf 109 F-4 , featuring balanced flight characteristics and good armament. However, thanks to a more powerful engine, the \"Gustav\" has a better climb rate, allowing it to easily reach much higher altitudes and giving it an additional advantage over its main rivals. Additionally, the aircraft has fairly high survivability due to additional armor protecting the pilot and the rear fuel tank.",
+ "image": "https://static.encyclopedia.warthunder.com/images/bf-109g-2_finland.png",
+ "weapons": [
+  "20 mm MG 151 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "696"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "23"
+  },
+  {
+   "label": "Turn time",
+   "value": "19"
+  },
+  {
+   "label": "Max altitude",
+   "value": "13,200 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "DB-605A"
+  },
+  {
+   "label": "Length",
+   "value": "9.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9.9 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "185 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.7"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.3 t (59m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "790 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.82 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/13 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 / 409 / 438 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "360 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.29 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,044 → 2,588"
+  },
+  {
+   "label": "Crew training",
+   "value": "45,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "90 / 200 / 420 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "40,200"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,400"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "IT/IT/APHE/HEI",
+   "penetration": [
+    "20",
+    "18",
+    "10",
+    "5",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "IT/HEI/HEI/AP-I",
+   "penetration": [
+    "27",
+    "24",
+    "14",
+    "7",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-I/HEI/HEI/HEI/HEI/IT",
+   "penetration": [
+    "27",
+    "24",
+    "14",
+    "7",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "APHE/APHE/APHE/IT",
+   "penetration": [
+    "20",
+    "18",
+    "10",
+    "5",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "FI-T/FI-T/FI-T/IT/IT",
+   "penetration": [
+    "10",
+    "9",
+    "5",
+    "3",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI/HEI/HEI/APHE/AP-I",
+   "penetration": [
+    "27",
+    "24",
+    "14",
+    "7",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

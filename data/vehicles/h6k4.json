@@ -1,0 +1,202 @@
+{
+ "id": "h6k4",
+ "wiki": "https://wiki.warthunder.com/unit/h6k4",
+ "name": "H6K4",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "1.7",
+  "SB": "2.3"
+ },
+ "description": "The H6K4 , designated as the Type 97 Large Flying Boat ( 九七式大型飛行艇 ) , was a Japanese flying boat that was used for maritime patrols and bombings during World War II. The aircraft was developed in 1934 based on the experiences of Kawanishi with the British Short Brothers flying boats. It had four engines, a twin tail, and a parasol wing with floats. It made its first flight in 1936 and entered service with the Japanese navy in 1938. It had an excellent range and could patrol for 24 hours. It was deployed in the war against China and later in the war in the Pacific, where it carried out attacks on Wake Island and Australia. The aircraft was vulnerable to the newer generation of Allied fighters and was gradually replaced by the Kawanishi H8K. A total of 215 units were built. It has been in the game since the start of the Open Beta Test prior to Update 1.27. The H6K4 is a versatile hydroplane bomber that can attack bases and ships with its bombs and torpedoes. However, it is also very vulnerable due to its large size. It can only carry two 800 kg bombs (or torpedoes) at a time, which may not be enough to destroy a base. It can also cap bases in naval battles, but it should avoid close combat with enemy fighters and AA guns. Given its large size and slow speed, flying away from enemy pursuers will be a hard task, with multiple 7.7 mm machine guns across the plane dealing little damage, there is a singular deadly 20 mm directly in the tail, which will be the main means of shooting down enemies on this large boat's six.",
+ "image": "https://static.encyclopedia.warthunder.com/images/h6k4.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "325"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "6.9"
+  },
+  {
+   "label": "Turn time",
+   "value": "22.6"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,560 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "396 m"
+  },
+  {
+   "label": "Crew",
+   "value": "9 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "4 x Kinsei 43"
+  },
+  {
+   "label": "Length",
+   "value": "24.4 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "40 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "132 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "13.38"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "8.83 t (7h 51m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "437 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/3 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "320 / 469 / 498 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "432 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "535 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.14 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,328 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.13 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "353 → 447"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 60 / 110 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,920"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/HEF/APHE",
+   "penetration": [
+    "19",
+    "18",
+    "12",
+    "7",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "HEF-T/APHE/APHE/APHE/APHE",
+   "penetration": [
+    "21",
+    "20",
+    "13",
+    "8",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF/HEF-T/HEF/APHE/HEF-T",
+   "penetration": [
+    "21",
+    "20",
+    "13",
+    "8",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/Ball/AP/I/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

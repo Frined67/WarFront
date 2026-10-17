@@ -1,0 +1,221 @@
+{
+ "id": "us_t1e1",
+ "wiki": "https://wiki.warthunder.com/unit/us_t1e1",
+ "name": "T1E1",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "heavy_tank",
+ "role": "Heavy tank",
+ "rank": "III",
+ "br": {
+  "AB": "5.3",
+  "RB": "5.3",
+  "SB": "5.3"
+ },
+ "description": "When World War II started, the US began looking into heavy tanks as a means against adversaries. The project began in 1940, settling on a 50 ton tank design. One distinguishing feature on this tank was the incorporation of two cannon armament in the turret, one 3-inch gun and one 37 mm cannon. The program became known as the T1 heavy tank. Originally supposed to be fitted with a hydramatic transmission, it was recommended that a newer gas-electric drive be installed for better performance without much weight gain. This recommendation was accepted and the tank to be equipped with the electric drive was designated as the T1E1 . The first T1E1 prototype was delivered around May 1942, which saw favorable enough performance to be considered for standardization as the M6A2. However, the change in priorities in the US from heavy tanks to medium to ease logistics led to an order of 40 M6 heavy tanks, with 20 T1E1 models produced. Introduced in Update \"Sky Guardians\" , the T1E1 is a more mobile version of the familiar M6A1 . As such, players familiar with the M6A1 play style would have a better time with the T1E1 to get around the battlefield. This can allow the T1E1 to fit in alongside medium tanks, allowing it to make better use of the dual-cannon armament in better tactical positions. However, the huge size of the T1E1 is still a burden and can allow opponents catching the side of the T1E1 to quickly neutralize it.",
+ "image": "https://static.encyclopedia.warthunder.com/images/us_t1e1.png",
+ "weapons": [
+  "37 mm M3 cannon",
+  "12.7 mm M2HB machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "101 / 69 / 44 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "121 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "37"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "75 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.6 → 5.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 30°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "12.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "202 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.7 → 2.9 s"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 22°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-120 / 120°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Ammunition",
+   "value": "6,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,533 → 1,896"
+  },
+  {
+   "label": "Crew training",
+   "value": "30,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "80 / 130 / 140 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "29,600"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,200"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M62 shell",
+   "type": "APCBC",
+   "penetration": [
+    "149",
+    "146",
+    "133",
+    "119",
+    "106",
+    "95"
+   ]
+  },
+  {
+   "name": "M42A1 shell",
+   "type": "HE",
+   "penetration": [
+    "17",
+    "16",
+    "15",
+    "13",
+    "12",
+    "10"
+   ]
+  },
+  {
+   "name": "M79 shot",
+   "type": "AP",
+   "penetration": [
+    "134",
+    "132",
+    "121",
+    "109",
+    "99",
+    "89"
+   ]
+  },
+  {
+   "name": "M74B1 shot",
+   "type": "AP",
+   "penetration": [
+    "79",
+    "76",
+    "65",
+    "54",
+    "45",
+    "37"
+   ]
+  },
+  {
+   "name": "M63 shell",
+   "type": "SAPHEI",
+   "penetration": [
+    "32",
+    "31",
+    "26",
+    "21",
+    "16",
+    "13"
+   ]
+  },
+  {
+   "name": "M51B1 shot",
+   "type": "APCBC",
+   "penetration": [
+    "87",
+    "84",
+    "73",
+    "60",
+    "50",
+    "41"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

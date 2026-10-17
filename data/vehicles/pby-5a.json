@@ -1,0 +1,198 @@
+{
+ "id": "pby-5a",
+ "wiki": "https://wiki.warthunder.com/unit/pby-5a",
+ "name": "PBY-5A Catalina",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "2.0"
+ },
+ "description": "In 1933, three companies, Consolidated, Martin, and Douglas were assigned to design a long-range flying boat that could patrol for hundreds of miles. Consolidated's design was one of two that were chosen by the U.S. Navy although they were both extremely underpowered. Consolidated's design would later receive the designation \"PBY\" which stood for \"Patrol Bomber\" and \"Y\" signifying the manufacturer. The PBY-5A would receive two Wright R-1830-92 engines each making 1,200 hp and an incredible range of over 2,500 miles (4,023 km). The PBY would serve effectively in maritime patrol, search-and-rescue, anti-submarine warfare, and more. One notable instance of the Catalina's was the \"Black Cats\" squadrons which utilized PBYs painted in black for night operations in the Pacific. PBYs are still flown today for missions like firefighting. Introduced since the start of the Open Beta Test prior to 1.27, the PBY-5A Catalina is a dual-engine bomber. It's a very slow aircraft which makes it an easy target for enemy fighters and interceptors. Furthermore, it's very easy to rip the wings so hard turns shouldn't be attempted. The Catalina does have ample defensive armament and a decent bomb load for destroying bases. The PBY-5A also has the added benefit of being able to land safely on both land and water due to the addition of the retractable landing gear. Players should be satisfied with the PBY-5A's performance as a low-tier bomber even if it is slow.",
+ "image": "https://static.encyclopedia.warthunder.com/images/pby-5a.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "282"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "5.1"
+  },
+  {
+   "label": "Turn time",
+   "value": "30"
+  },
+  {
+   "label": "Max altitude",
+   "value": "4,420 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "364 m"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x R1830-92"
+  },
+  {
+   "label": "Length",
+   "value": "19.5 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "31.7 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "99 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "9.44"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "3.43 t (3h 40m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "405 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/3 G"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "450 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "956 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,500"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "2,200 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "1,100 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "338 → 428"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 60 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,950"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/AP/AP/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/API-T",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/I/AP-I/API-T",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

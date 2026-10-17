@@ -1,0 +1,128 @@
+{
+ "id": "germ_pzkpfw_iii_ausf_f",
+ "wiki": "https://wiki.warthunder.com/unit/germ_pzkpfw_iii_ausf_f",
+ "name": "Pz.III F",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "The Panzerkampfwagen III Ausführung F (Panzer III F) (Sd.Kfz. Index: Sd.Kfz. 141 ) is the sixth variant of the Panzerkampfwagen III medium tank family. The Panzer III F, which succeeded the Panzer III E as the next medium tank in the Panzer III medium tank family, was largely an improved variant with a few crucial upgrades and adjustments. Notably, in addition to the Panzer III E's new torsion bar suspension system, making it easier and cheaper to build and repair in combat, it also mounted a new 50 mm Kampfwagenkanone (KwK) 38 L/42 tank gun which significantly increased its firepower. The Panzer III F saw a greater quantity of production than the Panzer III E, with over 400 units produced between 1939 and 1941. As a result, it was one of the most numerous Panzer IIIs, and it played an important part in the early phases of World War II, beginning with the invasion of the West in May 1940. Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Panzer III F variant is a completely novel design that replaces the earlier Panzer III E variant. First, it was outfitted with the new 50 mm KwK38 L/42 tank gun, which considerably increased its firepower and put it on pace with other nations at the time. Second, with the addition of torsion bar suspension, the Panzer III F became far more reliable. The tank is made up of armour plates ranging in thickness from 20 to 30 mm. Despite their vulnerability, higher firepower allows players to take more risks and engage foes with more dependability and ease. However, since almost no Panzer IIIs had their turret traverse upgraded to an electric power drive system, it is advised not to be too aggressive on the battlefield.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_pzkpfw_iii_ausf_f.png",
+ "weapons": [
+  "7.92 mm MG34 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "30 / 30 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "71"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "15.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "99 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,350 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "189 → 258"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 30 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,460"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "PzGr 39",
+   "type": "APC",
+   "penetration": [
+    "80",
+    "76",
+    "62",
+    "48",
+    "38",
+    "29"
+   ]
+  },
+  {
+   "name": "PzGr 40",
+   "type": "APCR",
+   "penetration": [
+    "116",
+    "107",
+    "74",
+    "47",
+    "30",
+    "19"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

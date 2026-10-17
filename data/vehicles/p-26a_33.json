@@ -1,0 +1,162 @@
+{
+ "id": "p-26a_33",
+ "wiki": "https://wiki.warthunder.com/unit/p-26a_33",
+ "name": "P-26A-33",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The P-26A-33 is an American fighter. It has been in the game since the start of the Open Beta Test prior to Update 1.27. First funded in 1931 by Boeing, the P-26 Peashooter was ordered by the US Army Air Corps to assist as a monoplane fighter. Early prototypes flown in 1932 had one fatal flaw: the landing speed. The landing speed was too high and it would cause gear failure, leading to crashes. Later models of the P-26 had landing flaps to combat this. The P-26 was designed to be faster and more manoeuvrable than the current biplanes. When WW2 broke out, the P-26 was exported to some of the Allies of the USA, and they were still in use when the USA entered the war in 1941. In 1956, the final pair of P-26 Peashooters were taken out of service and replaced by P-51 Mustangs, therefore retiring the P-26 Peashooter. This air frame was used for nearly 25 years.",
+ "image": "https://static.encyclopedia.warthunder.com/images/p-26a_33.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "377"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "12"
+  },
+  {
+   "label": "Turn time",
+   "value": "18"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "170 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "R-1340-27"
+  },
+  {
+   "label": "Length",
+   "value": "7.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "8.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "107 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.19"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.29 t (2h 5m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "508 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -9/12 G"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "97 → 121"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,128 @@
+{
+ "id": "fr_arl_44",
+ "wiki": "https://wiki.warthunder.com/unit/fr_arl_44",
+ "name": "ARL-44",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "heavy_tank",
+ "role": "Heavy tank",
+ "rank": "III",
+ "br": {
+  "AB": "5.3",
+  "RB": "5.3",
+  "SB": "5.3"
+ },
+ "description": "The ARL 44 was a French heavy tank that was developed shortly before the conclusion of World War II. Only sixty units were ever manufactured, beginning in 1949. The vehicle was unimpressive and only saw limited service. The tank was decommissioned in 1953. The ARL 44 is undoubtedly based on an earlier French heavy tank design. The hull is long but narrow, built for crossing deep trenches during wartime. The covered suspension, with its many small road wheels, is the most evident indication of its Char B1 heavy tank ancestry; it is virtually identical to that of the Char B1 ter . Partly due to a lack of a powerful enough engine, the tank compensates by using a more efficient petro-electrical transmission. As this type of transmission easily overheats, the ARL 44 was outfitted with a remarkable and complicated set of ventilators and cooling ducts; the engine deck was extended behind the track to accommodate them all. Introduced in Update 1.75 \"La Résistance\" , the ARL-44 is insufficiently armoured to serve as a frontline heavy tank in its intended duty. It should instead be played as a sniper. The front of the vehicle is powerful enough to resist most ammunition fired from enemies. Furthermore, with an above-average reload time, staying away from the front lines helps prevent the tank from being overwhelmed by adversaries. The main armament is fairly powerful, but it lacks explosive filler to disable or destroy opponents with a single shot. To maximize damage, always target modules and crew locations.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_arl_44.png",
+ "weapons": [
+  "7.5 mm MAC 31 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "120 / 50 / 50 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "150 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "37"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12"
+  },
+  {
+   "label": "Ammunition",
+   "value": "37 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "13 → 10 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "5,100 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "550 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,580 → 1,954"
+  },
+  {
+   "label": "Crew training",
+   "value": "30,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "80 / 130 / 140 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "29,900"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,200"
+  }
+ ],
+ "shells": [
+  {
+   "name": "PCO-50",
+   "type": "APCBC",
+   "penetration": [
+    "248",
+    "245",
+    "233",
+    "218",
+    "205",
+    "192"
+   ]
+  },
+  {
+   "name": "90 mm Obus explosif",
+   "type": "HE",
+   "penetration": [
+    "17",
+    "17",
+    "15",
+    "14",
+    "13",
+    "13"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

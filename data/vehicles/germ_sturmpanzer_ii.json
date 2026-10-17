@@ -1,0 +1,106 @@
+{
+ "id": "germ_sturmpanzer_ii",
+ "wiki": "https://wiki.warthunder.com/unit/germ_sturmpanzer_ii",
+ "name": "15cm sIG 33 B Sfl",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The 15 cm sIG 33 auf Fahrgestell Panzerkampfwagen II (Sf) , also known as the Sturmpanzer II Bison during World War II, is a German assault gun built primarily for infantry support and anti-fortification roles. Several prototypes were built, with the final one based on a standard Panzer II Ausf. B chassis. The chassis was extended by 60 cm, necessitating the addition of a sixth roadwheel, and widened by 32 cm to better fit the cannon while maintaining its low silhouette. A total of twelve units were built between December 1941 and January 1942. They were deployed to North Africa, where they formed schwere Infanteriegeschütz-Kompanien (mot.S.) 707 and 708 as close support mobile artillery. Both companies fought in Tunisia until the Axis surrendered in May 1943. Introduced in Update 1.67 \"Assault\" , the 15cm sIG 33 B Sfl is the largest calibre cannon available to German Army ground forces at rank I. The massive 15 cm calibre assault gun is capable of firing both high explosive (HE) and high explosive anti-tank (HEAT) rounds, which can completely cripple, if not destroy, any enemy tank it strikes. The vehicle, however, is completely exposed, leaving it extremely vulnerable to anything from machine gun fire to artillery strikes to aircraft strafing. Because of the low velocity and significant reload time, players should only fire when they are certain the shell will hit. Nonetheless, the 15cm sIG 33 B Sfl provided a highly unique and enjoyable experience in the German Army's beginner ranks.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_sturmpanzer_ii.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "20 / 14 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "68 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "45"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "9.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "18 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "14.4 → 11.1 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-4 / 40°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-1 / 6°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "4.2"
+  },
+  {
+   "label": "Repair cost",
+   "value": "90 → 111"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "I.Gr.38",
+   "type": "HE",
+   "penetration": [
+    "61",
+    "61",
+    "61",
+    "61",
+    "61",
+    "61"
+   ]
+  },
+  {
+   "name": "I.Gr.39 HI/A",
+   "type": "HEAT",
+   "penetration": [
+    "185",
+    "185",
+    "185",
+    "185",
+    "185",
+    "185"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

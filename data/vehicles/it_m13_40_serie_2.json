@@ -1,0 +1,153 @@
+{
+ "id": "it_m13_40_serie_2",
+ "wiki": "https://wiki.warthunder.com/unit/it_m13_40_serie_2",
+ "name": "M13/40 (II)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The M13/40 (II) was the second production series of the Carro Armato M13/40 , with 200 vehicles built. The gun elevation angle was increased, an antenna for the radio station was added, short track guards were installed, and other less significant modifications were made. The M13/40 (II) was introduced during Update 1.85 \"Supersonic\" as a battle reward in the 2018 War Thunder Festivities . It has since been available for purchase with Golden Eagles. The tank has decent armour and a good gun, with improved rate of fire and aiming angles compared to its predecessor . However, the tank still suffers from low turret rotation speed and mediocre mobility. Its poor acceleration will make it difficult to reach its top speed of 32 km/h.",
+ "image": "https://static.encyclopedia.warthunder.com/images/it_m13_40_serie_2.png",
+ "weapons": [
+  "8 mm Breda Mod. 38 machine gun",
+  "8 mm Breda Mod. 38 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "30 / 25 / 25 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "81 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "32"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "9.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "87 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.8 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,536 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,536 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "638"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 20 / 20) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Granata Perforante mod.35",
+   "type": "APHE",
+   "penetration": [
+    "50",
+    "47",
+    "37",
+    "27",
+    "20",
+    "15"
+   ]
+  },
+  {
+   "name": "Granata Perforante mod.39",
+   "type": "APHE",
+   "penetration": [
+    "48",
+    "47",
+    "41",
+    "35",
+    "30",
+    "26"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

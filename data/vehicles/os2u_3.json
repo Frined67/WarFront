@@ -1,0 +1,204 @@
+{
+ "id": "os2u_3",
+ "wiki": "https://wiki.warthunder.com/unit/os2u_3",
+ "name": "OS2U-3",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The OS2U-3 Kingfisher is the successor of the OS2U-1 and the OS2U-2, which was a version equipped with a regular landing gear. Compared to this previous versions, it uses a slightly different engine, the same Pratt & Whitney R-985-48 but with a different version, it also has increased range, thanks to the addition of two extra self sealing fuel tanks in the wings while also featuring improved armour for the pilot. The OS2U-3 was the most produced variant of the Kingfisher family with 1000 units built. This aircraft first flew in 1941 and it was the only exported variant of all the Kingfishers, it served in many countries from Uruguay to Australia including the Soviet Union aboard cruiser Murmansk (USS Milwaukee). The last Kingfishers were withdrawn from service in Cuba in 1959. It has been in the game since the start of the Open Beta Test prior to Update 1.27, however, the vehicle was removed from the American air forces tree in Update 1.57 \"Battle March\" . But was later added back to the tech tree during update 14.11.18. It can be researched by players who unlock the OS2U-1 via reaching rank II for the American naval tree. Much like its predecessor, the OS2U-3 is a mediocre plane for ground and air battles. With an armament consisting of only a single 7.62 mm MG for offensive actions and another for defence operated by a gunner, it is very vulnerable to other fighters, this is also exacerbated thanks to the mediocre flight performance. However it is very capable as a reconnaissance aircraft in naval battles, being capable of spotting targets from the distance, and then land in water if it is no longer necessary or if you are starting to be targeted by enemy AA guns. The increased ascend rate compared to the OS2U-1, means that it is better at reaching a comfortable altitude, which is imperative for success in Naval Battles.",
+ "image": "https://static.encyclopedia.warthunder.com/images/os2u_3.png",
+ "weapons": [
+  "7.62 mm Browning machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "292"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "14.1"
+  },
+  {
+   "label": "Turn time",
+   "value": "33.1"
+  },
+  {
+   "label": "Max altitude",
+   "value": "6,130 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "304 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "R-985-AN-2"
+  },
+  {
+   "label": "Length",
+   "value": "10.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.9 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "98 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.15"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.38 t (3h 23m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "405 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.55 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -15/15 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "160 / 309 / 338 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "97 → 131"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 30 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,820"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP/T/T/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

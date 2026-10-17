@@ -1,0 +1,201 @@
+{
+ "id": "cn_t_34_1942",
+ "wiki": "https://wiki.warthunder.com/unit/cn_t_34_1942",
+ "name": "␗T-34 (1943)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "III",
+ "br": {
+  "AB": "4.0",
+  "RB": "4.0",
+  "SB": "4.0"
+ },
+ "description": "During World War II, the Soviet Union sent a small number of Model 1943 T-34s to China. Some were also left behind by the Soviets during the Soviet invasion of Manchuria, contributing to the defeat of Japan's Kwantung Army (関東軍/かんとうぐん/关东军). However, the T-34 (1943) saw extremely limited action in China, as the Chinese People's Liberation Army primarily used the T-34-85 (S-53) , a significant remodel of the original T-34 that increased firepower with the introduction of the 85 mm Zavod imeni Stalina (ZiS) S-53 tank gun. Introduced in Update 1.91 \"Night Vision\" , the T-34 (1943) offers Chinese Army ground forces players outstanding off-road mobility, defence, and firepower, enabling them to engage adversaries effectively. However, players should exercise caution when facing German tanks in battles, as German tank firepower improved significantly from rank II onwards with the arrival of the Panzer IV F2 . Nevertheless, in the hands of an experienced player, the T-34 (1943) remains a formidable tank.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cn_t_34_1942.png",
+ "weapons": [
+  "76 mm F-34 cannon",
+  "7.62 mm DT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "45 / 45 / 40 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "83 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "49"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "100 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "8.4 → 6.5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 30°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "17.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,890 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "909 → 1,248"
+  },
+  {
+   "label": "Crew training",
+   "value": "13,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "60 / 90 / 110 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "19,810"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "980"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-350A (MD-5 fuze)",
+   "type": "APHEBC",
+   "penetration": [
+    "87",
+    "85",
+    "77",
+    "69",
+    "62",
+    "55"
+   ]
+  },
+  {
+   "name": "OF-350M",
+   "type": "HE",
+   "penetration": [
+    "13",
+    "12",
+    "11",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "Sh-354T",
+   "type": "Shrapnel",
+   "penetration": [
+    "35",
+    "34",
+    "30",
+    "26",
+    "22",
+    "19"
+   ]
+  },
+  {
+   "name": "BR-350SP",
+   "type": "APBC",
+   "penetration": [
+    "99",
+    "96",
+    "87",
+    "76",
+    "66",
+    "58"
+   ]
+  },
+  {
+   "name": "BR-354P",
+   "type": "APCR",
+   "penetration": [
+    "125",
+    "117",
+    "87",
+    "60",
+    "41",
+    "28"
+   ]
+  },
+  {
+   "name": "BP-353A",
+   "type": "HEAT",
+   "penetration": [
+    "80",
+    "80",
+    "80",
+    "80",
+    "80",
+    "80"
+   ]
+  },
+  {
+   "name": "BR-350B (MD-8 fuze)",
+   "type": "APHEBC",
+   "penetration": [
+    "96",
+    "94",
+    "84",
+    "74",
+    "64",
+    "56"
+   ]
+  },
+  {
+   "name": "D-350A",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,325 @@
+{
+ "id": "saab_b17bs",
+ "wiki": "https://wiki.warthunder.com/unit/saab_b17bs",
+ "name": "S17BS",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.0",
+  "SB": "1.3"
+ },
+ "description": "The S17BS was a Swedish reconnaissance dive-bomber aircraft designed by SAAB. The land-based SAAB 17 was the first all-metal stressed-skin aircraft developed in Sweden, introduced in 1940. The SAAB 17BS was the latest version of the B17, based on the B17B , it was designed for reconnaissance and it featured photographic equipment, it replaced the landing gear with floats and the original engine by a Bristol Mercury XXIV engine; 38 units were built. It was introduced in Update \"Raining Fire\" . The S17BS is a slow and sluggish bomber. It has access to 2 x forward mounting machine guns, which are an adequate armament for its BR. It is more capable at ground attack however, with access to 9 x 50 kg bombs. It has also access to a bomb sight, which means that dropping bombs with precision shouldn't be an issue. In air battles, the bombs are particularly useful against light fortifications and vehicle columns.",
+ "image": "https://static.encyclopedia.warthunder.com/images/saab_b17bs.png",
+ "weapons": [
+  "8 mm Ksp m/22 Fv machine gun",
+  "8 mm Ksp m/22 Fh machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "395"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "6"
+  },
+  {
+   "label": "Turn time",
+   "value": "20"
+  },
+  {
+   "label": "Max altitude",
+   "value": "6,200 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "450 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "Mercury XXIV"
+  },
+  {
+   "label": "Length",
+   "value": "10 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "13.7 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "131 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.24"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.43 t (1h 40m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "500 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.65 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/9 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 369 / 387 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.25 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.25 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "300 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "117 → 148"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 30 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/AP/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/T/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "T/I/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/AP/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/T/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "T/I/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/T",
+   "penetration": [
+    "5",
+    "4",
+    "2",
+    "1",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "T/I/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,214 @@
+{
+ "id": "ju-87r-2_snake",
+ "wiki": "https://wiki.warthunder.com/unit/ju-87r-2_snake",
+ "name": "Ju 87 R-2 Libya",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "During the early stages of World War II, a large number of Ju 87 dive bombers were deployed in North Africa as part of the Afrika Korps expeditionary force led by Erwin Rommel. These aircraft were primarily used to support Axis offensives, particularly during the Siege of Tobruk and the Battles of El Alamein, as well as against Allied convoys. While the Stuka enjoyed significant success between 1941 and 1942, the increasingly advanced and versatile Allied fighter-bombers were deployed against the Axis forces, rendering the Stuka – an aircraft designed solely for dive-bombing – obsolete. With losses mounting against the Stuka and the Allies gaining air superiority over North Africa by 1943, the remaining Ju 87s were withdrawn back to Europe. Introduced in Update “Danger Zone” , the Ju 87 R-2 \"Libya\" is a long-range version of the Stuka, featuring an overall refined airframe at the cost of the loss of wing payloads and the “Jericho trumpets”. While the reduced bomb load and the lack of the howling sound of the trumpets can be off-putting to some pilots, the R-2 makes up for it with its better handling, especially at high speed in a dive, as well as being less vulnerable. Much like other Stukas, the R-2 is rather mediocre in any other roles but performs very well in its intended role: dive-bombing. As such, it is still capable of eliminating ground targets with precision, even at higher tiers.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ju-87r-2_snake.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "383"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "9.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "27"
+  },
+  {
+   "label": "Max altitude",
+   "value": "7,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "433 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "Jumo 211D"
+  },
+  {
+   "label": "Length",
+   "value": "10.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "13.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "142 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.92"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.58 t (2h 12m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "680 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.65 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/17 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "320 / 469 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "900 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,220 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "610 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "147"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (25 / 45 / 110) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-I/AP-T/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

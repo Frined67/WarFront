@@ -1,0 +1,121 @@
+{
+ "id": "fr_m4a1_sherman_fl_10",
+ "wiki": "https://wiki.warthunder.com/unit/fr_m4a1_sherman_fl_10",
+ "name": "M4A1 (FL10)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "III",
+ "br": {
+  "AB": "4.7",
+  "RB": "5.0",
+  "SB": "5.0"
+ },
+ "description": "The M4A1 Sherman (FL10) is an up-gunned modification of the M4A1 , which is the first variant of the early-generation Medium Tank M4 (Sherman) family. The M4A1 (FL10) was one of the last major upgrades made to the M4A1 variant in the mid-1950s, created by the French in an attempt to modernise and potentially export their remaining fleet of M4 Shermans. The most straightforward option to improve the tank was to replace the main gun, as was already being done in France at the time with the M-50 and M-51 for the Israelis. However, attempting to modify the Sherman turret would be time-consuming and expensive; as a result, the FL10 Type-A early production turret of the AMX-13 was directly installed on the M4A1. This turret was lighter and less armoured than the standard M4A1, with the same main armament as on the AMX-13 and M-50: a high velocity 75 mm SA50 L/57 tank gun. This modification would serve as the prototype for similar future ventures, including installation of the FL10 turret on the Egyptian M4A4 fleet, which later saw action in two of the Arab-Israeli conflict's major battles: the 1956 Suez Crisis and the 1967 Six-Day War. Introduced in Update \"Starfighters\" initially as a premium pack, the M4A1 (FL10) has been substantially modified to provide a significant improvement in firepower over the standard M4A1. The high-velocity 75 mm SA50 L/57 tank gun was inspired by salvaged components of the 75 mm Kampfwagenkanone (KwK) 42 L/70 tank gun from damaged German Panther medium tanks during the German conquest of France. With an autoloader, the M4A1 (FL10) is capable of firing once every 5 seconds. Due to its weak armour, players should try to flank their opponents early in battle. Utilizing the M4A1 (FL10) autoloader advantage during combat, players will have little trouble destroying multiple opponents in a matter of seconds due to the quick reload. The M4A1 (FL10) was removed from the store after the 2021 May sale . It was made available for purchase again in-game with Golden Eagles for the 2022 \"Bastille Day\" mini-event .",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_m4a1_sherman_fl_10.png",
+ "weapons": [
+  "75 mm SA50 L/57 cannon",
+  "7.5 mm MAC 31 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "63 / 38 / 38 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "121 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "39"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "60 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-6 / 9°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "21"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,950 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "550 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,339"
+  },
+  {
+   "label": "Crew training",
+   "value": "10,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (90 / 145 / 170) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "POT-51A",
+   "type": "APBC",
+   "penetration": [
+    "182",
+    "178",
+    "162",
+    "143",
+    "127",
+    "113"
+   ]
+  },
+  {
+   "name": "OE Mle 1951",
+   "type": "HE",
+   "penetration": [
+    "15",
+    "15",
+    "13",
+    "12",
+    "11",
+    "10"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

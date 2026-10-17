@@ -1,0 +1,182 @@
+{
+ "id": "a_4n",
+ "wiki": "https://wiki.warthunder.com/unit/a_4n",
+ "name": "Ayit",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "VI",
+ "br": {
+  "AB": "9.7",
+  "RB": "10.0",
+  "SB": "10.0"
+ },
+ "description": "In the 1980s, Israel set out to upgrade their A-4 Skyhawk fleet and modernize it. The upgrade package chosen would allow their A-4s to reach a level of equivelance to the US Marine Corps A-4M models. The resulting variant, called the A-4N \"Ayit\" included the integration of the Elbit ACE-1 HUD, Elbit computers, and the installation of an Elta EL/M-2032 radar, significantly enhancing its air-to-air and air-to-ground capabilities. The A-4N Ayit could carry advanced munitions like the later variants of the AIM-9 Sidewinder and AGM-65 Maverick missiles, making it a potent platform for precision strike missions. IAI (Israel Aircraft Industries) conducted these upgrades, transforming the aging A-4 into a highly capable and modern combat aircraft, which served the IAF until its retirement in the early 2000s. The A-4N Ayit remains a testament to Israel's expertise in aircraft modernization and adaptation. The Ayit , introduced in Update \"Winged Lions\" , is the most advanced Skyhawk variant in War Thunder. The aircraft is a serious powerhouse in mixed battles thanks to its incredible air-to-air and even more impressive air-to-ground performance. Being fitted with a more powerful engine and a larger arsenal of AAMs and AGMs over other Skyhawks, it can absolutely tear apart teams at its battle rating when used right. It can equip dangerous infrared missiles for air combat and has early access to AGM-65A Maverick air-to-ground missiles for tank busting, easily outranging most anti-air systems at its battle rating. The Ayit however does have serious shortcomings in dedicated air battle modes, due to regularly facing supersonic aircraft and aircraft with countermeasures at its battle rating which can easily counter the Ayit's main tricks. It is advised to play defensively and opportunistically in these modes with the Ayit, preying on any distracted or lonely fighters that underestimate you.",
+ "image": "https://static.encyclopedia.warthunder.com/images/a_4n.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "1,105"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "67"
+  },
+  {
+   "label": "Turn time",
+   "value": "32"
+  },
+  {
+   "label": "Max altitude",
+   "value": "12,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "1,000 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "J52-P-408"
+  },
+  {
+   "label": "Length",
+   "value": "12.6 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "8.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "311 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "5.06"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "2.47 t (36m)"
+  },
+  {
+   "label": "Fuel for additional engines",
+   "value": "0.08 t"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "1,167 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "1.28 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/8 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "410 / 563 / 592 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "437 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "300 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "5.03 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "4,153 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "2,076 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,972 → 4,039"
+  },
+  {
+   "label": "Crew training",
+   "value": "150,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "110 / 330 / 600 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "158,600"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,700"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/HEI/HEF",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "HEI/API-T/API-T/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF/HEI/HEF/HEI/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF/HEI",
+   "penetration": [
+    "4",
+    "4",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

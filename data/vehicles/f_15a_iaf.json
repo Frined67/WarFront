@@ -1,0 +1,184 @@
+{
+ "id": "f_15a_iaf",
+ "wiki": "https://wiki.warthunder.com/unit/f_15a_iaf",
+ "name": "Baz",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "VIII",
+ "br": {
+  "AB": "12.7",
+  "RB": "12.7",
+  "SB": "11.7"
+ },
+ "description": "In the late 1970s, under the Peace Fox I program, Israel received its first shipment of the latest F-15A Eagle air superiority fighters, and shortly after, the second shipment was temporarily embargoed as a result of the 1982 Lebanon War. However, that did not matter to the Israelis, as even a single F-15 was a landslide advantage in the air wars of the Middle East, making short work of the 30-year-old Syrian MiG-21s that tried to face it. The Israeli F-15A, nicknamed the Baz (\"Falcon\"), would score the first kill for the F-15 in aerial combat, against a Syrian MiG-21, in 1978, and would start the totem pole of air dominance that defines the F-15's service record. Of the 103+ confirmed aerial kills the F-15 has scored during its service life, Israeli F-15s are responsible for over 80 of them, and the Baz is the concrete starting ground for this long-lasting legacy. The Baz , introduced in Update \"Air Superiority\" , is Israel's counterpart to the F-15s found in the American and Japanese tech trees. As a result, the Baz plays almost identically to its Eagle brothers in the other trees, with a few minor differences. The main difference, is that unlike the American and Japanese Eagles, the Baz has access to the Python 3 missile, in addition to the usual selection of AIM-9L and M. The Baz is best played to the same advantages as the other Eagles; do not get too slow, as high-AoA fighters like the JAS39 and the Su-27 will utilize their low speed dogfighting advantages (HMD-slaved missiles and high AoA control) against you. Instead, rely on your own advantages, such as the absurd thrust-to-weight ratio from the powerful engines and the very stable airframe, to set up high-speed engagements in scenarios that favour the Eagle's high speed performance.",
+ "image": "https://static.encyclopedia.warthunder.com/images/f_15a_iaf.png",
+ "weapons": [
+  "20 mm M61A1 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "2,592"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "330"
+  },
+  {
+   "label": "Turn time",
+   "value": "20.5"
+  },
+  {
+   "label": "Max altitude",
+   "value": "16,764 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "750 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x F100-PW-100"
+  },
+  {
+   "label": "Length",
+   "value": "19.4 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "13.1 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "314 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "12.5"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "5.22 t (34m)"
+  },
+  {
+   "label": "Fuel in drop tanks",
+   "value": "5.37 t (35m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "1,629 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "2.4 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/13 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "481 / 548 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "700 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "940 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "6,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "9.98 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "7,711 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "3,855 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,940 → 4,431"
+  },
+  {
+   "label": "Crew training",
+   "value": "250,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "90 / 320 / 500 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "261,800"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "3,200"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEF-I/API-T/AP-I/SAPHEI",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF-I/HEF-I/API-T/HEF-I/HEF-I/AP-I",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF-I/AP-I/AP-I/SAPHEI",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "SAPHEI",
+   "penetration": [
+    "37",
+    "33",
+    "20",
+    "11",
+    "6",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

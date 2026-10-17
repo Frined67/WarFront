@@ -1,0 +1,178 @@
+{
+ "id": "mirage_3cj",
+ "wiki": "https://wiki.warthunder.com/unit/mirage_3cj",
+ "name": "Shahak",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "VII",
+ "br": {
+  "AB": "10.0",
+  "RB": "10.0",
+  "SB": "9.7"
+ },
+ "description": "The Shahak was the name given by IAF personnel to the French Mirage IIICJ in service. It was Israel's first Mach 2 capable fighter, and it was its main air superiority fighter for many years. It participated in the Six Days War and Yom Kippur War, as well as several border conflicts and skirmishes with Egyptian and Syrian forces. Its main opponent was the Soviet-made MiG-21 interceptor. For its pilots, the new missiles carried by the Shahak proved to be too unreliable and most pilots preferred to use the DEFA cannons equipped in the aircraft. Israel operated a total of 72 Mirage III fighters that were phased out soon after the Yom Kippur War in favour of the more modern IAI Kfir and F-4 Phantom II. Introduced in Update \"Winged Lions\" , the Shahak is very similar in gameplay and BR to the French Mirage IIIC, at least in terms of flight performance. The Shahak however uses a very different missile loadout, using American-made AIM-9Ds instead of the short-range Matra Magic 1s used in the French variant. The Shahak is fast and very agile, like most delta wing fighters, however its design makes it so that it has very good agility and AOA but loses energy very quickly in any kind of manoeuvre. And because its acceleration is not the best at low speeds it is necessary to stay fast in order to survive, this is even more evident once you realize the Shahak has no countermeasures and staying fast is its best asset to avoid being hit with a missile.",
+ "image": "https://static.encyclopedia.warthunder.com/images/mirage_3cj.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "2,160"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "140"
+  },
+  {
+   "label": "Turn time",
+   "value": "28"
+  },
+  {
+   "label": "Max altitude",
+   "value": "16,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "750 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Atar 9B"
+  },
+  {
+   "label": "Length",
+   "value": "14.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "8.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "258 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "6.34"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.87 t (28m)"
+  },
+  {
+   "label": "Fuel in drop tanks",
+   "value": "1.14 t (17m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "1,460 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "2.1 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/12 G"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "426 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "250 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "5.03 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "3,000 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "1,000 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,182 → 4,280"
+  },
+  {
+   "label": "Crew training",
+   "value": "165,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "130 / 380 / 600 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "172,800"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,800"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/HEI/HEF",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "HEI/API-T/API-T/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF/HEI/HEF/HEI/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF/HEI",
+   "penetration": [
+    "4",
+    "4",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

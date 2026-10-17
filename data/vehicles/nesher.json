@@ -1,0 +1,178 @@
+{
+ "id": "nesher",
+ "wiki": "https://wiki.warthunder.com/unit/nesher",
+ "name": "Nesher",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "VII",
+ "br": {
+  "AB": "10.3",
+  "RB": "10.0",
+  "SB": "9.7"
+ },
+ "description": "The Nesher was meant to replace the Shahak in the IAF. It started as a hidden project, basically as a copy of the French Mirage 5 to avoid the embargo imposed over Israel during the Six-Day War. The aircraft started production in Israel in 1969, with a few changes to the design and electronics to suit Israeli needs more precisely. With the help of Dassault Aviation, different parts were smuggled into Israel. It featured Israeli-made avionics, compatibility with Shafrir 2 and AIM-9D AAMs, better range, and an ejection seat. The aircraft showed good performance during the 1973 Yom Kippur War, and served with Israel until 1978. Some of the single seat variants of the Nesher found a new owner in Argentina. Many were refurbished and then sold, serving in the Argentinian Air Force until 2015 under the name \"Dagger\". Introduced in Update \"Winged Lions\" , the Nesher flies like any other early Mirage. It is a fast plane with good AOA and agility as long as it has enough speed. Compared to the Shahak, the Nesher is capable of carrying enough ground ordnance to destroy a full base, however CAS duties are not recommended since the aircraft lacks any sort of ballistic computer. It has two hardpoints for air-to-air missiles, the AIM-9G being the most capable option at the end of the modifications tree. While the armament is nothing special for its BR, it compensates most of its flaws with good flight performance. It features 2 x DEFA 30 mm cannons that are very easy to aim, and when the missiles are used against enemies with no flares they are very hard to dodge. The most important thing about the Nesher is the speed, since it lacks flares, staying around Mach 1 is crucial to staying alive, even more when fighting enemies like the A-10, Su-25, or MiG-21SMT.",
+ "image": "https://static.encyclopedia.warthunder.com/images/nesher.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "2,160"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "140"
+  },
+  {
+   "label": "Turn time",
+   "value": "28"
+  },
+  {
+   "label": "Max altitude",
+   "value": "16,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "750 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Atar 9C"
+  },
+  {
+   "label": "Length",
+   "value": "15 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "8.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "307 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "7.29"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "2.46 t (37m)"
+  },
+  {
+   "label": "Fuel in drop tanks",
+   "value": "0.71 t (10m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "1,460 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "2.1 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/10 G"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "426 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "280 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "5.03 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "5,775 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "1,751 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,089 → 4,155"
+  },
+  {
+   "label": "Crew training",
+   "value": "165,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "120 / 380 / 600 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "171,800"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,800"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/HEI/HEF",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "HEI/API-T/API-T/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF/HEI/HEF/HEI/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF/HEI",
+   "penetration": [
+    "4",
+    "4",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,177 @@
+{
+ "id": "jp_type_4_chi_to",
+ "wiki": "https://wiki.warthunder.com/unit/jp_type_4_chi_to",
+ "name": "Chi-To",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "III",
+ "br": {
+  "AB": "4.7",
+  "RB": "4.7",
+  "SB": "4.7"
+ },
+ "description": "The Type 4 Chi-To was developed as a counter to the ever-pressing danger the Sherman possessed over Japanese 1930s infantry based tanks such as the Ha-Go and Chi-Ha . The main development point of the Chi-To (and its heavier counterpart, the Chi-Ri II ) was the new high-velocity long barrel 75 mm and a new hull design over the Chi-Ha / Chi-He family allowing for larger upgrades in armour, engine, and cannons. However, due to delays in hull production and lengthy cannon development, the Chi-To would only be ready in 1945 for evaluation, and the Chi-Nu and Ho-Ni III were built as stopgap measures to fill the gap of Sherman-capable competitors until the Chi-To was fully ready. It was introduced along with the initial Japanese Ground Forces tree in Update 1.65 \"Way of the Samurai\" . Playing the Type 4 Chi-To can give the player a new impression of the Japanese tree line and a lasting one considering many of the Japanese tanks after it follow the same pattern - a tank with a very powerful cannon, decent mobility, but rather fragile armour. The armour plus the tank's rather long reload means that the Chi-To is meant more for a long-distance shoot-out than a close encounter.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_type_4_chi_to.png",
+ "weapons": [
+  "7.7 mm Type 97 machine gun",
+  "7.7 mm Type 97 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "75 / 35 / 35 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "45"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "55 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "8.4 → 6.5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "8.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 70°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,258 → 1,619"
+  },
+  {
+   "label": "Crew training",
+   "value": "30,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "80 / 120 / 140 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "29,600"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,200"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Type 1 APHE",
+   "type": "APHE",
+   "penetration": [
+    "148",
+    "145",
+    "132",
+    "117",
+    "104",
+    "93"
+   ]
+  },
+  {
+   "name": "Type 4 Kou",
+   "type": "APHE",
+   "penetration": [
+    "151",
+    "148",
+    "137",
+    "124",
+    "112",
+    "101"
+   ]
+  },
+  {
+   "name": "Type 90 HE",
+   "type": "HE",
+   "penetration": [
+    "17",
+    "17",
+    "15",
+    "14",
+    "12",
+    "11"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,106 @@
+{
+ "id": "jp_type_2_ho_ni_2",
+ "wiki": "https://wiki.warthunder.com/unit/jp_type_2_ho_ni_2",
+ "name": "Ho-Ni II",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The Type 1 Ho-Ni II ( 一式砲戦車「ホニII」 ) was a Japanese self-propelled howitzer developed shortly before the Type 1 Ho-Ni I programme was finalised in 1941. Based on the Type 97 Chi-Ha chassis and centred around the Type 91 10 cm howitzer to provide mobile artillery support, it entered service in 1943. Production figures vary by source, from around 55, 124, or up to 138. However, planned expansion in anticipation of a possible Allied invasion called for at least 170 vehicles. In 1944, several Ho-Ni vehicles were organised into a new self-propelled artillery battalion intended for the defence of the Philippines, structured with two companies of four Ho-Ni I and two companies of four Ho-Ni II. While en route by sea, however, the transport fleet carrying the battalion was sunk off Santa Cruz Bay near Luzon; only about twenty personnel survived on the flagship and were later reassigned as infantry in Manila. As a result, Ho-Ni II vehicles saw little to no combat deployment overseas, with most remaining in Japan alongside the Ho-Ni III for homeland defence preparations. The Ho-Ni II was introduced in Update 2.55 \"Ninth Wave\" . Armed with a 105 mm howitzer capable of firing HE and HEAT shells, it is well suited for destroying lightly armoured vehicles with high-explosive rounds, while the HEAT shell provides a useful option against heavier targets. Compared to the Ho-Ro’s Type 38 15 cm howitzer, the smaller gun allows a more manageable reload time, but the vehicle remains vulnerable due to its open-topped fighting compartment and limited frontal gun shield, leaving the crew exposed from the sides, rear, and explosive overpressure.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_type_2_ho_ni_2.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "25 / 25 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "74 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "40"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "20 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "11.7 → 9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-10 / 10°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11.2"
+  },
+  {
+   "label": "Repair cost",
+   "value": "298 → 369"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 30 / 40 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,940"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Type 91 HE",
+   "type": "HE",
+   "penetration": [
+    "30",
+    "30",
+    "30",
+    "30",
+    "30",
+    "30"
+   ]
+  },
+  {
+   "name": "Type 3 HEAT",
+   "type": "HEAT",
+   "penetration": [
+    "120",
+    "120",
+    "120",
+    "120",
+    "120",
+    "120"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

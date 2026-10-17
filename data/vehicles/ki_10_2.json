@@ -1,0 +1,162 @@
+{
+ "id": "ki_10_2",
+ "wiki": "https://wiki.warthunder.com/unit/ki_10_2",
+ "name": "Ki-10-II",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The Ki-10-II , designated as Type 95 Fighter ( 九五式戦闘機 ) , was an upgrade of the Ki-10-I with a stronger engine, a new cowling, a bigger rudder, and a stronger landing gear, making it faster, more agile, and more stable. The new engine increased the speed from 400 km/h (249 mph) to 430 km/h (267 mph) and the climb rate from 11.7 m/s (2,300 ft/min) to 13.3 m/s (2,620 ft/min). The cowling, rudder, landing gear, and wings were modified to fit the new engine and improve performance. In the game since the start of the Open Beta Test prior to Update 1.27, the Ki-10-II plays very similarly to the preceding Ki-10-I . It has a good turn rate, fair climb, low speed, and minimal armour. It is faster and climbs better than other biplanes, but has weaker guns and protection. The Ki-10-II can turn-fight well at low altitudes, but should avoid stalls and spins. Its 7.7 mm guns have low fire rate and poor belts. Stealth belt is the best choice. The Ki-10-II should not attack armoured targets or bombers, but focus on other biplanes or slow monoplanes. Aim for the wings, not the fuselage. Teamwork is essential for the Ki-10-I.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ki_10_2.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "402"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "15.7"
+  },
+  {
+   "label": "Turn time",
+   "value": "16"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,100 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "231 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Ha-9-2A"
+  },
+  {
+   "label": "Length",
+   "value": "7.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "71 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.49"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.24 t (1h 11m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "600 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/11 G"
+  },
+  {
+   "label": "Ammunition",
+   "value": "900 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,100 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.19 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "3,270"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/IAI/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "I/AP/AP/AP/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

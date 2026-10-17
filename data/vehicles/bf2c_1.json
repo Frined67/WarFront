@@ -1,0 +1,174 @@
+{
+ "id": "bf2c_1",
+ "wiki": "https://wiki.warthunder.com/unit/bf2c_1",
+ "name": "BF2C-1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The Curtiss BF2C Goshawk was an American naval biplane fighter developed in 1933 as an improved version of the F11C Goshawk. Originated from the US Navy and Curtiss' shared idea of an aircraft with retractable landing gear, the BF2C ended up becoming its own distinct aircraft due to several improvements, most notably the increased top speed over the F11C, as well as its change in designation category to \"BF\" (bomber-fighter). Although the Goshawk only had a short service life of a few months in the US Navy due to problem with its landing gear, lesson learned from its development proved valuable with the subsequent projects. In spite of this, the Goshawk would find more success aboard as an export fighter under the name Hawk III , with Argentina, China, and Thailand being the primary user. The BF2C-1 was introduced in the Update \"La Royale\" , as an additional American reserve aircraft alongside the P-26 Peashooters . The Goshawk is quite unique among the reserve aircraft for its relatively better top speed thanks to its retractable undercarriage. Much like the other biplanes, the Goshawk is quite maneuverable, but is significantly held back by its weak armament of only two .30 cal machine guns and small bombs. Therefore, it is recommended to maintain altitude advantage, as the Goshawk's superior speed allows it to keep the distance with the enemy and closing in when needed.",
+ "image": "https://static.encyclopedia.warthunder.com/images/bf2c_1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "411"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "14.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "13.3"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,700 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "274 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Cyclone R-1820-04"
+  },
+  {
+   "label": "Length",
+   "value": "7.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "84 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.74"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.31 t (1h 34m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "600 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/11 G"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "280 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "250 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "100 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,420"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

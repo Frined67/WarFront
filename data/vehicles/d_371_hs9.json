@@ -1,0 +1,166 @@
+{
+ "id": "d_371_hs9",
+ "wiki": "https://wiki.warthunder.com/unit/d_371_hs9",
+ "name": "D.371 H.S.9",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "The D.371 HS.9 was an experimental modification of the D.371 , equipped with two Hispano-Suiza HS.9 20 mm cannons. It was introduced as a premium pack in Update 1.73 \"Vive la France\" and was discontinued from the store after the 2018 Victory Day sale . It was a reward vehicle for the War Thunder's 7th Anniversary and War Thunder's 10th Anniversary events. As a single-engine monoplane, it is agile and quick. While it can be a formidable turn-fighter, maintaining speed in this aircraft is crucial, or else it becomes a slow, easy target for other aircraft. The H.S.9 cannons are very powerful, especially against early aircraft, many of which utilised cloth coverings and wooden frames. Tempting as it may be to unload the weapons on the enemy in front of you, the ammunition load carried in the aircraft is a paltry 30 rounds per gun (60 rounds total). A careful aim and conservation of ammunition are vital with this aircraft.",
+ "image": "https://static.encyclopedia.warthunder.com/images/d_371_hs9.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "400"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "14"
+  },
+  {
+   "label": "Turn time",
+   "value": "13"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "150 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "14Kfs"
+  },
+  {
+   "label": "Length",
+   "value": "7.4 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "107 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.59"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.31 t (1h 18m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "560 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/12 G"
+  },
+  {
+   "label": "Ammunition",
+   "value": "60 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "400 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.85 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "431"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 35 / 120) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEI-T/HEI-T/PT",
+   "penetration": [
+    "17",
+    "15",
+    "11",
+    "7",
+    "5",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "HEI-T/AP",
+   "penetration": [
+    "35",
+    "32",
+    "22",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "HEI-T/AP/HEI-T",
+   "penetration": [
+    "35",
+    "32",
+    "22",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP/AP/AP/HEI-T/HEI-T",
+   "penetration": [
+    "35",
+    "32",
+    "22",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI/HEI/AP",
+   "penetration": [
+    "35",
+    "32",
+    "22",
+    "13",
+    "8",
+    "5"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

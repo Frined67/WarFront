@@ -1,0 +1,210 @@
+{
+ "id": "fw-189a-1",
+ "wiki": "https://wiki.warthunder.com/unit/fw-189a-1",
+ "name": "Fw 189 A-1",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.3",
+  "SB": "1.7"
+ },
+ "description": "The Fw 189 A-1 is a premium gift German bomber. It was introduced during Update 1.61 \"Road to Glory\" in the \" Operation S.U.M.M.E.R. \" event of 2016 that lasted from 22 July to 22 August after obtaining 18 pilot Marks of Distinction. It was next available in the 2017-18 Special Festive Quest from 22 December 2017 until 22 January 2018 that required 10 Christmas toys and also 500,000 Christmas lights accumulated between all players. As a rare vehicle, it is only obtainable through the Gaijin Marketplace .",
+ "image": "https://static.encyclopedia.warthunder.com/images/fw-189a-1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "359"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "8"
+  },
+  {
+   "label": "Turn time",
+   "value": "16"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x AS 410"
+  },
+  {
+   "label": "Length",
+   "value": "12 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "18.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "105 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.65"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.33 t (1h 56m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "525 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.65 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "185 / 233 / 243 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "190 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,200"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "189"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 40 / 80) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-I/AP-T/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

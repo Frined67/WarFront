@@ -1,0 +1,182 @@
+{
+ "id": "re_2000_ga",
+ "wiki": "https://wiki.warthunder.com/unit/re_2000_ga",
+ "name": "Re.2000 G.A.",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.0"
+ },
+ "description": "The Re.2000 Serie II ( Re.2000 G.A. , or \"Grande Autonomia\" — \"High Autonomy\") is a modified Italian fighter developed for direct flights from Italy to Ethiopia over the Mediterranean Sea. The Italian military leadership conceived this idea after the situation in the African theater of operations escalated significantly: by the beginning of 1941, the British, partisans, and Free French armed groups were superior to Italian units in terms of quality. For instance, after receiving reinforcements, the British colonial corps gained a significant advantage in terms of tank units, while the Allied air force was bolstered with Curtiss Hawk 75s (also known as P-36s ), Hurricanes , and several frontline bombers. In comparison, the Italian units only had CR.32 and CR.42 biplanes and a few bombers that struggled to cope with the rigors of service in Africa. The task was then set to quickly resolve this problem based on available resources. The military's attention fell on the Reggiano aircraft, which was mostly being exported. This G.A. variant differed from Serie I in that it had additional fuel tanks installed in the consoles next to the wing root and a modified Piaggio P.XI RC.40bis engine developed for Africa's harsh conditions. It also had a number of minor modifications, such as a reinforced rear wheel, a modified instrument panel, and a modified pilot's seat. Additionally, this aircraft had bomb mounts under the wings and an auxiliary fuel tank mount. However, the aircraft was never able to participate in combat on the East African front because the Italians did not have time to make the planes before their troops surrendered in Africa. Later, some were converted into catapult versions called the Re.2000 Serie III, which replaced the obsolete Ro.37, Ro.43 , and Ro.44 . The Re.2000 G.A. was introduced in Update 1.79 \"Project X\" . It is a fairly good early monoplane fighter, distinguished by its offensive, suspended weapons, and excellent maneuverability. Its two 12.7mm Breda-SAFAT machine guns in the nose fairing can be powerful weapons in aerial combat, and its two 100kg bombs on two pylons can take out heavily armored targets with an accurate drop. However, the engine overheats quickly, the large number of fuel tanks increases the aircraft's weight, and the climb rate is rather mediocre, which significantly limits its capabilities.",
+ "image": "https://static.encyclopedia.warthunder.com/images/re_2000_ga.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "525"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "12.9"
+  },
+  {
+   "label": "Turn time",
+   "value": "17"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "P.XI.Bis R.C. 40"
+  },
+  {
+   "label": "Length",
+   "value": "8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "136 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.21"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.53 t (2h 9m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "740 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.85 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 429 / 458 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "242 → 325"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 40 / 90 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,940"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP-I/HEF/API-T/I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/HEF/HEF",
+   "penetration": [
+    "20",
+    "18",
+    "11",
+    "6",
+    "4",
+    "2"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

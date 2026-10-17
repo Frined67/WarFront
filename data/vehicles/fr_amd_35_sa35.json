@@ -1,0 +1,96 @@
+{
+ "id": "fr_amd_35_sa35",
+ "wiki": "https://wiki.warthunder.com/unit/fr_amd_35_sa35",
+ "name": "AMD.35 (SA35)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "The AMD.35 (SA35) , also known as Panhard 178, was a 4x4 French reconnaissance armoured car, usually equipped with a 25 mm autocannon. In 1939, a version of the Panhard was unveiled, featuring a 47 mm SA35 cannon, intended to increase the anti-tank capabilities of the vehicle. Not many vehicles received this modification however, instead most SA35 cannons were intended for the Char B and Char D2 series of tanks. Instead, in 1940, Panhard proposed a version of the vehicle with a rearward-facing 47 mm SA37 gun. Due to the increasingly deteriorating situation on the front, the single prototype had to be abandoned and destroyed by its crew, although it managed to see action with the 1er RAM , defending a bridge near Etignie. It was introduced during Update \"Sky Guardians\" as a reward for the \"Repair Factory\" event . The AMD.35 (SA35) is very poorly protected, it can be even penetrated by HMG fire from distances above 500 m from the sides. This vehicle uses its mobility as its armour, however, while it has good mobility while on the road, its wheeled design makes it suffer on rough terrain. It has a quite decent gun, with good penetrating power for its BR, it is capable of dealing with most medium and light tanks that are common at rank I, like the BT-7 and the Panzer III, though it might struggle against heavier opponents in uptiers.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_amd_35_sa35.png",
+ "weapons": [
+  "47 mm SA35 L/32 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "20 / 15 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "76 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "72"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "30 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-12 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "17.5"
+  },
+  {
+   "label": "Repair cost",
+   "value": "438"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 25 / 35) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Mle1935",
+   "type": "APC",
+   "penetration": [
+    "62",
+    "59",
+    "47",
+    "36",
+    "27",
+    "20"
+   ]
+  },
+  {
+   "name": "Mle1935 HE",
+   "type": "HE",
+   "penetration": [
+    "6",
+    "6",
+    "5",
+    "4",
+    "4",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

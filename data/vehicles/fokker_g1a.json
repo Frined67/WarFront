@@ -1,0 +1,226 @@
+{
+ "id": "fokker_g1a",
+ "wiki": "https://wiki.warthunder.com/unit/fokker_g1a",
+ "name": "◗Fokker G.IA",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The Fokker G.1A Jachtkruiser was a Dutch twin-engined, twin-boom heavy fighter developed in 1937. Nicknamed the \"Grim Reaper\" by both the French and British due to its heavy firepower, it attracted significant foreign interest for export. Consequently, a smaller variant, the Fokker G.1B / G.1 Wasp, was conceived, equipped with a Pratt & Whitney SB4-G Twin Wasp Junior engine, while the domestic G.1A was powered by the Bristol Mercury VIII engine. By the start of WWII, only 36 G.1As were airworthy. Despite being overwhelmed by German forces, they managed to shoot down up to 167 Ju 52s and achieve 14 confirmed aerial victories. It was introduced in Update \"Seek & Destroy\" . Equipped with 8 x 7.92 mm FN machine guns in the nose with plenty of ammo this aircraft offers a deadly amount of head-on firepower but requires cautious flying and positioning due to its heavy nature. It's up to its pilot to decide whether to use this aircraft as a ground attacker, using bombs and strafing light targets with its MGs or using it in a head-on or interceptor role.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fokker_g1a.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "485"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "18"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "320 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Mercury VIII"
+  },
+  {
+   "label": "Length",
+   "value": "11.5 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "17.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "124 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "4.05"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.7 t (1h 52m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "610 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.65 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "230 / 319 / 337 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "280 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.28 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.27 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "500 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "500 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "323 → 436"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 60 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,910"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-I/AP-T/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

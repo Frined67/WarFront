@@ -1,0 +1,182 @@
+{
+ "id": "fiat_g50_seria7as_italy",
+ "wiki": "https://wiki.warthunder.com/unit/fiat_g50_seria7as_italy",
+ "name": "G.50 AS serie 7",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "1.7",
+  "SB": "2.0"
+ },
+ "description": "The G.50 AS Serie 7 \"Freccia\" (Italian for \"Arrow\") is an updated version of the G.50 aircraft developed for operations in harsh desert conditions. The AS designation stands for Africa Sahariana (\"Saharan Africa\"). This version differs little from earlier models except for an extra fuel tank behind the pilot to increase flight endurance and a fully retractable tailwheel. Additionally, filters were installed in the fuel and air intake systems to protect the engine from abrasive sand. Many planes were modified on site by mechanics, making it difficult to determine the total number produced. The G.50 AS serie 7 was introduced in Update 1.69 \"Regia Aeronautica\" replacing the version in the German research tree . It essentially remains the same \"Arrow\" , with decent maneuverability and a strong engine, but mediocre armament and very low durability. The new fuel tank slightly reduced the climb rate and turn time, but these differences are minor.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fiat_g50_seria7as_italy.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "470"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.3"
+  },
+  {
+   "label": "Turn time",
+   "value": "15"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,200 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "317 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "A74"
+  },
+  {
+   "label": "Length",
+   "value": "8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "147 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.19"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.3 t (1h 22m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "870 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.81 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/13 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 / 451 / 535 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "300 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "242 → 325"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 50 / 90 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP-I/HEF/API-T/I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/HEF/HEF",
+   "penetration": [
+    "20",
+    "18",
+    "11",
+    "6",
+    "4",
+    "2"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

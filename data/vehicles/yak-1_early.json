@@ -1,0 +1,256 @@
+{
+ "id": "yak-1_early",
+ "wiki": "https://wiki.warthunder.com/unit/yak-1_early",
+ "name": "Yak-1 (19)",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.3",
+  "SB": "2.7"
+ },
+ "description": "The Yakovlev Yak-1 is the first variant of the Yak-1 fighter aircraft family. Early-production Yakovlev fighter aircraft were among the greatest piston-engine fighters created during World War II, despite often being overshadowed by their Western counterparts in media (especially the Supermarine Spitfire, P-51 Mustang, Messerschmitt Bf 109, and Focke-Wulf Fw 190). Across all of the Yak fighter aircraft families combined, it is easily the most produced fighter aircraft of World War II, with around 37,000 total aircraft produced. The Yakovlev bureau created the Yak-1 in response to a Soviet government request in 1938 for a fighter made mostly of wood for ease of maintenance, repair, and, most importantly, mass production. The initial design was named \"Ya-26 Krasavec\" and first flew in March 1939. The aircraft was given the designation \"I-26\" after the Soviet Air Force approved its mass production. However, once production began, the aircraft's designation changed to the more common \"Yak-1\" naming system. The success of the Yak-1 inspired several other successful designs, pushing Yakovlev to the top tier of Soviet fighter aircraft engineering for decades to come. Ultimately, the Yak-1 brought the Soviet Air Force on par with competing German designs during World War II (Messerschmitt Bf 109 and Focke-Wulf Fw 190 fighters), significantly improving aerial combat tactics that went beyond what the old Russian Empire had to offer. The Yak-1 (19) was introduced in Update 1.43 . It is a capable turn-fighter, with high energy retention and a fast dive speed. It also provides considerable firepower in the early ranks, armed with a single 20 mm ShVAK cannon and two 7.62 mm ShKAS light machine guns. This aircraft performs excellently at medium-low altitudes; however, due to its thin wings and poor rate of climb at higher altitudes, it falls short of a high-altitude fighter. The aircraft can be used as a horizontal turn fighter against most monoplane fighters, but keep a watch out for high-altitude boom and zoom fighters. If the situation worsens, a possible escape could be to fly low and fast. The Yak-1 has minimal armour protection; in particular, head-on hits from an opponent risk knocking the pilot out or damaging the water-cooling radiator, which will cause the engine to quickly overheat, and the wings are also rather fragile. While the Yak-1 should not be utilized for ground attacks, it can be employed as a last resort to destroy unarmoured ground targets if the final flying opponent happens to be fleeing.",
+ "image": "https://static.encyclopedia.warthunder.com/images/yak-1_early.png",
+ "weapons": [
+  "20 mm ShVAK cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "577"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "16"
+  },
+  {
+   "label": "Turn time",
+   "value": "18"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "320 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "VK-105P"
+  },
+  {
+   "label": "Length",
+   "value": "8.5 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9.7 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "172 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.51"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.44 t (1h 32m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "683 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.78 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "110 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.29 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,240 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "354 → 448"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 60 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,930"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "FI-T/AP-I",
+   "penetration": [
+    "28",
+    "24",
+    "14",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "FI-T/HEF/AP-I/FI-T",
+   "penetration": [
+    "28",
+    "24",
+    "14",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "HEF/FI-T/AP-I",
+   "penetration": [
+    "28",
+    "24",
+    "14",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "FI-T",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-I/FI-T/AP-I/AP-I",
+   "penetration": [
+    "28",
+    "24",
+    "14",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/HEF/HEF/FI",
+   "penetration": [
+    "28",
+    "24",
+    "14",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AI/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,194 @@
+{
+ "id": "meteor_fmk8_iaf",
+ "wiki": "https://wiki.warthunder.com/unit/meteor_fmk8_iaf",
+ "name": "Meteor F.8",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "V",
+ "br": {
+  "AB": "7.7",
+  "RB": "8.0",
+  "SB": "8.0"
+ },
+ "description": "The Meteor F Mk.8 was a jet aircraft designed by Britain as an upgrade of the Meteor family. During the 1950s, Israel tried to obtain more jet aircraft due to the arms race happening in the region. 11 Meteors of the Mk.8 variant were delivered to Israel between 1953 and 1954. These units would be part of several squadrons, participating in the Suez Crisis and later being retired from frontline duties in 1956. After that it would be used as a trainer aircraft for the next years. It was introduced in Update \"Winged Lions\" alongside the initial Israeli air tech tree. It plays as a support/frontline fighter, with great acceleration and good low speed manoeuvrability. Having good awareness is crucial to staying alive on the battlefield, picking fights that you know you can win.",
+ "image": "https://static.encyclopedia.warthunder.com/images/meteor_fmk8_iaf.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "962"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "40.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "23"
+  },
+  {
+   "label": "Max altitude",
+   "value": "12,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "325 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Derwent 8"
+  },
+  {
+   "label": "Length",
+   "value": "12.6 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "216 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "5.5"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.53 t (23m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "999 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.89 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "290 / 462 / 495 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "390 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "780"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.32 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,293 → 4,689"
+  },
+  {
+   "label": "Crew training",
+   "value": "86,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "130 / 360 / 600 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "91,400"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,100"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEI/SAP-I/T",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/SAP-I",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/HEI/SAP-I/HEI/SAP-I",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/SAP-I/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI/HEI/SAP-I",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

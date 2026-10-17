@@ -1,0 +1,266 @@
+{
+ "id": "spitfire_lf_mk9e_iaf",
+ "wiki": "https://wiki.warthunder.com/unit/spitfire_lf_mk9e_iaf",
+ "name": "Spitfire Mk.IX (CW)",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "IV",
+ "br": {
+  "AB": "5.3",
+  "RB": "5.7",
+  "SB": "5.0"
+ },
+ "description": "The clipped wing configuration for the Spitfire Mk IX was introduced in the mid-late 1940s to increase manoeuvrability and improve roll rate at lower altitudes, at the cost of less lift. This was due to a shorter surface area, that generated less lift but was also more aerodynamic and less air was travelling around the fuselage Introduced in Update \"Winged Lions\" , the Spitfire Mk IX (CW) has very good handling and excellent agility. It may lack the ground ordnance common in other fighters such as the P-51s and Fw 190s but offers some of the best acceleration, climb rate and agility for its BR. While not the fastest, its good climb rate makes it capable of reaching high altitudes sooner than most planes which, combined with its agility, makes it a very deadly opponent when it has the speed or altitude advantage.",
+ "image": "https://static.encyclopedia.warthunder.com/images/spitfire_lf_mk9e_iaf.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "688"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "31.7"
+  },
+  {
+   "label": "Turn time",
+   "value": "14.6"
+  },
+  {
+   "label": "Max altitude",
+   "value": "11,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "320 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Merlin-66"
+  },
+  {
+   "label": "Length",
+   "value": "9.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9.9 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "157 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.07"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.29 t (46m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "774 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.87 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "270 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "270 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.32 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "520 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.57 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,105 → 4,167"
+  },
+  {
+   "label": "Crew training",
+   "value": "61,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "100 / 230 / 490 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "61,800"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,800"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEI/SAP-I/T",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/SAP-I",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/HEI/SAP-I/HEI/SAP-I",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/SAP-I/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI/HEI/SAP-I",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP-I",
+   "penetration": [
+    "26",
+    "24",
+    "18",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/AP-I/T/I",
+   "penetration": [
+    "26",
+    "24",
+    "18",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP-I/AP-I/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/T/T/AP-I",
+   "penetration": [
+    "26",
+    "24",
+    "18",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/AP-I/I/I",
+   "penetration": [
+    "26",
+    "24",
+    "18",
+    "12",
+    "8",
+    "5"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

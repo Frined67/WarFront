@@ -1,0 +1,161 @@
+{
+ "id": "us_m2a4_1st_armor_div",
+ "wiki": "https://wiki.warthunder.com/unit/us_m2a4_1st_armor_div",
+ "name": "M2A4 (1st Arm.Div.)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "Based on the armoured warfare lessons learned from the Spanish Civil War, the M2A4 light tank began to be designed to introduce thicker armour and a cannon to the tank. 375 of the M2A4 tanks began production in May 1940 and lasted until April 1942, with 375 tanks produced between two companies. Although the M2A4 saw combat within the US Marine Corps, the US Army issued the M2A4 only for training purposes to armoured units, including the 1st Armored Division. The 1st Armored Divison retained the M2A4 until it was replaced by the succeeding M3 Stuart light tank just before the division was sent to participate in Operation Torch in November 1942. The M2A4 (1st Arm.Div.) , a premium light tank available in War Thunder since its introduction in Update 1.45 \"Steel Generals\" , is quite similar to the reserve M2A4 version found in the tech tree. As a premium, the M2A4 (1st Arm.Div.) provides benefits in Research Point and Silver Lion gain for new players in War Thunder. With a dashing mobility and a sufficient 37 mm gun, the M2A4 (1st Arm.Div.) in the right hands can help players pick off enemies and capture objective points to help gain extra points for a higher reward output.",
+ "image": "https://static.encyclopedia.warthunder.com/images/us_m2a4_1st_armor_div.png",
+ "weapons": [
+  "37 mm M5 cannon",
+  "7.62 mm M1919A4 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "25 / 25 / 25 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "78 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "57"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "22.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "103 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.7 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "14.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "21,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 45°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-90 / 90°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "322"
+  },
+  {
+   "label": "Crew training",
+   "value": "150"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (15 / 15 / 15) %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,020"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M74 shot",
+   "type": "AP",
+   "penetration": [
+    "77",
+    "74",
+    "64",
+    "53",
+    "44",
+    "36"
+   ]
+  },
+  {
+   "name": "M51B1 shot",
+   "type": "APCBC",
+   "penetration": [
+    "86",
+    "83",
+    "71",
+    "59",
+    "49",
+    "40"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

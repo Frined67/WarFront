@@ -1,0 +1,280 @@
+{
+ "id": "arado-196a-3",
+ "wiki": "https://wiki.warthunder.com/unit/arado-196a-3",
+ "name": "Ar 196 A-3",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.3",
+  "SB": "1.7"
+ },
+ "description": "In 1936, the Kriegsmarine sought for a replacement to their existing biplane ship-launched floatplanes. The German Air Ministry helped with the aircraft selection and sent orders out for companies to send their contenders. Arado submitted their Ar 196 design alongside Focke-Wulf, Dornier, and Gota-Vagon-Fabrik in Autumn 1936. Among the competition, the Arado design won out and entered production in November 1938. Aside from its ship-launched variant, a land-based variant was also designed and entered production in 1939 as the A-2 that saw addition of weapons and the capability to carry ordnance. By the end of 1940, the Ar 196 A-3 began production for use in coastal patrol roles. Several samples also found its way to Germany-aligned or conquered countries like Bulgaria, Romania, Finland, and Norway. Additionally, a portion of the machines fell into the hands of the USSR as trophies and were used in aviation border units until the late 1950s, with their BMW 132K engines being replaced by domestic ASH-62IR engines. Introduced during Update \"Starfighters\" as a reward for the 2020 Operation S.U.M.M.E.R. event, the Ar 196 A-3 has since been made available in the game as a ship-launched reconnaissance aircraft in naval battles. Considered as one of the best naval scouts in history, nicknamed \"the eyes of the Kriegsmarine\"! The Ar 196 A-3 has every chance of becoming the new king of the sandpit: it is armed with a pair of 20 mm MG FF cannons and an MG 17 rifle-calibre machine gun, it can also carry 2 x 50 kg bombs under its wings. The Ar 196 A-3 also has a defensive turret with a 7.92 mm machine gun, which is quite good in the initial ranks. And of course, just like the other hydroplanes in the game, the Ar 196 A-3 is able to capture control points in naval battles.",
+ "image": "https://static.encyclopedia.warthunder.com/images/arado-196a-3.png",
+ "weapons": [
+  "7.92 mm MG 17 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "320"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "7"
+  },
+  {
+   "label": "Turn time",
+   "value": "21"
+  },
+  {
+   "label": "Max altitude",
+   "value": "6,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "450 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "132K"
+  },
+  {
+   "label": "Length",
+   "value": "11 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "110 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.84"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.29 t (1h 15m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "570 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.6 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "140 / 319 / 353 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "120 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "520 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.01 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "525 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "148"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 45 / 80) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "IT/IT/APHE",
+   "penetration": [
+    "15",
+    "13",
+    "8",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "IT/FI-T/FI-T/APHE",
+   "penetration": [
+    "15",
+    "13",
+    "8",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "FI-T/FI-T/AP-I/APHE/IT",
+   "penetration": [
+    "20",
+    "17",
+    "10",
+    "5",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT/IT/FI-T/FI-T",
+   "penetration": [
+    "7",
+    "7",
+    "4",
+    "3",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "APHE",
+   "penetration": [
+    "15",
+    "13",
+    "8",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-I/AP-T/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

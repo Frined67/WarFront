@@ -1,0 +1,214 @@
+{
+ "id": "d3a1",
+ "wiki": "https://wiki.warthunder.com/unit/d3a1",
+ "name": "D3A1",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "The D3A1 , designated as Type 99 Carrier Dive Bomber ( 九九式艦上爆撃機 ) was a carrier-based dive bomber that served in the Imperial Japanese Navy during World War II. It was the first Japanese plane to strike American targets, starting with the Pearl Harbor attack in December 1941. It also took part in almost all major Japanese carrier operations in the first year of the war, such as the Indian Ocean Raid, the Battle of the Coral Sea, and the Battle of Midway. The Aichi D3A replaced the older D1A biplane and was influenced by the German Heinkel He 70. The Aichi D3A1 was accurate and reliable. It sank more Allied ships than any other Axis plane, but faced heavy losses as the war went on and newer Allied fighters surpassed it. The D3A1 has been in the game since the start of the Open Beta Test prior to Update 1.27. It has a sturdy airframe, a fixed landing gear, and a Mitsubishi Kinsei radial engine that allows it to reach 240 knots (440 km/h). It can carry one 250 kg bomb under the fuselage and two 60 kg bombs under the wings. It also has two machine guns in the front and one in the back for self-defense. The D3A1 is not very fast or agile compared to other Japanese planes, but it is very precise when diving on a target, especially with the airbrake that helps it adjust its speed and angle.",
+ "image": "https://static.encyclopedia.warthunder.com/images/d3a1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "382"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "7.8"
+  },
+  {
+   "label": "Turn time",
+   "value": "29.2"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "231 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "Kinsei 44"
+  },
+  {
+   "label": "Length",
+   "value": "10.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "14.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "93 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.65"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.6 t (2h 51m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "600 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.65 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 429 / 458 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "582 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.13 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "210 → 284"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 50 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/IAI/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "I/AP/AP/AP/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/Ball/AP/I/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

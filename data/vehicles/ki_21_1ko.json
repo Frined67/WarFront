@@ -1,0 +1,206 @@
+{
+ "id": "ki_21_1ko",
+ "wiki": "https://wiki.warthunder.com/unit/ki_21_1ko",
+ "name": "Ki-21-Ia",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "2.3",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "The Ki-21 , designated as the Type 97 Heavy Bomber ( 九七式重爆撃機 ) , represented a significant advancement in the Japanese Army's aerial capabilities, introducing a new strategic doctrine. Preceding licensed and modified bomber models, such as the Ki-1, Ki-2, Ki-20, and B.R.20, suffered sluggish speed and inadequate armament, rendering them vulnerable to interception. In contrast, the Ki-21 was conceived as a high-speed, long-range twin-engine bomber, prioritizing speed and range over armour and payload. The aim was to strike enemy airfields preemptively, before they could deploy their fighter aircraft, and to evade interception by outpacing enemy fighters. Additionally, the Ki-21 boasted self-defence armament to fend off attacks from various angles with its array of machine guns. The Ki-21-Ia emerged as the first production variant of the Ki-21 series. While initially proving more effective than its predecessors, its effectiveness waned as aerial warfare evolved throughout the war. Introduced in Update 1.49 \"Weapons of Victory\" , the Ki-21-I ko is a versatile low-altitude medium bomber renowned for its impressive manoeuvrability for a bomber, although hindered by a low total bomb capacity, it excels in targeting ground targets such as pillboxes and tanks, with preferred naval targets being destroyers and cargo ships, while its light turret armament suggests optimal performance at higher altitudes, its different bomb layouts offer versatility, with 20 x 50 kg bombs effective against multiple ground targets and 2 x 500 kg bombs recommended for bases, making it a competent early-rank bomber despite its low total bomb tonnage.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ki_21_1ko.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "432"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "5.9"
+  },
+  {
+   "label": "Turn time",
+   "value": "14"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,600 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "600 m"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Ha-5"
+  },
+  {
+   "label": "Length",
+   "value": "16 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "22.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "107 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "4.77"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "2.13 t (3h 20m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "540 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.58 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/8 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "250 / 399 / 428 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "380 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "900 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.12 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "966 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "239 → 301"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 40 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,430"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/IAI/Ball/AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/Ball/Ball/IT",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "IT/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "IT/AP-I/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

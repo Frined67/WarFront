@@ -1,0 +1,148 @@
+{
+ "id": "il_m109",
+ "wiki": "https://wiki.warthunder.com/unit/il_m109",
+ "name": "M109",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "IV",
+ "br": {
+  "AB": "5.7",
+  "RB": "5.7",
+  "SB": "5.7"
+ },
+ "description": "Israel first acquired the M109 (Israel) at the end of the 1960s, and later fielded more modern versions of the M109 like the M109A1 and M109A2. The first combat seen by the vehicle was during the 1973 Yom Kippur War, and while Israeli doctrine did not incentivise a predominant role for its artillery, the precision mobility of the M109 proved its effectiveness in striking enemy strategic points. In a similar way, the M109 was used during the 1982 Lebanon War. By the 2006 Lebanon War, the early M109s were all replaced with its longer range versions. Introduced in Update \"Kings of Battle\" , the M109 fields a very powerful HE shell in a somewhat capable cannon. The short barrel of this M109 is not the most capable at dealing with long ranges, but it is very easy to operate even for beginners. The M109 is better used as a support tank, flanking or staying behind cover and ambushing incoming enemies. Aiming for the top of the turret, the bottom of the hull, or the engine compartment are the best ideas, since the 155 mm HE shell fielded by this tank is not powerful enough to consistently penetrate tanks from the front, especially Cold War MBTs.",
+ "image": "https://static.encyclopedia.warthunder.com/images/il_m109.png",
+ "weapons": [
+  "12.7 mm M2HB machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "32 / 32 / 32 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "95 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "56"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "28 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "17.3 → 13.3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-3 / 75°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 45°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,439 → 3,017"
+  },
+  {
+   "label": "Crew training",
+   "value": "45,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "100 / 160 / 220 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "40,400"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,400"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M107",
+   "type": "HE",
+   "penetration": [
+    "61",
+    "61",
+    "61",
+    "61",
+    "61",
+    "61"
+   ]
+  },
+  {
+   "name": "M110",
+   "type": "Smoke",
+   "penetration": [
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "M107 (PF)",
+   "type": "HE-VT",
+   "penetration": [
+    "61",
+    "61",
+    "61",
+    "61",
+    "61",
+    "61"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

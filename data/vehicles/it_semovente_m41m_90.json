@@ -1,0 +1,118 @@
+{
+ "id": "it_semovente_m41m_90",
+ "wiki": "https://wiki.warthunder.com/unit/it_semovente_m41m_90",
+ "name": "90/53 M41M",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "III",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "3.7"
+ },
+ "description": "The Semovente da 90/53 (introduced in Update 1.85 \"Supersonic\" .) was a self propelled gun mainly made to provide support infantry and take out light and medium tanks that were used by the allies. Its main armament was mounted on the rear of a lengthened M14/41 hull and chassis. The 90 mm 90/53 mod.41 was made by modifying an anti-air cannon. It would have its first combat debut during the allied landings in Sicily where it proved itself, however due to the sheer allied power both in the air and ground, the little numbers produced of this platform wouldn't be enough for Italy to defend itself. In game the Semovente 90/53 is one of the early tank-destroyer vehicles available to players grinding the tree. It has a very potent main armament able to deal with any enemy player vehicle at its battle rating. Its mobility isn't the best however, the best playstyle for this vehicle is as a sniper where you won't have to be moving a lot. You can set up ambushes as the vehicle is not too tall or wide to be easily spotted. Reload rates need to be considered when engaging multiple enemies, not only that but the vehicle does not carry a lot of ammunition on the vehicle so you need to pick your targets very carefully and make sure every hit counts. Once spotted the vehicle does not have enough armour to protect itself from the majority of enemy attacks. The crew placement means most shots directed towards your turret will mean a quick trip back to the hangar. One major weak spot that you don't want enemies to take advantage of is your behind, as your ammo and crew are completely exposed, and can be taken out by machine gun fire. Being flanked in this vehicle means you usually won't be able to make it out alive from engagements. Overall, just play smart with the Semovente da 90/53, do not go out in the open and attack only when absolutely needed.",
+ "image": "https://static.encyclopedia.warthunder.com/images/it_semovente_m41m_90.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "30 / 25 / 25 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "78 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "35"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "10.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "8 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 19°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-45 / 45°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7.7"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,184 → 1,465"
+  },
+  {
+   "label": "Crew training",
+   "value": "22,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "80 / 120 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "24,700"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,100"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Granata Perforante da 90",
+   "type": "APCBC",
+   "penetration": [
+    "152",
+    "149",
+    "139",
+    "127",
+    "115",
+    "105"
+   ]
+  },
+  {
+   "name": "Granata da 90",
+   "type": "HE",
+   "penetration": [
+    "20",
+    "20",
+    "18",
+    "17",
+    "15",
+    "14"
+   ]
+  },
+  {
+   "name": "Granata Perforante mod.43",
+   "type": "APCBC",
+   "penetration": [
+    "145",
+    "143",
+    "134",
+    "123",
+    "114",
+    "105"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,170 @@
+{
+ "id": "kfir_canard",
+ "wiki": "https://wiki.warthunder.com/unit/kfir_canard",
+ "name": "Kfir Canard",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "VII",
+ "br": {
+  "AB": "11.0",
+  "RB": "11.0",
+  "SB": "10.3"
+ },
+ "description": "The Kfir Canard , also known as the Kfir Gderot (\"Fenced Kfir\"), was an intermediate improvement of the initial IAI Kfir (Lion Cub). After the domestic production of Nesher (Mirage 5) by IAI, there were further plans to upgrade Nesher's underpowered engine with a GE J79 engine with much higher thrust, as well as some aerodynamic changes to fit the engine and for better overall capabilities. The new Kfir made its maiden flight in 1973 and soon joined IAF by the next year as one of the frontline fighters of the IAF against neighbouring Arabic countries. However, pilots often complained about the poor manoeuvrability of the aircraft compared to the Mirage III , and thus the aircraft were retrofitted with short canards on the air intakes, creating the Kfir Gderot variant. Alongside their service in Israeli forces, mainly as ground attackers, these aircraft were also rented by the USN and USMC (redesignated F-21A) as their aggressor squadron's jet to simulate combat against MiG-23s. Introduced in Update \"Apex Predators\" , the Kfir Canard looks very similar to its technological predecessor, the Nesher ; based on the Dassault Mirage 5, but with a pair of fixed canards bolted onto the the sides of the air intake. It might somehow make it look like the later Mirage 2000, but it has an air-to-air armament inferior to its enemies and the combat limitations of delta-wing jets. For ground attack, the Kfir Canard still offers varieties of US bombs and rocket pods that make it effective against grouped targets.",
+ "image": "https://static.encyclopedia.warthunder.com/images/kfir_canard.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "2,376"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "205"
+  },
+  {
+   "label": "Turn time",
+   "value": "27"
+  },
+  {
+   "label": "Max altitude",
+   "value": "16,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "750 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "J79-GE-17"
+  },
+  {
+   "label": "Length",
+   "value": "15 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "8.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "285 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "7.3"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "2.52 t (30m)"
+  },
+  {
+   "label": "Fuel in drop tanks",
+   "value": "0.71 t (8m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "1,460 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "2.5 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/12 G"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "500 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "280 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "5.03 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "4,295 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "1,500 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,158"
+  },
+  {
+   "label": "Crew training",
+   "value": "10,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (125 / 320 / 600) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/HEI/HEF",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "HEI/API-T/API-T/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF/HEI/HEF/HEI/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF/HEI",
+   "penetration": [
+    "4",
+    "4",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

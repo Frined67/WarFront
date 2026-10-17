@@ -1,0 +1,202 @@
+{
+ "id": "uk_sherman_ii",
+ "wiki": "https://wiki.warthunder.com/unit/uk_sherman_ii",
+ "name": "Sherman II",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "3.7"
+ },
+ "description": "The Sherman II was identical to the M4A1 variant of the Sherman deployed by the U.S. Army ground forces, except it had access to the late-war armour-piercing composite rigid (APCR) ammunition. The British acquired many more Shermans than any other Allied nation: 17,181 units (approximately 34% of all M4 Sherman medium tanks constructed). The British supported and supplied free Polish and Czechoslovak government-in-exile armoured units with M4A1, M4A2 , and M4A4 variants. Introduced in Update 1.65 \"Way of the Samurai\" , the Sherman II supplies the British Army ground forces with the first U.S. medium tank under the lend-lease programme in World War II. The playstyles are identical to M4A1 in the U.S. Army ground forces. The Sherman II is defined by its curved hull shape due to its cast hull construction. This causes the hull's upper front armour plate to have a variable slope angle throughout the upper glacis, but it also introduces a number of weaknesses. The first is in the frontal hull and side joints, which have relatively flat angles despite the tank being angled, and the second is in the cast construction, which affects the overall effectiveness of the frontal hull armour. The final are the view blocks on the frontal hull's top. Despite this, its armour remains effective against enemy fire from lesser calibre guns. The 75 mm M3 tank gun is mounted in the M34 gun mantlet with the periscope, a smaller gun mount than the future M34A1 gun mantlet, which will be installed in all future 75 mm M4 Sherman variants. This lessens the frontal turret's overall protection while also presenting a somewhat larger gun depression by -2° than the future M34A1 mantlet.",
+ "image": "https://static.encyclopedia.warthunder.com/images/uk_sherman_ii.png",
+ "weapons": [
+  "75 mm M3 cannon",
+  "12.7 mm M2HB machine gun",
+  "7.62 mm M1919A4 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "51 / 38 / 38 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "102 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "39"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "90 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-12 / 18°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 22°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "852 → 1,097"
+  },
+  {
+   "label": "Crew training",
+   "value": "9,200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 80 / 90 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "13,840"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "860"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M72 shot",
+   "type": "AP",
+   "penetration": [
+    "91",
+    "88",
+    "78",
+    "67",
+    "57",
+    "49"
+   ]
+  },
+  {
+   "name": "M48 shell",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "M61 shot",
+   "type": "APCBC",
+   "penetration": [
+    "104",
+    "102",
+    "93",
+    "84",
+    "75",
+    "68"
+   ]
+  },
+  {
+   "name": "T45 shot",
+   "type": "APCR",
+   "penetration": [
+    "139",
+    "135",
+    "121",
+    "105",
+    "91",
+    "79"
+   ]
+  },
+  {
+   "name": "M89",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

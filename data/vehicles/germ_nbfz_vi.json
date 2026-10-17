@@ -1,0 +1,213 @@
+{
+ "id": "germ_nbfz_vi",
+ "wiki": "https://wiki.warthunder.com/unit/germ_nbfz_vi",
+ "name": "Nb.Fz.",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "The Panzerkampfwagen Neubaufahrzeug is a unique multi-turreted medium tank concept developed by Germany prior to World War II, which led to the introduction of a small series of experimental prototypes. These vehicles were designed in the early days of German tank development to deal with two key threats: enemy tanks and fortified positions. These two duties would eventually be performed by the Panzer III medium tank family and the Panzer IV medium tank family. The German Army believed that integrating these two concepts into a single vehicle would provide a far simpler solution, reduce construction time and increase production output. During the mid-1930s, a limited series of five experimental multi-turret tanks would be developed and tested for this purpose. This vehicle was given several distinct names during its brief service. In October 1933, WaPrüf 6 standardized the designation as Neubaufahrzeug (Eng. New Construction Vehicle or, abbreviated, Nb.Fz). The naming of \"construction vehicle\" for these tanks was an attempt to fool the Western countries and avoid the Treaty of Versailles' restrictions by claiming the vehicles were construction or utility vehicles. Introduced in Update 1.51 \"Cold Steel\" , the Nb.Fz is a prototype medium tank in the early ranks of the German Army's ground forces. It was one of the most unusual designs, having two guns - a 37 mm Kampfwagenkanone (KwK) 36 L/46.5 tank gun and a 75 mm KwK37 L/24 tank gun on a single turret. Players may struggle to engage enemy tanks with this configuration as the ammunition from both tank guns has significantly different ballistic characteristics. Furthermore, despite its massive size and frightening appearance, the Nb.Fz is really quite lightly armoured, with practically any opponent tank easily piercing its armour. However, the vast number of tank crews compensates for this limitation. Overall, it's an intriguing vehicle with unique gameplay that will undoubtedly reward players for mastering it.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_nbfz_vi.png",
+ "weapons": [
+  "75 mm KwK37 cannon",
+  "37 mm KwK36 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "20 / 13 / 13 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "115 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "30"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.4"
+  },
+  {
+   "label": "Ammunition",
+   "value": "80 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.3 → 3.3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 22°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "10.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "50 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.7 → 2.9 s"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,950 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,900 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-8 / 32°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-50 / 128°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "3.8"
+  },
+  {
+   "label": "Repair cost",
+   "value": "809"
+  },
+  {
+   "label": "Crew training",
+   "value": "2,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (35 / 40 / 55) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "K.Gr.rot Pz.",
+   "type": "APCBC",
+   "penetration": [
+    "52",
+    "51",
+    "45",
+    "39",
+    "34",
+    "30"
+   ]
+  },
+  {
+   "name": "Sprgr. 34",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "Hl.Gr 38B",
+   "type": "HEAT",
+   "penetration": [
+    "80",
+    "80",
+    "80",
+    "80",
+    "80",
+    "80"
+   ]
+  },
+  {
+   "name": "K.Gr.Rot Nb.",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "PzGr",
+   "type": "APHE",
+   "penetration": [
+    "47",
+    "44",
+    "31",
+    "21",
+    "14",
+    "9"
+   ]
+  },
+  {
+   "name": "PzGr 40",
+   "type": "APCR",
+   "penetration": [
+    "86",
+    "77",
+    "47",
+    "26",
+    "14",
+    "8"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

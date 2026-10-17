@@ -1,0 +1,118 @@
+{
+ "id": "cn_m42_duster",
+ "wiki": "https://wiki.warthunder.com/unit/cn_m42_duster",
+ "name": "␗M42",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "III",
+ "br": {
+  "AB": "4.3",
+  "RB": "4.0",
+  "SB": "4.0"
+ },
+ "description": "The M42 (known as the M42防空砲車 in ROCA service) has served with the ROCA and ROCMC since 1958 as the replacement for the M19 GMC. Due to its inferior performance by the 1960s, when supersonic jets were commonplace, these vehicles were usually employed as fire-support vehicles instead, thanks to their devastating dual 40 mm autocannons. Although domestic 20 mm autocannons and imported SAMs had replaced them by the 1980s, they have still been sometimes used during exercises as fire-support vehicles by the ROCMC in recent years. Introduced in Update 1.95 \"Northern Wind\" alongside the initial Chinese ground tree, the Chinese M42 Duster is identical to the US version . Compared with other SPAA vehicles, the M42 is typically regarded as one of the less effective SPAAs, due to its very exposed crew and mediocre rate of fire of 120 rounds per minute. If used as a light tank, the M42 does not have the armour to stand up directly to many of the other vehicles it will face on the battlefield, especially against tanks capable of firing high-explosive shells. The Duster will fare better against machine-gun fire and potentially against some of the lighter autocannon fire it may encounter, though not for long. Due to the M42's lightweight nature, it is best to remain near cover to help shield the Duster. It is also essential to expose the vehicle only when necessary to fire a shot. If discovered, it is best to have a contingency location to which to fall back and regroup.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cn_m42_duster.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "12 / 12 / 12 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "108 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "72"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "22.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "480 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "0.6 → 0.5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "120 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-3 / 85°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "28"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,311 → 1,687"
+  },
+  {
+   "label": "Crew training",
+   "value": "13,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "70 / 90 / 140 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "19,810"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "980"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/FI-T",
+   "penetration": [
+    "72",
+    "69",
+    "58",
+    "46",
+    "37",
+    "29"
+   ]
+  },
+  {
+   "name": "40 mm Mk.II",
+   "type": "FI-T",
+   "penetration": [
+    "9",
+    "8",
+    "7",
+    "6",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "40 mm M81A1",
+   "type": "AP-T",
+   "penetration": [
+    "72",
+    "69",
+    "58",
+    "46",
+    "37",
+    "29"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

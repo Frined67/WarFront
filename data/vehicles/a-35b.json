@@ -1,0 +1,230 @@
+{
+ "id": "a-35b",
+ "wiki": "https://wiki.warthunder.com/unit/a-35b",
+ "name": "▄A-35B",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.3"
+ },
+ "description": "The A-35B had its beginnings with the Vultee Model 72 in 1940. It was primarily developed for the French Air Force as a dive-bomber, but the fall of France put a stop to that. The Model 72 was a unique design for dive-bombers, as the wings prevented the aircraft from straying off target during a dive-bombing run. After the Pearl Harbor attack, the US acquired many A-31s and Model 72s, which later gave rise to the A-35 “Vengeance”. The A-35 featured a better engine and other modifications to improve flight performance. France would later receive almost 70 A-35A/Bs through the Lend-Lease programme. Introduced in Update 1.73 \"Vive la France\" , the French A-35B is a fairly capable ground striker. It has three different bomb loadouts, the most effective being the four 500 lb bomb configuration. The Vengeance also carries six M2 Browning machine guns with 375 rounds per gun, giving the A-35B an impressive 30 seconds of trigger time. This is more than enough to destroy light pillboxes and soft ground targets. In addition, the A-35B is armoured with three steel plates that protect the crew and the oil cooling system. Unfortunately, the A-35B lacks in defensive firepower, with only a single 12.7 mm turret in the rear.",
+ "image": "https://static.encyclopedia.warthunder.com/images/a-35b.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "485"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "7.5"
+  },
+  {
+   "label": "Turn time",
+   "value": "29"
+  },
+  {
+   "label": "Max altitude",
+   "value": "7,100 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "306 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "R-2600-13"
+  },
+  {
+   "label": "Length",
+   "value": "12.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "14.6 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "206 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "5.59"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.78 t (1h 45m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "702 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.69 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/14 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "278 / 290 / 369 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "278 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,250 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "400 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "866 → 1,102"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "60 / 130 / 180 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,320"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP-I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/AP-I/T/I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP/AP-I/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/T/T/AP-I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP-I/AP-I/I/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/I/AP-I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/T",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/AP-I/T",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

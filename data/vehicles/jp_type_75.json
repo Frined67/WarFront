@@ -1,0 +1,160 @@
+{
+ "id": "jp_type_75",
+ "wiki": "https://wiki.warthunder.com/unit/jp_type_75",
+ "name": "Type 75 SPH",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "IV",
+ "br": {
+  "AB": "6.7",
+  "RB": "6.3",
+  "SB": "6.3"
+ },
+ "description": "The Type 75 155 mm SPH (75式自走155mmりゅう弾砲) belonged to the second generation of Japanese self-propelled howitzers, along with the Type 74 105 mm SPH. These models were designed to replace the US-leased M44 155mm SPH and M52 105mm SPH, respectively. Development kicked off in 1965, aligning with the initiation of development phases for the Type 74 MBT and Type 73 APC, resulting in shared component usage. Following NATO standardization, the calibre of the new SPH was set at 155 mm. The prototype stage, initiated in 1969 under the 155HSP program, saw MHI developing the hull, while JSW worked on the domestic 155 mm cannon. Various iterations of the 155HSP, testing barrel lengths (L/24 & L/30), auto-loader mechanics, and additional features, culminated in the finalization of the vehicle in December 1974 as the Type 75 155 mm SPH, equipped with the domestic JSW L/30. It was introduced in Update 1.91 \"Night Vision\" . The standout feature of the Type 75, when compared to counterparts like the M109, 2S3M , and similar vehicles, is the use of an automated 10-second loading feed. The L/30, while reasonably sized, provides slightly higher velocity than the 155 L/24 of the M109(G) but exhibits a greater drop than the 155 L/39 of the M109A1 or 152 mm Warsaw Pact cannons. However, this drop can be mitigated by loading the domestic Type 75 HE shell, albeit at the expense of lower HE filler for increased velocity. The armour, typical of many self-propelled howitzers, only offers protection against distant rifle calibre fire and explosion fragments, rendering it unreliable in direct combat.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_type_75.png",
+ "weapons": [
+  "12.7 mm M2HB machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "30 / 30 / 30 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "95 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "47"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "20.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "28 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 65°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "8.4"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-8 / 45°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,777 → 4,672"
+  },
+  {
+   "label": "Crew training",
+   "value": "57,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "120 / 190 / 250 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "52,800"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,700"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M107",
+   "type": "HE",
+   "penetration": [
+    "61",
+    "61",
+    "61",
+    "61",
+    "61",
+    "61"
+   ]
+  },
+  {
+   "name": "M110",
+   "type": "Smoke",
+   "penetration": [
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "M107 (PF)",
+   "type": "HE-VT",
+   "penetration": [
+    "61",
+    "61",
+    "61",
+    "61",
+    "61",
+    "61"
+   ]
+  },
+  {
+   "name": "Type 75",
+   "type": "HE",
+   "penetration": [
+    "54",
+    "54",
+    "54",
+    "54",
+    "54",
+    "54"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

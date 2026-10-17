@@ -1,0 +1,144 @@
+{
+ "id": "cn_su_100_1945",
+ "wiki": "https://wiki.warthunder.com/unit/cn_su_100_1945",
+ "name": "␗SU-100",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "IV",
+ "br": {
+  "AB": "6.0",
+  "RB": "6.0",
+  "SB": "6.0"
+ },
+ "description": "Following the withdrawal of Soviet forces from Dalian on 1 December 1950, which formally concluded a ten-year military occupation, 99 SU-100s based in Dalian were sold to China. These vehicles were all assigned to the newly formed 1st Mechanized Division of the Chinese People's Liberation Army. During the Korean War, the SU-100s saw extensive deployment, particularly in ambushes against enemy armoured vehicles. Introduced in Update 1.91 \"Night Vision\" , the SU-100 boasts a high-velocity 100 mm D-10S tank gun and significantly faster reload rate compared to the ISU-152 and ISU-122 , offering superior offensive capabilities when engaging enemy armoured vehicles. Its low profile and heavily sloped frontal armour allow it to conceal itself behind tall vegetation, patiently awaiting enemy approach. This potent tank destroyer draws a line under the Chinese Army's World War II-era equipment, seamlessly combining formidable firepower, speed, and adequate protection.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cn_su_100_1945.png",
+ "weapons": [
+  "100 mm D-10S cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "75 / 45 / 45 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "76 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "50"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "33 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "13.7 → 10.5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-3 / 20°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-8 / 8°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "4.9"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,459 → 4,279"
+  },
+  {
+   "label": "Crew training",
+   "value": "57,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "120 / 190 / 250 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "52,700"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,700"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-412",
+   "type": "APHE",
+   "penetration": [
+    "218",
+    "212",
+    "189",
+    "164",
+    "142",
+    "123"
+   ]
+  },
+  {
+   "name": "OF-412",
+   "type": "HE",
+   "penetration": [
+    "27",
+    "27",
+    "26",
+    "24",
+    "23",
+    "21"
+   ]
+  },
+  {
+   "name": "BR-412B",
+   "type": "APHEBC",
+   "penetration": [
+    "218",
+    "215",
+    "201",
+    "184",
+    "169",
+    "155"
+   ]
+  },
+  {
+   "name": "BR-412D",
+   "type": "APCBC",
+   "penetration": [
+    "239",
+    "236",
+    "220",
+    "202",
+    "185",
+    "170"
+   ]
+  },
+  {
+   "name": "3D3",
+   "type": "Smoke",
+   "penetration": [
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

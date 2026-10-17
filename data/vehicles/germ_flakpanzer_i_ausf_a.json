@@ -1,0 +1,132 @@
+{
+ "id": "germ_flakpanzer_i_ausf_a",
+ "wiki": "https://wiki.warthunder.com/unit/germ_flakpanzer_i_ausf_a",
+ "name": "Flakpanzer I",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "The 2 cm Flak 38 auf Panzer I Ausführung A (Flakpanzer I) was a self-propelled anti-aircraft gun conversion of the Panzer I tank. The Flakpanzer I was developed during the Battle of France in 1940 after the realisation that most of the SPAAs deployed in the theatre (most being based on half-tracks) were insufficiently protected. To remedy this issue, the Wehrmacht chose the readily available chassis of the Panzer I and mounted a single 20 mm Flak 38 autocannon in place of the turret. However, due to the top-heavy weight distribution, the Flakpanzer I was significantly overloaded, resulting in much worse mobility. As a result, only 24 vehicles were produced, all of which were lost by the end of the Battle of Stalingrad in 1943. Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Flakpanzer I is a highly flexible and powerful vehicle. It works best when used to assist teammates in engaging enemy ground units and against unaware enemy aircraft. Despite its primary mission of engaging enemy aircraft, the Flakpanzer I also excels in anti-ground roles. Its turret traverse is extremely fast, allowing it to respond almost instantly to new threats.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_flakpanzer_i_ausf_a.png",
+ "weapons": [
+  "20 mm FlaK38 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "13 / 13 / 13 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "70 %"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "37"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "10.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "320 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "480 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-20 / 90°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "24.5"
+  },
+  {
+   "label": "Repair cost",
+   "value": "102 → 131"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,985"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/HEFI-T/HEFI-T/HEFI-T",
+   "penetration": [
+    "37",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "20 mm Sprgr.",
+   "type": "HEFI-T",
+   "penetration": [
+    "5",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "20 mm PzGr.",
+   "type": "API-T",
+   "penetration": [
+    "37",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "20 mm PzGr.40",
+   "type": "HVAP-T/API-T",
+   "penetration": [
+    "48",
+    "45",
+    "31",
+    "20",
+    "13",
+    "8"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

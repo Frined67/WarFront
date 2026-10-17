@@ -1,0 +1,173 @@
+{
+ "id": "sw_strv_74",
+ "wiki": "https://wiki.warthunder.com/unit/sw_strv_74",
+ "name": "Strv 74",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "IV",
+ "br": {
+  "AB": "5.7",
+  "RB": "5.7",
+  "SB": "5.7"
+ },
+ "description": "The Strv 74 was a Swedish light tank in service with the Swedish Army between 1958 to 1984. It was designed in 1957, using the older chassis of the Strv m/42 TH and TV that were considered obsolete in the mid 1950s. The Strv 74 was intended to support the recently acquired Strv 81 . The turret was completely redesigned to be able to fit a high-velocity 75 mm tank gun based on a modified Lvkan m/37 anti-aircraft gun which was also to be used on the Pvkv II tank destroyer project. The Strv 74 served in armoured brigades up until 1967 when the Strv 103 took over the role and the Strv 74 was transferred to infantry support. The Strv 74 comes in two versions, 74 H and 74 V, their only difference being internal layout and transmission. The Strv 74 V would serve until 1981, and the remaining 74 H would serve until 1984 when they would be phased out in favour of the Ikv 91 . The turrets would become coastal defences similar to the older Strv m/41 turrets that became static defenses around airfields. Introduced in Update 1.97 \"Viking Fury\" , the Strv 74 is a unique light tank developed primarily for combat in hilly terrain. With its excellent gun depression, this light tank can completely conceal the majority of its profile behind obstructions, revealing only its small turret to fight enemies when they are in sight. With its armour-piercing discarding-sabot (APDS) ammunition penetrating 247 mm of armour at point-blank range, players will be happy to learn that fighting even the strongest adversary on the battlefield is effortless. However, the light tank has a large profile, which is an issue on city maps. Furthermore, a lack of mobility combined with the slow reverse speed makes it difficult to retreat in difficult situations.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_strv_74.png",
+ "weapons": [
+  "8 mm ksp m/36 machine gun",
+  "8 mm ksp m/36 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "55 / 30 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "125 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "45"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "40 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "8.7 → 6.7 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 15°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "12.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "648 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "648 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 65°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,376 → 3,414"
+  },
+  {
+   "label": "Crew training",
+   "value": "57,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "120 / 160 / 230 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "53,100"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,700"
+  }
+ ],
+ "shells": [
+  {
+   "name": "slpgr m/43",
+   "type": "APCBC",
+   "penetration": [
+    "158",
+    "154",
+    "139",
+    "122",
+    "107",
+    "94"
+   ]
+  },
+  {
+   "name": "sgr m/38",
+   "type": "HE",
+   "penetration": [
+    "18",
+    "17",
+    "16",
+    "14",
+    "13",
+    "12"
+   ]
+  },
+  {
+   "name": "7,5 cm slpprj m/49",
+   "type": "APDS",
+   "penetration": [
+    "247",
+    "243",
+    "227",
+    "208",
+    "191",
+    "176"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

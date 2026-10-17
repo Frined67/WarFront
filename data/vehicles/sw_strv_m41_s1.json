@@ -1,0 +1,133 @@
+{
+ "id": "sw_strv_m41_s1",
+ "wiki": "https://wiki.warthunder.com/unit/sw_strv_m41_s1",
+ "name": "Strv m/41 S-I",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "In 1939 and with the rise of tensions in Europe, Sweden purchased the production rights of TNH light tank from the Czech ČKD company, which is actually the export type of the LT-38 tank. The tank was produced in Sweden and named Strv m/41, with a total weight of 11 tons. The Strv m/41 S-I was the first version of the tank made in Sweden, later an upgraded version was developed. Compared with the original Czech version, the Strv m/41 model had minor differences in appearance, the most noticeable modification is the addition of a periscope above the loader seat on the top of the turret. Once production started, the tank was quickly delivered between 1942 and 1943 and operated with the Third Armored Regiment. Introduced in Update \"Ixwa Strike\" and like other low BR Swedish tanks, it has access to the Bofors 37 mm kan m/38 gun that comes with an excellent APDS shell. The tank has armour comparable to the Panzer III J, and has decent mobility, although it is not as mobile as the BT-7 or M5A1. The quick reload time, excellent gun, and decent mobility make the Strv m/41 S-I a great support vehicle. It's capable of penetrating even heavy tanks, although the low calibre of the gun requires good aim to hit critical components or the crew.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_strv_m41_s1.png",
+ "weapons": [
+  "37 mm kan m/38 cannon",
+  "8 mm ksp m/36 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 15 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "81 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "41"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "100 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.1 → 3.1 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-14 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "648 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "431"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,400"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (35 / 40 / 55) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "slpprj m/38",
+   "type": "APBC",
+   "penetration": [
+    "59",
+    "55",
+    "41",
+    "28",
+    "19",
+    "13"
+   ]
+  },
+  {
+   "name": "slpgr m/39",
+   "type": "APHE",
+   "penetration": [
+    "55",
+    "51",
+    "37",
+    "26",
+    "17",
+    "12"
+   ]
+  },
+  {
+   "name": "3,7 cm slpprj m/49",
+   "type": "APDS",
+   "penetration": [
+    "115",
+    "111",
+    "95",
+    "78",
+    "64",
+    "52"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

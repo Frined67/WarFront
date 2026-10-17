@@ -1,0 +1,232 @@
+{
+ "id": "d_510",
+ "wiki": "https://wiki.warthunder.com/unit/d_510",
+ "name": "Pallier's D.510",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "Pallier's D.510 is a premium French fighter. It was introduced in Update 1.73 \"Vive la France\" and was part of the 2017 \"Christmas presents\" giveaway. It is also the starting premium vehicle of french air tech tree The plane is modelled after one used by French pilot Gabriel Pallier. The Dewoitine D.510 is an open cockpit monoplane equipped with one Hispano-Suiza H.S.404 cannon and two MAC 1934 7.5 mm machine guns. The aircraft has no specific defects, but no notable advantages either. Its engine is extremely prone to catching fire (especially when hit by weapons of 12.7 mm calibre)",
+ "image": "https://static.encyclopedia.warthunder.com/images/d_510.png",
+ "weapons": [
+  "20 mm Hispano 404 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "394"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "19.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "13"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "150 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "12Xbrs"
+  },
+  {
+   "label": "Length",
+   "value": "7.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12.1 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "106 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.54"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.21 t (57m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "576 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.67 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/13 G"
+  },
+  {
+   "label": "Ammunition",
+   "value": "60 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.45 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,350 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "364"
+  },
+  {
+   "label": "Crew training",
+   "value": "150"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (15 / 20 / 55) %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,710"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "PT/HEI/AP/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/AP-T/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP/AP-T/HEI/AP-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

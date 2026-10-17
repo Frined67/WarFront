@@ -1,0 +1,138 @@
+{
+ "id": "it_40m_turan_1",
+ "wiki": "https://wiki.warthunder.com/unit/it_40m_turan_1",
+ "name": "Turan I",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The Turán I was a Hungarian medium tank of World War II. Due to being forbidden from developing tanks after World War I, Hungary was still new to developing their own medium tanks from scratch. Therefore, the Turán I was originally based on the Czechoslovak Škoda T-21 medium tank prototype, which the Hungarians first developed into the T-22 design, before accepting the T-22 into service as the Turán I. The Turán I featured a redesigned turret, hull, and suspension, as well as a Hungarian 40 mm cannon and Hungarian 8 mm machine guns, increased armour protection, smoke grenades, and other changes. The Turán II and Turán III Hungarian medium tanks were developed from the Turán I. The Turán I became the backbone of Hungary's tank forces early in WW2, serving on the Eastern Front alongside the Toldi series light tanks and later the Zrinyi series tank destroyers, as well as some German-supplied tanks. Introduced in Update \"Sons of Attila\" , the Turan I is the first medium tank available in the Hungarian section of the Italian tech tree. It features good mobility and excellent reload rate for a medium tank, and its armour, while not the best, can be angled to increase its effectiveness, though with the downside that other sections of the armour are no longer angled. The tank features smoke grenades for easy escapes as well as armour skirts on the sides, that are enough to deal with lower caliber HEAT and HE shells. The tank however suffers from other problems: its 40 mm gun, while fast-firing, has mediocre shells for its BR in terms of penetration, it has a mediocre turret traverse speed at 14.3 degrees/sec, and it struggles when climbing up hills.",
+ "image": "https://static.encyclopedia.warthunder.com/images/it_40m_turan_1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 25 / 25 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "72 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "43"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "101 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.6 → 2.8 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "10.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,200 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "397 → 537"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 40 / 40 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,900"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "36M",
+   "type": "APHEBC",
+   "penetration": [
+    "63",
+    "61",
+    "52",
+    "43",
+    "35",
+    "29"
+   ]
+  },
+  {
+   "name": "39M",
+   "type": "HE",
+   "penetration": [
+    "9",
+    "8",
+    "7",
+    "6",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "43M",
+   "type": "APBC",
+   "penetration": [
+    "73",
+    "71",
+    "61",
+    "51",
+    "42",
+    "35"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

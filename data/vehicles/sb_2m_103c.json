@@ -1,0 +1,214 @@
+{
+ "id": "sb_2m_103c",
+ "wiki": "https://wiki.warthunder.com/unit/sb_2m_103c",
+ "name": "SB 2M-103",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The SB 2M-103 (SBbis) was an updated version of the high-speed, front-line bomber, the SB-2 (ANT-40), which was the most mass-produced aircraft developed by the Tupolev Design Bureau. This version featured new M-103 engines with 960 hp, a redesigned navigator's cabin, and a steerable tail wheel. The aircraft could also be equipped with retractable ski landing gear. Its flight tests were conducted from September 1937 to September 1938. On September 2, 1937, M. Alekseev set an official altitude record with a one-ton load on the first SB 2M-103. He climbed to 12,244 meters, and on November 1, he reached 12,692 meters. The SB 2M-103 has been in the game since the start of the Open Beta Test prior to Update 1.27. This aircraft is best used for bombing. Despite its low rate of climb and poor maneuverability, it is capable of reaching speeds higher than those of pre-war aircraft. It has three ShKAS machine gun turrets that reliably protect the bomber.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sb_2m_103c.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "419"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "9.3"
+  },
+  {
+   "label": "Turn time",
+   "value": "24.2"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,560 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "366 m"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x M-103A"
+  },
+  {
+   "label": "Length",
+   "value": "12.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "20.3 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "115 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "5.38"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.13 t (2h 25m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "580 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/4 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 310 / 316 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "350 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,920 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,500"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,600 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "600 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "236 → 311"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 40 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-I/AP-I/AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "API-T/API-T/API-T/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-I/AP-I/AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "API-T/API-T/API-T/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

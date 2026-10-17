@@ -1,0 +1,162 @@
+{
+ "id": "i-15bis_china",
+ "wiki": "https://wiki.warthunder.com/unit/i-15bis_china",
+ "name": "␗I-15bis",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The I-15bis , a Soviet biplane fighter, which was supplied to China as part of the USSR’s military aid program. A total of 347 aircraft were delivered beginning in 1937, and they were used in combat until 1940. The fighters achieved their most notable successes while defending Wuhan against Japanese bomber raids. It was also in China that the concept of cooperating between the highly maneuverable \"Chizh\" I-15bis fighters and the faster \"Swallows,\" the I-16s, was developed. In addition to air defense duties, squadrons equipped with the I-15bis carried out strikes against Japanese ground targets. The Chinese I-15bis was introduced in Update 1.91 \"Night Vision\" . This aircraft is primarily intended for engaging enemy fighters. Its key strengths are its excellent maneuverability and its fairly effective forward-firing armament with incendiary ammunition, which can easily set on fire enemy biplanes and early monoplanes. However, it also has clear drawbacks, including low flight speed and poor survivability.",
+ "image": "https://static.encyclopedia.warthunder.com/images/i-15bis_china.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "380"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "14.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "10.5"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,600 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "125 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "M-25V"
+  },
+  {
+   "label": "Length",
+   "value": "6.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "76 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.48"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.23 t (1h 6m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "580 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/13 G"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,050"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.12 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "3,890"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/AP-I/AI/AI/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP-I/AI/AI/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/AP-I/AI/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

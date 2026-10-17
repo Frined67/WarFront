@@ -1,0 +1,120 @@
+{
+ "id": "sw_l_62_anti_ii",
+ "wiki": "https://wiki.warthunder.com/unit/sw_l_62_anti_ii",
+ "name": "L-62 ANTI II",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "III",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.3",
+  "SB": "3.0"
+ },
+ "description": "The L-62 ANTI II was an SPAA developed by Landsverk of Sweden. It was based on the Anti I, but with an improved hull and turret and armed with a 40 mm Bofors L/60 anti-aircraft gun. It was based on the chassis of the Landsverk L-60 , a light tank developed in the interwar period. It saw notable service in the Finnish military, who acquired six units of the SPAA in 1942. It saw combat in the Continuation War when Finland invades the Soviet Union and the vehicles were credited with shooting down 11 Soviet aircraft. All the vehicles survived the war and remained in service until 1966. Introduced in Update 1.97 \"Viking Fury\" , the L-62 ANTI II is a menace to both air and ground targets. Against aircrafts, the gun features a powerful 40 mm HE shell with potential to destroy most planes with a single hit. Against tanks the performance is not as good, but the APC and SAPHEI shells have enough penetration to deal with most tanks at its BR as long as you aim to weak points. Flanking in this vehicle is highly recommended, as well as staying behind the frontline to clear up the skies. However for some players the vehicle may feel a little sluggish and the gun handling is not very good with just -5 degrees of depression. It also has a slow fire rate, at 120 RPM, and the armor is nonexistent so both HE and HEAT shells are a threat since the vehicle is open top.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_l_62_anti_ii.png",
+ "weapons": [
+  "40 mm lvakan m/36 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "12 / 13 / 12 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "71 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "40"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "144 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "0.6 → 0.5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "120 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 85°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "14.7"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,210 → 1,557"
+  },
+  {
+   "label": "Crew training",
+   "value": "13,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "80 / 90 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "19,810"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "980"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "APC/HEFI-T",
+   "penetration": [
+    "79",
+    "75",
+    "60",
+    "46",
+    "35",
+    "26"
+   ]
+  },
+  {
+   "name": "slsgr m/36C",
+   "type": "HEFI-T/HEFI-T/HEFI-T/APC",
+   "penetration": [
+    "79",
+    "75",
+    "60",
+    "46",
+    "35",
+    "26"
+   ]
+  },
+  {
+   "name": "slhpgr m/43",
+   "type": "SAPHEI/SAPHEI/SAPHEI/HEFI-T",
+   "penetration": [
+    "68",
+    "64",
+    "49",
+    "35",
+    "25",
+    "18"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

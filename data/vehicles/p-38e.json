@@ -1,0 +1,256 @@
+{
+ "id": "p-38e",
+ "wiki": "https://wiki.warthunder.com/unit/p-38e",
+ "name": "P-38E",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "3.0",
+  "SB": "3.3"
+ },
+ "description": "The P-38E is an American twin-engine fighter. It was introduced in Update 1.53 \"Firestorm\" . The P-38E is the first of the P-38 vehicles available in-game and is a very good plane. It gets an interceptor airspawn on most maps, which allows the P-38 to very often find itself above or at an equal altitude to its opponents. The main strength of the P-38E is its speed and energy retention, so it should be used accordingly - play it as an energy fighter or Boom 'n' Zoomer. The P-38E is also surprisingly manoeuvrable for such a large plane - while it can't outmanoeuvre single-engine fighters, it can put up a good fight.",
+ "image": "https://static.encyclopedia.warthunder.com/images/p-38e.png",
+ "weapons": [
+  "20 mm AN/M2 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "635"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "13.5"
+  },
+  {
+   "label": "Turn time",
+   "value": "23"
+  },
+  {
+   "label": "Max altitude",
+   "value": "12,192 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "380 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "V-1710-29"
+  },
+  {
+   "label": "Length",
+   "value": "11.6 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "15.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "227 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "6.1"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.82 t (1h 11m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "790 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.74 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "250 / 495 / 566 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "289 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "150 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.48 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "495 → 630"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 80 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,400"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEI/AP-T",
+   "penetration": [
+    "39",
+    "36",
+    "25",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP-T/HEI/HEI",
+   "penetration": [
+    "39",
+    "36",
+    "25",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEI/HEI/HEI/AP-T",
+   "penetration": [
+    "39",
+    "36",
+    "25",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP-T/AP-T/HEI",
+   "penetration": [
+    "39",
+    "36",
+    "25",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI",
+   "penetration": [
+    "5",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP-I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/AP-I/T/I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP/AP-I/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/T/T/AP-I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP-I/AP-I/I/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

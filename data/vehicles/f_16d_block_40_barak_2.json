@@ -1,0 +1,184 @@
+{
+ "id": "f_16d_block_40_barak_2",
+ "wiki": "https://wiki.warthunder.com/unit/f_16d_block_40_barak_2",
+ "name": "F-16D Barak II",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "VIII",
+ "br": {
+  "AB": "13.7",
+  "RB": "13.3",
+  "SB": "12.7"
+ },
+ "description": "During the late 1970s, Israel was designing a new jet fighter with ideas borrowed from previous aircraft they utilized. It ultimately culminated in the IAI Lavi, a fierce competitor to the F-16 Fighting Falcon in the export market. Unfortunately for Israel, the project increased in cost and was canceled for budgetary reasons. The US also had a part in the demise of the Lavi as they viewed the Lavi as a threat to the F-16's export capability. As compensation, the US sent 24 F-16Ds and around 50 F-16Cs in 1987. A year later, under the Peace Marble III program, Israel ordered 30 F-16Cs and 30 F-16Ds. The F-16Ds received extensive modifications like refinished Multi-Function Displays and Heads-Up Displays. Introduced in Update \"Sons of Attila\" , the F-16D Barak II is one of the most advanced F-16s in-game. For ground striking it can utilize the LANTIRN pod, making it an effective all-weather platform. It also has a variety of bombs to use including dumb bombs and smart bombs like the GBU-16. For air combat, the Barak II also has a variety of ordnance to use. The Barak II has access to the AIM-9M Sidewinder, an extremely capable infrared missile that boasts a unique IRCCM system and a smokeless motor. It can also carry AIM-7M Sparrows for long-range engagements. The F-16D Block 40 Barak II is a very versatile aircraft for both ground striking and air combat.",
+ "image": "https://static.encyclopedia.warthunder.com/images/f_16d_block_40_barak_2.png",
+ "weapons": [
+  "20 mm M61A1 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "2,110"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "265"
+  },
+  {
+   "label": "Turn time",
+   "value": "22.5"
+  },
+  {
+   "label": "Max altitude",
+   "value": "15,240 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "850 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "F110-GE-100"
+  },
+  {
+   "label": "Length",
+   "value": "15.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "427 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "9.23"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "2.69 t (36m)"
+  },
+  {
+   "label": "Fuel in drop tanks",
+   "value": "3.09 t (42m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "1,555 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "2.2 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/13 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "463 / 470 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "482 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "512 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "6,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "9.98 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "5,420 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "3,000 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,174 → 4,425"
+  },
+  {
+   "label": "Crew training",
+   "value": "250,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "90 / 320 / 500 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "262,000"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "3,200"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEF-I/API-T/AP-I/SAPHEI",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF-I/HEF-I/API-T/HEF-I/HEF-I/AP-I",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF-I/AP-I/AP-I/SAPHEI",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "SAPHEI",
+   "penetration": [
+    "37",
+    "33",
+    "20",
+    "11",
+    "6",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

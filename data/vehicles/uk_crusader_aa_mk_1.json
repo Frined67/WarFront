@@ -1,0 +1,120 @@
+{
+ "id": "uk_crusader_aa_mk_1",
+ "wiki": "https://wiki.warthunder.com/unit/uk_crusader_aa_mk_1",
+ "name": "Crusader AA Mk I",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "3.0",
+  "SB": "3.0"
+ },
+ "description": "The Crusader III Anti-Aircraft Mark I is the first anti-air modification of the Crusader III , which is the third variant of the A15 Crusader cruiser tank family. The original 57 mm Ordnance QF 6-pounder was replaced with a 40 mm Bofors anti-aircraft gun in an open-topped turret with an autoloader and automated turret. The crew consisted of four people: the commander, the gunner, the loader, and the driver. Beginning with the Normandy landing, the Crusader III Anti-Aircraft Mark I was issued to artillery light anti-aircraft regiments, but they were withdrawn from service soon after D-Day due to Allied air superiority and a lack of Luftwaffe targets, necessitating much fewer anti-aircraft platforms. Introduced in Update 1.55 \"Royal Armour\" , the Crusader III Anti-Aircraft Mark I is an interesting anti-aircraft vehicle that is also capable of carrying out anti-tank roles. Despite its anti-aircraft designation, the Crusader III Anti-Aircraft Mark I struggled in this duty. The 40 mm Bofors anti-aircraft gun fires slowly with low-velocity ammunition, making it difficult to target fast-moving enemy aircraft. Nonetheless, a single hit will frequently cripple any adversary aircraft. As a result, it is critical to hide and wait for an ideal moment before opening fire on an enemy aircraft. It can also act as an anti-tank weapon. This vehicle's armour-piercing ammunition can penetrate the frontal armour of light and medium tanks, as well as the side or rear armour of some heavy tanks. Due to the low post-penetration damage, you will need to target more than one section of an enemy tank to successfully destroy it.",
+ "image": "https://static.encyclopedia.warthunder.com/images/uk_crusader_aa_mk_1.png",
+ "weapons": [
+  "40 mm Bofors L/60 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "20 / 28 / 14 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "100 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "44"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "17.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "160 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "0.6 → 0.5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "120 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 90°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "28"
+  },
+  {
+   "label": "Repair cost",
+   "value": "520 → 669"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 40 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,940"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/FI-T",
+   "penetration": [
+    "72",
+    "69",
+    "58",
+    "46",
+    "37",
+    "29"
+   ]
+  },
+  {
+   "name": "40 mm Mk.II",
+   "type": "FI-T",
+   "penetration": [
+    "9",
+    "8",
+    "7",
+    "6",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "40 mm M81A1",
+   "type": "AP-T",
+   "penetration": [
+    "72",
+    "69",
+    "58",
+    "46",
+    "37",
+    "29"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

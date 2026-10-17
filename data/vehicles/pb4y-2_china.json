@@ -1,0 +1,158 @@
+{
+ "id": "pb4y-2_china",
+ "wiki": "https://wiki.warthunder.com/unit/pb4y-2_china",
+ "name": "␗PB4Y-2",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "IV",
+ "br": {
+  "AB": "4.3",
+  "RB": "4.7",
+  "SB": "5.7"
+ },
+ "description": "The ROCAF received PB4Y-2s to replace the diminishing amount of B-24s in service. They saw active service well into the '50s over Mainland China, and multiple Liberators were shot down. One ROCAF Liberator was lost to a Burmese Hawker Sea Fury, and the aircraft was later phased out in the early '60s as they became obsolete. Introduced in Update 1.91 \"Night Vision\" , the PB4Y-2 (China) , like many 4-engined bombers, is no exception to lacking any manoeuvrability and is incredibly slow. In level flight, the PB4Y struggles to hit 400 km/h (250 mph) so almost every fighter will be able to intercept you.",
+ "image": "https://static.encyclopedia.warthunder.com/images/pb4y-2_china.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "404"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "3.5"
+  },
+  {
+   "label": "Turn time",
+   "value": "38"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "950 m"
+  },
+  {
+   "label": "Crew",
+   "value": "8 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "4 x R-1830-94"
+  },
+  {
+   "label": "Length",
+   "value": "22.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "33.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "266 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "19.51"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "6.44 t (4h 7m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "599 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.61 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -2/4 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "263 / 361 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "263 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "6,800"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,096 → 2,656"
+  },
+  {
+   "label": "Crew training",
+   "value": "45,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "100 / 200 / 460 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "40,400"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,400"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/I/AP-I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/T",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/AP-I/T",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,128 @@
+{
+ "id": "fr_arl_44_acl1",
+ "wiki": "https://wiki.warthunder.com/unit/fr_arl_44_acl1",
+ "name": "ARL-44 (ACL-1)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "heavy_tank",
+ "role": "Heavy tank",
+ "rank": "III",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "3.7"
+ },
+ "description": "The ARL-44 (ACL-1) bears very distinctive characteristics, with a WWI-style track system (similar to the Churchill) which runs across the whole side of its chassis. This tank is a mix of different inspirations, mainly late-war German tank technology such as the Panther series or the Tiger II , from which it takes its sloped frontal armour and tall profile. As France was reviving from WW2, its engineers were hard at work to catch up with tank technology, the ARL-44 series was a training ground for them. This is why this tank has rather weird design choices, coming from both experience and experimentation. Originally armed with a 75 mm cannon, an ACL-1 turret, and a 60 mm sloped front plate in 1944, the design was deemed to weak, and many considered that it would quickly be outdated. It was later improved with a 90 mm SA45 gun with 37 rounds, a 120 mm front plate and a redesigned sloped turret ( ARL-44 ). It was introduced in Update 1.75 \"La Résistance\" . The ARL-44 (ACL-1) is a well-rounded vehicle more suited for a medium tank role than an heavy one due to lacking armour (which is still decent). It distinguishes from previous French heavy tanks for having a potent gun. The vehicle features an adequate cannon (although with a limited ammo selection), good frontal and side armour that allows for limited angling, and -10 degrees of gun depression. However, the tank does have a very large profile and the turret ammo storage is very exposed and lightly armoured.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_arl_44_acl1.png",
+ "weapons": [
+  "7.5 mm MAC 31 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "60 / 50 / 35 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "150 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "37"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "37 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "9.8 → 7.5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "10.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "5,100 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "550 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,315 → 1,627"
+  },
+  {
+   "label": "Crew training",
+   "value": "13,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "80 / 110 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "19,800"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "980"
+  }
+ ],
+ "shells": [
+  {
+   "name": "75 mm OR Mle.44",
+   "type": "APCBC",
+   "penetration": [
+    "125",
+    "122",
+    "108",
+    "93",
+    "80",
+    "69"
+   ]
+  },
+  {
+   "name": "75 mm OE Mle.28",
+   "type": "HE",
+   "penetration": [
+    "14",
+    "13",
+    "12",
+    "11",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

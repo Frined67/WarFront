@@ -1,0 +1,238 @@
+{
+ "id": "a6m2_n_zero",
+ "wiki": "https://wiki.warthunder.com/unit/a6m2_n_zero",
+ "name": "A6M2-N",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.3",
+  "SB": "2.0"
+ },
+ "description": "The A6M2-N , designated as Type 2 Seaplane fighter ( 二式水上戦闘機 ) , was as a stop-gap solution for the slow development of the N1K1 , this A6M is the result of taking the A6M2 mod. 11 , modifying the tail, and adding 3 floats, with the center pontoon containing an additional fuel tank. While intended as an offensive measure for the Japanese island hopping campaign, it came too late to be used in its initial role but was continued to be used due to not requiring airfield infrastructure to operate, and used in patrol and defensive roles. It has been in the game since the start of the Open Beta Test prior to Update 1.27. Mainly just a way heavier version of the A6M2 mod. 11 , armament- and engine-wise nothing has changed and hence will perform worse than the regular A6M series due to the added weight of the pontoons. The pontoons can however break off from gunfire, overspeeding or ripping them off by means of ground, making the plane return to its ideal aerodynamics and weight.",
+ "image": "https://static.encyclopedia.warthunder.com/images/a6m2_n_zero.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "432"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "12.3"
+  },
+  {
+   "label": "Turn time",
+   "value": "20"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,100 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "500 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Sakae 12"
+  },
+  {
+   "label": "Length",
+   "value": "9.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "110 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.97"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.47 t (1h 51m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "650 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.83 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -11/13 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "320 / 469 / 498 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "120 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "520 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.11 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,360 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "330 → 449"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 60 / 130 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,910"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/HEF-I/HEF-I/APHE",
+   "penetration": [
+    "19",
+    "18",
+    "12",
+    "7",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "HEF-T/HEF/HEF/APHE",
+   "penetration": [
+    "21",
+    "20",
+    "13",
+    "8",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "APHE/APHE/APHE/APHE/HEF/HEF-T",
+   "penetration": [
+    "21",
+    "20",
+    "13",
+    "8",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "HEF-T",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF/HEF/HEF/APHE/APHE",
+   "penetration": [
+    "21",
+    "20",
+    "13",
+    "8",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/IAI/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "I/AP/AP/AP/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

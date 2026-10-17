@@ -1,0 +1,166 @@
+{
+ "id": "wellington_mk1c",
+ "wiki": "https://wiki.warthunder.com/unit/wellington_mk1c",
+ "name": "Wellington Mk Ic",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "II",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.3",
+  "SB": "2.7"
+ },
+ "description": "The Wellington Mk Ic was a British WWII bomber, one of two named after Arthur Wellesley, 1st Duke of Wellington, the second being the Vickers Wellesley. The development of the Wellington began in 1932 in response to Air Ministry Specification B.9/32 for a twin-engined day bomber for the RAF. Its contemporaries were the Armstrong Whitworth Whitley and the Handley Page Hampden . The Wellington utilised a geodetic airframe, which provided a sturdy yet lightweight structure. The designer who opted for the geodetic airframe was Barnes Wallis, who later became famous for inventing the bouncing bomb used during Operation Chastise, as well as the Tallboy and Grand Slam earthquake bombs. Production of the Wellington began in 1936 with the Mk I. The Vickers turrets used on the Mk I, however, proved problematic and were replaced with Frazer-Nash turrets. Furthermore, the ventral turret was replaced by two machine guns, one on either side of the fuselage, mounted in the windows. The hydraulic and electrical systems were also redesigned, and these aircraft were redesignated as the Wellington Mk Ic. The Wellington Mk Ic has been in the game since the start of the Open Beta Test prior to Update 1.27. It features great manoeuvrability paired with a sizeable bomb load and a variety of ordnance, allowing multirole use such as anti-shipping with its two Mk. XII torpedoes or in ground battles with the massive 4,000 lb H.C. Mk. II bomb. However, the defensive armament of the Wellington is very weak, as it consists of only two 7.7 mm machine guns in the nose, another pair in the tail, and one on each side of the fuselage, mounted in the windows. The Wellington is also unable to outrun contemporary fighters, making it vulnerable to their attacks and reliant on friendly fighter cover to increase survivability.",
+ "image": "https://static.encyclopedia.warthunder.com/images/wellington_mk1c.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "378"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "5.3"
+  },
+  {
+   "label": "Turn time",
+   "value": "35"
+  },
+  {
+   "label": "Max altitude",
+   "value": "6,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "876 m"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Pegasus XVIII"
+  },
+  {
+   "label": "Length",
+   "value": "18.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "26.3 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "159 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "9.77"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "2.53 t (4h 26m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "530 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.62 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/5 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "223 / 264 / 315 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "264 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "966 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "950 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "6,000"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "624 → 843"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 100 / 180 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,430"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/AP-I/Ball/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP-I/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,220 @@
+{
+ "id": "b6n1",
+ "wiki": "https://wiki.warthunder.com/unit/b6n1",
+ "name": "B6N1 Model 11",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "2.0"
+ },
+ "description": "The B6N1 mod. 11 , designated as Tenzan 11 ( 天山一一型 ) , was a carrier-based torpedo bomber developed by the Imperial Japanese Navy during World War II. It was intended to replace the B5N , but faced several delays due to engine problems and stability issues. The first prototype flew in March 1941, but the production did not enter service until August 1943. The B6N1 was powered by the Nakajima Mamoru 11 engine and could carry up to 800 kg of bombs or 1,800 kg of torpedoes. It had a top speed of 481 km/h and a range of over 3,000 km. It was armed with two 7.7 mm machine guns, one in the dorsal turret and one in the ventral position. It was used in various operations, such as the Battle of the Philippine Sea and the Battle of Leyte Gulf, but it could not fully demonstrate its potential due to the lack of experienced pilots and the air superiority of the US Navy. It was introduced in Update \"Starfighters\" . As the successor of the B5N2 , it offers a longer range and better speed, but it still performs the same role with the same total tonnage of ordnance, carrying a single 800 kg bomb or torpedo, two 250 kg bombs or a rack holding six 60 kg bombs. It had an additional rear machine gun in a ventral position compared to the B5N, making it less vulnerable to attacks coming from below, but with the machine guns only being Type 92 (7.7 mm) LMGs, they do not cause any significant damage and are effectively only a deterrent with the off-chance of damaging enemy chasers' engines or hitting their cockpit. One unusual feature about the early production Tenzan as a torpedo bomber was the mounting of a single 7.7 mm offensive machine gun in the left wing, intended as an attempt to suppress naval targets' AA batteries. It can be used to fire enough bullets into a plane to shoot it down by utilizing the excellent manoeuvrability.",
+ "image": "https://static.encyclopedia.warthunder.com/images/b6n1.png",
+ "weapons": [
+  "7.7 mm Type 97 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "464"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "11.1"
+  },
+  {
+   "label": "Turn time",
+   "value": "21"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,400 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "270 m"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "Mamoru 11"
+  },
+  {
+   "label": "Length",
+   "value": "10.9 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "14.9 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "141 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.46"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.16 t (2h 47m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "650 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 355 / 369 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "310 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "400 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,358 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.13 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "316 → 427"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 60 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,940"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/IAI/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "I/AP/AP/AP/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/Ball/AP/I/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

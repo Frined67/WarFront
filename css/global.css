@@ -1,0 +1,123 @@
+/* css/global.css
+   สไตล์ที่หลายหน้าใช้ร่วมกันเท่านั้น (ส่วนที่ Tailwind ทำแทนได้ ใช้ Tailwind ในไฟล์ HTML) */
+
+:root {
+    --warfront-bg: #0f1115;
+    --warfront-panel: #171a21;
+    --warfront-line: #2a2f3a;
+    --warfront-accent: #c8a04a;
+    --warfront-text: #e6e8ec;
+}
+
+body {
+    background-color: var(--warfront-bg);
+    color: var(--warfront-text);
+    font-family: "Segoe UI", "Noto Sans Thai", Tahoma, sans-serif;
+}
+
+.global_header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 12px;
+    padding: 12px 16px;
+    border-bottom: 1px solid var(--warfront-line);
+    background-color: var(--warfront-panel);
+}
+
+.global_brand {
+    font-size: 22px;
+    font-weight: 800;
+    letter-spacing: 2px;
+    color: var(--warfront-text);
+    text-decoration: none;
+}
+
+.global_brand span {
+    color: var(--warfront-accent);
+}
+
+.global_nav {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-right: auto;
+}
+
+.global_nav-link {
+    padding: 6px 12px;
+    border-radius: 999px;
+    font-size: 14px;
+    color: #b9bfcc;
+    text-decoration: none;
+}
+
+.global_nav-link:hover {
+    background-color: #222733;
+    color: var(--warfront-text);
+}
+
+.global_nav-link--active {
+    background-color: var(--warfront-accent);
+    color: #1a1407;
+    font-weight: 700;
+}
+
+.global_nav-button {
+    border: none;
+    background: transparent;
+    font-family: inherit;
+    cursor: pointer;
+}
+
+.global_user {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 14px;
+}
+
+.global_user-photo {
+    width: 28px;
+    height: 28px;
+    border-radius: 50%;
+}
+
+.global_logout {
+    padding: 4px 10px;
+    border: 1px solid var(--warfront-line);
+    border-radius: 999px;
+    background: transparent;
+    color: #b9bfcc;
+    cursor: pointer;
+    font-size: 13px;
+}
+
+.global_logout:hover {
+    border-color: var(--warfront-accent);
+    color: var(--warfront-accent);
+}
+
+.global_login-warn {
+    font-size: 13px;
+    color: #e2995a;
+}
+
+.global_panel {
+    background-color: var(--warfront-panel);
+    border: 1px solid var(--warfront-line);
+    border-radius: 10px;
+}
+
+.global_footer {
+    margin-top: 40px;
+    padding: 20px 16px;
+    border-top: 1px solid var(--warfront-line);
+    font-size: 13px;
+    color: #8b93a3;
+    text-align: center;
+}
+
+.global_footer a {
+    color: var(--warfront-accent);
+}

@@ -1,0 +1,230 @@
+{
+ "id": "fokker_d23",
+ "wiki": "https://wiki.warthunder.com/unit/fokker_d23",
+ "name": "◗Fokker D.XXIII",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The Fokker D.XXIII is a Dutch prototype fighter aircraft. Its development began in 1937 as a private venture by Anthony Fokker, the owner of the Fokker company. Fokker’s vision was to design an aircraft with engines in a push-pull configuration at the nose and rear of the fuselage. This would allow for an aerodynamically clean wing, improved take-off and landing characteristics, and enhanced armament. A mock-up was presented at the 1938 Paris Air Show, where it received mixed reviews from visitors. Fokker offered potential buyers a choice of engines: the Junkers Jumo 210 G, Rolls-Royce Kestrel XV, or Isotta Fraschini Delta RC ID. However, the first and only prototype, which made its maiden flight on 30 May 1939, was powered by two inline Walter Sagitta I-SR engines. It made a total of 11 test flights, with a total flight time of just under four hours. The fighter had several issues, including poor cooling of the rear engine and the lack of an ejection seat to prevent the pilot being endangered during bailouts. In fact, the possibility of creating one was discussed. However, during its eleventh flight in April 1940, the aircraft damaged its landing gear. In May, the Germans captured the aircraft. They decided not to restore the Fokker D.XXIII but studied its unusual engine layout and nose landing gear. The fighter was scrapped on 10 May 1941, after the Germans lost interest in it. The Fokker D.XXIII was introduced in Update 2.51 \"Spearhead\" in the French aviation tech tree. In addition to its unique engine configuration, otherwise only found on the German Do 335 , the aircraft is notable for its powerful armament of 13.2 mm machine guns, which are comparable to cannons in terms of damage. However, the Fokker is mediocre in both speed and manoeuvrability.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fokker_d23.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "535"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "13.4"
+  },
+  {
+   "label": "Turn time",
+   "value": "18"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,200 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "320 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Sagitta I-SR"
+  },
+  {
+   "label": "Length",
+   "value": "10 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "152 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.44"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.29 t (1h 20m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "645 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.85 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 387 / 423 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "285 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,080 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.84 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,400 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.28 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "472 → 630"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 80 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,480"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEF-T/AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "HEF-T/AP/AP/AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF-T/HEF-T/AP/HEF-T",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

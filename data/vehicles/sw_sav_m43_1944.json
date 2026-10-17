@@ -1,0 +1,142 @@
+{
+ "id": "sw_sav_m43_1944",
+ "wiki": "https://wiki.warthunder.com/unit/sw_sav_m43_1944",
+ "name": "Sav m/43 (1944)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "The Sav m/43 (1944) was an assault gun vehicle based on the chassis of the Strv m/41 . Similar to the German StuG III, they removed the turret and built a casemate to be able to equip a more powerful gun than the previous 37 mm Kan m/38 for its intended purpose of being able to provide support. When the Army stopped its order of 122 Strv m/41 S-II , they had already acquired a total of 104 that were completed. The remaining 18 were repurposed to become support vehicles to the different artillery regiments as assault gun divisions. The Sav m/43 was supposed to be armed with a 105 mm Kan m/44, but the order for these cannons would take a while so the first 18 vehicles were equipped with the older 75 mm Kan m/02 as a temporary solution. They were all supposed to be delivered in November 1944, but issues occurred with the production and it wouldn't be until January 1945 when all were delivered. Between 1945 and 1946, all the Sav m/43 (1944) would be equipped with its intended gun, along with an order of an additional 18 Sav m/43s, and it wouldn't be until late 1947 that all the units were completed and deployed where they would serve the Swedish Army in different regiments throughout the years in service until its final fate of being decommissioned in early 1970s. Introduced in Update 1.97 \"Viking Fury\" , the Sav m/43 (1944) is a bit cumbersome compared to the previous Ikv 72 but better frontal protection and can be used in a similar playstyle. The Sav m/43 (1944) is best used in an hull down position or using it in a supporting role either as a distraction to take away attention from allied units that can flank around the enemy or it can use its larger 75 mm gun to deal a finishing blow to an enemy vehicle. The Sav m/43 (1944) is also a suitable ambush tank, waiting behind a hill using its gun depression while also utilizing the effectiveness of the armour to increase its survivability if taking fire. However, compared to the Ikv 72 's 75 mm Kan m/41, the Sav m/43 (1944)'s Kan m/02 is an older cannon and doesn't have the same efficiency and will not perform as well, but it's still a decent 75 mm and can be utilized by flanking around the map and trying to hit targets on their weaker side or rear armour.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_sav_m43_1944.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 15 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "78 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "41"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "80 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.6 → 5.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 25°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-15 / 15°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "5.6"
+  },
+  {
+   "label": "Repair cost",
+   "value": "193 → 239"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 20 / 30 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,460"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "slpprj m/40",
+   "type": "AP",
+   "penetration": [
+    "69",
+    "67",
+    "60",
+    "52",
+    "45",
+    "39"
+   ]
+  },
+  {
+   "name": "slpprj m/40B",
+   "type": "APBC",
+   "penetration": [
+    "68",
+    "66",
+    "58",
+    "50",
+    "43",
+    "37"
+   ]
+  },
+  {
+   "name": "slpgr m/39",
+   "type": "APHE",
+   "penetration": [
+    "51",
+    "49",
+    "43",
+    "36",
+    "30",
+    "25"
+   ]
+  },
+  {
+   "name": "rökgr m/22",
+   "type": "Smoke",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "sgr m/22-38",
+   "type": "HE",
+   "penetration": [
+    "9",
+    "9",
+    "9",
+    "9",
+    "9",
+    "9"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

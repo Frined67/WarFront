@@ -1,0 +1,272 @@
+{
+ "id": "pyorremyrsky",
+ "wiki": "https://wiki.warthunder.com/unit/pyorremyrsky",
+ "name": "VL Pyörremyrsky",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "III",
+ "br": {
+  "AB": "5.0",
+  "RB": "4.7",
+  "SB": "4.3"
+ },
+ "description": "From 1942, the superiority of the Red Army Air Force over the Finnish was becoming increasingly obvious. While 160 modern Messerschmitt Bf 109 G-2, G-6, and other versions were transferred to the Finnish Air Force by Germany between 1942 and 1944, the situation began to deteriorate among the Axis countries; due to the increasing successes (especially from the second half of 1943) of the Allied countries, it became obvious that further deliveries of new Bf 109s as well as spare parts for them would become more and more problematic. In this situation, the command of the Finnish Air Force ordered VL to develop a fighter that was to be made of domestic materials (mainly wood and steel), with characteristics comparable to the Bf 109 G-6. Engineers T.R. Verkola, Arvo Ilinen, and Edward Vigelius proposed an aerodynamically clean low-wing aircraft equipped with a German Daimler-Benz DB 605AC engine developing 1,475 hp (1,085 kW) and driving a three-bladed VDM propeller. In the project, the fairing of the propeller sleeve and the engine hood were borrowed from the German aircraft; this made the new Finnish aircraft, designated Pyörremyrsky (hurricane), very similar in front to the Bf 109 G. It was introduced in Update 1.93 \"Shark Attack\" as a premium pack , but was removed from the Gaijin store after the 2022 May sale . It was re-introduced as a regular in-game premium for in Update \"Fire and Ice\" . Although the Pyörremyrsky shares some design traits with the Bf 109 series of German fighters, it is a completely domestic Finnish design and has significantly different flight characteristics. It has a very capable flight performance and can be considered a middle point between regular dogfighters like the Yak-3 and boom-and-zoom fighters like the Bf 109. It has a good rate of climb similar to that of the Bf 109, but its top speed and manoeuvrability are closer to that of Soviet fighters. The aircraft has a relatively small ammo pool, requiring trigger discipline to remain active throughout an entire battle. The aircraft is still outperformed by Japanese Zeros, British Spitfires, and Italian C.205s, so it is not recommended trying to dogfight these types of enemies; instead, play passively in a boom-and-zoom role and try to target slower aircraft.",
+ "image": "https://static.encyclopedia.warthunder.com/images/pyorremyrsky.png",
+ "weapons": [
+  "20 mm MG 151 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "620"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "18.5"
+  },
+  {
+   "label": "Turn time",
+   "value": "18"
+  },
+  {
+   "label": "Max altitude",
+   "value": "11,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "390 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "DB-605A"
+  },
+  {
+   "label": "Length",
+   "value": "9.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "160 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.74"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.29 t (1h)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "790 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.82 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/13 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 / 409 / 438 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "360 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "150 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.29 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,100 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.9 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "689"
+  },
+  {
+   "label": "Crew training",
+   "value": "10,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (65 / 175 / 345) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "IT/IT/APHE/HEI",
+   "penetration": [
+    "20",
+    "18",
+    "10",
+    "5",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "IT/HEI/HEI/AP-I",
+   "penetration": [
+    "27",
+    "24",
+    "14",
+    "7",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-I/HEI/HEI/HEI/HEI/IT",
+   "penetration": [
+    "27",
+    "24",
+    "14",
+    "7",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "APHE/APHE/APHE/IT",
+   "penetration": [
+    "20",
+    "18",
+    "10",
+    "5",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "FI-T/FI-T/FI-T/IT/IT",
+   "penetration": [
+    "10",
+    "9",
+    "5",
+    "3",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI/HEI/HEI/APHE/AP-I",
+   "penetration": [
+    "27",
+    "24",
+    "14",
+    "7",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/AP/I",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP-T/I",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP/AP-T/AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/I/I/I",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/AP-T/AP-T/AP-T",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/I/AP/I",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "13",
+    "8",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

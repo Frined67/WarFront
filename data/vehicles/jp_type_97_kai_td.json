@@ -1,0 +1,165 @@
+{
+ "id": "jp_type_97_kai_td",
+ "wiki": "https://wiki.warthunder.com/unit/jp_type_97_kai_td",
+ "name": "Chi-Ha Kai TD",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The Type 97 Chi-Ha Kai was developed after Japan’s 1939 defeat at Khalkhin Gol, which exposed the shortcomings of the infantry-support Type 97 Chi-Ha and its low-velocity 57 mm gun. To improve anti-tank performance, the higher-velocity Type 1 47 mm gun—ready by 1941—was mounted in the Shinhōtō (新砲塔, “new turret”), creating the improved Chi-Ha Kai. Designed to counter late-1930s armor, it performed effectively in early Pacific campaigns such as Malaya and Corregidor against lightly armored Allied vehicles. However, its inter-war design standards left it outmatched by newer 1940s tanks like the M4 Sherman, a generational gap that greatly contributed to the negative reputation of Japanese armour. The Chi-Ha Kai (Twitch drop) was introduced as a reward for watching the Japan Tournament 2021 on Twitch on April 3rd . It is a Twitch drop variant of the Chi-Ha Kai , differing only in its default camouflage, and has been unobtainable since. It serves as the true introduction to Japanese combat tanks, being equipped with higher-velocity cannons and relatively dangerous post-penetration damage. Built on the Chi-Ha , the only main difference is the turret; mobility remains the same, but it comes with a more capable cannon and an additional crew member.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_type_97_kai_td.png",
+ "weapons": [
+  "7.7 mm Type 97 machine gun",
+  "7.7 mm Type 97 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "25 / 25 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "74 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "40"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "104 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.3 → 3.3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "10.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-20 / 20°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "417 → 537"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 40 / 40 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,930"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Type 1 APHE",
+   "type": "APHE",
+   "penetration": [
+    "77",
+    "75",
+    "67",
+    "58",
+    "50",
+    "44"
+   ]
+  },
+  {
+   "name": "Type 1 HE",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "9",
+    "8",
+    "7",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

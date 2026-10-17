@@ -1,0 +1,142 @@
+{
+ "id": "fr_char_2c",
+ "wiki": "https://wiki.warthunder.com/unit/fr_char_2c",
+ "name": "2C",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "heavy_tank",
+ "role": "Heavy tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The Char 2C is a French heavy tank that was eventually designated as a super-heavy tank. It was developed during World War I but did not enter service until after the war was over. In terms of overall volume or physical dimensions, it was the largest operational tank ever built during World War I. The Char 2C was the first super-heavy tank to enter service; purposely designed to be significantly larger than conventional tanks at the time. When fully equipped, the Char 2C weighed 69 tonnes, due in part to its armour, which was among the thickest of World War I tanks, but also to its vast size. The tank required a crew of twelve to operate: a driver, commander, gunner, loader, four machine gunners, a mechanic, electrician, assistant-electrician/mechanic, and a radio operator. Some sources suggest thirteen, most likely on the basis of photos of crews that probably included the company commander. Introduced in Update \"Sky Guardians\" , the 2C should be utilized as a breakthrough tank since it is too slow to flank and has a low muzzle velocity main armament to engage distant targets. Its ammunition is powerful enough to knock out practically anything at close range, making it perfect for open-topped and lightly armoured vehicles. Despite its strong on-paper statistics, the Char 2C will struggle to penetrate other heavy tanks. Light tanks from the enemy are equally lethal. They may easily flank around the battlefield and engage you when you are not expecting it due to their great speed. To avoid being isolated and overrun by adversaries, it is critical to always be close to teammates.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_char_2c.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "45 / 22 / 22 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "250 %"
+  },
+  {
+   "label": "Crew",
+   "value": "12 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "15"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "7.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "128 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.2 → 5.5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-20 / 20°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-140 / 140°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "10,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "450 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 10°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-130 / 120°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "14"
+  },
+  {
+   "label": "Repair cost",
+   "value": "954 → 1,180"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 60 / 70 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,460"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Mle1916",
+   "type": "APHE",
+   "penetration": [
+    "66",
+    "65",
+    "58",
+    "51",
+    "45",
+    "40"
+   ]
+  },
+  {
+   "name": "Mle1900",
+   "type": "HE",
+   "penetration": [
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

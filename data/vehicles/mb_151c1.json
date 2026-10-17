@@ -1,0 +1,162 @@
+{
+ "id": "mb_151c1",
+ "wiki": "https://wiki.warthunder.com/unit/mb_151c1",
+ "name": "M.B.151C.1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "In 1934, the French Air Force requested a new monoplane fighter. Several companies submitted their designs, including Société des Avions Marcel Bloch and Morane-Saulnier. The latter would eventually win the competition with its MS.406 . But Marcel Bloch decided not to abandon the design, and in December 1937, presented an improved prototype called M.B.150.01. It was well received by the air force, and on 7 April 1938, an order was placed for the construction of 25 pre-series aircraft. Overall, the M.B.150 was not suitable for series production, and its engine was always in short supply because it was in use by many other aircraft. So Marcel Bloch decided to rework the design, installing a 920 hp engine instead of 1,000 hp, making the wing smaller, simplifying the landing gear design, and changing the cannon for four 7.5 mm machine guns. The first prototype, M.B.151.01, made its maiden flight on 18 August 1938. It was plagued by overheating problems and its flight characteristics were disappointing, but the military was in dire need of new fighters. Thus, in January 1939, deliveries of series-production M.B.151C.1 aircraft began, with 140 planes built in total. They were mostly used in the early stages of the war, where they would struggle against the Germans, being slower than Bf 110s and less manoeuvrable than Bf 109Es . After the armistice, a small number of M.B.151s were used by Greece and Bulgaria. The M.B.151C.1 was introduced during Update \"Storm Warning\" as one of the prizes of the 2024 Winter Tales event . Among monoplanes, it is a nimble fighter with a decent climb rate and an impressive dive speed. However, it would lose a dogfight to any biplane, and its 7.5 mm guns are weak against most enemies. The plane also lacks any payload options.",
+ "image": "https://static.encyclopedia.warthunder.com/images/mb_151c1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "460"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "9.5"
+  },
+  {
+   "label": "Turn time",
+   "value": "20"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "14N-35"
+  },
+  {
+   "label": "Length",
+   "value": "9.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.7 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "155 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.21"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.31 t (1h 53m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "830 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.81 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -17/17 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "270 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "310 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,350 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "164"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,400"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 45 / 100) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

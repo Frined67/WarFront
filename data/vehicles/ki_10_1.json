@@ -1,0 +1,162 @@
+{
+ "id": "ki_10_1",
+ "wiki": "https://wiki.warthunder.com/unit/ki_10_1",
+ "name": "Ki-10-I",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The Ki-10-I , designated as Type 95 Fighter ( 九五式戦闘機 ) , was a biplane fighter aircraft developed by Kawasaki for the Imperial Japanese Army in the mid-1930s. It was designed by Takeo Doi, who had succeeded the German Richard Vogt as chief designer for Kawasaki. The Ki-10 was the winner of the contract against Nakajima's Ki-11, a low-wing monoplane, as the Army preferred the more manoeuvrable biplane. The Ki-10 had a metal structure covered with fabric, a liquid-cooled V-12 engine, and two 7.7 mm machine guns. The Ki-10 entered service in 1937 and saw combat in Manchukuo, North China, and Southeast Asia during the Second Sino-Japanese War and the early stages of World War II. It was the last biplane fighter used by the Japanese Army, and was gradually replaced by more advanced monoplane fighters such as the Ki-27, Ki-43, and Ki-44. In the game since the start of the Open Beta Test prior to Update 1.27, the Ki-10-I has a good turn rate, fair climb, low speed, and minimal armour. It is faster and climbs better than other biplanes, but has weaker guns and protection. The Ki-10-I can turn-fight well at low altitudes, but should avoid stalls and spins. Its 7.7 mm guns have low fire rate and poor belts. Stealth belt is the best choice. The Ki-10-I should not attack armoured targets or bombers, but focus on other biplanes or slow monoplanes. Aim for the wings, not the fuselage. Teamwork is essential for the Ki-10-I.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ki_10_1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "402"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "15.7"
+  },
+  {
+   "label": "Turn time",
+   "value": "16"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,100 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "231 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Ha-9-2A"
+  },
+  {
+   "label": "Length",
+   "value": "7.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "84 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.44"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.24 t (1h 11m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "600 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/11 G"
+  },
+  {
+   "label": "Ammunition",
+   "value": "900 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,100 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.19 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "3,270"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/IAI/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "I/AP/AP/AP/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

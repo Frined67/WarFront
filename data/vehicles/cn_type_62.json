@@ -1,0 +1,197 @@
+{
+ "id": "cn_type_62",
+ "wiki": "https://wiki.warthunder.com/unit/cn_type_62",
+ "name": "Type 62",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "IV",
+ "br": {
+  "AB": "6.7",
+  "RB": "6.7",
+  "SB": "6.7"
+ },
+ "description": "The Type 62 light tank (62式轻坦) , developed and produced by China North Industries Corporation, was a Chinese light tank designed in the early 1960s. It was based on the Chinese Type 59 medium tank but features a reduced main gun calibre, lighter armour, and a smaller suite of electronics and equipment to minimise weight. The conceptualisation of the Chinese Type 62 tank began in 1958, it was finalised in 1962, and entered production and service in 1963. It is primarily employed by armoured divisions in China’s southern regions, where the terrain is rocky and mountainous. The Type 62 light tank is mainly utilised for tasks such as reconnaissance, infantry support, and combat against lightly armoured enemy vehicles. With a total combat weight of 21 tons, it can withstand most machine gun fire and close-blast shell fragments. By the time production ended in 1989, approximately 1,500 units had been constructed. Introduced in Update 1.91 \"Night Vision\" , the Type 62 light tank serves as a downsized version of the heavier Type 59 medium tank. Armed with the 85 mm Type 63 tank gun and an extensive inventory of ammunition, the Type 62 can effectively engage enemy vehicles at any distance. Its low profile and agility make it particularly well-suited for maps featuring dense vegetation and rugged terrain, allowing players to access unexpected areas and set up effective ambushes.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cn_type_62.png",
+ "weapons": [
+  "12.7 mm Type 54 machine gun",
+  "7.62 mm Type 59 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "35 / 25 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "83 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "60"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "20.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "47 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "9.6 → 7.4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 22°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-4 / 82°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,669 → 3,835"
+  },
+  {
+   "label": "Crew training",
+   "value": "61,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "110 / 150 / 200 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "61,700"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,800"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Type 56 APBC",
+   "type": "APHEBC",
+   "penetration": [
+    "135",
+    "133",
+    "124",
+    "114",
+    "104",
+    "95"
+   ]
+  },
+  {
+   "name": "Type 56 HE",
+   "type": "HE",
+   "penetration": [
+    "19",
+    "18",
+    "17",
+    "16",
+    "15",
+    "14"
+   ]
+  },
+  {
+   "name": "Type 56 APCBC",
+   "type": "APCBC",
+   "penetration": [
+    "164",
+    "162",
+    "154",
+    "143",
+    "134",
+    "125"
+   ]
+  },
+  {
+   "name": "Type 56 HVAP",
+   "type": "APCR",
+   "penetration": [
+    "208",
+    "201",
+    "176",
+    "148",
+    "125",
+    "106"
+   ]
+  },
+  {
+   "name": "Type 56 HEAT-FS",
+   "type": "HEATFS",
+   "penetration": [
+    "300",
+    "300",
+    "300",
+    "300",
+    "300",
+    "300"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/IAI/API-T/AP-I(c)",
+   "penetration": [
+    "34",
+    "32",
+    "24",
+    "17",
+    "12",
+    "8"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

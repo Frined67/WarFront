@@ -1,0 +1,165 @@
+{
+ "id": "cn_type_97_kai",
+ "wiki": "https://wiki.warthunder.com/unit/cn_type_97_kai",
+ "name": "␗Chi-Ha Kai",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "On December 1st, 1945, Gao Ke of the Northeast People's Autonomous Army (later renamed the Northeast Democratic Alliance Army) captured two Japanese Type 97 modified (Chi-Ha Kai) medium tanks from the Japanese \"918\" repair factory in Shenyang. Designated as No. 101 and No. 102 respectively, these captured tanks marked the official formation of the first tank brigade, the Northeast Tank Brigade. After World War II, many Soviet-captured Japanese tanks, including the Type 97 Chi-Ha Kai, were also supplied to the Chinese People's Liberation Army. Introduced in Update 1.91 \"Night Vision\" , the Chi-Ha Kai offers significant improvements over its predecessor, the Chi-Ha, particularly in terms of anti-tank capabilities. As a versatile and swift medium tank, this captured Japanese asset will undoubtedly bolster the Chinese Army's ground forces capabilities in the early ranks.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cn_type_97_kai.png",
+ "weapons": [
+  "7.7 mm Type 97 machine gun",
+  "7.7 mm Type 97 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "25 / 25 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "74 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "40"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "104 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.3 → 3.3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "10.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-20 / 20°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "417 → 537"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 40 / 40 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,930"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Type 1 APHE",
+   "type": "APHE",
+   "penetration": [
+    "77",
+    "75",
+    "67",
+    "58",
+    "50",
+    "44"
+   ]
+  },
+  {
+   "name": "Type 1 HE",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "9",
+    "8",
+    "7",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

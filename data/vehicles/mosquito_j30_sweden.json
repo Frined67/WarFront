@@ -1,0 +1,186 @@
+{
+ "id": "mosquito_j30_sweden",
+ "wiki": "https://wiki.warthunder.com/unit/mosquito_j30_sweden",
+ "name": "Mosquito J30",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "III",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "3.7"
+ },
+ "description": "As the Mosquito NF.Mk.II night fighters were becoming obsolete, De Havilland upgraded the aircraft to the NF.Mk.XII standard in the summer of 1942. This modification included installing a more powerful AI Mk.8 radar. A year later, a new version was created, and the aircraft were new instead of modified. It was called the NF. Mk. XIII, which included the same radar as a previous variant and a standard wing from Mosquito FB. Mk. VI . In 1944, another upgrade, the Mosquito NF.Mk.XIX , was created. It had a Merlin 25 engine and the option of installing British AI Mk.8 radar or American X/SCR720 or X/SCR729 radar. The first flight of this modification occurred in April, and a total of 280 fighters were built. In 1948, Sweden purchased 60 Mosquito NF.Mk.XIXs from the ex-RAF stock, designating them as J30 . All of the aircraft were assigned to three squadrons of the F1 Wing. Initially, the first squadron's fighters had white spinners and colored markings, the second squadron's had blue ones, and the third squadron's had yellow ones. The aircraft remained in service until 1954, when they were replaced by the De Havilland Venom . The Mosquito J30 was introduced as a reward for the Battle Pass Season 22, \"The Elusive Musketeer\" . The Swedish aircraft differs from other Mosquito night fighters, such as the Mosquito NF Mk. II , primarily due to its increased weight, which has a negative effect on its flight characteristics. It also received a new radar. Otherwise, it remains the same Mosquito: a fast aircraft with powerful armament but low survivability and insufficient maneuverability compared to single-engine fighters.",
+ "image": "https://static.encyclopedia.warthunder.com/images/mosquito_j30_sweden.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "604"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "8.5"
+  },
+  {
+   "label": "Turn time",
+   "value": "29"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,300 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "450 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Merlin-25"
+  },
+  {
+   "label": "Length",
+   "value": "12.4 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "16.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "223 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "7.57"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.47 t (2h 34m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "720 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.71 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/8 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "264 / 356 / 390 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "315 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.32 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "695"
+  },
+  {
+   "label": "Crew training",
+   "value": "10,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (70 / 165 / 345) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEI/SAP-I/T",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/SAP-I",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/HEI/SAP-I/HEI/SAP-I",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/SAP-I/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI/HEI/SAP-I",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

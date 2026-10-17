@@ -1,0 +1,130 @@
+{
+ "id": "il_zsu_57_2",
+ "wiki": "https://wiki.warthunder.com/unit/il_zsu_57_2",
+ "name": "ZSU-57-2",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "IV",
+ "br": {
+  "AB": "7.0",
+  "RB": "7.0",
+  "SB": "7.0"
+ },
+ "description": "During the Six-Day War of 1967 and the Yom Kippur War of 1973, Israel captured an unknown number of ZSU-57-2 SPAAs from Egypt and Syria. These anti-aircraft vehicles served with the IDF after being adopted into service. They received Israeli camouflage patterns, painting, numbers, and designation. While they paraded in the Israeli Independence Day, it's still debated to this day whether or not they were used in combat or even if they were deployed by the IDF at some point. The Israeli Armor Museum states that they were never deployed with the IDF. It was introduced in Update \"Fire and Ice\" . An SPAA built on a heavily-modified T-54 chassis, the ZSU-57-2 features two powerful 57 mm guns, good mobility, and very light armour. It has proven to be more of a menace to ground vehicles than aircraft with its high-velocity cannons, but low sustained rate of fire and poor accuracy. It is still capable of taking out aircraft; if aimed well, a single hit of its 57 mm HE projectiles should disintegrate any kind of aircraft. At close ranges, it may be able to sustain a few hits to its chassis, since it derives from the T-54, that has a very good frontal armour.",
+ "image": "https://static.encyclopedia.warthunder.com/images/il_zsu_57_2.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "15 / 15 / 10 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "103 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "50"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "18.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "296 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "2.6 → 2 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "120 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 85°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "25.2"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,286 → 4,229"
+  },
+  {
+   "label": "Crew training",
+   "value": "57,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "140 / 170 / 230 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "52,800"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,700"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "APCBC/HE",
+   "penetration": [
+    "151",
+    "147",
+    "130",
+    "112",
+    "96",
+    "83"
+   ]
+  },
+  {
+   "name": "BR-281SP",
+   "type": "APCBC",
+   "penetration": [
+    "151",
+    "147",
+    "130",
+    "112",
+    "96",
+    "83"
+   ]
+  },
+  {
+   "name": "OR-281U",
+   "type": "HE",
+   "penetration": [
+    "17",
+    "17",
+    "15",
+    "13",
+    "11",
+    "9"
+   ]
+  },
+  {
+   "name": "BR-281U",
+   "type": "APCBC",
+   "penetration": [
+    "151",
+    "147",
+    "130",
+    "112",
+    "96",
+    "83"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

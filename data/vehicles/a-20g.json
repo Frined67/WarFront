@@ -1,0 +1,278 @@
+{
+ "id": "a-20g",
+ "wiki": "https://wiki.warthunder.com/unit/a-20g",
+ "name": "A-20G-25",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.3"
+ },
+ "description": "The A-20G-25 is an American strike aircraft. It was in the game since the start of the Open Beta Test as the A-20G-30 before being remodelled and renamed in Update 1.47 \"Big Guns\" as the A-20G-25. The A-20 is classified as a strike aircraft, which carries both good and bad traits when compared to \"real\" bombers. The main advantage is its strong offensive armament (comparable to that of many U.S fighters), which allows it to engage other aircraft or to strafe soft ground targets. Additionally, it carries an excellent defensive armament, with 2 x 12.7 mm machine guns mounted in a dorsal turret, and a single 12.7 mm machine gun in a hatch below the tail. However, in-game strike aircraft are treated differently than bombers, spawning at a lower altitude and in Realistic Mode, and they do not benefit from a bomb-sight. Due to its lack of manoeuvrability, turn fighting or energy fighting enemy aircraft is extremely ill-advised, since the A-20G isn't capable of out-turning anything (even heavy fighters), and its energy retention is very poor. If one must engage an enemy fighter, either make sure to have a significant energy advantage in order to use boom-and-zoom tactics or try to provoke them into a head-on pass since not much can compete with the A-20G's armament. If an enemy plane avoids a head-on engagement, it is likely better to avoid turning, and use the speed of this plane to either get to help or to allow your gunners to engage the fighters. Often, the best defensive tactic is to stay at very low altitude to force the enemy into the dorsal turret's coverage area and hope it can deal with it, as the A-20G is hopeless in any kind of combat manoeuvring otherwise.",
+ "image": "https://static.encyclopedia.warthunder.com/images/a-20g.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "510"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.1"
+  },
+  {
+   "label": "Turn time",
+   "value": "34"
+  },
+  {
+   "label": "Max altitude",
+   "value": "7,224 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "603 m"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x R-2600-23"
+  },
+  {
+   "label": "Length",
+   "value": "14.6 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "18.7 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "214 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "8.17"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.09 t (1h)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "696 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/6 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "296 / 407 / 428 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "296 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,100 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "800 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "400 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "489 → 622"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 60 / 130 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,420"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP-I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/AP-I/T/I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP/AP-I/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/T/T/AP-I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP-I/AP-I/I/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/I/AP-I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/T",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/AP-I/T",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/I/AP-I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/T",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/AP-I/T",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

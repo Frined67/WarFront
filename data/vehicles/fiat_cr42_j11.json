@@ -1,0 +1,174 @@
+{
+ "id": "fiat_cr42_j11",
+ "wiki": "https://wiki.warthunder.com/unit/fiat_cr42_j11",
+ "name": "J11",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "Sweden bought a large number of CR.42 Falco biplanes between 1939 and 1941 as an emergency measure during the outbreak of WWII. A total of 72 fighters were delivered to Sweden with additional equipment such as radio sets, and these fighters were designated J11 . During its lifetime, the CR.42 Falco gained a troubled reputation since it suffered many accidents, often due to the poor quality of materials used by Fiat. As with most biplanes, pilots appreciated its excellent dogfighting abilities, but complained about the poor top speed, insufficient armament, and open cockpits that were not suited for the cold climate of Sweden. The aircraft was decommissioned in 1945 for good, and some were sold to civilian contractors while others were used as target practice. Introduced in Update 1.95 \"Northern Wind\" , the J11 is almost identical to the CR.42 Falco, which is one of the best biplanes in game. With a very high top speed for a biplane, it will outrun even some early monoplane fighters around its BR. It is also armed with twin 12.7 mm HMGs that are devastating against early planes due to their lack of armour and self-sealing fuel tanks. The J11 is also very good at climbing. However, the aircraft suffers the same issues that most biplanes have, with a lack of flaps, extremely poor energy retention, and a weak airframe.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fiat_cr42_j11.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "429"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "17.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "19.2"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "294 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "A74"
+  },
+  {
+   "label": "Length",
+   "value": "8.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "101 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.96"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.31 t (1h 23m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "578 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/14 G"
+  },
+  {
+   "label": "Ammunition",
+   "value": "900 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "108 → 145"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "I/AP/I/T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "I/I/AP/T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T",
+   "penetration": [
+    "9",
+    "8",
+    "4",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

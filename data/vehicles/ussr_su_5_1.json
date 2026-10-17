@@ -1,0 +1,118 @@
+{
+ "id": "ussr_su_5_1",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_su_5_1",
+ "name": "SU-5-1",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The SU-5-1 was a Soviet experimental self-propelled artillery mount. It was created in 1934 as part of the \"small triplex\" programme - a project to develop a series of artillery mounts on a unified chassis, which, according to its authors, should have solved the entire spectrum of tasks set before the army. The chassis for the SU-5 series was based on the T-26 tank model of 1933, production of which was well-established. Within the framework of the programme, three variants of self-propelled mounts were manufactured, differing mainly only in armament: the SU-5-2 with a 122 mm howitzer, SU-5-3 with a 152 mm mortar and the junior vehicle in the series - SU-5-1 with a 76 mm divisional gun 1902/30. As a result of testing, the SU-5-1 showed unsatisfactory results, and it was decided to replace it with the AT-1 SPG. Ultimately, only a single SU-5-1 was manufactured, it did not go into serial production and did not participate in combat operations. Introduced in Update 1.67 \"Assault\" , the SU-5-1 differentiates itself with an extremely powerful gun for its rank, capable of destroying any enemy with one hit even at long range, but this advantage is offset by the vehicle's extremely low survivability and small ammunition capacity. The T-26 chassis allows it to place itself with relative ease on any spot on the map. The high gun shield can lure the enemy into firing too high, missing the crew. If a hit goes into the body, with a bit of luck, APHE ammo will not detonate on contact and instead go straight through, leaving little spalling damage.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_su_5_1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "15 / 15 / 10 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "76 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "30"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "8 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.6 → 4.3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 60°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-15 / 15°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "5.6"
+  },
+  {
+   "label": "Repair cost",
+   "value": "90 → 111"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,985"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-350A (MD-5 fuze)",
+   "type": "APHEBC",
+   "penetration": [
+    "87",
+    "85",
+    "77",
+    "69",
+    "62",
+    "55"
+   ]
+  },
+  {
+   "name": "OF-350M",
+   "type": "HE",
+   "penetration": [
+    "13",
+    "12",
+    "11",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "BR-350SP",
+   "type": "APBC",
+   "penetration": [
+    "99",
+    "96",
+    "87",
+    "76",
+    "66",
+    "58"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

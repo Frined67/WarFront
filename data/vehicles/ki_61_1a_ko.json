@@ -1,0 +1,242 @@
+{
+ "id": "ki_61_1a_ko",
+ "wiki": "https://wiki.warthunder.com/unit/ki_61_1a_ko",
+ "name": "Ki-61-I Ko",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "3.3",
+  "SB": "3.7"
+ },
+ "description": "The Ki-61-I kō (甲) , designated Type 3 Fighter, Model 1A ( 三式戦闘機一型甲 ) , was the first production model of the Kawasaki Ki-61 series . Developed in parallel with the Ki-60 as part of a 1940 Army requirement to replace the light Ki-43 and heavy Ki-44 , the program ultimately converged on a single “medium fighter” concept embodied by the Ki-61. Centred around its license-produced Daimler-Benz DB 601 (Ha-40) engine, the aircraft also featured a relatively robust all-metal airframe, a narrow fuselage, self-sealing fuel tanks, and armour protection—elements envisioned by lead designer Takeo Doi, who, in contrast to prevailing Japanese aerial doctrine, placed his confidence in high-speed hit-and-run tactics rather than traditional turn-fighting. It became the only mass-produced Japanese fighter to use a liquid-cooled inline engine. In practice, however, its service life was hampered by chronic engine production shortages, limited experience with liquid-cooled powerplants, and early armament compromises: the Ki-61-I kō carried two 12.7 mm Ho-103 and two 7.7 mm machine guns, the latter retained largely due to insufficient 12.7 mm production capacity. Entering service in early 1943, the Ki-61-I saw combat over New Guinea before operating in the Philippines, Formosa, Okinawa, and the Japanese Home Islands. It achieved limited success but was heavily hampered by its unreliable Ha-40 engine, maintenance difficulties, logistical strain, and its divergence from established Japanese aerial doctrine. Plans to replace it in 1944 with the more powerful Ki-61-II , powered by the Ha-140, faltered due to persistent engine problems. From February 1945, many remaining airframes were instead completed as the radial-engined Ki-100 , effectively bringing Ki-61 production to a close. The Ki-61-I ko has been in the game since the start of the Open Beta Test prior to Update 1.27. Unlike the Japanese standard that prioritized extreme manoeuvrability, it represents a more balanced approach, offering respectable speed, decent durability with self-sealing fuel tanks, and stable flight characteristics. While faster than most contemporary Japanese fighters, it performs more in line with average fighters of other nations. Its armament of two 12.7 mm and two 7.7 mm machine guns provides workable firepower, though the rifle-calibre guns serve largely as a fallback once the 12.7 mm guns run out.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ki_61_1a_ko.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "590"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "11.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "19.8"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "420 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Ha-40"
+  },
+  {
+   "label": "Length",
+   "value": "8.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "154 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.5"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.59 t (2h 1m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "850 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "230 / 282 / 292 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "250 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.53 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "800 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,100 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.19 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "495 → 627"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 70 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,400"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEF-I/AP/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/HEF-I/HEF-I/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/AP/AP-T",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/HEF-I/HEF-I/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/IAI/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "I/AP/AP/AP/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

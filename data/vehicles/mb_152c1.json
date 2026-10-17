@@ -1,0 +1,234 @@
+{
+ "id": "mb_152c1",
+ "wiki": "https://wiki.warthunder.com/unit/mb_152c1",
+ "name": "M.B.152C1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The M.B.152 was a French fighter aircraft developed by Société des Avions Marcel Bloch engineers between 1934 and 1938 for use in World War II. It was intended to replace the outdated D.371 fighters in the French Air Force. Unlike its predecessors, the M.B.152 was a modern monoplane with retractable landing gear. After successfully completing its trials, the aircraft entered service as the M.B.152C1 following further refinement. A total of 482 aircraft were produced between 1938 and 1942. These fighters served with the French Air Force during World War II and later remained in service with Vichy France after the armistice. Some were also operated by the Luftwaffe. The M.B.152 C1 was introduced as a reward for the 2018 Festive Quest event . Thanks to its combination of flight characteristics, including good maneuverability, a relatively high maximum speed, and a respectable climb rate, the aircraft is quite versatile. However, it has several notable drawbacks. The ammunition supply for its Hispano 404 cannons is limited, and the rifle-caliber machine guns lack the firepower needed to inflict significant damage on enemy aircraft. Additionally, the M.B.152C1 is relatively slow compared to many other monoplane fighters.",
+ "image": "https://static.encyclopedia.warthunder.com/images/mb_152c1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "485"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.8"
+  },
+  {
+   "label": "Turn time",
+   "value": "19"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "14 N 25"
+  },
+  {
+   "label": "Length",
+   "value": "9.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.7 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "165 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.37"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.31 t (1h 45m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "830 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.81 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -16/16 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "270 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "310 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "120 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.45 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,350 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "879"
+  },
+  {
+   "label": "Crew training",
+   "value": "2,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (35 / 60 / 155) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "PT/HEI/AP/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/AP-T/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP/AP-T/HEI/AP-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

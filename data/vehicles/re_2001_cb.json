@@ -1,0 +1,250 @@
+{
+ "id": "re_2001_cb",
+ "wiki": "https://wiki.warthunder.com/unit/re_2001_cb",
+ "name": "Re.2001 CB",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "3.0",
+  "SB": "2.3"
+ },
+ "description": "The Re.2001 was an Italian single-engine fighter aircraft developed by Reggiane engineers in 1940. It was designed as an improvement to the Re.2000 , and one of the most important tasks for the designers was to solve the problems with the unreliable radial engine. Consequently, the decision was made to equip the aircraft with an Alfa Romeo RA1000 inline engine, a licensed version of the German DB-601. Additionally, the aircraft received reinforced armament in the form of two additional 7.7 mm Breda-SAFAT machine guns compared to its predecessor. The Re.2001 CB modification included additional mounts for various bombs ranging from 50 kg up to 630 kg. The Re.2001 CB was produced from 1942 to 1943, with a total of 39 units manufactured. While in service with the Royal Italian Air Force during World War II, these aircraft were used for both ground attacks and combat against Allied aircraft from 1942 to 1943. The Re.2001 CB was introduced in Update 1.85 \"Supersonic\" . Unlike the earlier version , the Re.2001 CB has additional underwing armament in the form of 50–630kg bombs. While 50/100-kilogram bombs are only suitable for fighting unarmored ground targets, 250-kilogram and 630 kg bombs are capable of destroying enemy's heavy armor. Additionally, the pilot is protected by armor plating and bulletproof glass, which slightly increases their chances of survival in head-on attacks. Otherwise, the Re.2001 CB is similar to the first series. It is well-suited for dogfights with most enemy monoplanes; however, the engine's tendency to overheat quickly still requires the pilot's attention.",
+ "image": "https://static.encyclopedia.warthunder.com/images/re_2001_cb.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "530"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "15.7"
+  },
+  {
+   "label": "Turn time",
+   "value": "18"
+  },
+  {
+   "label": "Max altitude",
+   "value": "11,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "155 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "R.A.1000 RC.41"
+  },
+  {
+   "label": "Length",
+   "value": "8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "151 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.67"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.4 t (1h 45m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "740 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.85 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -9/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "250 / 421 / 454 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "700 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "710 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "355 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "723 → 983"
+  },
+  {
+   "label": "Crew training",
+   "value": "9,200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 120 / 240 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "13,810"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "860"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP-I/HEF/API-T/I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/HEF/HEF",
+   "penetration": [
+    "20",
+    "18",
+    "11",
+    "6",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T",
+   "penetration": [
+    "5",
+    "4",
+    "2",
+    "1",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/AP/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

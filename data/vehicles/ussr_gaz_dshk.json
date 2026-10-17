@@ -1,0 +1,136 @@
+{
+ "id": "ussr_gaz_dshk",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_gaz_dshk",
+ "name": "GAZ-AAA (DShK)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The GAZ-AAA (DShK) is the second variant of the GAZ-AAA-based self-propelled anti-aircraft gun family. In contrast to the first variant, the GAZ-AAA (4M) , the main armament is a 12.7 mm DShK heavy machine gun. This slightly increases its firepower against aircraft and lightly armoured vehicles. Introduced in Update 1.63 \"Desert Hunters\" , the GAZ-AAA (DShK) retains the same unprotected but agile platform as its predecessor. However, the change in armament allows it to do more damage per shot against aircraft opponents while also killing lightly armoured vehicles, which are common at its rank. While the GAZ-AAA (DShK) can penetrate some enemy ground targets, it is not advised to rush into battle due to the vehicle's lack of protection and mediocre penetration. The vehicle is better suited for surprise ambushes and hit-and-run tactics.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_gaz_dshk.png",
+ "weapons": [
+  "12.7 mm DShK machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "0 / 0 / 0 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "75 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "65"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-4 / 45°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-110 / 110°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "24.5"
+  },
+  {
+   "label": "Repair cost",
+   "value": "198 → 257"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 20 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,440"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-I/T/IAI",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": ".50 API",
+   "type": "AP-I(c)/API-T/AP-I(c)/API-T",
+   "penetration": [
+    "34",
+    "32",
+    "24",
+    "17",
+    "12",
+    "8"
+   ]
+  },
+  {
+   "name": ".50 AP",
+   "type": "AP-I(c)/AP-I(c)/API-T",
+   "penetration": [
+    "34",
+    "32",
+    "24",
+    "17",
+    "12",
+    "8"
+   ]
+  },
+  {
+   "name": ".50 API-T",
+   "type": "API-T/API-T/AP-I(c)",
+   "penetration": [
+    "34",
+    "32",
+    "24",
+    "17",
+    "12",
+    "8"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

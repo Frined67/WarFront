@@ -1,0 +1,190 @@
+{
+ "id": "il_centurion_mk_5_shot",
+ "wiki": "https://wiki.warthunder.com/unit/il_centurion_mk_5_shot",
+ "name": "Sho't",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "IV",
+ "br": {
+  "AB": "7.7",
+  "RB": "7.7",
+  "SB": "7.7"
+ },
+ "description": "Sho't (Hebrew: שוט‎ - \"whip\") was the Israeli designation for the British Centurion Mk.5 tank. Israel received a certain number of these tanks between 1958 and 1960, as part of cooperation with Britain, replacing the modernised Sherman tanks then in service with the IDF which were no match for the M48s and T-54s in service with Arab nations. The Sho't tanks saw their baptism of fire in 1967 during the Six-Day War, where they demonstrated good results engaging enemy targets and also high survivability. However, after the hostilities ended, the need for modernisation of the vehicles became apparent. Introduced in Update \"Wind of Change\" , the Sho't behaves exactly like the Centurion Mk.5/1 . Centurions are not characterised by their mobility, firepower, or armour; instead, they rely on their gun handling, thanks to their two-axis stabiliser and a relatively powerful APDS shell. While the 84 mm gun will not win in terms of penetration power compared to other guns such as the T-54 's 100 mm D-10T or the Leopard I 's L7A3, the combination with the two-axis stabiliser allows it to be used effectively to push corners and shoot while moving to avoid enemy fire. This also gives the Sho't a much quicker reaction time since it doesn't have to stop to get a precise shot if it encounters an enemy while changing positions or flanking.",
+ "image": "https://static.encyclopedia.warthunder.com/images/il_centurion_mk_5_shot.png",
+ "weapons": [
+  "84 mm 20pdr OQF Mk.I cannon",
+  "12.7 mm M2HB machine gun",
+  "7.62 mm L3A1 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "76 / 50 / 38 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "119 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "35"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "64 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "8.1 → 6.3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "14"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 50°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-120 / 120°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,750 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,511 → 4,750"
+  },
+  {
+   "label": "Crew training",
+   "value": "61,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "120 / 180 / 200 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "61,500"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,800"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Shot Mk.1",
+   "type": "APCBC",
+   "penetration": [
+    "239",
+    "236",
+    "222",
+    "206",
+    "192",
+    "178"
+   ]
+  },
+  {
+   "name": "Shell Mk.1",
+   "type": "HE",
+   "penetration": [
+    "19",
+    "19",
+    "19",
+    "19",
+    "19",
+    "19"
+   ]
+  },
+  {
+   "name": "Shot Mk.3",
+   "type": "APDS",
+   "penetration": [
+    "385",
+    "381",
+    "364",
+    "344",
+    "325",
+    "307"
+   ]
+  },
+  {
+   "name": "20pdr Shell SS Mk.1",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

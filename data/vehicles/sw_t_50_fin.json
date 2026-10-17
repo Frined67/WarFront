@@ -1,0 +1,132 @@
+{
+ "id": "sw_t_50_fin",
+ "wiki": "https://wiki.warthunder.com/unit/sw_t_50_fin",
+ "name": "▄T-50",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "3.0",
+  "SB": "3.0"
+ },
+ "description": "The T-50 was a light tank developed by the Soviet Union, designed to replace the older T-26 and BT series. It saw limited service during World War II, including use in the Continuation War. During the Finnish advance into Soviet territory, Finnish forces captured one of these rare vehicles, one of approximately 50 produced at the Voroshilov Factory in Leningrad. The capture took place near Petrozavodsk, and the tank was fitted with additional armour plates. After its capture, the tank was initially used by a heavy tank company and was later assigned as the company’s command vehicle. It remained in active service until 25 June 1944, when it suffered a major engine failure during a Finnish counterattack against Soviet forces. Field repair units were unable to fix the damage, and the tank was ultimately never restored. Today, it is preserved and displayed at the Parola Tank Museum. The Finnish T-50 was introduced in Update 2.55 “Ninth Wave” in the Swedish tech tree. Compared to the Soviet version , this vehicle features additional armour plates on the front hull and turret, improving its survivability. Its sloped armour offers good protection, with many incoming rounds being deflected by the angled surfaces. In terms of armament, the tank is equipped with a 45 mm main gun and two DT coaxial machine guns, providing adequate firepower against most targets.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_t_50_fin.png",
+ "weapons": [
+  "45 mm 20-K cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 15 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "73 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "52"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "21.4"
+  },
+  {
+   "label": "Ammunition",
+   "value": "150 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.8 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-7 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "5.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,780 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "439"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (45 / 55 / 65) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-240",
+   "type": "APHEBC",
+   "penetration": [
+    "70",
+    "67",
+    "58",
+    "47",
+    "39",
+    "32"
+   ]
+  },
+  {
+   "name": "BR-240SP",
+   "type": "APBC",
+   "penetration": [
+    "73",
+    "70",
+    "60",
+    "50",
+    "41",
+    "34"
+   ]
+  },
+  {
+   "name": "BR-240P",
+   "type": "APCR",
+   "penetration": [
+    "94",
+    "87",
+    "64",
+    "43",
+    "29",
+    "20"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,121 @@
+{
+ "id": "ussr_t_26e",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_t_26e",
+ "name": "T-26E",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "The T-26E was a Soviet light tank developed from the T-26 in the late 1930s and early 1940s. The T-26E ( ekranirovanny , \"screened\") was an uparmoured version featuring appliqué armour based on the experiences gained in the Winter War, developed by Leningrad Factory No.174. The factory tests proved that the uparmoured T-26 was able to resist hits from 45 mm anti tank guns at a distance of 400 to 500 metres. The armour plates were bolted and welded onto the hull and turret, increasing the armour protection to 45 mm all around. 89 of these T-26s were made by Factory No. 174. Further field modifications inspired by this were conducted by various field workshops and factories after the German attack on Soviet Union in 1941. The T-26E was introduced as a premium pack during the Closed Beta Test for Ground Forces before Update 1.41 . As an up-armoured version of the T-26 , it stands a better chance deflecting enemy shells off its front armour when angled correctly. However the added armour and weight decreases the already mediocre mobility of the tank even further. The T-26E was removed from the store after the 2017 Victory Day sale but was reintroduced as a battle trophy vehicle in the Warbond shop in April 2019 until August 2019 and from the Battle Pass: Season I, 75th Anniversary of the Great Victory until the end of the Battle Pass: Season IV, \"Fearless Voltigeur\" .",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_t_26e.png",
+ "weapons": [
+  "45 mm 20-K cannon",
+  "7.62 mm DT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "45 / 45 / 45 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "74 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "30"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "7.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "205 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.8 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-6 / 22°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,890 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "410"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 20 / 25) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-240",
+   "type": "APHEBC",
+   "penetration": [
+    "70",
+    "67",
+    "58",
+    "47",
+    "39",
+    "32"
+   ]
+  },
+  {
+   "name": "BR-240SP",
+   "type": "APBC",
+   "penetration": [
+    "73",
+    "70",
+    "60",
+    "50",
+    "41",
+    "34"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

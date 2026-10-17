@@ -1,0 +1,244 @@
+{
+ "id": "p-36c",
+ "wiki": "https://wiki.warthunder.com/unit/p-36c",
+ "name": "P-36C",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "1.7",
+  "SB": "2.3"
+ },
+ "description": "Although the P-36A fighter was considered modern at the time of its introduction in 1938, the USAAF noted that its armament of a single 12.7 mm and 7.62 mm Browning MG was inadequate even before it entered service. As a result, attempts were made to improve the P-36's firepower. This led to the creation of the P-36C variant. Compared to the base version, the P-36C featured an additional pair of .30 Browning MGs on its wings. Although the P-36C offered considerable improvement in terms of firepower, the type was considered obsolete before the Pacific War began in 1941. Because of this, only 30 P-36Cs were built before production stopped that year, and it was relegated to training roles. Introduced in Update 1.31 , the P-36C retains the good agility and decent speed of its predecessor, the P-36A, featuring excellent turning capabilities over its contemporaries such as the Bf 109 or the I-16 . With an additional pair of 7.62 mm Browning MGs in the wings, the P-36C offers noticeable improvement in terms of firepower against lightly-clad biplanes and early monoplanes. However, as the P-36C starts to face more advanced fighters, these armaments can prove insufficient at dealing damage against more durable airframes, and the P-36C's lack of protection makes it highly vulnerable against them.",
+ "image": "https://static.encyclopedia.warthunder.com/images/p-36c.png",
+ "weapons": [
+  "12.7 mm M2 Browning machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "501"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "17"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,754 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "182 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "R-1830-17"
+  },
+  {
+   "label": "Length",
+   "value": "8.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "120 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.25"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.38 t (1h 18m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "770 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.78 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "232 / 447 / 488 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "290 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.55 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "167 → 211"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 30 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,440"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP/AP/T/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP/T/T/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

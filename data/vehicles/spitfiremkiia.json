@@ -1,0 +1,170 @@
+{
+ "id": "spitfiremkiia",
+ "wiki": "https://wiki.warthunder.com/unit/spitfiremkiia",
+ "name": "Spitfire Mk IIa",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "3.3",
+  "SB": "3.0"
+ },
+ "description": "In 1939, a trial was undertaken in which a Spitfire Mk I was fitted with a new 1,175-hp Merlin XII engine, the success of which resulted in the designation of a new variant: the Spitfire Mk II. Other improvements included a new, more efficient cooling system, and a move away from the previous external electric engine starting systems. The Mk IIa variant in particular was fitted with the \"A-type\" wing, allowing an armament of 8 Browning .303 machine guns, much like the preceding Mk Ia. Spitfire Mk IIs were rapidly manufactured and delivered, replacing all Mk Is in active service by April 1941. Introduced in Update 1.35 , the Spitfire Mk IIa is an improvement over its predecessor, with an even greater ability to gain the altitude advantage over opposing fighters and dictate the terms of the ensuing dogfight. The Spitfire Mk IIa's main strength continues to be its ability to turn-fight opponents, while its good top speed allows it to pursue any aircraft attempting to disengage and recoup. However, the Mk IIa also retains the same deficiencies of the Mk Ia, namely the weak but numerous Browning machine guns. While they present great volume of fire, they do not have great stopping power and are also quite limited by convergence due to their spread-out nature across the wings, and thus may require a long time on target to successfully down an opponent.",
+ "image": "https://static.encyclopedia.warthunder.com/images/spitfiremkiia.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "571"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "19.4"
+  },
+  {
+   "label": "Turn time",
+   "value": "15.1"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Merlin-XII"
+  },
+  {
+   "label": "Length",
+   "value": "9.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "124 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.49"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.29 t (1h)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "760 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.82 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "230 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "270 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,800 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "504 → 631"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 80 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,570"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/AP-I/Ball/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

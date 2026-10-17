@@ -1,0 +1,130 @@
+{
+ "id": "it_toldi_ii_a",
+ "wiki": "https://wiki.warthunder.com/unit/it_toldi_ii_a",
+ "name": "Toldi IIA",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "The Toldi IIA is a premium gift Hungarian light tank in the Italian tech tree. It was introduced during Update \"Ixwa Strike\" as a reward for Battle Pass: Season III, \"Strength athletics\" . The Toldi IIA is a Hungarian light tank of World War II named after the popular Hungarian folklore character Toldi Miklós. Developed from the Toldi II in order to up-gun it with a more potent 40 mm gun. 80 Toldi IIs were modified into Toldi IIAs sporting 40 mm 37/42M guns, and these served on the Eastern Front fighting Soviet forces. The original Toldi I was based on and developed from the Landsverk L-60, and the Toldi II was an improved variant of the Toldi I, with better armour, which the Toldi IIA retains. This allows the Toldi IIA to stand its ground, but it shares some of the same weaknesses as its Swedish relatives.",
+ "image": "https://static.encyclopedia.warthunder.com/images/it_toldi_ii_a.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "20 / 13 / 9 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "67 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "47"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "55 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.6 → 2.8 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,200 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "410"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 20 / 25) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "36M",
+   "type": "APHEBC",
+   "penetration": [
+    "62",
+    "60",
+    "51",
+    "42",
+    "34",
+    "28"
+   ]
+  },
+  {
+   "name": "39M",
+   "type": "HE",
+   "penetration": [
+    "8",
+    "8",
+    "7",
+    "6",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "43M",
+   "type": "APBC",
+   "penetration": [
+    "72",
+    "69",
+    "60",
+    "50",
+    "42",
+    "35"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,116 @@
+{
+ "id": "jp_type_98_ke_ni",
+ "wiki": "https://wiki.warthunder.com/unit/jp_type_98_ke_ni",
+ "name": "Ke-Ni",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The Ke-Ni was a light tank prototype to replace and improve on the Ha-Go, built with a smaller silhouette and primarily focused as a light tank instead of a general purpose tank like the Ha-Go. It included some unconventional design choices for a Japanese tank: due to the small size of the tank and only having a driver in the hull, the machine gun was moved to the turret in a coaxial mount, and it had armour improvements and a Christie suspension. While a very promising tank, high command didn't feel the need to replace the adequately performing Type 95 Ha-Go's against the little Chinese armour they faced. The Ke-Ni was introduced along with the initial Japanese Ground Forces tree in Update 1.65 \"Way of the Samurai\" . Being a small and zippy tank, it plays very similarly to the M22 ; while the cannon isn't completely up-to-par, it does offer APHE to deal some post-penetration damage. It's best used in flanks and hitting enemy tanks from the side.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_type_98_ke_ni.png",
+ "weapons": [
+  "7.7 mm Type 97 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "26 / 12 / 12 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "74 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "50"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "18.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "110 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.7 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 18°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 10 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "3,620"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Type 1 APHE",
+   "type": "APHE",
+   "penetration": [
+    "47",
+    "44",
+    "32",
+    "22",
+    "15",
+    "10"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

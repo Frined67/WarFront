@@ -1,0 +1,118 @@
+{
+ "id": "ussr_su_57b",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_su_57b",
+ "name": "SU-57B",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The SU-57B is a Soviet tank destroyer. It was introduced in Update 1.83 \"Masters of the Sea\" . This tank destroyer uses a 57 mm ZIS-4 for its main gun. It features a low profile, good top speed (40 km/h in RB) and great penetration for its rank, but weak armour at all angles. The overall design of the SU-57B allows for sneaky attacks, revolving around the 57 mm ZiS-4 gun that allows for engagement from medium range on unsuspecting enemies. Because of its low profile, this TD can use bushes and terrain to hide its approach. However, the trade-off is lacklustre mobility, so it compares with the ZiS-30 that provides better mobility and speed and can reposition much faster. Despite all these limitations, when played right the SU-57B can score good scores, but only when properly positioned and not detected.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_su_57b.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "25 / 16 / 16 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "69 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "40"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "10.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "72 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 14°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-18 / 18°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "4.9"
+  },
+  {
+   "label": "Repair cost",
+   "value": "622 → 769"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 60 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,480"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-271",
+   "type": "APHEBC",
+   "penetration": [
+    "145",
+    "142",
+    "128",
+    "112",
+    "98",
+    "86"
+   ]
+  },
+  {
+   "name": "O-271",
+   "type": "HE",
+   "penetration": [
+    "12",
+    "12",
+    "10",
+    "8",
+    "6",
+    "6"
+   ]
+  },
+  {
+   "name": "BR-271К",
+   "type": "APHE",
+   "penetration": [
+    "145",
+    "140",
+    "118",
+    "95",
+    "77",
+    "62"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

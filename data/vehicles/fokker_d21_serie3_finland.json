@@ -1,0 +1,166 @@
+{
+ "id": "fokker_d21_serie3_finland",
+ "wiki": "https://wiki.warthunder.com/unit/fokker_d21_serie3_finland",
+ "name": "▄Fokker D.XXI-3",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "Introduced in Update \"Fire and Ice\" , the Fokker D.XXI-3 is a slow, although very agile fighter. It could be compared to fighters like the I-16 that are excellent dogfighters but lack the engine power of other aircraft like the Bf 109. It has a capable offensive armament for its BR, with four light machine guns, it's enough to destroy most biplanes, however, more advanced fighters would be more tricky to destroy. Even though it's a slow fighter, it does have a high climb rate, so try climbing to a good altitude since the start of the match, 4,000-5,000 m would be a good idea. It is also particularly stable in simulator battles so it's a beginner friendly aircraft. For its survivability, the aircraft has only a single fuel tank, so a leak would eventually result in the aircraft losing all the fuel, and a fire in that tank would also cause the aircraft to get destroyed. In low-level flight, the aircraft is very slow, and most fighters would catch up to you if you try to retreat.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fokker_d21_serie3_finland.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "425"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "14.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "16"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,100 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "150 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Mercury VIII"
+  },
+  {
+   "label": "Length",
+   "value": "8.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "124 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.69"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.27 t (1h 26m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "735 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.78 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/15 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "240 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,600"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.27 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "172 → 215"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 30 / 70 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/AP-I/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

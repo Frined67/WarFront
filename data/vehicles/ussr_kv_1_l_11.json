@@ -1,0 +1,189 @@
+{
+ "id": "ussr_kv_1_l_11",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_kv_1_l_11",
+ "name": "KV-1 (L-11)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "heavy_tank",
+ "role": "Heavy tank",
+ "rank": "II",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "3.7"
+ },
+ "description": "The KV-1 (Klim Voroshilov) is famous Soviet heavy tank from the Great Patriotic War, known as one of the best-protected tanks from the early years of World War II. Development of the single-turreted, anti-tank gun-protected tank began in 1938–1939 under the direction of a team of designers led first by A. S. Ermolaev and then by N. L. Dukhov. Production began in 1940 with early vehicles armed with a 76mm L-11 cannon. Production of the KV-1 (L-11) continued from February 1940 until early 1941, with a total of 144 vehicles built. The KV-1 (L-11) saw extensive service during the Winter War and the Great Patriotic War, proving highly effective and halting the advance of numerous German formations in several sectors. The KV-1 (L-11) was introduced during the closed beta testing for Ground Forces before Update 1.41 . Its well-protected, all-around armor makes the tank highly resistant to most opponents' guns, especially when angling the hull. Its BR-350A APCBC shells have modest penetration, but their explosive filler provides considerable post-penetration damage. However, the cannon's reload time is rather long, and the slow turret traverse makes close-range engagements difficult. The KV-1's mobility is also mediocre.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_kv_1_l_11.png",
+ "weapons": [
+  "7.62 mm DT machine gun",
+  "7.62 mm DT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "75 / 75 / 70 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "100 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "36"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13"
+  },
+  {
+   "label": "Ammunition",
+   "value": "111 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "9.3 → 7.1 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-7 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "8.4"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,016 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,008 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 15°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-15 / 15°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "28"
+  },
+  {
+   "label": "Repair cost",
+   "value": "747 → 924"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 60 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,480"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-350A (MD-5 fuze)",
+   "type": "APHEBC",
+   "penetration": [
+    "77",
+    "76",
+    "69",
+    "62",
+    "55",
+    "49"
+   ]
+  },
+  {
+   "name": "OF-350M",
+   "type": "HE",
+   "penetration": [
+    "11",
+    "11",
+    "10",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "Sh-354T",
+   "type": "Shrapnel",
+   "penetration": [
+    "35",
+    "34",
+    "30",
+    "25",
+    "22",
+    "18"
+   ]
+  },
+  {
+   "name": "BR-350SP",
+   "type": "APBC",
+   "penetration": [
+    "90",
+    "88",
+    "79",
+    "69",
+    "60",
+    "52"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

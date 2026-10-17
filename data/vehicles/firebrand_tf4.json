@@ -1,0 +1,202 @@
+{
+ "id": "firebrand_tf4",
+ "wiki": "https://wiki.warthunder.com/unit/firebrand_tf4",
+ "name": "Firebrand TF Mk IV",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "II",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "3.3"
+ },
+ "description": "The Blackburn Firebrand was originally designed in 1940 as a carrier-borne fighter-interceptor for the Fleet Air Arm's B-37 specifications, which called for a long range, high performance, single seat fighter to intercept German bombers primarily coming from occupied Norway and France. The Firebrand was originally powered by a Napier Sabre inline engine, though due to the prototype's disappointing performance (being 50 km/h slower than its originally intended top speed of 650 km/h) along with its poor manoeuvrability, the Sabre engine was later switched to Bristol Centaurus radial engine, as the FAA wanted to prioritize the production of the already proven Hawker Typhoon, which was powered by the Sabre engine. To salvage what seemed to be a failure, in 1943 the FAA repurposed the Firebrand into a strike fighter/torpedo bomber. To accommodate torpedo and bomb payloads, the Firebrand's wings were extended and its tail surface enlarged to give the plane better lift capability and improve the low-speed handling. However, due to the plane's excessive torque and awkward cockpit placement, the Firebrand was deemed ill-suited for carrier operations, and as such production of the Firebrand was put on low priority while Blackburn and FAA tried to ironed out the problem. By the time the Firebrand was deemed suitable for carrier operation, the war is already coming to a close. After years of development limbo, the Firebrand entered service on 1 September 1945 - the very same day World War II officially came to an end. In total, 220 Firebrands and 3 prototypes were built, and served until February 1953 when it was replaced by the Westland Wyvern . Introduced in Update 1.51 \"Cold Steel\" , the Firebrand TF Mk IV can be considered as a British IL-2. With extremely heavy armament as well as a respectable secondary load, the Firebrand is foremost a strike aircraft and then a fighter only if the situation calls for it. Carrying 4 fast-firing and high-capacity Hispano Mk.V cannons, the Firebrand Mk IV can rip through all aircraft at its BR and all \"soft\" ground targets with ease. The torpedo options allow anti-ship capabilities, and conventional bombs effectively destroy ground targets.",
+ "image": "https://static.encyclopedia.warthunder.com/images/firebrand_tf4.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "565"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "15.1"
+  },
+  {
+   "label": "Turn time",
+   "value": "25"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,143 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "310 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Centaurus IX"
+  },
+  {
+   "label": "Length",
+   "value": "11.9 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "15.6 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "196 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "6.16"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.77 t (59m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "750 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.76 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "250 / 413 / 420 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "300 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "800 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.65 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "940 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "470 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "583 → 732"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 70 / 200 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,360"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEI/SAP-I/T",
+   "penetration": [
+    "21",
+    "19",
+    "14",
+    "9",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/SAP-I",
+   "penetration": [
+    "36",
+    "33",
+    "24",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "SAP-I/HEI/AP-T/HEI/SAP-I",
+   "penetration": [
+    "36",
+    "33",
+    "24",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI/AP-T",
+   "penetration": [
+    "36",
+    "33",
+    "24",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/SAP-I/HEI/AP-T",
+   "penetration": [
+    "36",
+    "33",
+    "24",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI/SAP-I",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

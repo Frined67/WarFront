@@ -1,0 +1,182 @@
+{
+ "id": "ki_61_1a_otsu_china",
+ "wiki": "https://wiki.warthunder.com/unit/ki_61_1a_otsu_china",
+ "name": "␗Ki-61-I Otsu",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "III",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "3.3"
+ },
+ "description": "The Ki-61-I otsu (China) is a Chinese fighter. It was introduced in Update 1.91 \"Night Vision\" . Unlike the more manoeuvrable and agile A6M, the Ki-61 is more of what one would call an \"energy fighter\". Compared to the \"Zero\" it is faster, has a higher climb rate, and handles better at higher speeds. Armed with four 12.7 mm Ho-103 machine guns and plenty of ammunition, the Ki-61-Ib is a more than capable fighter. It is faster, has a higher rate of climb, and features a better armament. Utilize these three aspects when facing enemy aircraft. One of the major advantages the Ki-61-Ib has is its climb rate. The stat card may be misleading, but this plane can reach altitudes no enemies will be close to (unless of course, the enemy is another Hien). This allows the Hien to choose when and where it wants to fight. Instead of simply \"turning and burning\" the Ki-61 is very good at energy fighting, or \"boom and zoom\". Once at a high altitude the Hien pilot may choose to dive lower to attack an enemy. If the enemy is not destroyed on the first pass, it is recommended to climb sharply and gain altitude. By doing this, the Hien sets itself up for another attack while not being in the range of the enemy's guns. The Ki-61-I otsu looks akin to the Bf 109 in construction, with its inline engine and armament locations in the nose and wings. The Ki-61-I otsu utilised four 12.7 mm Ho-103 Japanese machine guns. Generally, they are unreliable and it often takes hundreds of rounds to destroy an enemy plane. This is due to the lack of primer in the rounds themselves. 12.7 mm rounds fired by the M2 Browning may seem to do more damage because they have more primer which dictates how fast the round will exit the barrel. Due to this, it is necessary to get up close to enemies. Aim for the engine, pilot, or fuel tanks if the location is known. Remember to lead with these machine guns, as the rounds are not high velocity.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ki_61_1a_otsu_china.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "587"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "11"
+  },
+  {
+   "label": "Turn time",
+   "value": "20.3"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "420 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Ha-40"
+  },
+  {
+   "label": "Length",
+   "value": "8.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "153 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.65"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.42 t (1h 25m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "850 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "230 / 282 / 292 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "250 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.53 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,003 → 1,260"
+  },
+  {
+   "label": "Crew training",
+   "value": "22,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "60 / 150 / 310 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "24,500"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,100"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEF-I/AP/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/HEF-I/HEF-I/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/AP/AP-T",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/HEF-I/HEF-I/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

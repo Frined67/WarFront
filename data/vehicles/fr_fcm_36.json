@@ -1,0 +1,116 @@
+{
+ "id": "fr_fcm_36",
+ "wiki": "https://wiki.warthunder.com/unit/fr_fcm_36",
+ "name": "FCM.36",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "In 1933, the French military sought for the creation of a new infantry tank to replace the Renault FT. The requirements called for a simple tank that was of 6 ton weights and used a cast turret design produced by the government APX workshop. The firm that won the requirement in 1934 was the Renault ZM design that would become the Renault R.35 , however the design by FCM proved promising enough due to its welded construction and better turret design that the French army also provided them a production model in 1936. However, production complications due to the relatively advanced welding construction and other production priorities at FCM for the Char B1 bis meant late deliveries and high unit cost that the design had its production halted in 1940. Two battalions in the French army would use the FCM.36, the 4e and 7e, and they would be committed in the Battle of France against the German invasion, most notably seeing use in challenging a German bridgehead over the Meuse river. Upon the capitulation of France, the Germans would utilize the FCM.36 in their military, with one notable use being the conversion of several hulls into the Marder I with a 75 mm PaK 40 cannon as the 7.5cm PaK40(Sf) auf Geschützwagen FCM(f) . Introduced in Update 1.75 \"La Résistance\" , the FCM.36 compares more so to the H.35 tank with similarily poor firepower, but the FCM.36 has better protection with 40 mm sloped armour all-around. The FCM.36's well-sloped armour makes it a tad beneficial for long-range combat, but the underperforming gun makes the FCM.36 act more like a shield rather than a spear. The FCM.36 does have marginally better mobility than the H.35 with better handling and a more powerful engine, allowing it to turn smoothly and reach its top speed fairly easily (even if its top speed is still a relative crawl). However, the difficulty in finding a good position to make the most use of its gun and armour makes the FCM.36 a hard challenge to use against players to begin scratching their armour. At its introduction, the FCM.36 left a favorable impression in the community due to its unique turret shape, earning the nickname \"Cone\". However, due to its disappointing firepower capabilities, the FCM.36 was removed as a researchable vehicle from the main tech tree during Update 1.85 \"Supersonic\" , though it is still unlockable after reaching rank II French ground vehicles.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_fcm_36.png",
+ "weapons": [
+  "7.5 mm MAC 31 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "40 / 20 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "24"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "8.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "102 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.1 → 3.1 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-17 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "550 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "106 → 136"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Mle1937",
+   "type": "APCR",
+   "penetration": [
+    "36",
+    "33",
+    "24",
+    "16",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,194 @@
+{
+ "id": "f6f-3",
+ "wiki": "https://wiki.warthunder.com/unit/f6f-3",
+ "name": "F6F-5",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "3.3",
+  "SB": "3.7"
+ },
+ "description": "The Grumman F6F Hellcat was used extensively in the Pacific Theater of WWII. The Hellcat was the ultimate answer against extremely manoeuvrable Japanese Zeroes . This plane greatly outperformed the Zero when taking advantage of high speeds and altitudes while having much better survivability thanks to the robust fuselage and the armour around the pilot. The F6F-5 was one of the latest versions of the Grumman F6F Hellcat. It was an improved version, with a redesigned engine cowling, a new windscreen structure with an integral bulletproof windscreen, new ailerons and strengthened tail surfaces; powered by a 2,200 hp (1,641 kW) Pratt & Whitney R-2800-10W (-W denotes Water Injection) radial piston engine. It has been in the game since the start of the Open Beta Test prior to Update 1.27, starting out as the F6F-3 Hellcat and was remodeled and updated to the F6F-5 Hellcat in Update 1.65 \"Way of the Samurai\" . The Hellcat can carry versatile payloads which will allow it to be utilized in various operations to include ground attack. As a very good multirole aircraft, it features both a decent flight performance and a very capable armament. With enough bombs and rockets to deal with enemy tanks, it is specially deadly in ground battles, in this scenarios, it can be used to destroy some vehicles and then act as an air superiority fighter, stopping enemy bombers from reaching the battlefield. In naval battles it can also carry a single torpedo, in this cases, it is more agile than dedicated torpedo bombers, but its higher BR means that it will face more deadly cruisers with good AA guns.",
+ "image": "https://static.encyclopedia.warthunder.com/images/f6f-3.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "647"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "12.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "20.5"
+  },
+  {
+   "label": "Max altitude",
+   "value": "11,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "239 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "R-2800-10w"
+  },
+  {
+   "label": "Length",
+   "value": "10.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "13.1 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "178 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "4.85"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.68 t (1h 10m)"
+  },
+  {
+   "label": "Fuel in drop tanks",
+   "value": "0 t ()"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "855 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.81 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "310 / 459 / 488 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "375 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,400 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,815 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "907 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "784 → 985"
+  },
+  {
+   "label": "Crew training",
+   "value": "9,200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 120 / 240 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "13,830"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "860"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP-I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/AP-I/T/I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP/AP-I/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/T/T/AP-I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP-I/AP-I/I/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

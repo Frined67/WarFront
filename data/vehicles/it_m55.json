@@ -1,0 +1,128 @@
+{
+ "id": "it_m55",
+ "wiki": "https://wiki.warthunder.com/unit/it_m55",
+ "name": "▄M55",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "III",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "3.7"
+ },
+ "description": "During the mid-1950s, the United States supplied a number of M55 self-propelled howitzers to various allied countries. One of the recipients of the M55 was Italy, which received 24 vehicles in 1960. Not much is known about the M55 in Italian service, other than that it was withdrawn from service in the late 1970s. Introduced in Update \"Tusk Force\" , the Italian M55 's main (and only) strength is its firepower: a massive 203 mm M47 howitzer, firing an incredibly powerful HE shell with approximately 23 kg TNTeq of filler. This shell is capable of destroying any tank in the game when aimed properly. However, one needs to make sure that every shot counts, as the M55 carries only 10 rounds of ammunition and the howitzer has a very long reload time. Missing a shot leaves the vehicle at the mercy of the enemy, who will be more than eager to poke holes in its large, thinly clad hull.",
+ "image": "https://static.encyclopedia.warthunder.com/images/it_m55.png",
+ "weapons": [
+  "12.7 mm M2HB machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "12 / 12 / 12 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "205 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "56"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "18.4"
+  },
+  {
+   "label": "Ammunition",
+   "value": "10 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "38.9 → 29.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 65°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-30 / 30°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "900 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 28°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,191 → 1,473"
+  },
+  {
+   "label": "Crew training",
+   "value": "22,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "80 / 120 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "25,000"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,100"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M106",
+   "type": "HE",
+   "penetration": [
+    "65",
+    "65",
+    "65",
+    "65",
+    "65",
+    "65"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

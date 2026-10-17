@@ -1,0 +1,145 @@
+{
+ "id": "ussr_rbt_5",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_rbt_5",
+ "name": "RBT-5",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "The RBT-5 was a Soviet light tank prototype with rocket launchers. It used the BT-5 chassis equipped with so-called tank torpedoes (TT-250), which were 420 mm in caliber and weighed 250 kg each. They could blast enemy forts and heavy tanks within 1800 m. The NIAP developed the rockets in 1931-1932. The RBT-5 tested them in 1932 near Leningrad, but they were inaccurate and unstable. The tank also lost speed and agility due to its weight. The RBT-5 project ended in 1933 after a few prototypes. The tank torpedoes were later towed or fixed for use in the Winter War and World War II. It was available as a prize during the 2015 Thunder League as a giveaway prize for watching the Twitch stream, later every Dog-Tag owner who voted for Team Dislike earned one due to the \"Champion\" prize. It can now only be obtained via the War Thunder Market. The RBT-5 is a remarkable tank. It has almost no armour and weighs only 11.5 tons, but it has a powerful engine that gives it a high power-to-weight ratio. It also has an excellent Christie suspension that makes it very agile and fast. The gun is an adequate 45 mm 20-K cannon with decent penetration and quick reload. The RBT-5 also has two rockets on the sides of the turret, but they are not aligned and require careful aiming. The left rocket is the first one to fire.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_rbt_5.png",
+ "weapons": [
+  "45 mm 20-K cannon",
+  "7.62 mm DT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "13 / 15 / 13 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "76 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "51"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "33.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2 rounds"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "9 / 50°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "10.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "86 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.8 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-8 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,890 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "570"
+  },
+  {
+   "label": "Crew training",
+   "value": "2,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (35 / 40 / 45) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "TT-250",
+   "type": "R",
+   "penetration": [
+    "83",
+    "83",
+    "83",
+    "83",
+    "83",
+    "83"
+   ]
+  },
+  {
+   "name": "BR-240",
+   "type": "APHEBC",
+   "penetration": [
+    "70",
+    "67",
+    "58",
+    "47",
+    "39",
+    "32"
+   ]
+  },
+  {
+   "name": "BR-240SP",
+   "type": "APBC",
+   "penetration": [
+    "73",
+    "70",
+    "60",
+    "50",
+    "41",
+    "34"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

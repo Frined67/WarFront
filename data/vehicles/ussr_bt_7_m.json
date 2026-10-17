@@ -1,0 +1,129 @@
+{
+ "id": "ussr_bt_7_m",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_bt_7_m",
+ "name": "BT-7M",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The BT-7M was a Soviet light tank, developed from the previous BT-5 light tank. Both designs shared the same 45 mm 20-K cannon aswell as coaxial DT machine gun. Unlike the BT-5, the BT-7s hull was welded and the shape of hull at front was also redesigned. The frontal armour protection was slightly increased from 13 to 20 mm of armour. New turret turret featuring sloped armour was also adopted. Unlike BT-7, the BT-7M features diesel powered V-2 engine giving it more horsepower, range and better acceleration unlike the gasoline powered BT-7. BT-7M was introduced in Update \"Ixwa Strike\" . A variant of the BT-7 featuring a more powerful 500 hp diesel engine, the BT-7M accelerates far faster than its predecessors, allowing it to quickly find flanking spots, get to capture points or escape out of situations. Unfortunately, as it has a higher BR, it faces far more enemies that can easily penetrate it, and the 45 mm cannon starts to struggle against more armoured vehicles like the M4A3 (105) or the Matilda III .",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_bt_7_m.png",
+ "weapons": [
+  "45 mm 20-K cannon",
+  "7.62 mm DT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "20 / 15 / 13 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "83 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "62"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "34"
+  },
+  {
+   "label": "Ammunition",
+   "value": "188 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.8 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,890 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "249 → 320"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 20 / 30 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,940"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-240",
+   "type": "APHEBC",
+   "penetration": [
+    "70",
+    "67",
+    "58",
+    "47",
+    "39",
+    "32"
+   ]
+  },
+  {
+   "name": "BR-240SP",
+   "type": "APBC",
+   "penetration": [
+    "73",
+    "70",
+    "60",
+    "50",
+    "41",
+    "34"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

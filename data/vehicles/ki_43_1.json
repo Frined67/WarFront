@@ -1,0 +1,377 @@
+{
+ "id": "ki_43_1",
+ "wiki": "https://wiki.warthunder.com/unit/ki_43_1",
+ "name": "Ki-43-I",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.7",
+  "SB": "2.3"
+ },
+ "description": "The Nakajima Ki-43 Hayabusa was a Japanese Army fighter from World War II that was overshadowed by the legendary A6M Zero naval fighter. While the Zero was the most widely produced Japanese fighter and was flown by the Empire of the Rising Sun in the most famous aerial battles, it was exclusively the workhorse of the Imperial Japanese Navy. In contrast, the Hayabusa bore the brunt of the war in the Imperial Army, shedding the blood of Allied pilots on land. However, the Army fighter met an even sadder fate than its naval counterpart: at the start of the war, the Ki-43 was not yet a mass-produced fighter for the Army Air Force. By the end of the war, it had become obsolete and was used only as a flying bomb. The Ki-43's history began with the Ki-43-I , the first production version of the fighter. Development of the Ki-43-I began in late 1937 as a continuation of the concepts of Nakajima’s previous Army fighter, the Ki-27 , but with improved speed and climb rate. The prototype made its first flight on December 12, 1938. Despite nearly meeting the military’s specified flight performance requirements, pilots gave the new aircraft negative reviews. As a result, the fighter, designated Ki-43-I, was not officially adopted for service until early 1941, after extensive refinements and fairly significant design changes. Between 1941 and 1942, approximately 750 Ki-43-I aircraft of several variants were built. While they performed well initially, several shortcomings led to the development of a more advanced version, the Ki-43-II . The Ki-43-I was introduced in Update 1.43 . In terms of its characteristics and capabilities, the Ki-43-I is rightly considered to be a full-fledged Japanese fighter. It clearly demonstrates all the key features of Japanese fighters, including good—and often excellent—maneuverability. However, this was achieved at the expense of top speed and survivability. The Hayabusa possesses all three of these characteristics, making it one of the best dogfighting aircraft.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ki_43_1.png",
+ "weapons": [
+  "12.7 mm Ho-103 machine gun",
+  "7.7 mm Type 89 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "494"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "15"
+  },
+  {
+   "label": "Turn time",
+   "value": "14.1"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "120 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Ha-25 type 99"
+  },
+  {
+   "label": "Length",
+   "value": "8.9 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "101 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.82"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.41 t (1h 38m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "630 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.65 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "250 / 373 / 417 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "300 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,100 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.19 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "270 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.53 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,100 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.19 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "540 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.53 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "134 → 225"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 30 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/IAI/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "I/AP/AP/AP/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/AP/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEF-I/AP/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/HEF-I/HEF-I/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/AP/AP-T",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/HEF-I/HEF-I/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/IAI/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "I/AP/AP/AP/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/AP/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEF-I/AP/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/HEF-I/HEF-I/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/AP/AP-T",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/HEF-I/HEF-I/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

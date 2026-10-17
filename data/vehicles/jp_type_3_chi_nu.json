@@ -1,0 +1,177 @@
+{
+ "id": "jp_type_3_chi_nu",
+ "wiki": "https://wiki.warthunder.com/unit/jp_type_3_chi_nu",
+ "name": "Chi-Nu",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "III",
+ "br": {
+  "AB": "3.3",
+  "RB": "3.3",
+  "SB": "3.3"
+ },
+ "description": "The Chi-Nu ( 三式中戦車 「チヌ」 ) was built as a stop-gap measure in the pursuit to get M4 Sherman-killers such as the Chi-To & Chi-Ri II which still were being developed. The Japanese tank designers simply opted for the Chi-He hull, uplift the Type 90 (75 mm) field gun as a dedicated tank gun as the Type 3 (75 mm) tank gun and create a new hexagonal turret to house the cannon on the hull. With Japanese tank production having low priority and the Chi-Nu being greenlit in 1943, production only started in 1944 and were all reserved for the defense of the mainland. The Type 3 Chi-Nu was introduced in Update 1.65 \"Way of the Samurai\" along with the initial Japanese Ground Forces Tree. It provides adequate protection, good firepower, and good mobility, all traits well known in the medium tank categories. The previous Japanese mediums suffer from underpowered guns or tiny calibre size, but the Chi-Nu's 75 mm gun is powerful enough to deal with its contemporaries with a single shot. The playstyle of this tank can be like any medium tank, giving the Chi-Nu the flexibility to be part of an assault force or a flanking role to support the main assault.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_type_3_chi_nu.png",
+ "weapons": [
+  "7.7 mm Type 97 machine gun",
+  "7.7 mm Type 97 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 25 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "39"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "70 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.8 → 6 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 70°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "990 → 1,274"
+  },
+  {
+   "label": "Crew training",
+   "value": "13,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "60 / 90 / 110 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "19,800"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "980"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Type 1 APHE",
+   "type": "APHE",
+   "penetration": [
+    "102",
+    "100",
+    "91",
+    "81",
+    "72",
+    "64"
+   ]
+  },
+  {
+   "name": "Type 94 HE",
+   "type": "HE",
+   "penetration": [
+    "12",
+    "12",
+    "12",
+    "12",
+    "12",
+    "12"
+   ]
+  },
+  {
+   "name": "Type 90 Smoke",
+   "type": "Smoke",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

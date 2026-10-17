@@ -1,0 +1,154 @@
+{
+ "id": "us_m8_greyhound",
+ "wiki": "https://wiki.warthunder.com/unit/us_m8_greyhound",
+ "name": "M8 LAC",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "Developed in 1941 as a candidate for the role of a mobile tank destroyer vehicle, the M8 was found to be more ideal in the reconnaissance role for the US armored force, cavalry, and tank destroyer branches. Initially designated as the T22, the car was accepted into service on June 22, 1942 as the \"Light Armored Car, M8\", and would have the nickname \"Greyhound\" from the British. It would begin production in March 1943 that would continue until June 1945, with more than 8,000 M8 light armored cars produced. It would see combat in World War II in the Mediterranean, European, and Pacific Theater of Operations. After World War II, the M8 continued its service in the US Army in the Korean War. Though it was retired soon after the Korean War, the M8 continued seeing use by foreign operators as a military aid item. The M8 LAC was introduced in Update 1.73 \"Vive la France\" as part of War Thunder's 5th anniversary event . It was also a reward of the \"10 rare vehicles\" event during War Thunder's 10th Anniversary in 2022. It is one of the few armoured cars available in the early ranks of the United States tech tree. Despite that, it is one of the more capable armoured cars, possessing a 37 mm cannon that is competitive against its opponents as well as a .50 cal machine gun on top that can be effectively used against low-flying aircraft and even the thinner armor of light tanks. The armor of the M8 is less thin than the M2A4 but is still thick enough to provide a small chance of resisting autocannon-caliber shells and the occasional cannon shots at ideal ricochet angles. Finally, the wheel chassis provides the M8 armored car great mobility on solid grounds like roads, though this makes the M8's mobility poorer on rougher cross-country terrain.",
+ "image": "https://static.encyclopedia.warthunder.com/images/us_m8_greyhound.png",
+ "weapons": [
+  "37 mm M6 cannon",
+  "12.7 mm M2HB machine gun",
+  "7.62 mm M1919A4 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "19 / 9 / 5 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "80 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "90"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "80 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.6 → 3.5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "14"
+  },
+  {
+   "label": "Ammunition",
+   "value": "400 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 40°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,500 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "409"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 20 / 25) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M74B1 shot",
+   "type": "AP",
+   "penetration": [
+    "79",
+    "76",
+    "65",
+    "54",
+    "45",
+    "37"
+   ]
+  },
+  {
+   "name": "M51B1 shot",
+   "type": "APCBC",
+   "penetration": [
+    "87",
+    "84",
+    "73",
+    "60",
+    "50",
+    "41"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

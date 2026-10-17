@@ -1,0 +1,178 @@
+{
+ "id": "cn_su_76m_1943",
+ "wiki": "https://wiki.warthunder.com/unit/cn_su_76m_1943",
+ "name": "␗SU-76M",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The SU-76M is a variant of the SU-76 (Samokhodnaya Ustanovka 76), a Soviet light self-propelled gun used during and after World War II. The SU-76 was based on a lengthened version of the T-70 light tank chassis and armed with the ZIS-3 mod. 1942 divisional field gun. Its simple construction and multipurpose combat role made it the second-most produced Soviet armoured fighting vehicle of World War II, after the T-34 medium tank. From 1951 to 1954, the Chinese People's Liberation Army restructured itself based on the Soviet Army and purchased 912 SU-76M self-propelled artillery, predominantly to equip its self-propelled artillery regiments of the infantry division. It was once the backbone of the Chinese People's Liberation Army's armoured equipment, mainly employed to give direct fire support to infantry or to destroy enemy armoured vehicles. Introduced in Update 1.91 \"Night Vision\" , the SU-76M gives Chinese Army ground forces players significantly enhanced firepower compared to other captured/lend-lease tanks in the early ranks. It is mounted with the 76 mm ZIS-3 field gun, a flexible artillery gun capable of piercing the frontal armour of most enemies in its ranks. However, because of its open-top design, it is extremely vulnerable to aircraft strafing. It also lacks secondary armament, such as turret-mounted machine guns, to protect against oncoming planes.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cn_su_76m_1943.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "25 / 15 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "75 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "30"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "60 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 15°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-15 / 15°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "4.9"
+  },
+  {
+   "label": "Repair cost",
+   "value": "308 → 381"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 30 / 40 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,980"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-350A (MD-5 fuze)",
+   "type": "APHEBC",
+   "penetration": [
+    "87",
+    "85",
+    "77",
+    "69",
+    "62",
+    "55"
+   ]
+  },
+  {
+   "name": "OF-350M",
+   "type": "HE",
+   "penetration": [
+    "13",
+    "12",
+    "11",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "Sh-354T",
+   "type": "Shrapnel",
+   "penetration": [
+    "35",
+    "34",
+    "30",
+    "26",
+    "22",
+    "19"
+   ]
+  },
+  {
+   "name": "BR-350SP",
+   "type": "APBC",
+   "penetration": [
+    "99",
+    "96",
+    "87",
+    "76",
+    "66",
+    "58"
+   ]
+  },
+  {
+   "name": "BR-354P",
+   "type": "APCR",
+   "penetration": [
+    "125",
+    "117",
+    "87",
+    "60",
+    "41",
+    "28"
+   ]
+  },
+  {
+   "name": "BP-353A",
+   "type": "HEAT",
+   "penetration": [
+    "80",
+    "80",
+    "80",
+    "80",
+    "80",
+    "80"
+   ]
+  },
+  {
+   "name": "BR-350B (MD-8 fuze)",
+   "type": "APHEBC",
+   "penetration": [
+    "96",
+    "94",
+    "84",
+    "74",
+    "64",
+    "56"
+   ]
+  },
+  {
+   "name": "D-350A",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

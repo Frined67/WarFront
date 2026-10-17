@@ -1,0 +1,158 @@
+{
+ "id": "b6n2",
+ "wiki": "https://wiki.warthunder.com/unit/b6n2",
+ "name": "B6N2 Model 12",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "II",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.3",
+  "SB": "2.0"
+ },
+ "description": "The B6N2 mod. 12 , designated as Tenzan 12 ( 天山一二型 ) , was a minor upgrade of the Tenzan 11 that resulted from a change in the engine policy of the Japanese Ministry of Munitions. The ministry decided to reduce the number of different engines used in planes and asked the Navy to standardize the engines used in its aircraft. Nakajima had to replace the Mamoru 11 engine with the 1,850 hp (1,380 kW) Mitsubishi MK4T Kasei 25 engine, which was the Navy's original choice for the B6N1 airframe. The switch of engines required small modifications to the aircraft: the nose was lengthened to balance the weight distribution, the oil cooler and air intakes were adjusted to fit the new engine cowling, and a smaller four-bladed propeller with a shorter spinner was installed to reduce weight. The retractable tailwheel was also fixed in place to simplify the design. Moreover, the single exhaust stacks on each side of the cowling were replaced with multiple smaller ones to reduce night glare and provide a slight thrust boost. The Tenzan 12 became the most produced variant of the series due to the availability of its engine. It was introduced in Update \"Starfighters\" . Only enjoying a slight performance increase over the earlier B6N1, the B6N2 plays exactly the same, with great manoeuvrability, the same ordnance, and the same mediocre rear defensive armament. The oddity of the single offensive 7.7 mm doesn't return and leaves the B6N2 unfavourable to utilize against other planes unlike its predecessor B6N1 or its uparmed variant B6N2a .",
+ "image": "https://static.encyclopedia.warthunder.com/images/b6n2.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "481"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "11.5"
+  },
+  {
+   "label": "Turn time",
+   "value": "21"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,600 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "270 m"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "Kasei 25"
+  },
+  {
+   "label": "Length",
+   "value": "10.9 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "14.9 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "141 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.46"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.16 t (2h 58m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "650 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 355 / 369 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "310 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,358 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.13 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "458 → 613"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 80 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,900"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/Ball/AP/I/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

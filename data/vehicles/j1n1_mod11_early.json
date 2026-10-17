@@ -1,0 +1,292 @@
+{
+ "id": "j1n1_mod11_early",
+ "wiki": "https://wiki.warthunder.com/unit/j1n1_mod11_early",
+ "name": "J1N1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.0",
+  "SB": "2.3"
+ },
+ "description": "The J1N1 , a prototype in the J1N series, was initially designed in 1938 to fulfill the Japanese Navy Air Service's need for an extended-range escort fighter for bombers. This was essential because navy fighter squadrons at the time lacked the necessary navigation and communication capabilities for lengthy land-based bomber sorties. However, due to slow development, testing could only be conducted in 1941, by which time the A6M had already proven itself as a very capable long-range fighter, capable of escorting bombers with its impressive range. The J1N1 struggled with its maneuverability, only barely meeting the speed and cruising range requirements, and the two dual remote turrets it was equipped with were prone to reliability issues. Despite these drawbacks, the J1N1 did impress the Navy with its range, leading to its redesignation as the Type 2 Land Reconnaissance Plane (J1N1-C / later J1N1-R) , intended to replace older land-based reconnaissance aircraft. Later variants of the J1N were up-armed with obliquely mounted 20 mm cannons specifically for shooting down bombers. This led to the development of the night-fighter variant, which entered service as the Gekkō (J1N1-S) . The J1N also served as the template for the J5N [Tenrai *](/unit/j5n1). This aircraft was introduced in Update 1.63 \"Desert Hunters\" . The J1N1 prototype offers a unique experience as a long-range twin-engine escort fighter with some uncommon features and later-year equipment for its relatively low tier and BR. To address the naturally limited manoeuvrability of a twin-engine aircraft, it is equipped with wing edge-leading slats and automatic flaps, which help maximize its agility. The aircraft's defensive armament includes four 7.7 mm guns mounted in two dual remote turrets with favourable angles, along with a Type 99 Model 2 (20 mm) cannon, a rare feature at this tier until later A6M5 models. The J1N1 should initially be used to hunt bombers to maximise its damage output. You can engage these targets with the forward armament or by positioning the aircraft in front and beneath the enemy bomber to utilize the gunner's firepower. After securing altitude advantage, the aircraft can transition to a Boom-and-Zoom strategy, diving on lower altitude targets with the remaining ammo in the forward armament.",
+ "image": "https://static.encyclopedia.warthunder.com/images/j1n1_mod11_early.png",
+ "weapons": [
+  "20 mm Type 99 Mark 2 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "522"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "9.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "25"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "500 m"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "Sakae 21"
+  },
+  {
+   "label": "Length",
+   "value": "12.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "17 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "191 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "4.54"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.61 t (3h 20m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "713 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.73 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/9 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "290 / 409 / 432 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "350 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "60 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "490 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.05 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "331 → 423"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 60 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,900"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/FI/FI/APHE",
+   "penetration": [
+    "26",
+    "24",
+    "17",
+    "10",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "HEF-T/HEF/HEF/APHE",
+   "penetration": [
+    "26",
+    "24",
+    "17",
+    "10",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "APHE/APHE/APHE/APHE/HEF/HEF-T",
+   "penetration": [
+    "26",
+    "24",
+    "17",
+    "10",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "HEF-T",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF/HEF/HEF/APHE/APHE",
+   "penetration": [
+    "26",
+    "24",
+    "17",
+    "10",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/IAI/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "I/AP/AP/AP/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/IAI/Ball/AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

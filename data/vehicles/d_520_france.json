@@ -1,0 +1,244 @@
+{
+ "id": "d_520_france",
+ "wiki": "https://wiki.warthunder.com/unit/d_520_france",
+ "name": "D.520",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "3.0",
+  "SB": "2.3"
+ },
+ "description": "The Dewoitine D.520 was a French monoplane fighter employed during WWII and is considered by many as one of the best French-made fighters produced during WWII. The aircraft was powered by either the Hispano-Suiza 12Y-45 or 12Y-49 engines. It featured one Hispano-Suiza 20 mm cannon and four wing-mounted MAC 1934 7.5 mm LMGs. The plane served on both sides of the war, with both the Vichy and Free French air forces possessing a number of the aircraft. It was employed during the Battle of France with good results against the Luftwaffe and the Italian Air Force, as well as in Syria in 1941 against British and Free French Forces alongside the German Luftwaffe. Introduced in Update 1.73 \"Vive la France\" , the D.520 has mediocre handling in air battles. It has a decent turn time but suffers from a low rate of climb and low top speed. Because of this, the aircraft is best suited for boom-and-zoom tactics, maintaining altitude and/or speed as a plan B if you need to escape an enemy. The aircraft requires good trigger discipline, at least for its 20 mm cannon, which only carries 60 rounds. Meanwhile, the 7.5 mm MGs have enough ammunition to last for an entire match if used carefully. However, the MGs are often ineffective against heavier aircraft, such as twin-engine fighters and bombers.",
+ "image": "https://static.encyclopedia.warthunder.com/images/d_520_france.png",
+ "weapons": [
+  "20 mm Hispano 404 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "550"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10"
+  },
+  {
+   "label": "Turn time",
+   "value": "20"
+  },
+  {
+   "label": "Max altitude",
+   "value": "11,200 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "12Y-45"
+  },
+  {
+   "label": "Length",
+   "value": "8.6 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "165 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.17"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.47 t (2h 10m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "800 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.82 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -9/13 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 366 / 385 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "60 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.45 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,700 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,350 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "587 → 798"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 100 / 200 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,380"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "PT/HEI/AP/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/AP-T/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP/AP-T/HEI/AP-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

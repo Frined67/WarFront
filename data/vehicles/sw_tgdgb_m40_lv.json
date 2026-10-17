@@ -1,0 +1,120 @@
+{
+ "id": "sw_tgdgb_m40_lv",
+ "wiki": "https://wiki.warthunder.com/unit/sw_tgdgb_m40_lv",
+ "name": "Lvtdgb m/40",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The Luftvärnsterrängdragbil m/40 was a Swedish self-propelled anti-aircraft vehicle. It consisted of a Bofors L/60 cannon mounted on the rear of a Terrängdragbil m/40 truck, with a traverse mechanism. At least two such vehicles were produced in 1941, but neither saw combat. The Lvtdgb m/40 was introduced in Update 1.97 \"Viking Fury\" . It is a lightly protected but fairly mobile anti-aircraft platform equipped with a powerful gun.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_tgdgb_m40_lv.png",
+ "weapons": [
+  "40 mm lvakan m/36 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "15 / 10 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "84 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "44"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "15.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "144 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "0.6 → 0.5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "120 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-6 / 85°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "14.7"
+  },
+  {
+   "label": "Repair cost",
+   "value": "678 → 879"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 50 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,410"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "APC/HEFI-T",
+   "penetration": [
+    "79",
+    "75",
+    "60",
+    "46",
+    "35",
+    "26"
+   ]
+  },
+  {
+   "name": "slsgr m/36C",
+   "type": "HEFI-T/HEFI-T/HEFI-T/APC",
+   "penetration": [
+    "79",
+    "75",
+    "60",
+    "46",
+    "35",
+    "26"
+   ]
+  },
+  {
+   "name": "slhpgr m/43",
+   "type": "SAPHEI/SAPHEI/SAPHEI/HEFI-T",
+   "penetration": [
+    "68",
+    "64",
+    "49",
+    "35",
+    "25",
+    "18"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

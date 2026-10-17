@@ -1,0 +1,121 @@
+{
+ "id": "ussr_ba_11",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_ba_11",
+ "name": "BA-11",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "The BA-11 was a Soviet armoured vehicle designed with the intent of serving as a replacement for its predecessor, the BA-10. It was the first and only Soviet heavy armoured car produced, and it saw very limited service due to production ceasing after the Nazi Germany invasion in 1941. Compared to the BA-10, the BA-11 featured a sophisticated armour design, providing better protection for its crew, and a more powerful engine, which was said to be more reliable. Despite this, it was considered a disappointment as a result of numerous design flaws and technical issues, and its performance in battle was subpar. Further attempts at improvement were made with the replacement of the petrol engine with a diesel ZIS-D-7, but these efforts were ultimately unsuccessful due to the vehicle's poor reputation. In the end, all 17 vehicles built were lost in combat, and the project was abandoned. The BA-11 was introduced during Update 1.95 \"Northern Wind\" as a reward for Season 2: Attack from the Sea. It is an excellent flanker and plays essentially the same as the BT-5. Surprisingly, its crew layout allows it to tank some shots, as long as it's not hit in the flat parts of the armour. However, it is important to keep a low profile, as the BA-11 can't survive even a single strafing run by an aircraft due to its thin roof armour.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_ba_11.png",
+ "weapons": [
+  "45 mm 20-K cannon",
+  "7.62 mm DT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "13 / 13 / 13 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "84 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "64"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "11.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "104 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.8 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-8 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,890 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "410"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 20 / 25) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-240",
+   "type": "APHEBC",
+   "penetration": [
+    "70",
+    "67",
+    "58",
+    "47",
+    "39",
+    "32"
+   ]
+  },
+  {
+   "name": "BR-240SP",
+   "type": "APBC",
+   "penetration": [
+    "73",
+    "70",
+    "60",
+    "50",
+    "41",
+    "34"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

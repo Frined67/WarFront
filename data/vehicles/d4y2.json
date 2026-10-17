@@ -1,0 +1,226 @@
+{
+ "id": "d4y2",
+ "wiki": "https://wiki.warthunder.com/unit/d4y2",
+ "name": "D4Y2",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "II",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.3",
+  "SB": "2.7"
+ },
+ "description": "The D4Y2 mod. 12 , designated as the Suisei 12 ( 彗星一二型 ) , upgrades the engine from the Aichi Atsuta 21 to an improved Atsuta 31 which was easier to maintain and offered an additional 200 hp, but the other issues with the engine which strained production weren't solved, leaving many Suisei 12s \"noseless\" right outside the production line, waiting for available engines. It was introduced in Update 1.71 \"New E.R.A.\" . The D4Y2 offers an even higher speed than the previous D4Y1 and with its increased output also increases loading capacity, offering mounts on the wings for either two 60 kg bombs or four (fused) rockets, which can be used on both ground or air units, especially against slower, larger bombers which can be targeted with a distance fuse, allowing for narrow misses if correctly ranged and targeted.",
+ "image": "https://static.encyclopedia.warthunder.com/images/d4y2.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "580"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.9"
+  },
+  {
+   "label": "Turn time",
+   "value": "23"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,800 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "Atsuta 31"
+  },
+  {
+   "label": "Length",
+   "value": "10.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "175 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.87"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.98 t (2h 45m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "750 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -9/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 429 / 458 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "350 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "800 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "582 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.13 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "520 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "210 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "800 → 1,081"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "70 / 130 / 240 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,380"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/IAI/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "I/AP/AP/AP/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/Ball/AP/I/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

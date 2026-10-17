@@ -1,0 +1,405 @@
+{
+ "id": "bf-109g-6_finland",
+ "wiki": "https://wiki.warthunder.com/unit/bf-109g-6_finland",
+ "name": "▄Bf 109 G-6",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "IV",
+ "br": {
+  "AB": "5.3",
+  "RB": "4.7",
+  "SB": "4.7"
+ },
+ "description": "The Bf 109 G-6 (Sweden) is a premium Swedish fighter. It was introduced in Update \"Red Skies\" . The Finnish Messerschmitt is one of the 159 units of German Bf 109s that arrived for the Finnish air force to use during the Continuation War; out of those 159 units, 109 were G-6 models. The model in-game carries the designation number MT-422. MT-422 was one of postwar serving Bf 109G-6s. Shark mouth artwork was created and painted on MT-422 by Sergeant Börje Hielm. According to him the mouth was short lived as his CO ordered it to be removed later that year. The performance is virtually identical to the Bf 109 G-6 in the German tech tree; the difference between the two is that the Finnish G-6 has a tropical air filter and a Finnish paintjob. These differences do not affect the performance, they are purely visual.",
+ "image": "https://static.encyclopedia.warthunder.com/images/bf-109g-6_finland.png",
+ "weapons": [
+  "20 mm MG 151 cannon",
+  "30 mm MK 108 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "669"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "19.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "20"
+  },
+  {
+   "label": "Max altitude",
+   "value": "11,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "343 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "DB-605AM"
+  },
+  {
+   "label": "Length",
+   "value": "9.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9.9 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "198 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.92"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.3 t (1h)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "790 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.82 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/13 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 / 409 / 438 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "360 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.29 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.53 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "65 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "3.3 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.53 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,941"
+  },
+  {
+   "label": "Crew training",
+   "value": "10,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (100 / 230 / 485) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "IT/IT/APHE/HEI",
+   "penetration": [
+    "20",
+    "18",
+    "10",
+    "5",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "IT/HEI/HEI/AP-I",
+   "penetration": [
+    "27",
+    "24",
+    "14",
+    "7",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-I/HEI/HEI/HEI/HEI/IT",
+   "penetration": [
+    "27",
+    "24",
+    "14",
+    "7",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "APHE/APHE/APHE/IT",
+   "penetration": [
+    "20",
+    "18",
+    "10",
+    "5",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "FI-T/FI-T/FI-T/IT/IT",
+   "penetration": [
+    "10",
+    "9",
+    "5",
+    "3",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI/HEI/HEI/APHE/AP-I",
+   "penetration": [
+    "27",
+    "24",
+    "14",
+    "7",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "IT/AP-T/IAI",
+   "penetration": [
+    "19",
+    "16",
+    "8",
+    "4",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/AP-T/IT/IT/IAI",
+   "penetration": [
+    "19",
+    "16",
+    "8",
+    "4",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-T",
+   "penetration": [
+    "19",
+    "16",
+    "8",
+    "4",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "IAI",
+   "type": "IAI",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I",
+   "penetration": [
+    "19",
+    "16",
+    "8",
+    "4",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "HEI-T/I",
+   "penetration": [
+    "8",
+    "7",
+    "4",
+    "2",
+    "1",
+    "1"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "HEI-T/HEI-T/HEI-T/HEF-I",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Night",
+   "type": "HEI-T/HEI-T/HEI-T",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Light armor targets",
+   "type": "SAPHEI-T",
+   "penetration": [
+    "13",
+    "12",
+    "9",
+    "6",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "IT/AP-T/IAI",
+   "penetration": [
+    "19",
+    "16",
+    "8",
+    "4",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/AP-T/IT/IT/IAI",
+   "penetration": [
+    "19",
+    "16",
+    "8",
+    "4",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-T",
+   "penetration": [
+    "19",
+    "16",
+    "8",
+    "4",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "IAI",
+   "type": "IAI",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I",
+   "penetration": [
+    "19",
+    "16",
+    "8",
+    "4",
+    "2",
+    "1"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

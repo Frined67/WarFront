@@ -1,0 +1,116 @@
+{
+ "id": "fr_amd_35",
+ "wiki": "https://wiki.warthunder.com/unit/fr_amd_35",
+ "name": "AMD.35",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The Automitrailleuse de Découverte (AMD) Panhard modèle 1935 is a light French reconnaissance 4x4 armoured car built for cavalry units prior to World War II. It was crewed by four individuals and armed with a powerful 25 mm SA35 L/72 tank gun. The AMD Panhard modèle 1935 had been kept as light as possible to fulfil its role as an effective long-range reconnaissance vehicle. The mobility was impressive for the time: a top speed of 72.6 km/h, a cruising speed of 47 km/h, and a practical range of approximately 300 km made possible by two fuel tanks, the main one positioned at the far back of the hull. Following the fall of France in 1940, a few of these vehicles were taken over by the Germans and designated Panzerspähwagen P204 (f). Introduced in Update 1.93 \"Shark Attack\" , the AMD Panhard modèle 1935 is best described as an armoured car with a powerful main armament. Despite its lack of armour protection, it is mobile, lethal, and remarkably survivable. The 25 mm SA35 L/72 tank gun has a high penetration value. Most adversaries at its rank will be no match for this armament. On roads and paved surfaces, it has a significant speed advantage. However, it struggles to go uphill and has poor mobility on soft terrain. Even when travelling on a road, fast turns cause the vehicle to lose a lot of speed. It is recommended that players take advantage of the high on-road speed to swiftly get to a firing position at the start of the battle to set up an ambush for adversaries before immediately relocating.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_amd_35.png",
+ "weapons": [
+  "7.5 mm MAC 31 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "20 / 15 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "76 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "72"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "48 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "2.6 → 2 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-12 / 15°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "17.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "900 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "550 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 10 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "3,620"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Mle1934 TP (Ch.F)",
+   "type": "APC",
+   "penetration": [
+    "71",
+    "68",
+    "56",
+    "44",
+    "34",
+    "27"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

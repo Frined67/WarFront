@@ -1,0 +1,118 @@
+{
+ "id": "ussr_gaz_mm_72k",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_gaz_mm_72k",
+ "name": "GAZ-MM (72-K)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The first trials involving the installation of the 25 mm 72-K cannon in the load bed of a GAZ-MM truck were carried out in the second half of 1941. They proved successful, and the improvised mounting was subsequently put into series production at the Kolomna Locomotive Works. A further incentive for producing these vehicles was that 72-K guns mounted in truck beds did not require their usual mounts, the production of which was experiencing serious difficulties. After approximately 200 vehicles had been built, serial production came to an end when the factory was evacuated in December 1941. The GAZ-MM (72-K) was introduced in the Closed Beta Test for Ground Forces prior to Update 1.41. Its 25 mm cannon has a fairly high rate of fire and a short reload time, allowing it to maintain a high volume of fire, while its powerful high-explosive incendiary shells are highly effective against aircraft. In addition to its considerable firepower, the vehicle offers excellent mobility, allowing it to quickly move out of enemy fire. On the other hand, its speed and mobility are offset by poor survivability and an almost complete lack of armour: the crew can be incapacitated even by rifle-calibre machine-gun fire or fragments from shells and bombs exploding nearby.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_gaz_mm_72k.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "0 / 0 / 0 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "78 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "70"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "399 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "0.3 → 0.2 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "240 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 85°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "24.5"
+  },
+  {
+   "label": "Repair cost",
+   "value": "446 → 578"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 40 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,940"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/FI-T",
+   "penetration": [
+    "57",
+    "54",
+    "44",
+    "34",
+    "27",
+    "21"
+   ]
+  },
+  {
+   "name": "25 mm FI-T",
+   "type": "FI-T",
+   "penetration": [
+    "7",
+    "7",
+    "6",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "25 mm AP-T",
+   "type": "AP-T",
+   "penetration": [
+    "57",
+    "54",
+    "44",
+    "34",
+    "27",
+    "21"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

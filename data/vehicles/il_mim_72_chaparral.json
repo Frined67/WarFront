@@ -1,0 +1,81 @@
+{
+ "id": "il_mim_72_chaparral",
+ "wiki": "https://wiki.warthunder.com/unit/il_mim_72_chaparral",
+ "name": "Imp.Chaparral",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "VI",
+ "br": {
+  "AB": "9.3",
+  "RB": "9.3",
+  "SB": "9.3"
+ },
+ "description": "One of the first foreign customers of the American MIM-72 Chaparral was the IDF, which ordered the first batch of SAMs in 1973, immediately after the Yom Kippur War. The first batteries were delivered to Israel at the end of 1973 under the name Drakon. In total, several dozen Chaparral launch systems entered service with the IDF, and were actively used in the 1970s and '80s to protect Israeli airspace from potential attacks by Syrian aviation. In 1996, Israel concluded a deal with the United States to acquire 36 more modern MIM-72C Improved Chaparral complexes. They differed from previous versions in an improved guidance system, a Doppler proximity fuze, and a HE fragmentation warhead for the missile. Subsequently, these SAMs also received more advanced missiles, such as the MIM-72E with a smokeless engine and MIM-72G which integrated the seeker head from the FIM-92 Stinger, increasing their resistance to countermeasures. In 2003, all Chaparral units were retired and withdrawn from service by the IDF. Introduced in Update \"Sons of Attila\" , the Israeli Chaparral is equipped with much better missiles than the American version; the MIM-72G features IRCCM and improved engines, allowing it to combat aircraft with countermeasures and compete with SPAAs with advanced radar. The missile uses the same seeker as the one present in the FIM-92 Stinger missile, making it quite hard to dodge, and the improved engine makes it even more lethal. However, the Israeli Chaparral still suffers from a lack of radar and a gun for very close-range engagements, as even the improved missile is not capable of hitting if the locked target is just a few metres away, which is especially dangerous against enemy helicopters.",
+ "image": "https://static.encyclopedia.warthunder.com/images/il_mim_72_chaparral.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "0 / 0 / 0 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "107 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "61"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "20.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "12 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "19.5 → 15 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "60 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-9 / 90°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "4,788 → 6,871"
+  },
+  {
+   "label": "Crew training",
+   "value": "175,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "160 / 190 / 230 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "179,700"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,700"
+  }
+ ],
+ "shells": [],
+ "updated": "2026-10-17"
+}

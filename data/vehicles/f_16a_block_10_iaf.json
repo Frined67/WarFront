@@ -1,0 +1,184 @@
+{
+ "id": "f_16a_block_10_iaf",
+ "wiki": "https://wiki.warthunder.com/unit/f_16a_block_10_iaf",
+ "name": "Netz",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "VIII",
+ "br": {
+  "AB": "12.3",
+  "RB": "12.3",
+  "SB": "12.0"
+ },
+ "description": "The Netz is a supersonic, 4th generation fighter aircraft, produced by General Dynamics. The F-16 was produced for the USAF as a part of the Lightweight Fighter Program, and notably the early blocks such as the Block 10 did not carry the AIM-7 Sparrow; this is carried over to the Netz in Israeli service. Israel is notably the second largest user of the F-16 after the USAF, and also achieved the first air to air kills with it. It was introduced in Update \"Apex Predators\" . Compared to the Block 15 and Block 20 , the Netz is lighter and is able to pull an extra 1-2 Gs, making it one of the best dogfighters in the game. Compared to the Block 10 in the US tree it has a massive advantage, as it possesses the extremely potent Python 3, one of if not the most potent heat-seeking missiles in-game. In exchange it loses the GBU-8 \"Hobo\" for ground support. This leaves it as one of the best dogfighters in high tier battles, with reasonable multirole capability for CAS as well.",
+ "image": "https://static.encyclopedia.warthunder.com/images/f_16a_block_10_iaf.png",
+ "weapons": [
+  "20 mm M61A1 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "2,156"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "305"
+  },
+  {
+   "label": "Turn time",
+   "value": "19.5"
+  },
+  {
+   "label": "Max altitude",
+   "value": "15,240 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "850 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "F100-PW-220"
+  },
+  {
+   "label": "Length",
+   "value": "15.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "394 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "7.69"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "3.31 t (41m)"
+  },
+  {
+   "label": "Fuel in drop tanks",
+   "value": "3.09 t (38m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "1,555 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "2.2 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/14 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "463 / 470 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "482 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "512 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "6,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "9.98 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "5,420 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "3,000 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,148 → 4,388"
+  },
+  {
+   "label": "Crew training",
+   "value": "220,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "90 / 320 / 490 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "240,000"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "3,100"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEF-I/API-T/AP-I",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF-I/HEF-I/API-T/HEF-I/HEF-I/AP-I",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "API-T/AP-I/AP-I/AP-I/HEF-I",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF-I/AP-I/AP-I",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

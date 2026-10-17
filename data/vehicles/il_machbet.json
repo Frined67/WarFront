@@ -1,0 +1,137 @@
+{
+ "id": "il_machbet",
+ "wiki": "https://wiki.warthunder.com/unit/il_machbet",
+ "name": "Machbet",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "VI",
+ "br": {
+  "AB": "9.3",
+  "RB": "9.3",
+  "SB": "9.3"
+ },
+ "description": "IAI, in cooperation with General Dynamics, modernised the Hovet 's fire control system, introducing an IRST tracker that was more reliable than the AN/VPS-2 and also did not trigger aircraft RWR, and additionally equipped it with a launch unit for four AIM-92 Stinger missiles, allowing it to engage long-range targets. After successful tests of the prototype in 1997, the machine was officially adopted by the Israel Defence Forces (IDF) under the name Machbet (מחבט - \"Racquet\"). These vehicles replaced the Hovet in service by 1998 and were deployed along the Purple Line (post-Six-Day War ceasefire line between Israel and Syria) until the Israeli Air Defense Command was disbanded in 2006. Introduced in Update \"Wind of Change\" alongside the initial Israeli tech tree, the overall dimensions of the Machbet are mostly identical to the Hovet. While players will quickly notice the disappearance of the radar rangefinder, the overall capability is improved by the new optical tracker and four FIM-92 Stingers to handle longer range targets. However, being built on the same M113 chassis as the Hovet, the Machbet remains minimally armoured but relatively mobile.",
+ "image": "https://static.encyclopedia.warthunder.com/images/il_machbet.png",
+ "weapons": [
+  "FIM-92 Stinger",
+  "20 mm M168 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "38 / 44 / 38 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "117 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "64"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "18.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "19.5 → 15 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 80°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "52.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,200 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "26 → 20 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "3,000 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 80°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "52.5"
+  },
+  {
+   "label": "Repair cost",
+   "value": "5,259 → 7,405"
+  },
+  {
+   "label": "Crew training",
+   "value": "150,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "160 / 200 / 250 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "159,400"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,600"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-I/HEI-T/API-T",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "20 mm HEFI-T",
+   "type": "HEI-T/HEF-I/API-T/HEF-I",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "20 mm API-T",
+   "type": "AP-I/API-T/HEF-I/API-T",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

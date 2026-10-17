@@ -1,0 +1,170 @@
+{
+ "id": "bf-109c_1_promo",
+ "wiki": "https://wiki.warthunder.com/unit/bf-109c_1_promo",
+ "name": "Bf 109 C-1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.0",
+  "SB": "1.7"
+ },
+ "description": "Feedback on the armament and engine of the Bf 109 B led to the development of a new modification, the Bf 109 C-1 . The aircraft's armament was strengthened by the installation of two additional machine guns in the wing roots, while the engine was replaced by a more powerful Jumo 210G with direct fuel injection, which allowed it to work under negative overloads. The exhaust system was also redesigned to reduce wear. The C-1 was quickly followed by the C-2, which included the installation of a 20 mm cannon. Only 58 aircraft were built in 1938, 20 of which were used in the Spanish Civil War. This Bf 109 C-1 was introduced during Update \"Dance of Dragons\" as one of the rewards for completing missions in War Thunder Mobile . As an early monoplane, it has many weaknesses: its engine is rather underpowered, and, being a monoplane, it cannot dogfight against biplanes. Its armament consists only of four 7.92 mm machine guns, which is not enough to take down bombers effectively. On the other hand, the Bf 109 has a high top speed and decent survivability.",
+ "image": "https://static.encyclopedia.warthunder.com/images/bf-109c_1_promo.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "484"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.8"
+  },
+  {
+   "label": "Turn time",
+   "value": "19"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "210 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Jumo 210G"
+  },
+  {
+   "label": "Length",
+   "value": "8.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9.9 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "133 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.97"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.18 t (1h 6m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "790 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.82 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "250 / 371 / 388 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "280 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,840"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "170 → 213"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 30 / 70 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,220 @@
+{
+ "id": "do_17z_2",
+ "wiki": "https://wiki.warthunder.com/unit/do_17z_2",
+ "name": "Do 17 Z-2",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "The Do 17 Z \"Fliegender Bleistift\" (German for \"Flying Pencil\") is a variant of the Do 17, a medium bomber used by the German military during World War II. It was developed by the Dornier company in 1938, taking into account combat experience from the Spanish Civil War. A notable feature of this bomber was its innovative \"Waffenkopf\" or \"combat head\" crew layout, which housed the entire crew in a single large cabin, thereby increasing survivability and defensive capabilities. The Do 17 Z was widely used in the early stages of World War II to destroy Allied infrastructure, attack naval targets, and provide direct air support to ground forces. There were also changes to the nose during production as it initially had a significant frontal drag and overall weight, affecting the bomb load. The Do 17 Z-2 was fitted with a BMW Bramo 323 P-series engine with a two-stage supercharger, restoring the bomb load capacity to 1,000 kg, comparable to that of the Do 17 M. The Do 17 Z-2 was introduced in Update 1.53 \"Firestorm\" . Compared to the Do 17 E-1 , this version features enhanced defensive armament, an increased bomb load, and new engines that improve flight performance. Like many other medium bombers, the Do 17 Z-2 excels at destroying bases, ground vehicles, and naval targets.",
+ "image": "https://static.encyclopedia.warthunder.com/images/do_17z_2.png",
+ "weapons": [
+  "7.92 mm MG 15 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "407"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "34"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "450 m"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Bramo 323P"
+  },
+  {
+   "label": "Length",
+   "value": "15.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "18 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "140 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "6.55"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.16 t (2h 56m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "620 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/5 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "300 / 454 / 480 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "350 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "375 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "231 → 291"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 40 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,430"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-I/AP-T/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

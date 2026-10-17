@@ -1,0 +1,166 @@
+{
+ "id": "p-26b_35",
+ "wiki": "https://wiki.warthunder.com/unit/p-26b_35",
+ "name": "P-26B-35",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The P-26 was one of Boeing’s first monoplane aircraft and was quite advanced at its time. It was relatively fast thanks to its all-metal construction and the R-1340, a 9-cylinder radial engine that produced around ~550 HP. It was an extremely successful engine and was quickly innovated from originally making a measly 400 HP to almost 600 HP thanks to better fuels, forged engine parts, and improved cowlings. The P-26B was fitted with a fuel-injected version of the Wasp and landing flaps that greatly reduced the dangerous landing speed from 82 mph (131.2 km/h) to 73 mph (116.8 km/h). Introduced since the start of the Open Beta Test before Update 1.27, the P-26B-35 is a decent aircraft. It has an ok top speed of ~235 mph (377 km/h) which can outrun some bi-planes but, more modern monoplane aircraft are easily able to outrun and catch the P-26B. The P-26B is armed with 2 nose-mounted 7.62 mm machine guns and can drop two 100 lb bombs. It can also turn decently well however bi-planes are far superior in this department. Although the P-26B-35 is a very old aircraft, it’s quite capable against relatively newer machines.",
+ "image": "https://static.encyclopedia.warthunder.com/images/p-26b_35.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "377"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "12"
+  },
+  {
+   "label": "Turn time",
+   "value": "18"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "170 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "R-1340-33"
+  },
+  {
+   "label": "Length",
+   "value": "7.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "8.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "110 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.24"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.29 t (1h 33m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "508 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "240 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "164 → 202"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 40 / 130 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,400"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,106 @@
+{
+ "id": "jp_navy_120mm_spg",
+ "wiki": "https://wiki.warthunder.com/unit/jp_navy_120mm_spg",
+ "name": "Chi-Ha LG",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "3.0",
+  "SB": "3.0"
+ },
+ "description": "The Chi-Ha LG / Long 12 cm SPG ( 長十二糎自走砲 ) was an obscure, one-off prototype discovered by US Marines at the Yokosuka Naval Arsenal, with little information available on its development. It was created by the 1st Section of the Imperial Japanese Navy Technical Department and assembled at Yokosuka. The vehicle was essentially a stripped-down Chi-Ha hull, modified with a metal platform extension to accommodate the gun crew, and fitted with a surplus 12 cm/45 10th Year Cannon, typically used on cruisers, carriers, or as coastal batteries. With little concrete development history, accounts from testing crews and US evaluations suggest the vehicle was at the limits of what the Chi-Ha hull could handle. All internal modules were removed except for the driver’s position, and the hull was reinforced with automotive steel to withstand the massive recoil of the gun—a force that would have otherwise destroyed a standard riveted Chi-Ha. The vehicle offered no real protection for the crew, leaving them entirely exposed. It was introduced in Update \"Raining Fire\" . Despite being built on the Chi-Ha hull, this vehicle was not truly considered a tank, even within its limited development circle. Instead, it should be regarded as a mobile gun emplacement. The crew is entirely exposed, and the mobility is compromised due to the heavy gun. Sniping is the only viable strategy, with the need to retreat into cover after each shot to maximize survivability. The powerful 120 mm SAPCBC-HE shell, with a velocity of 825 m/s and penetration of 100 mm at approximately 300 meters, defines the Chi-Ha Long Gun as the epitome of a \"glass cannon.\" However, after firing, the gun's severe recoil will likely knock it off target, requiring readjustment if it hasn't already destroyed its target.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_navy_120mm_spg.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "25 / 25 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "107 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "40"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "9.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "10 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "13 → 10 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 15°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7"
+  },
+  {
+   "label": "Repair cost",
+   "value": "622 → 769"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 60 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,460"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "C.P.(BF)",
+   "type": "SAPCBC",
+   "penetration": [
+    "103",
+    "102",
+    "95",
+    "87",
+    "80",
+    "74"
+   ]
+  },
+  {
+   "name": "Ordinary, Mod.1",
+   "type": "HE",
+   "penetration": [
+    "25",
+    "25",
+    "25",
+    "25",
+    "25",
+    "25"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

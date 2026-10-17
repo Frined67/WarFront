@@ -1,0 +1,141 @@
+{
+ "id": "il_amx_13_75",
+ "wiki": "https://wiki.warthunder.com/unit/il_amx_13_75",
+ "name": "AMX-13",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "IV",
+ "br": {
+  "AB": "6.7",
+  "RB": "7.0",
+  "SB": "7.0"
+ },
+ "description": "The AMX-13 was employed by Israel in the Six-Day War of 1967. A total of 400 tanks were acquired from France between 1956 and 1967, with three battalions being formed and ready for deployment. The AMX-13 was used in an unconventional way: since the IDF lacked proper modern MBTs due to arms embargoes imposed upon them, it was decided to use the AMX-13 in frontline duties rather than in the usual roles of light tanks, such as reconnaissance. Thus, the AMX-13 sustained heavy casualties during the war and was promptly retired afterwards. Introduced in Update \"Wind of Change\" , the AMX-13 is best used in flanking manoeuvres using its good speed and agility against heavier opponents in uptiers, or sniping from medium to long ranges with its decent gun in downtiers. Like all light tanks, the AMX-13 is not suited to urban environments since it can be easily ambushed and destroyed. The AMX-13 lacks any sort of HEAT or APHE and relies only on APCBC with no explosive filler, making it very hard to one-shot enemies. It is recommended to aim for the gunner or the barrel of enemy tanks in close quarters, as the AMX-13 has a 5-second reload autoloader, allowing it to reload faster than most tanks at its BR except for IFVs or APCs with autocannons like the Marder IFV or the BTR-80A.",
+ "image": "https://static.encyclopedia.warthunder.com/images/il_amx_13_75.png",
+ "weapons": [
+  "75 mm SA50 L/57 cannon",
+  "7.5 mm MAC 31 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "40 / 20 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "78 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "61"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "18.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "36 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-6 / 13°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "21"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,950 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "550 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,159 → 3,102"
+  },
+  {
+   "label": "Crew training",
+   "value": "52,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "100 / 140 / 170 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "46,900"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,500"
+  }
+ ],
+ "shells": [
+  {
+   "name": "POT-51A",
+   "type": "APBC",
+   "penetration": [
+    "182",
+    "178",
+    "162",
+    "143",
+    "127",
+    "113"
+   ]
+  },
+  {
+   "name": "PCOT-51P",
+   "type": "APCBC",
+   "penetration": [
+    "202",
+    "198",
+    "180",
+    "159",
+    "141",
+    "125"
+   ]
+  },
+  {
+   "name": "OE Mle 1951",
+   "type": "HE",
+   "penetration": [
+    "15",
+    "15",
+    "13",
+    "12",
+    "11",
+    "10"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

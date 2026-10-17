@@ -1,0 +1,141 @@
+{
+ "id": "cn_is_2_1943",
+ "wiki": "https://wiki.warthunder.com/unit/cn_is_2_1943",
+ "name": "␗IS-2",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "heavy_tank",
+ "role": "Heavy tank",
+ "rank": "IV",
+ "br": {
+  "AB": "6.0",
+  "RB": "6.0",
+  "SB": "6.0"
+ },
+ "description": "Due to China’s lack of proper heavy support tanks in the 1950s, the Soviet Union agreed to the sale of at least 38 IS-2 tanks in order to reinforce the People's Liberation Army’s armoured divisions. The IS-2, being a tank designed during the Second World War as a response to German heavy tanks such as the Tiger and Panther , was armed with the powerful 122mm D-25T cannon which was capable of knocking out these tanks from over a kilometre away. At least 20 IS-2 tanks were utilised in the Korean War in both anti-tank and anti-fortification duties by the PLA with varying levels of success. During the late 1950s, the new Type 59 project combined with a general parts shortage led to the end of the IS-2’s service, with the People's Liberation Army retiring the tank in favour of the smaller and cheaper Type 59. Introduced in Update 1.91 \"Night Vision\" , the IS-2 (1943) was the first heavy tank available in the Chinese tech tree. The tank features rather weak armour which is compensated by its decent mobility as well as the very powerful 122mm D-25T cannon. Compared to its contemporaries, the IS-2 features a significantly more potent APHE shell with over 200mm of penetration and almost a quarter of a kilogram of TNT equivalent, enough to overpressure all the crew of any vehicle it manages to penetrate. Despite its significantly longer reload compared to other heavy tanks, it is very easy to stay alive and not get caught off guard by utilising its reverse speed and armour to get to cover until the reload is finished.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cn_is_2_1943.png",
+ "weapons": [
+  "122 mm D-25T cannon",
+  "7.62 mm DT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "120 / 90 / 60 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "102 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "37"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "11.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "28 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "27.1 → 20.8 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-3 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,890 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,987 → 4,932"
+  },
+  {
+   "label": "Crew training",
+   "value": "57,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "120 / 190 / 210 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "52,900"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,700"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-471",
+   "type": "APHE",
+   "penetration": [
+    "205",
+    "201",
+    "182",
+    "161",
+    "143",
+    "126"
+   ]
+  },
+  {
+   "name": "OF-471",
+   "type": "HE",
+   "penetration": [
+    "37",
+    "37",
+    "37",
+    "37",
+    "37",
+    "37"
+   ]
+  },
+  {
+   "name": "BR-471B",
+   "type": "APHEBC",
+   "penetration": [
+    "205",
+    "203",
+    "192",
+    "178",
+    "166",
+    "155"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,158 @@
+{
+ "id": "i-153_m62_zhukovskiy",
+ "wiki": "https://wiki.warthunder.com/unit/i-153_m62_zhukovskiy",
+ "name": "Zhukovsky's I-153-M62",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.0"
+ },
+ "description": "The I-153 M-62 Chaika is a Soviet biplane fighter developed from the I-15 series in the late 1930s. Originating from combat experiences during the Spanish Civil War, the Chaika went on to serve in World War II despite its obsolescence and saw success even against more advanced adversaries, with some pilots even becoming aces while only flying the Chaika. Among the ranks of the Chaika aces was Sergey Yakovlevich Zhukovsky (7 October 1918 – 10 November 1980). At the outbreak of Operation Barbarossa on 22 June 1941, Zhukovsky was assigned to the 127th Fighter Regiment, and took part in some of the first engagements of the conflict. On that day, Zhukovsky sortied nine times in his I-153 and scored five kills, making him an ace in a day. By the end of 1941, Zhukovsky was promoted to squadron commander and was awarded the Order of Lenin for his service. Zhukovsky would go on to serve until the end of the war, claiming 28 aerial victories, with 13 personal kills and 15 shared kills with his squadron. Zhukovsky's I-153-M62 was introduced in Update 1.31 , featuring a special white livery based on the I-153 flown by Sergey Zhukovsky at the beginning of Operation Barbarossa. The Chaika is arguably one of, if not the best, biplane fighters in War Thunder, with incredible manoeuvrability and blistering ShKAS machine guns. The plane can out-turn and out-roll any monoplanes in the game, and features excellent ground and air attack capability. This extreme characteristic allows the Chaika to easily go toe-to-toe with more advanced fighters and give them a tough dogfight. However, the Chaika still retains the drawbacks of a biplane: poor top speed and durability that leave it helpless if the pilot does not pay attention to the surroundings.",
+ "image": "https://static.encyclopedia.warthunder.com/images/i-153_m62_zhukovskiy.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "444"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "15.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "13.3"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,700 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "274 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "M-62"
+  },
+  {
+   "label": "Length",
+   "value": "6.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "83 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.6"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.24 t (1h 2m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "580 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/12 G"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "450 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,470"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "556"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 30 / 65) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AI/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

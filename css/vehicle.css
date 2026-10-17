@@ -1,0 +1,128 @@
+/* css/vehicle.css — ใช้เฉพาะหน้า vehicle.html */
+
+.vehicle_image {
+    width: 100%;
+    max-width: 320px;
+    border-radius: 10px;
+    background-color: #0f1115;
+}
+
+.vehicle_branch {
+    font-size: 13px;
+    color: #8b93a3;
+}
+
+.vehicle_name {
+    font-size: 28px;
+    font-weight: 800;
+}
+
+.vehicle_tags {
+    margin-top: 8px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+}
+
+.vehicle_tag {
+    padding: 3px 10px;
+    border: 1px solid #2a2f3a;
+    border-radius: 999px;
+    font-size: 12px;
+    color: #b9bfcc;
+}
+
+.vehicle_tag--br {
+    border-color: #c8a04a;
+    color: #c8a04a;
+}
+
+.vehicle_desc {
+    margin-top: 12px;
+    line-height: 1.8;
+    color: #b9bfcc;
+    font-size: 14px;
+}
+
+.vehicle_button {
+    display: inline-block;
+    padding: 8px 16px;
+    border-radius: 999px;
+    background-color: #c8a04a;
+    color: #1a1407;
+    font-weight: 700;
+    font-size: 14px;
+    text-decoration: none;
+}
+
+.vehicle_button--ghost {
+    background-color: transparent;
+    border: 1px solid #2a2f3a;
+    color: #e6e8ec;
+}
+
+.vehicle_section {
+    margin: 24px 0 10px;
+    font-size: 19px;
+    font-weight: 700;
+    border-left: 4px solid #c8a04a;
+    padding-left: 10px;
+}
+
+.vehicle_table {
+    width: 100%;
+    font-size: 14px;
+    border-collapse: collapse;
+}
+
+.vehicle_table th,
+.vehicle_table td {
+    padding: 7px 10px;
+    border-bottom: 1px solid #2a2f3a;
+    text-align: left;
+}
+
+.vehicle_table th {
+    color: #8b93a3;
+    font-weight: 600;
+    width: 45%;
+}
+
+.vehicle_table--shell th {
+    width: auto;
+    white-space: nowrap;
+}
+
+.vehicle_list {
+    list-style: disc;
+    padding-left: 20px;
+    font-size: 14px;
+    line-height: 1.9;
+    color: #b9bfcc;
+}
+
+.vehicle_list a {
+    color: #c8a04a;
+}
+
+.vehicle_tip-title {
+    font-weight: 700;
+    margin-bottom: 6px;
+}
+
+.vehicle_tip-title--good {
+    color: #6fbf7a;
+}
+
+.vehicle_tip-title--bad {
+    color: #e2765a;
+}
+
+.vehicle_note {
+    font-size: 13px;
+    color: #8b93a3;
+}
+
+.vehicle_note a {
+    color: #c8a04a;
+}

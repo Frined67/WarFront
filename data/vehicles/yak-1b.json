@@ -1,0 +1,281 @@
+{
+ "id": "yak-1b",
+ "wiki": "https://wiki.warthunder.com/unit/yak-1b",
+ "name": "Yak-1B",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "3.3",
+  "RB": "3.0",
+  "SB": "3.3"
+ },
+ "description": "The Yakovlev Yak-1B is the second variant of the Yak-1 fighter aircraft family. The Yak-1B debuted in the autumn of 1942 with a more powerful Klimov M-105P engine with improved low-altitude performance and a single 12.7 mm Berezin UB heavy machine gun instead of two 7.62 mm ShKAS light machine guns. Although this did not significantly enhance the total weight, it did result in a substantial increase in firepower. Other changes were electrical and pneumatic weapon firing instead of the mechanical system, a new control stick based on the Messerschmitt Bf 109's design, a new gunsight, an airtight fuselage, a retractable tailwheel, and enhanced engine cooling. \"Yak-1B\" was an unofficial designation; all Yak-1s were produced to this specification after October 1942. The first flight (aircraft No. 3560) occurred in June 1942, and manufacture of the Yak-1B began in August. There were 4,188 aircraft manufactured in total. Introduced in the Open Beta Test prior to Update 1.27, the Yak-1B performs well at low altitudes, while high-altitude performance is still subpar. When compared to the standard Yak-1, structural strength is significantly improved. Despite the increase in firepower, the ammunition available is very limited. To avoid \"spraying\" the ammunition towards the enemy, the player must use tight trigger control. One significant disadvantage of this plane is the lack of Wartime Emergency Power (WEP); hence, it is critical to keep this in mind during fights to avoid wasting too much energy. Overall, the Yak-1B armament of a 20 mm ShKAS cannon and a single 12.7 mm Berezin UB heavy machine gun will serve as the foundation for several Yak fighter variants in the future.",
+ "image": "https://static.encyclopedia.warthunder.com/images/yak-1b.png",
+ "weapons": [
+  "20 mm ShVAK cannon",
+  "12.7 mm Berezin UBS machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "592"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "16"
+  },
+  {
+   "label": "Turn time",
+   "value": "18.5"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "368 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "VK-105PF"
+  },
+  {
+   "label": "Length",
+   "value": "8.5 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9.7 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "168 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.47"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.41 t (1h 21m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "683 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.78 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "120 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.29 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "996 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.79 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "513 → 643"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 80 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,460"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "FI-T/AP-I",
+   "penetration": [
+    "28",
+    "24",
+    "14",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "FI-T/HEF/AP-I/FI-T",
+   "penetration": [
+    "28",
+    "24",
+    "14",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "HEF/FI-T/AP-I",
+   "penetration": [
+    "28",
+    "24",
+    "14",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "FI-T",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-I/FI-T/AP-I/AP-I",
+   "penetration": [
+    "28",
+    "24",
+    "14",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/HEF/HEF/FI",
+   "penetration": [
+    "28",
+    "24",
+    "14",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/AP/IAI",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "11",
+    "7"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/API-T/IAI/IAI",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/AP-I/IAI",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-I(c)/AP-I/AP-I/API-T/IAI",
+   "penetration": [
+    "34",
+    "32",
+    "24",
+    "17",
+    "12",
+    "8"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/IAI",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "14",
+    "9",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

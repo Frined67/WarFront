@@ -1,0 +1,220 @@
+{
+ "id": "yak-4",
+ "wiki": "https://wiki.warthunder.com/unit/yak-4",
+ "name": "Yak-4",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.3"
+ },
+ "description": "The Yak-4 (originally the BB-22bis) is a Soviet light reconnaissance bomber that was developed by the Yakovlev Design Bureau. The first prototype was created in March 1940 by modifying the BB-22 ( Yak-2 ). The main difference between the two aircraft was their engines: the Yak-4 had a Klimov VK-105 instead of M-103A. Serial production of the aircraft began in October 1940 at Plant No. 81 in Moscow. The Yak-4 was used by the Red Army Air Force at the start of the Great Patriotic War. However, due to its poor build quality and low bomb load, it sustained heavy losses. Consequently, production ceased in 1941, and the remaining aircraft were retired in 1942. Between 1940 and spring 1941, a total of 90 aircraft were built. The Yak-4 was introduced in Update 1.75 \"La Résistance\" . While the aircraft has excellent speed, a decent climb rate, and maneuverability, it has serious drawbacks: the VK-105 engines overheat quickly, and the turret and 8-mm-thick armor plate do not provide adequate protection for the aircraft and crew. But overall, however, the Yak-4 is a fairly effective light bomber in both air and combined combat, despite its poor survivability.",
+ "image": "https://static.encyclopedia.warthunder.com/images/yak-4.png",
+ "weapons": [
+  "7.62 mm ShKAS machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "533"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.4"
+  },
+  {
+   "label": "Turn time",
+   "value": "24"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,800 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "550 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x VK-105R"
+  },
+  {
+   "label": "Length",
+   "value": "10.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "14 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "196 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "5.3"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.8 t (1h 21m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "680 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -9/15 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "223 → 301"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 40 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,440"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AI/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-I/AP-I/AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "API-T/API-T/API-T/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

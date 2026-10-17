@@ -1,0 +1,117 @@
+{
+ "id": "f_102a_greece",
+ "wiki": "https://wiki.warthunder.com/unit/f_102a_greece",
+ "name": "▄F-102A",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "VI",
+ "br": {
+  "AB": "9.0",
+  "RB": "9.0",
+  "SB": "8.7"
+ },
+ "description": "After the U.S. Air Force withdrew the F-102A from service, these interceptors were offered for export. There were two buyers: Greece and Turkey. In 1969, the Royal Hellenic Air Force received 24 aircraft, 19 of which were single-seat variants. The aircraft saw relatively uneventful service until 1977, when they were replaced by the Mirage F1 . The Greek F-102A was introduced in Update 2.59 \"Sky Odyssey\" as a part of the Israeli Aviation Tree. This fighter is notable for its complete lack of a cannon armament; it relies entirely on infrared- and radar-guided AIM-4 missiles to shoot down enemy aircraft. However, these air-to-air missiles are difficult to use and lack a proximity fuse. Nevertheless, the aircraft may impresses with its decent speed and maneuverability.",
+ "image": "https://static.encyclopedia.warthunder.com/images/f_102a_greece.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "1,382"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "92"
+  },
+  {
+   "label": "Turn time",
+   "value": "26"
+  },
+  {
+   "label": "Max altitude",
+   "value": "13,716 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "1,050 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "J57-P-23A"
+  },
+  {
+   "label": "Length",
+   "value": "14.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.7 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "188 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "8.96"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "3.2 t (42m)"
+  },
+  {
+   "label": "Fuel in drop tanks",
+   "value": "1.26 t (16m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "1,274 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "1.6 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/11 G"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "453 km/h"
+  },
+  {
+   "label": "Max weight",
+   "value": "3,000 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "1,000 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,945 → 4,356"
+  },
+  {
+   "label": "Crew training",
+   "value": "110,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "120 / 380 / 600 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "114,300"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,300"
+  }
+ ],
+ "shells": [],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,149 @@
+{
+ "id": "uk_a_13_mk1_3rd_rtr",
+ "wiki": "https://wiki.warthunder.com/unit/uk_a_13_mk1_3rd_rtr",
+ "name": "A13 Mk I (3rd R.T.R.)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "During World War II, the British Army's 3rd Royal Tank Regiment (3rd R.T.R.) was equipped with the A13 Mark I . The 3rd R.T.R. was a British Army armoured regiment that existed from 1917 to 1992. It was a unit of the Royal Tank Regiment, which was itself a unit of the Royal Armoured Corps. In 1917, it was known as the C Battalion, Tank Corps. With the onset of World War II, the British army was once again deployed to France. 3rd R.T.R., commanded by Lieutenant Colonel Reginald Keller, was ready for deployment as part of the 1st Armoured Division in 1940 when it was abruptly redirected to Calais. It took part in the four-day Siege of Calais as part of the Battle of France. Unfortunately, all of its tanks were destroyed, and many of its soldiers were killed or captured; nevertheless, some of its forces retreated to Dunkirk or were evacuated from Calais before the port was overrun. Introduced in Update 1.55 \"Royal Armour\" and was the prize in the 2015 \"Christmas gift\" giveaway, the A13 Mark I (3rd R.T.R.) is a highly manoeuvrable tank, with an acceptable tank gun, excellent mobility, and incredibly light armour. The A13 Mark I (3rd R.T.R.) should not be used as a frontline tank. Instead, utilize your mobility to your advantage: spot, flank, and support your allies, and blind your enemies with strategically constructed smoke screens in vital areas. In flanking tactics, emphasize targeting secluded targets so you can fully exploit the element of surprise and outflank your opponent. Never expose yourself for too long since even anti-aircraft guns can penetrate your light armour. However, in muddy terrain, the A13 Mark I (3rd R.T.R.) might feel slow and has a tendency to slide sideways. At some point, it was also given for free if you chose Britain as your first nation when you started the game.",
+ "image": "https://static.encyclopedia.warthunder.com/images/uk_a_13_mk1_3rd_rtr.png",
+ "weapons": [
+  "40 mm QF 2-pounder cannon",
+  "7.7 mm Vickers machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "14 / 14 / 14 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "93 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "48"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "24.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "87 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.6 → 2.8 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "25.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,500 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "390 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "322"
+  },
+  {
+   "label": "Crew training",
+   "value": "150"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (15 / 15 / 15) %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,140"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Shot Mk.1 AP/T",
+   "type": "AP",
+   "penetration": [
+    "72",
+    "68",
+    "52",
+    "37",
+    "27",
+    "19"
+   ]
+  },
+  {
+   "name": "Shot Mk.IXB APCBC/T",
+   "type": "APCBC",
+   "penetration": [
+    "89",
+    "86",
+    "77",
+    "66",
+    "57",
+    "50"
+   ]
+  },
+  {
+   "name": "Shot Mk.1 APHV/T",
+   "type": "AP",
+   "penetration": [
+    "80",
+    "75",
+    "58",
+    "41",
+    "30",
+    "21"
+   ]
+  },
+  {
+   "name": "Shell Mk.1 AP/T",
+   "type": "APHE",
+   "penetration": [
+    "66",
+    "62",
+    "49",
+    "36",
+    "26",
+    "19"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "IT/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,118 @@
+{
+ "id": "uk_a1e1_independent",
+ "wiki": "https://wiki.warthunder.com/unit/uk_a1e1_independent",
+ "name": "Independent",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "heavy_tank",
+ "role": "Heavy tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "The A1E1 Independent was an experimental British multi-turreted tank. Its development began in 1922 and was heavily influenced by the experience of World War I tank design, particularly in its numerous anti-infantry armament, weak armour, and large size in order to cross trenches. It was designed with reference to the French Char 2C , but was lighter and more manoeuvrable; the multi-turret concept would go on to influence a number of other tank designs, including the Soviet T-28 and T-35 , and the German Neubaufahrzeug . The first and only prototype of the A1E1 was built in 1926 and remained in service until 1935. However, at the start of World War II, the tank was returned to service and used as a static pillbox in case of German invasion of the British Isles. It survived the war and is now on display at the Bovington Tank Museum. Introduced in Update 1.63 \"Desert Hunters\" , the Independent is relatively survivable due to its large crew complement, but limited by its thin armour and large silhouette. Despite its size, it is surprisingly mobile and responsive, though not particularly fast. Firepower-wise, the Independent only has access to an APHE shell, with rather lacklustre penetration but adequate post-penetration damage.",
+ "image": "https://static.encyclopedia.warthunder.com/images/uk_a1e1_independent.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "28 / 13 / 13 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "102 %"
+  },
+  {
+   "label": "Crew",
+   "value": "8 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "32"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "11.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "201 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-4 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "16,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "390 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 15°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-130 / 40°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "17.5"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,621"
+  },
+  {
+   "label": "Crew training",
+   "value": "2,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (35 / 45 / 60) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Shell Mk.I",
+   "type": "APHE",
+   "penetration": [
+    "49",
+    "47",
+    "38",
+    "29",
+    "22",
+    "17"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "IT/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

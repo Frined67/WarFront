@@ -1,0 +1,206 @@
+{
+ "id": "wellington_mk1c_late",
+ "wiki": "https://wiki.warthunder.com/unit/wellington_mk1c_late",
+ "name": "Wellington Mk Ic/L",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "3.0"
+ },
+ "description": "The Vickers Wellington Mk Ic/L was a late version of the Wellington Mk. Ic bomber. Based on the combat performance of these bombers, Vickers decided to move the side turrets closer to the tail of the aircraft and cover the windows with metal sheets. Aircraft that had already been produced were retrofitted in the field. A total of 2,685 Wellington Mk Ic aircraft were produced and actively used during the early years of World War II. The Wellington Mk Ic/L has been in the game since the start of the Open Beta Test prior to Update 1.27. Its virtually identical to the earlier Mk Ic version in all respects. It has decent survivability, allowing it to withstand numerous hits from enemy machine guns. It also has a good bomb load and the option to carry torpedoes instead of bombs. However, the bomber has several drawbacks. These include a low top speed, weak defensive armament consisting of underpowered 7.7 mm machine guns, which are vulnerable due to their position and lack of armor.",
+ "image": "https://static.encyclopedia.warthunder.com/images/wellington_mk1c_late.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "378"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "5.3"
+  },
+  {
+   "label": "Turn time",
+   "value": "35"
+  },
+  {
+   "label": "Max altitude",
+   "value": "6,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "876 m"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Pegasus XVIII"
+  },
+  {
+   "label": "Length",
+   "value": "18.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "26.3 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "159 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "9.77"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "2.53 t (4h 26m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "530 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.62 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/5 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "223 / 264 / 315 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "264 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "6,000"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "849 → 1,136"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "60 / 130 / 210 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,420"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/AP-I/Ball/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP-I/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/AP-I/Ball/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP-I/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

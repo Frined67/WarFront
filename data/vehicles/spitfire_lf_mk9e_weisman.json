@@ -1,0 +1,258 @@
+{
+ "id": "spitfire_lf_mk9e_weisman",
+ "wiki": "https://wiki.warthunder.com/unit/spitfire_lf_mk9e_weisman",
+ "name": "Weizman's Spitfire LF Mk.IXe",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "IV",
+ "br": {
+  "AB": "5.7",
+  "RB": "6.0",
+  "SB": "6.3"
+ },
+ "description": "The Spitfire got into Israeli hands during the 1948 War of Independence and by the end of the war, most of the IAF's fighters were Spitfires of different models. The Black Spitfire (originally No. 2057) arrived in Israel in 1949 after the war. It served with the 101 in the same way as other Spitfires: reconnaissance and escort missions. When most Spitfires were sold to Burma in 1954, Ezer Weizman, then commander of the Ramat David air force base and future President of Israel, argued in favour of keeping some units in Israel. The Spitfire was painted black with the number 57. Even though it was supposed to be used for training purposes, many considered the aircraft to be personally owned by Ezer Weizman and the plane was flown in numerous parades in Israel, becoming known as \"Weizman's Black Spit\". Introduced as a premium pack in Update \"Ground Breaking\" , Ezer Weizman's Spitfire LF Mk IXe is a formidable fighter. It has very good climb rate and acceleration, alongside the dogfight capabilities that are present in all Spitfires. Is capable of outmanoeuvring except maybe for some Japanese planes at its BR. However, some of its weaknesses are the lacking ground ordnance, thus is very hard to use for close air support, and the relatively weak engine. Though it is not a slow plane by any means, it will constantly fight planes that are much faster, and have better energy retention, including the I-225 , Yak-3U , and P-51s. Thus, very accurate shots are required, because the Spitfire loses speed rather quickly in dogfights against some of these aircraft, that way, prolonged fights are not recommended.",
+ "image": "https://static.encyclopedia.warthunder.com/images/spitfire_lf_mk9e_weisman.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "690"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "31.7"
+  },
+  {
+   "label": "Turn time",
+   "value": "14.8"
+  },
+  {
+   "label": "Max altitude",
+   "value": "11,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "320 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Merlin-66"
+  },
+  {
+   "label": "Length",
+   "value": "9.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.3 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "150 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.07"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.29 t (46m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "774 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.87 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "270 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "270 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.32 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "520 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.57 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,941"
+  },
+  {
+   "label": "Crew training",
+   "value": "10,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (100 / 225 / 475) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEI/SAP-I/T",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/SAP-I",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/HEI/SAP-I/HEI/SAP-I",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/SAP-I/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI/HEI/SAP-I",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP-I",
+   "penetration": [
+    "26",
+    "24",
+    "18",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/AP-I/T/I",
+   "penetration": [
+    "26",
+    "24",
+    "18",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP-I/AP-I/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/T/T/AP-I",
+   "penetration": [
+    "26",
+    "24",
+    "18",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/AP-I/I/I",
+   "penetration": [
+    "26",
+    "24",
+    "18",
+    "12",
+    "8",
+    "5"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

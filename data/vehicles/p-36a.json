@@ -1,0 +1,245 @@
+{
+ "id": "p-36a",
+ "wiki": "https://wiki.warthunder.com/unit/p-36a",
+ "name": "P-36A",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.3",
+  "SB": "1.7"
+ },
+ "description": "The Curtiss P-36 Hawk was an American fighter developed during the interwar period. The P-36 originated from a private venture by Curtiss to build a fighter that was a revolutionary departure from the fabric-covered biplanes common at that time. The aircraft featured various cutting-edge innovations for its era, namely its all-metal construction, enclosed cockpit, and retractable landing gear. After the prototype made its first flight on 6 May 1935, the P-36 was pitted against the Seversky P-35 , another revolutionary monoplane fighter of similar construction, though in the end both aircraft were ordered by the USAAF. However, due to rapid advancements in aviation technology, the P-36 became obsolete by the time World War II broke out in 1939, resulting in the type seeing minimal service with the US. Nevertheless, the P-36 enjoyed export success under the name \"Hawk 75\", and held the distinction of being one of the few aircraft to see service on both the Allied and Axis sides. In total, 1,115 P-36s were built, including 900 export Hawk 75 variants. The P-36A was the first serial production variant of the P-36. While considered modern at its introduction in 1938, it was quickly outclassed by other fighters and was reserved for second-line duty. The P-36A's only combat for the US was during the Attack on Pearl Harbor on 7 December 1941, during which a handful of P-36As that were still intact during the initial attack fought against the superior Japanese A6M Zero fighters. In total, 215 P-36As were built, with 30 of them later upgraded to the P-36C variant. Introduced in Update 1.31 , the P-36A is considerably agile for an early monoplane and is capable of outmatching most biplanes in terms of speed. Its armament consists of one 12.7 mm and one 7.62 mm machine gun mounted in the nose. While not the best armament, it is still effective against most of the thin-skinned planes it usually faces.",
+ "image": "https://static.encyclopedia.warthunder.com/images/p-36a.png",
+ "weapons": [
+  "12.7 mm M2 Browning machine gun",
+  "7.62 mm Browning machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "504"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "17.3"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,058 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "167 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "R-1830-17"
+  },
+  {
+   "label": "Length",
+   "value": "8.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "120 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.19"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.44 t (1h 31m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "681 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.78 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "232 / 447 / 488 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "290 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.55 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "115 → 146"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 40 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP/AP/T/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP/T/T/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

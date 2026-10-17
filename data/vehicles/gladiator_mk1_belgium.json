@@ -1,0 +1,166 @@
+{
+ "id": "gladiator_mk1_belgium",
+ "wiki": "https://wiki.warthunder.com/unit/gladiator_mk1_belgium",
+ "name": "▄Gladiator Mk I",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The Gladiator Mk I (France) was part of an aeronautical modernization plan by the Belgian government to keep up with other nations, primarily Germany. This plan involved upgrading the Fairey Firefly IIMs of the 2nd Regiment (I/2Aé). The 1st Squadron 'Thistle' (2/I/2Aé) was upgraded to Hawker Hurricanes, while the 2nd Squadron 'Comet' (1/I/2Aé) received Gloster Gladiators. A total of 22 Gladiators were ordered, with 15 delivered from Gloster and an additional 7 to be assembled by the domestic Belgian aerial industry, SABCA. The Gladiators were primarily used for training in preparation for WWII. During the Phoney War, a Gladiator shot down a He 111. However, six Gladiators were lost due to attrition, and one was kept unarmed as a personal aircraft (G-38) by General Hiernaux. This left 16 Gladiators serviceable by the start of the German Blitzkrieg on May 10, 1940. Most Gladiators were lost during taxiing and take-off at the start of the battle by an air raid of Do 17s of JG 77. The remaining Gladiators faced off against the superior Bf 109s of I./JG 1, suffering heavy losses. The last two surviving Gladiators, both severely damaged, retreated to Beauvechain. On the afternoon of the next day, May 11, 1940, I./JG 1 returned and strafed the airfield with twelve Bf 109s, dealing the final blow to I/2 Aé, which had just lost the last aircraft of its force composed of Hurricanes and Gladiators. This aircraft's specific camouflage represents Gladiator 'G-30' of the 2nd Squadron 'La Comète' (1/I/2Aé) of the Belgian Air Force. G-30 was acquired in the second batch of September 1937 but crashed in a snowstorm at Rognée (near Namur) on February 11, 1938. It was introduced in Update \"Seek & Destroy\" . The Belgian Gladiator Mk I is the first aircraft available for players in the BeNeLux subtree. Its playstyle and performance is practically identical to the other aircraft of the Gladiator (Family), so pilots who have flown other aircraft of this type in the British, Chinese and Swedish tech trees will already be familiar with it. For beginners, the Belgian Gladiator Mk I offers a reliable platform which excels in turnfighting.",
+ "image": "https://static.encyclopedia.warthunder.com/images/gladiator_mk1_belgium.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "414"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "15.7"
+  },
+  {
+   "label": "Turn time",
+   "value": "16"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,211 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "231 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Mercury-IX"
+  },
+  {
+   "label": "Length",
+   "value": "8.4 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "73 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.84"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.28 t (1h 24m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "560 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "320 / 469 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "97 → 121"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,960"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/AP-I/Ball/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

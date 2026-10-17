@@ -1,0 +1,116 @@
+{
+ "id": "fr_renault_r39",
+ "wiki": "https://wiki.warthunder.com/unit/fr_renault_r39",
+ "name": "R.35 (SA38)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The R.35 (SA38) was the most common tank in the French Armed Forces at the start of WWII, with 900 units in active service. The tank was doctrinally intended for infantry support, being fielded in infantry tank battalions, as such, the vehicle had a very poor anti-tank performance. Not all R.35s received the SA 38 gun, instead, H.35s and H.39s had priority in this aspect. A limited version of the R.35 sometimes referred as R.40 saw limited service. A few were used by the French Resistance during the fall of Paris in 1944. It was introduced in Update 1.75 \"La Résistance\" as the R.39 and was subsequently renamed R.35 (SA38) in Update 1.89 \"Imperial Navy\" . The R.35 is in many ways similar to the other light tanks in the lower French tech tree; mobility is exchanged for thicker armour. It also has the other well-known features like a one-man turret and a decent gun with poor post-penetration damage. The reload time is longer than that of most tanks at its rank, but this is usually overcome by its low silhouette and thick side armour. It shares many of its shortcomings with other French tanks of rank I, so players should already be used to the playstyle. It is overall a decent vehicle, with very potent armour and a sluggish top speed.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_renault_r39.png",
+ "weapons": [
+  "7.5 mm MAC 31 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "43 / 40 / 32 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "72 %"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "20"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "7.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "58 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-16 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,800 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "550 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "106 → 136"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Mle1938",
+   "type": "APC",
+   "penetration": [
+    "54",
+    "50",
+    "36",
+    "24",
+    "16",
+    "11"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,312 @@
+{
+ "id": "pe-3_early",
+ "wiki": "https://wiki.warthunder.com/unit/pe-3_early",
+ "name": "Pe-3 (e)",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "In mid-1938, a group of convicted designers and engineers led by V. M. Petlyakov began developing a high-altitude, long-range fighter designated VI-100 while held in a special NKVD design bureau. As the new aircraft was being developed, the military determined that it would be better suited as a dive bomber. To this end, a bomb compartment and external mountings were installed, and the crew was expanded to three people. The standard armament of two 20 mm cannons and two 7.62 mm ShKAS machine guns was retained. Testing of the new fighter-dive bomber began on April 11, 1940. On May 1, it was first demonstrated to the public at an air parade in Moscow. Following the spring 1940 tests, the command proposed creating two aircraft with a more focused design: the PB-100 (Pe-2) dive bomber, which lacked a pressurized cockpit and turbochargers; and the VI-100 heavy fighter, which had them and reinforced armament. However, development of the VI-100 was delayed. With the outbreak of the Great Patriotic War, the demand for heavy fighters increased, and on August 2, 1941, Petlyakov was assigned the task of developing a high-altitude fighter based on the Pe-2 aircraft within four days. Using developments from the VI-100 project, Petlyakov presented the first prototype on August 7. The Pe-2's bomb racks were removed, and an additional fuel tank was installed in the bomb bay. The designers also removed the lower gunner's seat, sealed the upper hatch, and installed two additional 225-liter tanks. The armament was reinforced with a second UB machine gun and a fixed ShKAS in the tail cockpit. The new aircraft was designated the Pe-3 , and by the end of August, early production models began arriving at IAPs. The Pe-3 (e) has been in the game since the start of the Open Beta Test prior to Update 1.27. It is a heavy fighter with good roll and maneuverability for a twin-engine aircraft. However, it has a small ammunition load and overall weak armament. Additionally, it has a large number of fuel tanks that often catch fire when hit.",
+ "image": "https://static.encyclopedia.warthunder.com/images/pe-3_early.png",
+ "weapons": [
+  "7.62 mm ShKAS machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "535"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10"
+  },
+  {
+   "label": "Turn time",
+   "value": "26"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,400 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "326 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x VK-105R"
+  },
+  {
+   "label": "Length",
+   "value": "12.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "17.1 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "193 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "6.15"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.68 t (2h 56m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "760 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "320 / 469 / 498 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "450 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "300 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,026 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.82 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "450 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "720 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "360 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "167 → 214"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 30 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,460"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/AP/IAI",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "11",
+    "7"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/API-T/IAI/IAI",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/AP-I/IAI",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-I(c)/AP-I/AP-I/API-T/IAI",
+   "penetration": [
+    "34",
+    "32",
+    "24",
+    "17",
+    "12",
+    "8"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/IAI",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AI/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-I/AP-I/AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "API-T/API-T/API-T/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,268 @@
+{
+ "id": "hp52_hampden_tbmk1_ussr_utk1",
+ "wiki": "https://wiki.warthunder.com/unit/hp52_hampden_tbmk1_ussr_utk1",
+ "name": "▂Hampden TB Mk I",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "2.0"
+ },
+ "description": "On 4th September 1942, 32 Hampden TB Mk I torpedo bombers from 144th Squadron RAF and 455th Squadron RAAF took off from their bases in the Shetlands to take part in Operation Orator, protecting the Murmansk-bound convoy PQ 18. The Hampdens flew over 3,900 km over sea and enemy territory until they arrived in Vayenga. Eight Hampdens were lost en route or damaged beyond repair. The British and Australian crews conducted a few sorties from Vayenga and were supposed to return with their Hampdens to Shetlands; however, strong headwinds prevented this as the Hampdens would not be able to reach their bases. The British instead trained Soviet crews in using the Hampdens and returned home by ship. The Soviet Navy's 24th Mine-Torpedo Aviation Regiment then operated the Hampdens until mid-1943 when lack of replacements and suitable spare parts forced them to withdraw them from service and return back to their original IL-4/DB-3 series bombers. Introduced in Update 1.65 \"Way of the Samurai\" , the Hampden TB Mk I UTK-1 features quite an impressive bomb load for its size, being able to destroy more than two bases in Air Realistic Battles at its battle rating. It also has access to the British Mark XII torpedo, having slightly higher drop speed than its Soviet 45-36AN counterpart. Unlike its British cousin, the Hampden in Soviet service had its defensive armament strengthened, as the dorsal twin 7.7 mm Vickers K machine guns were replaced by a single 12.7 mm Berezin UBT heavy machine gun in a rotating turret.",
+ "image": "https://static.encyclopedia.warthunder.com/images/hp52_hampden_tbmk1_ussr_utk1.png",
+ "weapons": [
+  "7.7 mm Browning machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "406"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "9.3"
+  },
+  {
+   "label": "Turn time",
+   "value": "34"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,400 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "326 m"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Pegasus XVIII"
+  },
+  {
+   "label": "Length",
+   "value": "16.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "21.1 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "139 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "7.16"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.44 t (3h 31m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "506 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/5 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "210 / 359 / 388 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "225 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "300 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,026 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.82 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,700"
+  },
+  {
+   "label": "Fire rate",
+   "value": "950 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "2,450 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "250 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "212"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,400"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (30 / 60 / 115) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/AP-I/Ball/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/AP/IAI",
+   "penetration": [
+    "32",
+    "30",
+    "22",
+    "15",
+    "11",
+    "7"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "API-T/AP/AP/AP-I(c)",
+   "penetration": [
+    "34",
+    "32",
+    "24",
+    "17",
+    "12",
+    "8"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "API-T/AP-I",
+   "penetration": [
+    "29",
+    "27",
+    "20",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/Ball/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "IT/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "IT/AP-I/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,182 @@
+{
+ "id": "a_4h",
+ "wiki": "https://wiki.warthunder.com/unit/a_4h",
+ "name": "A-4H",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "VI",
+ "br": {
+  "AB": "8.7",
+  "RB": "8.3",
+  "SB": "8.0"
+ },
+ "description": "In 1963, Israel proposed acquiring US Navy surplus Skyhawks or having a special variant made for Israeli use. At the time, the proposal was rejected as part of America's attempt to remain neutral, but that changed three years later. The US planned to make a new variant for Israel called the A-4H . The A-4H was intended to be a regular A-4E but better suited for land-based operations. It was powered by the J52-P-8A, the same engine found in the humpback A-4Es. The A-4H was also fitted with two 30 mm DEFA cannons rather than the standard armament of 20 mm cannons. Israel received around 90 A-4Hs before they were replaced by the vastly superior F-16 Fighting Falcon . Introduced in Update \"Winged Lions\" , the Israeli A-4H is an excellent aircraft for both air-to-air combat and ground striking. For air combat, the A-4H features a relatively light airframe and the powerful J52-P-8A engine, which provides a respectable thrust-to-weight ratio. The two 30 mm cannons are devastating to enemy aircraft as well as soft ground targets and some medium tanks. Unfortunately, the A-4H lacks any air-to-air missiles, so players are limited to guns only. For ground striking, the A-4H has a wide array of ordnance options, allowing for many unique loadouts. However, it lacks guided suspended weaponry.",
+ "image": "https://static.encyclopedia.warthunder.com/images/a_4h.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "1,087"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "55"
+  },
+  {
+   "label": "Turn time",
+   "value": "34"
+  },
+  {
+   "label": "Max altitude",
+   "value": "12,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "1,000 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "J52-P-8A"
+  },
+  {
+   "label": "Length",
+   "value": "12 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "8.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "299 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "4.75"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "2.47 t (39m)"
+  },
+  {
+   "label": "Fuel for additional engines",
+   "value": "0.08 t"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "1,167 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "1.28 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/8 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "410 / 563 / 592 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "437 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "300 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "5.03 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "3,720 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "1,860 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,007 → 4,087"
+  },
+  {
+   "label": "Crew training",
+   "value": "110,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "110 / 310 / 600 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "114,200"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/HEI/HEF",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "HEI/API-T/API-T/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF/HEI/HEF/HEI/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF/HEI",
+   "penetration": [
+    "4",
+    "4",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

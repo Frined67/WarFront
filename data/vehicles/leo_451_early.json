@@ -1,0 +1,276 @@
+{
+ "id": "leo_451_early",
+ "wiki": "https://wiki.warthunder.com/unit/leo_451_early",
+ "name": "LeO 451 early",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "3.0",
+  "SB": "3.0"
+ },
+ "description": "The LeO 451 started development in the early 1930s as the French Air Force wanted to procure a new light bomber for their young bombing branch. The first prototype flew in 1937, with only minor issues, aside from that, it displayed excellent performance, it used a pair of Hispano-Suiza engines. A second prototype was built using different engines with testing in 1938. However, the engines of the second prototype could not be obtained in time for the aircraft's production, but even with this setback, the aircraft's numbers quickly raised before the Invasion of France in May 1940. The aircraft suffered heavy losses against German pilots that had complete air superiority, however it performed much better against Italian forces in southern France. It was introduced in Update 1.73 \"Vive la France\" . The LeO 451 is a versatile high-speed medium bomber that is capable of undertaking low-level ground attack strikes against tanks, pillboxes, and other small targets. It also carries a fairly respectable bomb load for its battle rating, and can be used to destroy bases efficiently. The sleek, graceful lines of the LeO 451 represent a complete departure from the very angular, slab-sided Farman F.222.2 and SNCAC NC.223.3 heavy bombers. The LeO 451 sacrifices bombload for high speed, although at a 1,900 kg maximum load it still carries a respectable amount compared to similar bombers like the Petlyakov Pe-2 and the CRDA Cant Z.1007bis Alcione series. It is also quite manoeuvrable for a twin-engine bomber.",
+ "image": "https://static.encyclopedia.warthunder.com/images/leo_451_early.png",
+ "weapons": [
+  "7.5 mm MAC 1934 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "495"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "5.9"
+  },
+  {
+   "label": "Turn time",
+   "value": "30"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "550 m"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "14N-38"
+  },
+  {
+   "label": "Length",
+   "value": "17.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "22.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "188 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "8.28"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "2.1 t (3h 58m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "550 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.52 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/7 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "270 / 367 / 386 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "340 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "300 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,350 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "120 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.45 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,350 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "2,100 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "600 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "633 → 868"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 90 / 160 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,410"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "PT/HEI/AP/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-T/AP/AP-T/HEI/AP-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/AP-T/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

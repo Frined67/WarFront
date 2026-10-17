@@ -1,0 +1,184 @@
+{
+ "id": "f-4e_iaf",
+ "wiki": "https://wiki.warthunder.com/unit/f-4e_iaf",
+ "name": "Kurnass",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "VII",
+ "br": {
+  "AB": "11.3",
+  "RB": "11.3",
+  "SB": "11.3"
+ },
+ "description": "The Kurnass (Heavy Hammer) is the Israeli variant of the F-4 Phantom. After the Six-Day War and other political situations, the US sent F-4 Phantoms to Israel under the authorization of President John F. Kennedy and then Lyndon Johnson. After arrival, crew training quickly began and the Kurnasses were soon in action against Egypt in the War of Attrition. After the war, more F-4Es were delivered under various programs like Peace Echo II. The Kurnasses were the main frontline fighter, but after the F-16 Fighting Falcon and F-15 Eagle came into service, the F-4 was relegated to air-to-ground duties. Many Kurnasses would later be converted to the Kurnass 2000 standard, which had new electronics and other improvements. Introduced in Update \"Winged Lions\" , the Kurnass is much like the F-4E found in the American tech tree. They are very similar planes with the exception of suspended armament: the Kurnass has AIM-9D/Gs and lacks the ability to carry GBU-15(V)1/B guided bombs. The Kurnass can carry a huge variety of bombs as well as guided munitions like the AGM-65B Maverick. As for air combat, the Kurnass can carry the deadly AIM-7E-2 Sparrow and AIM-9G Sidewinder. The AIM-9G can be utilized from long range thanks to its long-burning motor and the Phantom's high speed. As for the AIM-7E-2, players should launch these from 3-6 km (1.86-3.7 mi) due to the short burn time of the motor. Furthermore, the Kurnass lacks pulse-doppler radar which hinders its ability to engage targets at long range.",
+ "image": "https://static.encyclopedia.warthunder.com/images/f-4e_iaf.png",
+ "weapons": [
+  "20 mm M61A1 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "2,140"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "190"
+  },
+  {
+   "label": "Turn time",
+   "value": "26"
+  },
+  {
+   "label": "Max altitude",
+   "value": "16,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "850 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x J79-GE-17"
+  },
+  {
+   "label": "Length",
+   "value": "17 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.7 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "408 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "14.21"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "5.87 t (33m)"
+  },
+  {
+   "label": "Fuel in drop tanks",
+   "value": "1.85 t (10m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "1,458 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "2.45 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "463 / 625 / 1,500 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "463 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "640 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "6,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "9.98 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "7,257 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "3,000 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,949 → 3,984"
+  },
+  {
+   "label": "Crew training",
+   "value": "180,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "100 / 310 / 600 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "195,500"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,900"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEF-I/API-T/AP-I",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF-I/HEF-I/API-T/HEF-I/HEF-I/AP-I",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "API-T/AP-I/AP-I/AP-I/HEF-I",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF-I/AP-I/AP-I",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,182 @@
+{
+ "id": "p-51d-20-na_j26",
+ "wiki": "https://wiki.warthunder.com/unit/p-51d-20-na_j26",
+ "name": "J26",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "III",
+ "br": {
+  "AB": "3.7",
+  "RB": "4.0",
+  "SB": "5.0"
+ },
+ "description": "Due to Sweden's proximity to the war, several P-51s made emergency landings at Swedish airfields. Out of the many that landed, a few were selected and put under Swedish service, but at this point, Sweden was still neutral. However, as the war neared its end, Sweden thought they would become involved and bought 50 P-51Ds, which were designated as the J26 . Sweden later bought more Mustangs due to the slow development and roll-out of their own domestic aircraft, the SAAB-21. Sweden had over 140 Mustangs until more advanced aircraft replaced them. Many J26s were sold off to other countries like Israel and Nicaragua. Introduced in Update 1.95 \"Northern Wind\", the J26 is based on the P-51D-20 , which unfortunately lacks the higher manifold pressure of some variants, resulting in relatively lacklustre climb rate and acceleration. Furthermore, it is a weak dogfighter because of its weight. Players should stick to boom-and-zoom tactics and rarely engage in dogfights unless absolutely necessary. The minimum fuel load (31 minutes) also compounds the weight issue. It retains the six 12.7 mm wing-mounted machine guns but has a much weaker bomb load of only two 50 kg bombs.",
+ "image": "https://static.encyclopedia.warthunder.com/images/p-51d-20-na_j26.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "710"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "18.9"
+  },
+  {
+   "label": "Turn time",
+   "value": "22"
+  },
+  {
+   "label": "Max altitude",
+   "value": "12,700 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "396 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "V-1650-7"
+  },
+  {
+   "label": "Length",
+   "value": "9.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.3 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "205 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.83"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.74 t (1h 45m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "901 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.84 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "265 / 513 / 644 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "281 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,080"
+  },
+  {
+   "label": "Fire rate",
+   "value": "768 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.57 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "833 → 1,100"
+  },
+  {
+   "label": "Crew training",
+   "value": "13,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 130 / 260 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "19,800"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "980"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/AP/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/T/I/I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/I/AP/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T",
+   "penetration": [
+    "10",
+    "8",
+    "7",
+    "6",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/I/AP-I/I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

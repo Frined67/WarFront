@@ -1,0 +1,242 @@
+{
+ "id": "ki_44_1",
+ "wiki": "https://wiki.warthunder.com/unit/ki_44_1",
+ "name": "Ki-44-I",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "3.0"
+ },
+ "description": "The Ki-44-I , designated as the Type 2 Single-Seat Fighter, Model I ( 二式単座戦闘機一型 ) was developed alongside the lighter Ki-43 and the twin-engined Ki-45 in response to Western aircraft with retractable landing gear, such as the German Bf 109 and the British Spitfire, which were introduced shortly after the Japanese deployment of the Ki-27 in 1937. While the Ki-43-I was designed as an agile, machine-gun-armed fighter, the Ki-44 was intended to be a heavier, faster, cannon-armed single-seat aircraft, with the Ki-45 ko serving as a long-range twin-engine aircraft to complement these planes. During its development and service, many Japanese aviators were opposed to the concept of a heavier single-engine aircraft that sacrificed agility for other factors. These doctrinal clashes were temporarily quelled by the tactics employed by the Soviet Air Force during the Nomonhan Incident, where the I-16 outperformed Japanese pilots using hit-and-run tactics and faster aircraft. Nakajima, tasked with developing all three aircraft, had little experience with \"heavy\" planes, resulting in the Ki-44 being lighter than a Bf 109, yet still valuable due to its high speed and formidable firepower. It even outperformed the Japanese-imported Bf 109 E-7 in some aspects, despite its poor visibility and high landing speed requirements. The Ki-44 entered service in 1941, but many veteran Japanese pilots continued to dislike the aircraft, even though it achieved some successes in its smaller numbers. While the Ki-44 might seem less appealing to Japanese aviators compared to the Army's Ki-43 or the Navy's A6M, it remains a fairly nimble aircraft that simply requires a different strategy. Boom-and-zoom tactics are key to the Ki-44's success; with its more powerful engine and increased firepower, the pilot should climb and dive on targets for maximum effect, regaining altitude for subsequent attacks. Although the Ki-44 is agile enough to change tactics or manoeuvres on the fly, pilots should note that it isn't as nimble as the previously mentioned aircraft.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ki_44_1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "558"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "21.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "16.5"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,800 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "190 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Ha-41"
+  },
+  {
+   "label": "Length",
+   "value": "8.9 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "165 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.16"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.38 t (1h 13m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "850 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.81 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/13 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "250 / 412 / 433 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "250 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.53 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,100 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.19 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "354 → 448"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 60 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,930"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEF-I/AP/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/HEF-I/HEF-I/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/AP/AP-T",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/HEF-I/HEF-I/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/IAI/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "I/AP/AP/AP/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

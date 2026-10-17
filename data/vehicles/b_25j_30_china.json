@@ -1,0 +1,278 @@
+{
+ "id": "b_25j_30_china",
+ "wiki": "https://wiki.warthunder.com/unit/b_25j_30_china",
+ "name": "␗B-25J-30",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "III",
+ "br": {
+  "AB": "4.0",
+  "RB": "3.7",
+  "SB": "4.3"
+ },
+ "description": "The B-25J-30 (China) is a Chinese bomber. It was introduced in Update 1.91 \"Night Vision\" . Design of the B-25 was the result of years of work and failed bids to win contracts with the United States Army Air Corps (USAAC). Initially designed to meet requirements for a payload of 1,200 lb (540 kg), a range of 1,200 mi (1,900 km) and flying at speeds faster than 200 mph (320 km/h), prototypes were built, tested, and refined. Although the original XB-21 and NA-40 never materialized into a production aircraft, requirements from the USAAC came out in March of 1939 for a medium bomber carrying a payload of 2,400 lb (1,100 kg) over 1,200 mi (1,900 km) at speeds around 300 mph (480 km/h), North American modified their design of NA-40 and developed the NA-62 which went into prototype testing as the YB-25 and then ordered into production as the B-25. The B-25 turned out to be the archetype of the medium bomber, carrying upwards of 3,000 lb (1,361 kg) of bombs and could fly at speeds up to 340 mph (547 km/h). This twin-engine bomber was fast, it could carry a large payload for its size and had several defensive turrets and gunner stations at which it could defend itself from almost any angle. To increase its versatility, several models had forward-facing fixed machine guns fitted into the nose and the cheeks of the aircraft. Later models opted to removed the glazed nose and bombardier/nose-gunner station and outfit more machine guns and even a 75 mm autocannon for strafing ground targets and especially ships. This medium bomber at times acted more like a heavy attacker opting for low-level flights which would skim treetops and the ocean to sneak up on unwary targets. It was not uncommon for B-25s to fly just above the mast/smokestack height of enemy ships when attacking. As later models moved from the dedicated bomber position and morphed into more of an attacker role, bomb payloads were reduced to allow for more armour around the cockpit and more offensive weapons and ammunition to fill the attacker mode it took on, especially under the command of U.S. Marine Corps squadrons. With more than 10,000 B-25 aircraft variants built, they saw action in all theatres of war and were even subject to part of the lend-lease program which China and the USSR benefitted from. So versatile was this aircraft that a flight of them were specifically outfitted and their crews trained to take off from an aircraft carrier and bomb mainland Japan in a daring raid. Impressive for an aircraft not meant to take off from an aircraft carrier. The B-25 is a fantastic bomber, attacker or both and will suit many different pilots and their different approaches to the battlefields found in War Thunder. The tail gunner has been known to set many fighters alight with their dual .50 calibre machine guns and help to prolong the life of this bomber to allow the pilot to make it to their target whether it is to bomb it or strafe it.",
+ "image": "https://static.encyclopedia.warthunder.com/images/b_25j_30_china.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "444"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "7.7"
+  },
+  {
+   "label": "Turn time",
+   "value": "31"
+  },
+  {
+   "label": "Max altitude",
+   "value": "7,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "750 m"
+  },
+  {
+   "label": "Crew",
+   "value": "7 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x R-2600-29"
+  },
+  {
+   "label": "Length",
+   "value": "16.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "20.6 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "243 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "11.09"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "2.66 t (2h 31m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "591 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.65 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/5 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "294 / 320 / 382 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "294 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,400 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "800"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "941 → 1,300"
+  },
+  {
+   "label": "Crew training",
+   "value": "13,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "70 / 150 / 280 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "19,950"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "980"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP-I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/AP-I/T/I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP/AP-I/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/T/T/AP-I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP-I/AP-I/I/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/I/AP-I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/T",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/AP-I/T",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/I/AP-I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/T",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/AP-I/T",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

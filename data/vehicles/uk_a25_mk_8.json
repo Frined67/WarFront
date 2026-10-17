@@ -1,0 +1,153 @@
+{
+ "id": "uk_a25_mk_8",
+ "wiki": "https://wiki.warthunder.com/unit/uk_a25_mk_8",
+ "name": "Harry Hopkins I",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The Light Tank Mk VIII (A25) , also known as the Harry Hopkins tank, was a British light tank developed in 1941 as a successor to the Mk VII (Tetrarch) tank . The Harry Hopkins is named in honour of the American chief diplomatic advisor of the same name, who was instrumental in the Lend-Lease programme. The Harry Hopkins was designed with survivability improvements over the Tetrarch, such as featuring frontal armour twice the thickness of the latter, while also having sloped armour to help deflect shells. However, due to the poor performance of the Tetrarch and other cruiser tanks in general, the Harry Hopkins was considered obsolete by the time it entered production in 1943. As such, the British Army reduced the original order of 1,000 tanks to just 100, and all of the produced tanks were given to the Royal Air Force to be deployed as airfield defence. At least a few chassis of the Harry Hopkins were later converted into the Alecto self-propelled gun prototype. Introduced in Update \"Hornet's Sting\" , the Harry Hopkins I is essentially an uparmoured version of the reserve Tetrarch light tank. Since survivability is the Hopkins' main focus of improvement over the Tetrarch, it is capable of resisting a decent amount of frontal fire from lower-calibre guns and machine guns. However, since the tank uses the exact same engine as the Tetrarch, it is significantly slower due to added weight and is generally on the lower end of mobility for a light tank. Nevertheless, due to its small size and an ability to scout, the Hopkins is still decently capable of supporting the team should one not push this tank too far.",
+ "image": "https://static.encyclopedia.warthunder.com/images/uk_a25_mk_8.png",
+ "weapons": [
+  "40 mm QF 2-pounder cannon",
+  "7.92 mm BESA machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "38 / 14 / 14 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "72 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "48"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "19.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "50 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.6 → 2.8 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,025 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "436 → 627"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 40 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,470"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Shot Mk.1 AP/T",
+   "type": "AP",
+   "penetration": [
+    "72",
+    "68",
+    "52",
+    "37",
+    "27",
+    "19"
+   ]
+  },
+  {
+   "name": "Shot Mk.IXB APCBC/T",
+   "type": "APCBC",
+   "penetration": [
+    "89",
+    "86",
+    "77",
+    "66",
+    "57",
+    "50"
+   ]
+  },
+  {
+   "name": "Shot Mk.1 APHV/T",
+   "type": "AP",
+   "penetration": [
+    "80",
+    "75",
+    "58",
+    "41",
+    "30",
+    "21"
+   ]
+  },
+  {
+   "name": "Shell Mk.1 AP/T",
+   "type": "APHE",
+   "penetration": [
+    "66",
+    "62",
+    "49",
+    "36",
+    "26",
+    "19"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

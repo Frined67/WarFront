@@ -1,0 +1,177 @@
+{
+ "id": "ussr_t_34_1941",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_t_34_1941",
+ "name": "T-34 (1941)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "4.0",
+  "RB": "4.0",
+  "SB": "4.0"
+ },
+ "description": "The T-34 (1941) is the second variant of the T-34 medium tank family. This variant was comparable to the earlier T-34 (1940) variant . The highly efficient, long-barrelled 76.2 mm F-34 tank gun was the most significant enhancement of the T-34 (1941) variant. Many components, such as the new gun mount, the welded turret with a new, single, wide hatch, and many other elements, were evaluated for mass manufacturing. The single hatch was kept for convenience, but it was heavy and easily clogged, trapping everyone within. The crews despised it (because of the poor comfort and ergonomics), and it was promptly dubbed the \"pirozhok\" (stuffed bun). Another weakness in the design was the extremely big rear exhaust covers. With no special-purpose hatch or traversable periscope, the turret crews were not adequately protected in the turret. Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the T-34 (1941) variant expanded on the ideology of the preceding T-34 (1940) variant. The T-34 (1941) variant had identical designs to the preceding variant, but one important enhancement was its firepower. Due to the increased barrel length, which leads to an increase in muzzle velocity, players will find it much easier to engage adversaries. Furthermore, ammo enhancements also offer to increase the overall performance of the T-34 (1941) variant. The T-34 (1941), with its sloped hull frontal armour plate, outstanding off-road performance, and manoeuvrability, combines mobility, protection, and firepower.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_t_34_1941.png",
+ "weapons": [
+  "76 mm F-34 cannon",
+  "7.62 mm DT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "45 / 45 / 40 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "83 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "49"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "17.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "77 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "9 → 6.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 30°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "17.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,898 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "678 → 923"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 70 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,440"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-350A (MD-5 fuze)",
+   "type": "APHEBC",
+   "penetration": [
+    "87",
+    "85",
+    "77",
+    "69",
+    "62",
+    "55"
+   ]
+  },
+  {
+   "name": "OF-350M",
+   "type": "HE",
+   "penetration": [
+    "13",
+    "12",
+    "11",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "Sh-354T",
+   "type": "Shrapnel",
+   "penetration": [
+    "35",
+    "34",
+    "30",
+    "26",
+    "22",
+    "19"
+   ]
+  },
+  {
+   "name": "BR-350SP",
+   "type": "APBC",
+   "penetration": [
+    "99",
+    "96",
+    "87",
+    "76",
+    "66",
+    "58"
+   ]
+  },
+  {
+   "name": "BR-350B (MD-8 fuze)",
+   "type": "APHEBC",
+   "penetration": [
+    "96",
+    "94",
+    "84",
+    "74",
+    "64",
+    "56"
+   ]
+  },
+  {
+   "name": "D-350A",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

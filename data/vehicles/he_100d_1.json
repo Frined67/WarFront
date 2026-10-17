@@ -1,0 +1,170 @@
+{
+ "id": "he_100d_1",
+ "wiki": "https://wiki.warthunder.com/unit/he_100d_1",
+ "name": "He 100 D-1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "2.0"
+ },
+ "description": "The He 100 D-1 is a German fighter. It was introduced in Update 1.65 \"Way of the Samurai\" . The He 100 is by loose definition a Boom and Zoom aircraft. Being the fastest plane at its rank, the He 100 enjoys a world of possibilities and tactics. If one attack run isn't enough to destroy the enemy, just extend or go into a zoom climb (which is aided by the plane's very good climb rate). When played with discipline, this tactic allows the He 100 to dominate almost every match it plays. The He 100's biggest weakness is its cooling system, which is distributed all over the aircraft, especially in the nose and wings. If hit, there's a roughly 70% chance that it will begin to leak water and overheat, requiring an almost immediate return to base. Because of this, is vital to prioritize the safety of the aircraft when in battle. Even one stray bullet can be enough to send this plane back to the hangar. Another weakness is the armament, which consists of only 3 x 7.92 mm MG 17 machine guns, which do not have the stopping power to take out bombers or more heavily armoured aircraft. Also, the ammunition supply is not extraordinarily large, so some trigger discipline will be required.",
+ "image": "https://static.encyclopedia.warthunder.com/images/he_100d_1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "670"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "16.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "20"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "350 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "DB-601A"
+  },
+  {
+   "label": "Length",
+   "value": "8.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "188 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.27"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.25 t (54m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "820 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.8 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 471 / 488 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "172 → 215"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 30 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

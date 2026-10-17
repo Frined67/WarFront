@@ -1,0 +1,238 @@
+{
+ "id": "n1k1_kyuofu",
+ "wiki": "https://wiki.warthunder.com/unit/n1k1_kyuofu",
+ "name": "N1K1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.3",
+  "SB": "2.7"
+ },
+ "description": "The N1K1 , designated as Kyōfū ( 強風 ) , was a floatplane fighter designed by Kawanishi Aircraft Company for the Imperial Japanese Navy in 1940. It was intended to support offensive operations in areas where no airstrips were available, but by the time it entered service in 1943, Japan was on the defensive and had little need for such a fighter. The N1K1 Kyōfū was powered by a Mitsubishi MK4C Kasei 13 engine and had a top speed of 489 km/h. It was armed with two 7.7 mm machine guns and two 20 mm cannons. It saw limited service in Southeast Asia, Okinawa and Lake Biwa, where it faced superior Allied fighters. The N1K1 Kyofu was also the basis of a land-based version, the N1K-J Shiden ( 紫電 ), considered one of the finest Japanese fighters of World War II. The N1K1 Kyōfū was introduced in Update 1.65 \"Way of the Samurai\" . It is a top-notch fighter seaplane, with better flight performance, more 20 mm ammo, and self-sealing fuel tanks than the previous A6M2-N . However, it is not a beginner-friendly plane, as the floats still affect its performance, and energy management is crucial to avoid being an easy target.",
+ "image": "https://static.encyclopedia.warthunder.com/images/n1k1_kyuofu.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "489"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "14.9"
+  },
+  {
+   "label": "Turn time",
+   "value": "19"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "500 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Kasei 14"
+  },
+  {
+   "label": "Length",
+   "value": "10.6 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "162 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.98"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.48 t (1h 19m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "600 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/7 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 421 / 449 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "535 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.14 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,100 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "497 → 629"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 80 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,390"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/HEF-I/HEF-I/APHE",
+   "penetration": [
+    "19",
+    "18",
+    "12",
+    "7",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "HEF-T/HEF/HEF/APHE",
+   "penetration": [
+    "21",
+    "20",
+    "13",
+    "8",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "APHE/APHE/APHE/APHE/HEF/HEF-T",
+   "penetration": [
+    "21",
+    "20",
+    "13",
+    "8",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "HEF-T",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF/HEF/HEF/APHE/APHE",
+   "penetration": [
+    "21",
+    "20",
+    "13",
+    "8",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/IAI/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "I/AP/AP/AP/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

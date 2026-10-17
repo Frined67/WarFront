@@ -1,0 +1,177 @@
+{
+ "id": "fr_m4a3_105_sherman",
+ "wiki": "https://wiki.warthunder.com/unit/fr_m4a3_105_sherman",
+ "name": "▄M4A3 (105)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "3.3",
+  "RB": "3.0",
+  "SB": "3.0"
+ },
+ "description": "During the Second World War, most French tank units were modelled in a similar structure to US Armored Divisions, but with French traditions and depending on the divisions, cavalry traditions. With this in mind, France operated M4A3 (105) self-propelled howitzers in its tank divisions, to provide direct fire support for infantry units, and offer a higher protection platform for artillery support, which allowed the units to operate closer to the front than regular artillery or mortar systems without much risk. The French 2nd Armored Division was the first to acquire the tanks in 1944, with the 1st and 5th divisions getting their own tanks in 1945. Introduced in Update 1.97 \"Viking Fury\" , the M4A3 (105) (France) is a peculiar Sherman, featuring a 105 mm howitzer instead of the regular M3 75 mm cannon. The howitzer grants the Sherman a much more powerful high explosive shell, which is very useful against ground vehicles. However it lacks access to an APHE shell so it relies on HEAT projectiles for heavier foes. The tank has very similar performance to the Sherman, but it lacks the vertical stabilization that is present in the rest of the family.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_m4a3_105_sherman.png",
+ "weapons": [
+  "12.7 mm M2HB machine gun",
+  "7.62 mm M1919A4 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "63 / 38 / 38 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "121 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "42"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "15.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "66 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "13 → 10 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 35°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "4.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 30°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "684 → 925"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 60 / 70 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,410"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M1 shell",
+   "type": "HE",
+   "penetration": [
+    "27",
+    "27",
+    "27",
+    "27",
+    "27",
+    "27"
+   ]
+  },
+  {
+   "name": "M67 shot",
+   "type": "HEAT",
+   "penetration": [
+    "130",
+    "130",
+    "130",
+    "130",
+    "130",
+    "130"
+   ]
+  },
+  {
+   "name": "M84",
+   "type": "Smoke",
+   "penetration": [
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

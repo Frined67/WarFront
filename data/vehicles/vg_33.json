@@ -1,0 +1,244 @@
+{
+ "id": "vg_33",
+ "wiki": "https://wiki.warthunder.com/unit/vg_33",
+ "name": "V.G.33C-1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The V.G.33C-1 was a French fighter aircraft developed in 1936 in response to the urgent need to modernize the French Air Force due to Germany's militarization. In November 1936, two designers from Arsenal l’Aéronautique, Michel Vernisse and Jean Galtier, submitted a wooden mock-up of the V.G.30 at an exhibition. The aircraft was intended to be armed with a 20 mm cannon, supplemented by four 7.5 mm machine guns. The military approved the design and ordered a prototype, which was completed and made its first flight by early October 1938. Following testing, however, the military requested a more advanced model. The designers first produced the unsuccessful V.G.31, which was slightly faster but far less maneuverable. They then developed a similar aircraft, the V.G.32, which was equipped with an Allison V-1710C-15 engine. The V.G.32 performed well, but its production was delayed. By the time France fell, the Germans had captured it. The first production variant was the V.G.33C-1, which had a French Hispano-Suiza 12Y-31 engine and made its maiden flight on April 25, 1939. It combined the best features of the V.G.30 and V.G.31 and demonstrated excellent flight characteristics during testing. In September, the military placed an order for 220 aircraft, which was later increased to 1,000. However, by the second Armistice of Compiègne in 1940, the French Air Force had received only 19 aircraft, with around 200 more at various stages of production. Some were destroyed by the French, and a few were captured by the Germans, who tested them until 1942. However, the aircraft never saw combat. The V.G.33C-1 was introduced in Update 1.73 \"Vive la France\" . It is a fast, maneuverable, and powerful fighter with an excellent climb rate and high-altitude performance. However, it has several drawbacks, including a small 20mm ammunition, low durability, and a poor roll rate.",
+ "image": "https://static.encyclopedia.warthunder.com/images/vg_33.png",
+ "weapons": [
+  "20 mm Hispano 404 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "558"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "13.4"
+  },
+  {
+   "label": "Turn time",
+   "value": "19"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "12Y-31"
+  },
+  {
+   "label": "Length",
+   "value": "8.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "196 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.98"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.45 t (2h 4m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "800 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.83 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -9/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "270 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "60 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.45 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,350 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "495 → 627"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 80 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,400"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "PT/HEI/AP/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/AP-T/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP/AP-T/HEI/AP-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

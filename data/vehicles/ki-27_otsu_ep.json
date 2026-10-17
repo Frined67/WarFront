@@ -1,0 +1,158 @@
+{
+ "id": "ki-27_otsu_ep",
+ "wiki": "https://wiki.warthunder.com/unit/ki-27_otsu_ep",
+ "name": "Ki-27 Otsu Tachiarai",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "2.0",
+  "SB": "1.3"
+ },
+ "description": "The Ki-27 otsu is of the 4th Sentai based in the Japanese Tachiarai Air Base, located in Fukuoka, Kyūshū. Established in 1919 and in 1940 as an Army Flight School, it trained all new Army pilots to be ready for aerial combat over the skies of Asia. The Ki-27 otsu (4th Sentai) was introduced in Update \"Starfighters\" . Serving as a very good example of what to expect from the Japanese air tree, the Ki-27 excels in manoeuvrability above all else, having average survivability with lacklustre firepower.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ki-27_otsu_ep.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "495"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "12.8"
+  },
+  {
+   "label": "Turn time",
+   "value": "10"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "180 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Kotobuki 41"
+  },
+  {
+   "label": "Length",
+   "value": "7.5 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.3 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "83 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.3"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.24 t (1h 30m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "554 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.55 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "220 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,100 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.19 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "431"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 30 / 100) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/IAI/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "I/AP/AP/AP/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

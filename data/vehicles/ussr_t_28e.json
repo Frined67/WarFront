@@ -1,0 +1,176 @@
+{
+ "id": "ussr_t_28e",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_t_28e",
+ "name": "T-28E",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The T-28E is an upgraded T-28 with additional armour by adding shields welded on top of the tank's armour, giving it improved protection due to the lessons learned during the Winter War with Finland. The E stands for ekranirovannij which means shielded. Due to adding additional weight due to the extra protection, the T-28 went from 28 tons to 32 tons. The T-28E was introduced with Update 1.47 \"Big Guns\" . It is similar to the original T-28 in all respects except the additional armour welded onto the front, side, and rear of the tank. The additional armour improves protection, making the T-28E more survivable in both close quarter battles and long-range engagements. However, improved armour also means greater weight, making the T-28E a bit less manoeuvrable than the previous T-28.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_t_28e.png",
+ "weapons": [
+  "7.62 mm DT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "30 / 20 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "94 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "38"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "17"
+  },
+  {
+   "label": "Ammunition",
+   "value": "69 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "5,292 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 28°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-33 / 145°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "17.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,646 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "417 → 537"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 40 / 40 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,920"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Sh-354T",
+   "type": "Shrapnel",
+   "penetration": [
+    "31",
+    "30",
+    "26",
+    "22",
+    "19",
+    "16"
+   ]
+  },
+  {
+   "name": "OF-350M",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "BR-350A (MD-5 fuze)",
+   "type": "APHEBC",
+   "penetration": [
+    "67",
+    "66",
+    "60",
+    "54",
+    "48",
+    "43"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

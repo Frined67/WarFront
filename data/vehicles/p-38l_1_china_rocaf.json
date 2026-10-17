@@ -1,0 +1,256 @@
+{
+ "id": "p-38l_1_china_rocaf",
+ "wiki": "https://wiki.warthunder.com/unit/p-38l_1_china_rocaf",
+ "name": "␗P-38L-1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "III",
+ "br": {
+  "AB": "4.3",
+  "RB": "4.7",
+  "SB": "4.3"
+ },
+ "description": "The P-38L-1 (China) , dubbed by Chinese soldiers or locals as the 雙身機 (Double-body aircraft), represented the P-38L used by 14th Air Force albeit painted in Nationalist delivery (which in fact flew the recon version, F-5E instead of the combat variants; most of the resources suggested that Lightnings were first painted in Nationalist delivery, then modified to unarmed F-4 and F-5E recon planes). The P-38 series have already been the nightmare of Imperial Japanese forces since their introduction thanks its unique design, large combat-radius and devastating firepower; it was also the very aircraft that got Isoroku Yamamoto alongside with his officers in 1943. Some P-38s from USAAF were then transferred to bases in China to escort bombers for bombing runs to the Japanese-occupied Taiwan, as well as credited as the recon which helped the delivery of the only two A-bombs ever deployed in combat history. By the time near the Korean war, a Nationalist pilot hinted the existence of Soviet and Chinese MiG-15 by 1950 at the cost of his life; after the shot-down, ROCAF soon phrased-out the P-38 series and replaced them with US-aid jet aircrafts by 1953. It was introduced in Update 1.91 \"Night Vision\" as one of the Chinese aviation tech-tree aircraft sitting on the NRAAF/ROCAF line, the later series P-38 still offer excellent climb rate for such a huge aircraft and devastating firepower ; although cases are enemy aircrafts are at the same altitude as players do, if plan ahead according to the movement of enemies, energy fights with those which lost their altitude advantages or taking down heavy fighters in dogfights are viable options for the plane. Use the speed advantage to escape from chaos before enemy has the chance to land shots upon players - its size can make sure enemy shots will land on P-38L with relative ease",
+ "image": "https://static.encyclopedia.warthunder.com/images/p-38l_1_china_rocaf.png",
+ "weapons": [
+  "20 mm AN/M2 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "690"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "19.3"
+  },
+  {
+   "label": "Turn time",
+   "value": "22"
+  },
+  {
+   "label": "Max altitude",
+   "value": "12,192 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "332 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "V-1710-113"
+  },
+  {
+   "label": "Length",
+   "value": "11.6 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "15.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "256 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "6.69"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.12 t (1h 16m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "790 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.74 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/9 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "250 / 495 / 566 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "289 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "150 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.48 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "932 → 1,262"
+  },
+  {
+   "label": "Crew training",
+   "value": "22,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "60 / 140 / 300 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "24,600"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,100"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEI/AP-T",
+   "penetration": [
+    "39",
+    "36",
+    "25",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP-T/HEI/HEI",
+   "penetration": [
+    "39",
+    "36",
+    "25",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEI/HEI/HEI/AP-T",
+   "penetration": [
+    "39",
+    "36",
+    "25",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP-T/AP-T/HEI",
+   "penetration": [
+    "39",
+    "36",
+    "25",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI",
+   "penetration": [
+    "5",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/AP/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/API-T/I/I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "API-T/I/AP/AP/AP-I/AP-I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/I/AP-I/I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

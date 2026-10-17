@@ -1,0 +1,169 @@
+{
+ "id": "jp_type_3_chi_nu_75cm_type_5",
+ "wiki": "https://wiki.warthunder.com/unit/jp_type_3_chi_nu_75cm_type_5",
+ "name": "Chi-Nu II",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "III",
+ "br": {
+  "AB": "4.3",
+  "RB": "4.3",
+  "SB": "4.3"
+ },
+ "description": "The Chi-Nu II was one of two planned improvements to the Type 3 Chi-Nu . The primary goal was to up-arm the Chi-Nu with a Type 5 (75 mm) found on the Type 4 Chi-To and Type 5 Chi-Ri . The first plan was to simply mount a Chi-To turret on top of the Chi-Nu hull, which was tested at the Japanese firing range at Irago, with tests found satisfactory. The second plan was to fit the Type 5 cannon inside of a regular Chi-Nu turret, which is represented by this version. It was introduced with the initial Japanese Ground Forces tree in Update 1.65 \"Way of the Samurai\" , but was released once all the rank III Japanese tanks were available to the public in the Closed Beta Test. The Chi-Nu II is a combination between two vehicles, the Type 3 Chi-Nu and the Type 4 Chi-To. It has the armour of the former, but the gun of the latter. Thus, while presenting itself as a more vulnerable body with only around 50 mm of armour, it has a smaller profile than the Chi-To, yet carries the same gun. Like the Chi-To, the Chi-Nu II should be played in a sniper-like format from a distance rather than up-close to the enemy and fighting them in close-quarters.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_type_3_chi_nu_75cm_type_5.png",
+ "weapons": [
+  "7.7 mm Type 97 machine gun",
+  "7.7 mm Type 97 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 25 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "39"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "70 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "8.4 → 6.5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 15°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 70°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "734"
+  },
+  {
+   "label": "Crew training",
+   "value": "10,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (75 / 115 / 140) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Type 1 APHE",
+   "type": "APHE",
+   "penetration": [
+    "148",
+    "145",
+    "132",
+    "117",
+    "104",
+    "93"
+   ]
+  },
+  {
+   "name": "Type 4 Kou",
+   "type": "APHE",
+   "penetration": [
+    "151",
+    "148",
+    "137",
+    "124",
+    "112",
+    "101"
+   ]
+  },
+  {
+   "name": "Type 90 HE",
+   "type": "HE",
+   "penetration": [
+    "17",
+    "17",
+    "15",
+    "14",
+    "12",
+    "11"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

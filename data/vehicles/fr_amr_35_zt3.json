@@ -1,0 +1,120 @@
+{
+ "id": "fr_amr_35_zt3",
+ "wiki": "https://wiki.warthunder.com/unit/fr_amr_35_zt3",
+ "name": "AMR.35 ZT3",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The AMR.35 ZT3 was an upgraded version of the AMR.33 light tank, addressing issues with tracks and suspension. Despite being larger and heavier, it was faster and more manoeuvrable thanks to a bigger engine and improved suspension. During the Battle for France in 1940, 167 of these tanks were in service, many equipped with 13.2 mm machine guns. A subvariant called ZT3 was planned to carry a 25 mm anti-tank gun, but only ten were produced and issued before France surrendered. It was introduced in Update 1.75 \"La Résistance\" . Featuring a quick-firing \"stabilized\" 25 mm gun, good mobility and bulletproof armour, it differs greatly from other rank 1 French tanks while offering similar gameplay to the Soviet ASU-57 . It is arguably the best first French tank to research. Due to its very poor all around protection the tank is not very survivable, and it's not armoured enough to withstand artillery barrages or heavy MG fire. However, with its 25 mm anti-tank gun, it can penetrate and destroy many other vehicles around its BR, specially if its good mobility is used in flanking manoeuvres.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_amr_35_zt3.png",
+ "weapons": [
+  "7.5 mm MAC 31 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "13 / 13 / 10 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "64 %"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "60"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "78 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "2.6 → 2 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 13°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-5 / 5°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "14"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,300 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "550 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "90 → 111"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Mle1934 TP (Ch.F)",
+   "type": "APC",
+   "penetration": [
+    "71",
+    "68",
+    "56",
+    "44",
+    "34",
+    "27"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

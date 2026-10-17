@@ -1,0 +1,254 @@
+{
+ "id": "a_29_hudson",
+ "wiki": "https://wiki.warthunder.com/unit/a_29_hudson",
+ "name": "A-29",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The A-29 first started out as the \"Model 14 Super Electra\", a successful commercial airliner. A few years later, Lockheed experimented with a reconnaissance/light bomber version of the Super Electra. As luck would have it, Britain was also looking for a combat aircraft for their own air force. Over 200 Hudsons were delivered to the Royal Air Force where they would undergo further redesigns and improvements. The A-29 was one of Lockheed's redesigns which featured two Wright R-1820-27 but was largely the same aircraft as the A-28. China received 26 A-29 Hudsons, but not much is known about the A-29 in Chinese service as many were lost in accidents. Only a handful actually were put to use in combat. Introduced in Update 1.91 \"Night Vision\" , the A-29 is a light bomber that also served in various other roles. The A-29 was essentially the regular Hudson bomber but received updates to make it a more viable troop transport. It featured more economical engines as well as armament changes. The A-29 has less than stellar defensive armament: with only a single 12.7 mm machine gun turret and a single 7.62 mm machine gun turret. A player's best defensive tactic in this case is to dive away from opponents with its relatively impressive 564 km/h (350 mph) structural speed limit. It also has two offensive 7.62 mm machine guns with over 500 rounds per gun. Unfortunately, this isn't suited for attacking anything but light ground targets like anti-air or howitzer positions. Overall, the A-29 does its role as a light bomber effectively, but players should take note of its lacklustre armament.",
+ "image": "https://static.encyclopedia.warthunder.com/images/a_29_hudson.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "410"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "9.5"
+  },
+  {
+   "label": "Turn time",
+   "value": "26"
+  },
+  {
+   "label": "Max altitude",
+   "value": "5,029 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "600 m"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x R-1820-87"
+  },
+  {
+   "label": "Length",
+   "value": "13.5 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "20 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "163 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "6.59"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.76 t (4h 10m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "564 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.65 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "235 / 313 / 328 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "235 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "400 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "465 → 638"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 80 / 160 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,920"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP/T/T/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/I/AP-I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/T",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/AP-I/T",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,236 @@
+{
+ "id": "f2a-1_thach",
+ "wiki": "https://wiki.warthunder.com/unit/f2a-1_thach",
+ "name": "Thach's F2A-1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.3"
+ },
+ "description": "Thach's F2A-1 is a premium American fighter. It was introduced in Update 1.31 as a premium vehicle purchasable in-game with Golden Eagles. The plane is painted after the camouflage scheme of American pilot John Thach in the U.S. Navy, who was famous for the \"Thach Weave\" manoeuvre. The Brewster F2A Buffalo was the first carrier based monoplane of the US fleet, made to replace the outdated biplanes in service with the US Navy. It had a 950 horsepower engine and two machine guns on the nose of different calibre. Many Countries, including the Finnish Air Force which was highly successful with the buffalo, ordered the Buffalo. By the time WWII started and the attack of pearl harbor, the F2A was outclassed by the Japanese A6M2 and Ki-43s . The F2A-1 is a competitive machine, if using the proper tactic versus the proper enemy. The \"Buffalo\", as it is sometimes referred to as, can outrun biplanes and can out-turn most monoplanes. Its only draw back is low ammo count and unreliable armament, however its performance easily makes up for the lack in armament. As said before this plane will get a pilot used to the American style of aircraft of Boom & Zoom along with the particulars of .50 cal machine guns usage.",
+ "image": "https://static.encyclopedia.warthunder.com/images/f2a-1_thach.png",
+ "weapons": [
+  "7.62 mm Browning machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "504"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.9"
+  },
+  {
+   "label": "Turn time",
+   "value": "18.2"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "250 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Cyclone R-1820-34"
+  },
+  {
+   "label": "Length",
+   "value": "7.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.7 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "136 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.21"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.43 t (2h 15m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "761 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.8 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 / 409 / 438 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "720 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,050"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.55 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "450 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "556"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 30 / 100) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP/AP/T/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP/T/T/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

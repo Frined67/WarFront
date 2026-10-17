@@ -1,0 +1,338 @@
+{
+ "id": "ju-88c-6",
+ "wiki": "https://wiki.warthunder.com/unit/ju-88c-6",
+ "name": "Ju 88 C-6",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.3",
+  "SB": "2.7"
+ },
+ "description": "",
+ "image": "https://static.encyclopedia.warthunder.com/images/ju-88c-6.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "490"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "7.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "29"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,800 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "730 m"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Jumo 211J"
+  },
+  {
+   "label": "Length",
+   "value": "14.4 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "18.3 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "207 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "10.12"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.23 t (2h 14m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "675 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.68 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 429 / 458 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "310 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "360 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "520 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.94 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,800"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,596 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.27 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,700"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,596 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.27 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "351 → 449"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 60 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,930"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "IT/HEI/APHE",
+   "penetration": [
+    "15",
+    "13",
+    "8",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "IT/HEI/HEI/APHE",
+   "penetration": [
+    "15",
+    "13",
+    "8",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "FI-T/HEI/HEI/FI-T/HEI/HEI/APHE",
+   "penetration": [
+    "15",
+    "13",
+    "8",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT",
+   "penetration": [
+    "7",
+    "7",
+    "4",
+    "3",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "APHE/HEI/HEI/HEI/AP-I",
+   "penetration": [
+    "20",
+    "17",
+    "10",
+    "5",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-I/AP-T/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-I/AP-T/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,170 @@
+{
+ "id": "h-75a-1_france",
+ "wiki": "https://wiki.warthunder.com/unit/h-75a-1_france",
+ "name": "H-75A-1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "The H-75A-1 is a French fighter. It was introduced in Update 1.75 \"La Résistance\" . In the early 1930s, the Curtiss-Wright Corporation began a private venture to build a fighter aircraft which was a revolutionary departure from earlier cloth-covered biplanes of World War I. This project aircraft under development was named the Curtiss Hawk Model 75 (later it would be known by P-36 Hawk, Hawk-75 – or just H-75 and Mohawk.) The P-36 was an all-metal monoplane (although the control surfaces were fabric-covered) with a 900 hp radial engine, enclosed cockpit, and retractable landing gear. Early fighter trials paired this fighter against the Seversky P-35A where it ultimately lost out. Around the time of the late 1930s, the French Air Force was lacking in modern fighter aircraft and realized that the domestic production could not meet the needs of the country. In light of this, France looked to foreign producers and approached Curtiss to produce an export version of the P-36 (which they were excited about), which would be known as the H-75. The first contract purchase was dubbed H-75A-1, of which 100 were contracted for. In December 1938, the H-75A-1 fighters were routed to France where they were assembled and where minor changes were made, especially in regards to the armament, cockpit controls, and cockpit instruments. As the geopolitical situation rapidly disintegrated in Europe, France pushed for a rush order for 100 Curtiss H-75A-2 versions. This model was an improvement over the A-1, specifically in regards to its additional weaponry and an improved motor. After the declaration of war with Germany, the French placed another order for the H-75A-3 versions of the aircraft, first arriving in March 1940. However, due to the German invasion of France, some of the shipment was sunk at sea, while the others were diverted to areas around North Africa for safekeeping. Similar to the A-3, the H-75A-4 only had a relatively small amount arrive in France, with the bulk of them being diverted to Great Britain as Mohawks. The French H-75 aircraft continued to see combat throughout the war, both under the control of the Allied Free French Forces and the British and under the axis Finnish, who received captured French aircraft from the Germans to be used against the Soviets.",
+ "image": "https://static.encyclopedia.warthunder.com/images/h-75a-1_france.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "560"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "21"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,555 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "342 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "R-1830-17"
+  },
+  {
+   "label": "Length",
+   "value": "8.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "120 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.25"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.38 t (1h 29m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "681 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.78 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "232 / 447 / 488 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "290 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,200"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "103 → 129"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 40 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

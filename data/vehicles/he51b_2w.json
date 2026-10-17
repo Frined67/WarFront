@@ -1,0 +1,158 @@
+{
+ "id": "he51b_2w",
+ "wiki": "https://wiki.warthunder.com/unit/he51b_2w",
+ "name": "He 51 B-2/H",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The He 51 B-2/H is a gift German hydroplane fighter. It has been in the game since the start of the Open Beta Test prior to Update 1.27. It was a reward for the 2014 War Thunder's birthday and the 2015 Day of German Unity . It was reintroduced in April 2019 as a battle trophy vehicle in the Warbonds shop. It was also a reward of the \"10 rare vehicles\" event during War Thunder's 10th Anniversary in 2022. When paired up against other reserve fighters in the game, the He 51 can hold its own, though it will not win any speed records, nor will its machine guns out fire some of the early Soviet fighters, however, there is a place for the He 51 B-2/H. Diving straight into a cluster of fighters rolling around with each other is not the best tactic, it is better to pick a target and go after it, however, if cornered, the slower speed and manoeuvrability of the He 51 can get it out of tight spaces and potentially down a few enemy aircraft in the process. With two 7 mm machine guns, tracer rounds work best against early aircraft, especially those which are fabric covered and have non-sealing fuel tanks. Though the pilot may find themselves up-tiered against mono-wing aircraft of faster speeds, the He 51 B-2/H can quickly turn the tables and put the faster enemy fighter on the receiving end of a stream of bullets, and only a few hits are enough to hobble the enemy aircraft allowing the Heinkel to catch up and finish the job.",
+ "image": "https://static.encyclopedia.warthunder.com/images/he51b_2w.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "315"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "17.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "16"
+  },
+  {
+   "label": "Max altitude",
+   "value": "6,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "190 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "VI"
+  },
+  {
+   "label": "Length",
+   "value": "8.4 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "13.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "74 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.87"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.15 t (51m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "500 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "320 / 469 / 498 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "384"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 35 / 130) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

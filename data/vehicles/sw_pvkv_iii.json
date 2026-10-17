@@ -1,0 +1,152 @@
+{
+ "id": "sw_pvkv_iii",
+ "wiki": "https://wiki.warthunder.com/unit/sw_pvkv_iii",
+ "name": "Pvkv III",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "II",
+ "br": {
+  "AB": "3.3",
+  "RB": "3.3",
+  "SB": "3.3"
+ },
+ "description": "The Pansarvärnskanonvagn III (Pvkv III) was an experimental self-propelled gun developed in the early 1950s. It was based on the chassis of the obsolete Strv m/41 tank. Converting it into the Pvkv III involved installing a new turret with a 57 mm Pvkan m/43 gun. This was intended as a temporary measure until the Lansen tank and other, more advanced vehicles appeared. However, the self-propelled gun, like its counterpart the Pvkv II , did not appeal to the Swedish military. Instead, they decided to purchase British Centurions , which had superior armament and armor. The Pvkv III was introduced in Update 2.17 \"Danger Zone\" . It has weak armor, but a powerful gun with a good rate of fire.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_pvkv_iii.png",
+ "weapons": [
+  "8 mm ksp m/36 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 20 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "100 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "41"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "15"
+  },
+  {
+   "label": "Ammunition",
+   "value": "32 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-12 / 15°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "8.4"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "648 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 10°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-10 / 10°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "3.8"
+  },
+  {
+   "label": "Repair cost",
+   "value": "913 → 1,129"
+  },
+  {
+   "label": "Crew training",
+   "value": "9,200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "60 / 90 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "13,960"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "860"
+  }
+ ],
+ "shells": [
+  {
+   "name": "slpprj m/43",
+   "type": "AP",
+   "penetration": [
+    "101",
+    "97",
+    "81",
+    "65",
+    "52",
+    "42"
+   ]
+  },
+  {
+   "name": "slpgr m/43",
+   "type": "APHEBC",
+   "penetration": [
+    "88",
+    "86",
+    "78",
+    "69",
+    "61",
+    "53"
+   ]
+  },
+  {
+   "name": "sgr m/43",
+   "type": "HE",
+   "penetration": [
+    "8",
+    "8",
+    "8",
+    "8",
+    "8",
+    "8"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

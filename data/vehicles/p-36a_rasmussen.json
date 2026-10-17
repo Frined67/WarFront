@@ -1,0 +1,237 @@
+{
+ "id": "p-36a_rasmussen",
+ "wiki": "https://wiki.warthunder.com/unit/p-36a_rasmussen",
+ "name": "Rasmussen's P-36A",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.7"
+ },
+ "description": "The P-36A was the first production variant of the Curtiss P-36 Hawk fighter series developed for the USAAF. Although considered modern at its introduction in 1938, it quickly became obsolete by the time of the Pacific War. It only saw combat during the Attack on Pearl Harbor on 7 December 1941 before being quickly phased out in favour of its successor, the P-40 Warhawk . Philip M. Rasmussen (18 May 1918 – 30 April 2005) was a USAAF pilot who is famous for his combat service during the Attack on Pearl Harbor on 7 December 1941. On the morning of the attack, Rasmussen had just awakened when a group of Japanese aircraft dropped bombs near his barracks. He rushed to the airfield while still wearing pyjamas and flew one of the few P-36As that were still intact, along with three other pilots. Despite being outnumbered, Rasmussen managed to shoot down one A6M2 fighter despite his plane's .30 cal machine gun being jammed. Rasmussen's P-36 was severely damaged over the course of the battle and fell into an uncontrolled plunge, though he luckily managed to regain control of the aircraft and landed with no brakes, rudder, or tailwheel. For this action, he was awarded the Silver Star medal. Rasmussen later flew many combat missions and claimed two additional kills as well as a second Silver Star for a bombing mission over Japan. Rasmussen retired in 1965 with the rank of lieutenant colonel. Rasmussen's P-36A has been in the game since the start of the Open Beta Test prior to Update 1.27. This aircraft features a special livery based on the P-36A that Philip Rasmussen flew during the Attack on Pearl Harbor. The P-36A is considerably agile for an early monoplane and is capable of outmatching most biplanes in terms of speed. Its armament consists of one 12.7 mm and one 7.62 mm machine gun mounted in the nose. While not the best armament, it is still effective against most of the thin-skinned planes it usually faces.",
+ "image": "https://static.encyclopedia.warthunder.com/images/p-36a_rasmussen.png",
+ "weapons": [
+  "12.7 mm M2 Browning machine gun",
+  "7.62 mm Browning machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "504"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "17.3"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,058 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "167 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "R-1830-17"
+  },
+  {
+   "label": "Length",
+   "value": "8.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "120 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.19"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.44 t (1h 31m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "681 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.78 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "232 / 447 / 488 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "290 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.55 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "431"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 45 / 70) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP/AP/T/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP/T/T/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

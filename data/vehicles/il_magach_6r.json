@@ -1,0 +1,214 @@
+{
+ "id": "il_magach_6r",
+ "wiki": "https://wiki.warthunder.com/unit/il_magach_6r",
+ "name": "Magach 6R",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "VI",
+ "br": {
+  "AB": "8.7",
+  "RB": "8.7",
+  "SB": "8.7"
+ },
+ "description": "The Magach 6R was a major modification compared to previous Magach 6s, featuring the same Blazer ERA but including a new AVDS-1790-2AG engine, with more electric power output when compared to the previous AVDS-1790-2A. Later modifications included the Magach 6R*, that prepared the vehicle to use the Nachal Oz fire control system. It was introduced in Update \"Drone Age\" . The Magach 6R is very similar to other Magach 6 tanks in the Israeli Tech Tree, it features Blazer ERA, subpar protection against APDS and APFSDS shells, and above average mobility and agility. The tank features a competent 105 mm cannon and a stabilizer but lacks access to a thermal sight. It does however have a large amount of smoke launchers and grenades, so it can use them to cover allied movements or to escape from situations with ease.",
+ "image": "https://static.encyclopedia.warthunder.com/images/il_magach_6r.png",
+ "weapons": [
+  "105 mm Sharir cannon",
+  "12.7 mm M2HB machine gun",
+  "7.62 mm M73 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "93 / 70 / 40 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "121 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "48"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "15"
+  },
+  {
+   "label": "Ammunition",
+   "value": "57 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "8.7 → 6.7 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-9 / 19°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "5,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 50°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 120°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "4,411 → 6,087"
+  },
+  {
+   "label": "Crew training",
+   "value": "110,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "140 / 200 / 240 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "113,000"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M152",
+   "type": "HEATFS",
+   "penetration": [
+    "400",
+    "400",
+    "400",
+    "400",
+    "400",
+    "400"
+   ]
+  },
+  {
+   "name": "M156",
+   "type": "HESH",
+   "penetration": [
+    "127",
+    "127",
+    "127",
+    "127",
+    "127",
+    "127"
+   ]
+  },
+  {
+   "name": "M111",
+   "type": "APFSDS",
+   "penetration": [
+    "338",
+    "336",
+    "330",
+    "323",
+    "315",
+    "307"
+   ]
+  },
+  {
+   "name": "M416",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

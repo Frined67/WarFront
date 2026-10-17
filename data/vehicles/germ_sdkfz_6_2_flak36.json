@@ -1,0 +1,132 @@
+{
+ "id": "germ_sdkfz_6_2_flak36",
+ "wiki": "https://wiki.warthunder.com/unit/germ_sdkfz_6_2_flak36",
+ "name": "Sd.Kfz. 6/2",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "I",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "1.7"
+ },
+ "description": "The 3.7 cm Flak 36 auf Selbstfahrlafette or simply Sd.Kfz. 6/2 was a self-propelled anti-aircraft gun based on the half-track chassis Sd.Kfz. 6, armed with a 3.7 cm FlaK 36 L/98 anti-aircraft gun. This SPAA was developed to counter Allied and Soviet airpower, as well as protect Luftwaffe airfields from aerial attacks. As the truck's platform was occupied by the anti-aircraft mount, a single-axle trailer was attached for carrying ammunition. Initially, there was no armour shield for the gun, and it was only added in later production series modifications. Most Sd.Kfz. 6/2 were deployed with Luftwaffe air defence units, but some SPAAs also served with Wehrmacht and SS troops. The Sd.Kfz. 6/2 was first tested on the Eastern Front in 1941, but subsequently saw widespread use. It was manufactured by companies Büssing-NAG, Daimler Benz, BMM, Praga from 1941 to 1943, with a total of 339 Sd.Kfz. 6/2 assembled. The Sd.Kfz. 6/2 was introduced during the Closed Beta Test for Ground Forces prior to Update 1.41. In terms of its mobility characteristics, the SPAA is comparable to most medium tanks, allowing it to keep pace with allies while covering them from aerial attacks. The main advantage of the SPAA is its 37 mm gun with instant reloading and impressive rate of fire, which provides dense fire and can deal with not only any aircraft but also some tanks. However, one should not be caught in the enemy's sights too often: apart from the gun shield, the Sd.Kfz. 6/2 has no armour and can be easily destroyed even by machine gun fire. The same applies to aircraft - while the armour shield may protect the gun crew during a head-on attack, a side or rear approach by an aircraft can be fatal for the vehicle.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_sdkfz_6_2_flak36.png",
+ "weapons": [
+  "37 mm FlaK36 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "0 / 0 / 0 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "107 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "50"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "318 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "0.5 → 0.4 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "180 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-8 / 85°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "24.5"
+  },
+  {
+   "label": "Repair cost",
+   "value": "337 → 434"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 30 / 30 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,950"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "APHE/FI-T",
+   "penetration": [
+    "52",
+    "48",
+    "35",
+    "23",
+    "16",
+    "10"
+   ]
+  },
+  {
+   "name": "37 mm Sprgr.",
+   "type": "FI-T",
+   "penetration": [
+    "7",
+    "7",
+    "5",
+    "5",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "37 mm PzGr.",
+   "type": "APHE",
+   "penetration": [
+    "52",
+    "48",
+    "35",
+    "23",
+    "16",
+    "10"
+   ]
+  },
+  {
+   "name": "M.Gr.18",
+   "type": "HEI-T",
+   "penetration": [
+    "7",
+    "7",
+    "6",
+    "4",
+    "4",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

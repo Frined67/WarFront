@@ -1,0 +1,182 @@
+{
+ "id": "mirage_f1cg_greece",
+ "wiki": "https://wiki.warthunder.com/unit/mirage_f1cg_greece",
+ "name": "▄Mirage F1CG",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "VII",
+ "br": {
+  "AB": "11.3",
+  "RB": "11.3",
+  "SB": "11.0"
+ },
+ "description": "As the F-102A became obsolete—an aircraft that did not boast impressive performance even at the time of purchase—the Hellenic Air Force turned to France to procure Mirage F1C fighters. A new version, the Mirage F1CG , was developed specifically for Greece, primarily differing in its available armament. The order was placed in 1974, and deliveries began the following year. The Hellenic Air Force received a total of 40 single-seat fighters. They were only used in mock dogfights with Turkish aircraft. For instance, on June 18, 1992, a Mirage crashed while attempting to intercept two Turkish F-16s. On February 8, 1995, an F-16 crashed during a simulated close-range dogfight with a Mirage F1CG. On June 30, 2003, the Hellenic Air Force withdrew all 27 remaining Mirage F1CGs from service. At least five of the aircraft were preserved and are currently on display in various museums. The Greek Mirage F1CG was introduced in Update 2.59 \"Sky Odyssey\" , as part of the Israeli aviation research tree. Unlike the French Mirage F1s, the Greek fighter lacks Magic 2 or Matra missiles. However, it faces significantly less advanced opponents, making its flight characteristics all the more interesting. The fighter now boasts good speed and decent maneuverability. Additionally, it retains a large number of countermeasures.",
+ "image": "https://static.encyclopedia.warthunder.com/images/mirage_f1cg_greece.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "2,228"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "155"
+  },
+  {
+   "label": "Turn time",
+   "value": "27"
+  },
+  {
+   "label": "Max altitude",
+   "value": "16,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "750 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Atar 9K-50"
+  },
+  {
+   "label": "Length",
+   "value": "15.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "8.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "458 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "8.04"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "3.41 t (44m)"
+  },
+  {
+   "label": "Fuel in drop tanks",
+   "value": "2.92 t (37m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "1,457 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "2.2 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "416 / 775 / 814 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "444 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "270 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "5.03 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "4,000 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "2,000 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,992 → 4,066"
+  },
+  {
+   "label": "Crew training",
+   "value": "200,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "100 / 320 / 600 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "218,500"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "3,000"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/HEI/HEF",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "HEI/API-T/API-T/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF/HEI/HEF/HEI/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF/HEI",
+   "penetration": [
+    "4",
+    "4",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,280 @@
+{
+ "id": "arado-196a-5",
+ "wiki": "https://wiki.warthunder.com/unit/arado-196a-5",
+ "name": "▄Ar 196 A-5",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.3",
+  "SB": "1.7"
+ },
+ "description": "The Ar 196 A-5 is a modified version of the German floatplane and light bomber that was developed by Arado in 1943. This variant featured replacement of the offensive armament with 20 mm MG FF/M cannons; upgraded defensive armament with MG 81Z machine guns and increased ammunition capacity; added armor protection for the pilot and navigator; and new cockpit instruments. In addition to serving in the German military, the Ar 196 was exported to several other countries, including Bulgaria, Romania, and Finland. Finland purchased 15 aircraft for its air force during World War II, while Sweden captured a single plane from Germans in 1943. Finland used the aircraft as reconnaissance platforms and light bombers until it left the war in 1944. In Sweden, British intelligence operated the aircraft through the private company AB Kontinentagenturen. In 1946, the aircraft was resold to AB Ahrenbergsflyg and crashed during one of its flights a year later. The Finnish Ar 196 A-5 was introduced in Update 2.19 \"Drone Age\" in the Swedish aviation research tree. Compared to the German Ar 196 A-3 , this version has improved defensive armament. This aircraft stands out for its powerful offensive armament, solid defensive, and ability to land on water. However, amount of its cannon ammunition is limited, and the Arado is inferior to any fighter biplane in terms of maneuverability.",
+ "image": "https://static.encyclopedia.warthunder.com/images/arado-196a-5.png",
+ "weapons": [
+  "7.92 mm MG 17 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "320"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "7"
+  },
+  {
+   "label": "Turn time",
+   "value": "21"
+  },
+  {
+   "label": "Max altitude",
+   "value": "6,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "450 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "132K"
+  },
+  {
+   "label": "Length",
+   "value": "11 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "110 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.84"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.29 t (1h 15m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "570 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.6 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "140 / 319 / 353 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "120 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "520 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.01 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,596 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.27 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "148"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 45 / 80) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "IT/IT/APHE",
+   "penetration": [
+    "15",
+    "13",
+    "8",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "IT/FI-T/FI-T/APHE",
+   "penetration": [
+    "15",
+    "13",
+    "8",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "FI-T/FI-T/AP-I/APHE/IT",
+   "penetration": [
+    "20",
+    "17",
+    "10",
+    "5",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT/IT/FI-T/FI-T",
+   "penetration": [
+    "7",
+    "7",
+    "4",
+    "3",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "APHE",
+   "penetration": [
+    "15",
+    "13",
+    "8",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-I/AP-T/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

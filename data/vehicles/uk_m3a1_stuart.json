@@ -1,0 +1,166 @@
+{
+ "id": "uk_m3a1_stuart",
+ "wiki": "https://wiki.warthunder.com/unit/uk_m3a1_stuart",
+ "name": "Stuart III",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "Stuart III was the British designation for the American M3A1 Stuart , supplied under the Lend-Lease programme. After heavy losses in 1940-41, Britain faced a shortage of armoured vehicles and turned to the USA. They were refused permission to manufacture their own tank models in American factories, leaving the purchase of American designs as the only solution. Under the Lend-Lease programme, 1,784 M3s and 1,594 M3A1s were sent to the British Army, where they received the designations Stuart I and Stuart III respectively. Stuarts received their first combat experience in North Africa as part of the 4th and 7th British armoured divisions. The tanks received mixed reviews from the military and were modified in various ways: armour flaps were fitted to the M3A1 to reduce the dust cloud raised when moving, and machine guns were removed to increase internal space. The first combat deployment of the Stuart in November 1941 showed their ineffectiveness against German tanks: between 18th and 23rd November, the British army lost 130 Stuarts out of 165, while the German army lost almost ten times fewer vehicles, due to the use of light tanks in inappropriate roles and the superiority of German units in tank combat tactics. By 1942, M3A1 tanks were used exclusively as reconnaissance vehicles. Introduced in Update \"Starfighters\" , the Stuart III is a very mobile light tank with a decent gun and stabiliser, but poor survivability. A tactic of cautious flanking strikes or attacks from cover with frequent repositioning suits it well, and the stabiliser allows for accurate firing on the move at close and medium ranges. The armour thickness is sufficient to withstand machine gun fire, but the Stuart III is vulnerable to autocannon and tank gun shells, as well as artillery. The main difference from the Stuart III's predecessor, the Stuart I , is a welded turret that has thicker mantlet armour and better sloping, as well as a lower profile thanks to the removal of the cupola. This turret also boasts the upgraded M6 cannon, which can fire higher-penetrating versions of the previous ammo. The transmission is also improved, and is capable of slightly higher speeds both forward and backward.",
+ "image": "https://static.encyclopedia.warthunder.com/images/uk_m3a1_stuart.png",
+ "weapons": [
+  "37 mm M6 cannon",
+  "7.62 mm M1919A4 machine gun",
+  "7.62 mm M1919A4 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "38 / 25 / 25 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "58"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "20.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "106 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.7 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "14"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 70°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,250 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "249 → 320"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 20 / 30 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,940"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M74B1 shot",
+   "type": "AP",
+   "penetration": [
+    "79",
+    "76",
+    "65",
+    "54",
+    "45",
+    "37"
+   ]
+  },
+  {
+   "name": "M51B1 shot",
+   "type": "APCBC",
+   "penetration": [
+    "87",
+    "84",
+    "73",
+    "60",
+    "50",
+    "41"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

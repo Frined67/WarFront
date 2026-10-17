@@ -1,0 +1,242 @@
+{
+ "id": "p-66",
+ "wiki": "https://wiki.warthunder.com/unit/p-66",
+ "name": "P-66",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "An American fighter designed in the late 1930s, the Vultee P-66 Vanguard was originally intended to be delivered to Sweden in 1941. However, following the attack on Pearl Harbour, the US decided to retain the aircraft for defense and training of its own personnel. When better aircraft became available, the P-66 was sold to China in large numbers, serving in the 3rd and 5th Air Groups of the Chinese Nationalist Forces. At the end most of these fighters were replaced by the Curtiss P-40 Warhawk in 1943, but some of them survived and were used in the Chinese Civil War against Mao's forces. Compared to its Japanese counterparts such as the Ki-43 and Ki-44, the P-66 lacked the agility to survive in prolonged fights, and thus it was forced to do hit and run tactics, using its better top speed to outrun Japanese fighters when they moved to intercept. Introduced in Update 1.91 \"Night Vision\" , the \"Vanguard\" may bear a slight resemblance to the P-36 Hawk , another contemporary US design with a radial engine, razorback cockpit, and similar armament, but it has large differences in the details of its design. Compared to the Hawk, it has a longer and rounder fuselage with narrower wings. It also has an unusually spacious canopy, which is not surprising considering that it was designed to share parts with trainer aircraft. Performance-wise, the P-66 is a balanced fighter with no particular strengths. This may be off-putting for pilots coming from the previous CW-21 and its amazing performance, but the P-66 is still a decent aircraft and is the first Chinese fighter that can actually take a hit or two. Tactics learned with this aircraft can be applied to the succeeding P-40E .",
+ "image": "https://static.encyclopedia.warthunder.com/images/p-66.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "547"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "11.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "20"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,300 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "342 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "S3C4-G"
+  },
+  {
+   "label": "Length",
+   "value": "8.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.9 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "174 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.69"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.49 t (1h 51m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "720 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.78 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 400 / 445 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "280 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "450 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.55 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "354 → 448"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 60 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,920"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP/AP/T/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP/T/T/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

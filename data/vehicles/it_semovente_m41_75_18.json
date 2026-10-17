@@ -1,0 +1,180 @@
+{
+ "id": "it_semovente_m41_75_18",
+ "wiki": "https://wiki.warthunder.com/unit/it_semovente_m41_75_18",
+ "name": "75/18 M41",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "II",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The Semovente da 75/18 was an Italian self-propelled gun. When the M13/40 was adopted by the Italian Army in 1940, it became clear that Italian tanks lacked firepower. There was simply no more effective gun in the country that could meet all the military’s needs and be mounted on the existing M13/40. The Spanish Civil War and Italy’s entry into World War II demonstrated the need for more powerful armored vehicles in the Italian Army. Observing the German Army’s use of Sturmgeschütz III assault guns during the French Campaign, the Italian command decided to develop similar self-propelled guns. FIAT-Ansaldo proposed a design developed by the company’s engineers in collaboration with artillery colonel Sergio Berlesi. The design utilized the 1934 Obice da 75/18 mountain gun mounted in the M13/40 tank's hull. Berlesi directed the construction of a prototype, which was presented in the winter of 1941. Following live-fire tests, the army ordered the delivery of the first batch of sixty Semovente da 75/18s by mid-1941. Similar artillery systems were later produced based on the M14/41 and M15/42 tanks. A total of 476 75/18 units were produced, 162 of which were based on the M13/41. The 75/18 M41 was introduced in Update 1.85 \"Supersonic\" . While this combat vehicle boasts decent mobility and powerful shells, it does not stand out in terms of armor. Its gun also has mediocre ballistics, which limits its combat effectiveness at long ranges.",
+ "image": "https://static.encyclopedia.warthunder.com/images/it_semovente_m41_75_18.png",
+ "weapons": [
+  "8 mm Breda Mod. 38 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "30 / 25 / 27 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "62 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "33"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "43 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-12 / 22°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-18 / 18°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "504 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 10°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "21"
+  },
+  {
+   "label": "Repair cost",
+   "value": "416 → 515"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 50 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,900"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Granata Perforante da 75",
+   "type": "APCBC",
+   "penetration": [
+    "45",
+    "44",
+    "39",
+    "33",
+    "29",
+    "25"
+   ]
+  },
+  {
+   "name": "Granata mod.32",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "Gr. Fumogena",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Granata Perforante mod.32",
+   "type": "APCBC",
+   "penetration": [
+    "52",
+    "50",
+    "44",
+    "38",
+    "33",
+    "28"
+   ]
+  },
+  {
+   "name": "EPS M42",
+   "type": "HEAT",
+   "penetration": [
+    "100",
+    "100",
+    "100",
+    "100",
+    "100",
+    "100"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

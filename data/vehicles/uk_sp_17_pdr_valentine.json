@@ -1,0 +1,144 @@
+{
+ "id": "uk_sp_17_pdr_valentine",
+ "wiki": "https://wiki.warthunder.com/unit/uk_sp_17_pdr_valentine",
+ "name": "Archer",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The introduction of the 17-pounder anti-tank gun into British service gave the British forces firepower capable of destroying the heavier German tanks; however, the gun's heavyweight and bulkiness presented a mobility issue for the crew. A Valentine chassis was chosen to be modified in order to fit the new gun. The modified Valentine, known as the Self Propelled 17pdr, Valentine, Mk.I, Archer , was given a more powerful engine and a casemate superstructure on the front. The most distinctive feature of the Archer compared to any other tank destroyers in the war was that its gun is not facing forward, rather to the rear. This is because it is impossible to mount such a large gun relative to the hull without overloading the frontal chassis. The Archer was used on the Italian front and in the European campaign against Germany. As a self-propelled gun, the Royal Artillery had authority over the tank destroyer just like other tank destroyers in British service. Reception to the Archer revealed that the crews favoured the Archer over the M10 Achilles due to the better tactics the Archer presented by shooting then speeding away before the enemy could discover them. Introduced in Update 1.55 \"Royal Armour\" alongside the initial British ground tree, the Archer's armament is very good at this battle rating. The same cannon is even used on Rank III and IV tanks like the Sherman Firefly and the A.C.IV . Its reload speed is not bad, but there are faster firing cannons at this rank. However, the Archer can destroy many enemy tanks in one shot, and if it doesn't destroy them it will incapacitate them. If the enemy is not destroyed and they can shoot you, retreat and reload. Once reloaded, you can try to destroy the enemy tank, but if it's aiming in your direction you can try sneaking up on it. The Archer does not have a turret, but its gun can traverse further left and right than most non-turreted tank destroyers, including the StuG III F and SU-122 . While these tank destroyers have a different battle rating, you may still encounter them.",
+ "image": "https://static.encyclopedia.warthunder.com/images/uk_sp_17_pdr_valentine.png",
+ "weapons": [
+  "76 mm QF 17-pounder cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "20 / 20 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "76 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "33"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12"
+  },
+  {
+   "label": "Ammunition",
+   "value": "39 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.1 → 4.7 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-7 / 15°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-22 / 22°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "1.7"
+  },
+  {
+   "label": "Repair cost",
+   "value": "430 → 532"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 50 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,940"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Shot Mk.6",
+   "type": "AP",
+   "penetration": [
+    "171",
+    "168",
+    "155",
+    "139",
+    "126",
+    "113"
+   ]
+  },
+  {
+   "name": "Shell Mk.1",
+   "type": "HE",
+   "penetration": [
+    "20",
+    "20",
+    "18",
+    "16",
+    "15",
+    "13"
+   ]
+  },
+  {
+   "name": "Shot Mk.4",
+   "type": "APC",
+   "penetration": [
+    "171",
+    "168",
+    "155",
+    "139",
+    "126",
+    "113"
+   ]
+  },
+  {
+   "name": "Shot Mk.8",
+   "type": "APCBC",
+   "penetration": [
+    "190",
+    "187",
+    "172",
+    "155",
+    "140",
+    "126"
+   ]
+  },
+  {
+   "name": "17pdr Shell SS Mk.1",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

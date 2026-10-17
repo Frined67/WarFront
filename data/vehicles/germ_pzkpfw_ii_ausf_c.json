@@ -1,0 +1,145 @@
+{
+ "id": "germ_pzkpfw_ii_ausf_c",
+ "wiki": "https://wiki.warthunder.com/unit/germ_pzkpfw_ii_ausf_c",
+ "name": "Pz.II C",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "Both the Panzer I and II light tank families were seen as interim solutions until the introduction of advanced tanks, particularly the Panzer III and IV medium tank families. Despite this, Panzer IIs remained in service throughout World War II, serving as the principal light tank in German service and as a scout, although many wheeled vehicles performed this specialised task significantly better. The Panzer II's origins can be traced back to 1934 when the Waffenamt realised that difficulties in the manufacturing of the Panzer III and IV medium tanks necessitated the development of a new design that could rapidly replace the outdated Panzer I light tanks. The accepted design was essentially an expanded Panzer I with a turret mounting a new 20 mm cannon and increased armour. The Pz.Kpfw. II Ausf. C modification was the third production modification and was manufactured from July 1938 to March 1940. After the end of the Spanish Civil War, it became clear that the armouring of early Pz.Kpfw. II did not meet modern requirements and could be easily penetrated by field anti-tank artillery. Therefore, tanks of the Ausf. C modification were reinforced with add-on armour plates 14.5 and 20 mm thick, and the gun shield received a protective plate with bends at the top and bottom, which protected against shrapnel and bullets. The thickness of the viewport armour was also increased from 12 to 50 mm. Instead of a two-door hatch on the turret roof, a commander's cupola with eight periscopic observation blocks was installed; a new TZF4/38 sight was fitted; observation devices were modernised; and a mounting bracket for smoke grenade launchers was provided at the rear of the hull. Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Pz.II C is a dangerous light tank. Since most enemy tanks in the early ranks are fairly poorly armoured, the Pz.II C can unleash a wave of armour-piercing shells at adversaries with the KwK30 L/55 20 mm autocannon, crippling most opponent tanks with a single ammunition clip. The tank also boasts decent mobility and a large crew (for a light tank); however, it suffers from very light armouring.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_pzkpfw_ii_ausf_c.png",
+ "weapons": [
+  "20 mm KwK30 cannon",
+  "7.92 mm MG34 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "20 / 14 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "68 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "44"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "15.4"
+  },
+  {
+   "label": "Ammunition",
+   "value": "180 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.8 → 6 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "280 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-9 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "17.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,800 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "179 → 230"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/HEFI-T",
+   "penetration": [
+    "37",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "20 mm PzGr.",
+   "type": "API-T",
+   "penetration": [
+    "37",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "20 mm PzGr.40",
+   "type": "HVAP-T",
+   "penetration": [
+    "48",
+    "45",
+    "31",
+    "20",
+    "13",
+    "8"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

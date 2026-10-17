@@ -1,0 +1,128 @@
+{
+ "id": "it_ab_43",
+ "wiki": "https://wiki.warthunder.com/unit/it_ab_43",
+ "name": "AB 43",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The Fiat-Ansaldo Autoblinda 43 was an attempt by the Italian Army to modernise and replace the AB 41 with a newer model that had more firepower. At the beginning of the war, and also during the Spanish Civil War, most armoured cars were armed with heavy machine guns or autocannons. However, the first options soon proved to be underpowered to deal with more modern tanks and even other armoured cars (especially in the African theatre). The AB 43 emerged as an attempt to mount a 47 mm cannon on the existing AB platform, combining aspects of the AB41 and AB42. Only one prototype was ever built. In 1943, after the \"Armistice of Cassibile\", production and further development of the vehicle was halted. The prototype was captured by Germany but saw little use. Introduced in Update 1.85 \"Supersonic\" , the AB 43 is comparable to the German Sd.Kfz.234/2 Puma or the Soviet BA-11 . It has very poor armour, to the point that it can be easily penetrated by .50 cal ammunition, common in American tanks such as the Sherman. The tank also has subpar mobility for an armoured car, with a top speed of 43 km/h. It lacks the mobility of the Puma, and its firepower is also not as good as that of the BA-11 relative to its BR, though it is still a capable tank when used correctly. Due to its poor armour, it is not made for frontline combat; it is best used in the flanks of the battle, ambushing tanks trying to flank your team or tanks focused on the midst of the battle. It should be noted that its main shell lacks explosive filler, so it requires aiming at critical points, like the crew compartment or ammo stash, to be effective.",
+ "image": "https://static.encyclopedia.warthunder.com/images/it_ab_43.png",
+ "weapons": [
+  "8 mm Breda Mod. 38 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "8 / 8 / 8 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "75 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "81"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "14.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "146 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.3 → 3.3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-7 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,992 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "337 → 464"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 30 / 40 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,910"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Granata mod.35",
+   "type": "HE",
+   "penetration": [
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "Granata Perforante mod.39",
+   "type": "APHE",
+   "penetration": [
+    "62",
+    "61",
+    "53",
+    "46",
+    "39",
+    "33"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

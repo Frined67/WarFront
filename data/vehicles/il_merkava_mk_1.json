@@ -1,0 +1,214 @@
+{
+ "id": "il_merkava_mk_1",
+ "wiki": "https://wiki.warthunder.com/unit/il_merkava_mk_1",
+ "name": "Merkava Mk.1",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "VI",
+ "br": {
+  "AB": "9.3",
+  "RB": "9.3",
+  "SB": "9.3"
+ },
+ "description": "The Merkava Mk.1 was the first variant of the Merkava main battle tank family. The IDF formerly had to rely on importing foreign weapons to maintain its armoured units, as its industry was inadequate to develop domestic vehicles. The British decision not to sell the Chieftain to the Israelis (because they were already supplying them to Arab countries) led Israel to begin its own tank development programme. Development was overseen by General Israel Tal, who was not a professional engineer but an experienced soldier who had participated in World War II and the subsequent Arab–Israeli wars. He laid down the philosophy of the design, which prioritised crew protection, resulting in the tank's unique configuration: the engine was located at the front and, for rapid evacuation and transport of soldiers, a rear hatch was installed, effectively transforming it into an \"armoured IFV\". By 1974, the first prototypes of the Merkava tank were sent for initial trials, and in December 1979, almost ten years after development began, the Merkava entered service with the IDF. It was first deployed during the 1982 Lebanon War. In 1983, manufacturing was stopped in favour of the upgraded Merkava Mk.2 variant. Some Merkava Mk.1s were upgraded to the Mk.2 standard, being redesignated Merkava Mk.1B . Introduced in Update 2.53 \"Line of Contact\" , the Merkava Mk.1 is the first indigenous armoured vehicle in the Israeli ground tree. The positioning of the engine at the front is one of the Merkava's most distinctive features, and improves the tank's survivability by absorbing shots from the front, protecting the crew. However, it also increases the risk of engine failure and fire. The Merkava boasts a powerful gun, a thermal sight, and excellent survivability, aided by its LWS and numerous smoke grenades, but has low mobility compared to many Western tanks.",
+ "image": "https://static.encyclopedia.warthunder.com/images/il_merkava_mk_1.png",
+ "weapons": [
+  "105 mm Sharir cannon",
+  "12.7 mm M2HB machine gun",
+  "7.62 mm FN MAG 60-40 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "90 / 50 / 30 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "151 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "54"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "14.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "54 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "8.7 → 6.7 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-8 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "28"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "6,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,600 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 50°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-120 / 120°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "4,128 → 6,006"
+  },
+  {
+   "label": "Crew training",
+   "value": "130,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "150 / 190 / 230 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "131,500"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,400"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M152",
+   "type": "HEATFS",
+   "penetration": [
+    "400",
+    "400",
+    "400",
+    "400",
+    "400",
+    "400"
+   ]
+  },
+  {
+   "name": "M156",
+   "type": "HESH",
+   "penetration": [
+    "127",
+    "127",
+    "127",
+    "127",
+    "127",
+    "127"
+   ]
+  },
+  {
+   "name": "M111",
+   "type": "APFSDS",
+   "penetration": [
+    "338",
+    "336",
+    "330",
+    "323",
+    "315",
+    "307"
+   ]
+  },
+  {
+   "name": "M416",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

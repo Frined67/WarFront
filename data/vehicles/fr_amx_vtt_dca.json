@@ -1,0 +1,130 @@
+{
+ "id": "fr_amx_vtt_dca",
+ "wiki": "https://wiki.warthunder.com/unit/fr_amx_vtt_dca",
+ "name": "VTT DCA",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "3.0",
+  "SB": "3.0"
+ },
+ "description": "The AMX VTT/VCI is a French armored personnel carrier based on the AMX-13 design. In the early 1950s, the French Army needed a vehicle to transport troops that could withstand bullets and artillery shrapnel. Two companies participated in the bidding process: Hotchkiss and AMX. AMX provided a more advanced vehicle that was standardized with many details of the AMX-13. It could carry up to ten troops and was equipped with armor up to 30 mm thick. The first prototype was built in 1955, and mass production began in 1957. A total of approximately 3,000 vehicles were produced in various configurations. In an attempt to improve the vehicle's firepower, which was normally limited to a rifle-caliber machine gun, an American M45 anti-aircraft quad mount with four .50 cal machine guns was installed on the APC, similar to the M16 Halftrack . However, only one prototype of this \"anti-aircraft gun\" (French: \"Défense Contre Avions\" ) was built and was not accepted into mass production. The VTT DCA was introduced in Update 2.35 “Alpha Strike” . It is a small, lightly armored vehicle armed with four M2 Browning machine guns, which are effective against aircraft. Unlike the M16 MGMC , it is not limited by a cabin in front and can fire in all directions without limitations. Three of its four crew members are located in an armored hull, giving the vehicle acceptable survivability. However, its armament is insufficient to combat most armored vehicles, rendering it useful only as an anti-aircraft gun.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_amx_vtt_dca.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "20 / 20 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "78 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "61"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "18.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,200 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "18.2 → 14 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 90°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "42"
+  },
+  {
+   "label": "Repair cost",
+   "value": "684 → 880"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 50 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,430"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Universal",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": ".50 API",
+   "type": "API-T/AP-I/API-T",
+   "penetration": [
+    "30",
+    "27",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": ".50 AP",
+   "type": "AP/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": ".50 API-T",
+   "type": "API-T",
+   "penetration": [
+    "29",
+    "27",
+    "19",
+    "12",
+    "7",
+    "5"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

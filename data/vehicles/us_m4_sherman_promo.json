@@ -1,0 +1,190 @@
+{
+ "id": "us_m4_sherman_promo",
+ "wiki": "https://wiki.warthunder.com/unit/us_m4_sherman_promo",
+ "name": "M4",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "3.7"
+ },
+ "description": "The M4 Sherman , developed in the early 1940s by the Rock Island Arsenal, was the famous American medium tank of World War II. After production of the M3 Lee began, American engineers continued developing medium tanks without slowing down. This was driven by the fact that, although the M3 was relatively successful, it was seen as only an intermediate step in American tank design. The tank's main drawback was the placement of its primary weapon: the 75mm M2 gun was mounted in a hull sponson rather than a fully rotating turret. The new tank was designed specifically to address this issue. The first prototype was completed by September 2, 1941. After trials and refinements, the vehicle was accepted into service in two variants: the cast-hull M4A1 and the welded-hull M4. Various Sherman models were subsequently used extensively by the United States Army and the armed forces of many other nations during and after World War II. A special version of the M4 with unique camouflage was introduced in 2023 and can be obtained by completing tasks in War Thunder Mobile . The tank's strengths include a rapid-firing gun with respectable armor penetration and good post-penetration damage, as well as a vertical stabilizer that allows it to effectively engage enemy vehicles while on the move without excessive gun oscillation. Its weaknesses include mediocre mobility and numerous armor weak spots. Overall, the M4 is a versatile vehicle capable of performing well in both defensive and offensive roles.",
+ "image": "https://static.encyclopedia.warthunder.com/images/us_m4_sherman_promo.png",
+ "weapons": [
+  "75 mm M3 cannon",
+  "12.7 mm M2HB machine gun",
+  "7.62 mm M1919A4 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 38 / 38 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "102 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "39"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "97 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 25°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "716 → 921"
+  },
+  {
+   "label": "Crew training",
+   "value": "9,200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 70 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "13,860"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "860"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M72 shot",
+   "type": "AP",
+   "penetration": [
+    "91",
+    "88",
+    "78",
+    "67",
+    "57",
+    "49"
+   ]
+  },
+  {
+   "name": "M48 shell",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "M61 shot",
+   "type": "APCBC",
+   "penetration": [
+    "104",
+    "102",
+    "93",
+    "84",
+    "75",
+    "68"
+   ]
+  },
+  {
+   "name": "M89",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

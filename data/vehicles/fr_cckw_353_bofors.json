@@ -1,0 +1,120 @@
+{
+ "id": "fr_cckw_353_bofors",
+ "wiki": "https://wiki.warthunder.com/unit/fr_cckw_353_bofors",
+ "name": "CCKW 353 AA",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.3",
+  "SB": "2.0"
+ },
+ "description": "Throughout World War II, the United States supplied a large number of GMC CCKW trucks to its allies as part of the Lend-Lease agreement. Among these recipients was France, which used the truck in various roles. As with many other countries, some of the French CCKWs were converted into an anti-aircraft gun platform by simply bolting a gun onto the truck's bed. The French CCKWs saw active service throughout the war and were later deployed in Indochina as anti-infantry fire support. The last few CCKWs under French service, most of them converted into fire trucks, were retired from the French army in 2000. Introduced in Update 1.75 \"La Résistance\" as part of the initial French ground tree, the \" CCKW 353 AA \" is simply the GMC CCKW truck equipped with a single 40 mm Bofors autocannon on its truck bed. Much like any other truck, the CCKW is extremely vulnerable to machine guns and HE rounds, though with a crew of 6, it can take a few grazing hits from AP rounds and retreat as long as the driver is not killed. Although classified as an SPAA, the CCKW is difficult to use in its intended role due to the Bofors autocannon's relatively low rate of fire, which makes hitting aircraft difficult without practice. However, the Bofors features an AP round with high penetration of 72 mm, which is enough to deal with most tanks at its BR from the front and at a higher BR from the sides. As such, the CCKW will often find itself as a makeshift tank destroyer, shredding any lighter tanks that come within its line of sight before they can react.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_cckw_353_bofors.png",
+ "weapons": [
+  "40 mm Bofors L/60 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "0 / 0 / 0 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "83 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "64"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "11.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "384 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "0.6 → 0.5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "120 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-6 / 87°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "24.5"
+  },
+  {
+   "label": "Repair cost",
+   "value": "483 → 626"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 40 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,940"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/FI-T",
+   "penetration": [
+    "72",
+    "69",
+    "58",
+    "46",
+    "37",
+    "29"
+   ]
+  },
+  {
+   "name": "40 mm Mk.II",
+   "type": "FI-T",
+   "penetration": [
+    "9",
+    "8",
+    "7",
+    "6",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "40 mm M81A1",
+   "type": "AP-T",
+   "penetration": [
+    "72",
+    "69",
+    "58",
+    "46",
+    "37",
+    "29"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

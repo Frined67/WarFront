@@ -1,0 +1,214 @@
+{
+ "id": "sb_2m_105",
+ "wiki": "https://wiki.warthunder.com/unit/sb_2m_105",
+ "name": "SB 2M-105",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "3.0",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The SB-2M-105 was an upgraded version of the Soviet high-speed bomber SB-2M, which was designed by Andrei Tupolev. Unlike its predecessor, the SB-2M-103U , the new bomber was equipped with M-105 engines, which were more powerful and easier to operate. About 150 SB 2M-105s were produced before the Ar-2 bomber was created based on its design. The SB 2M-105 has been in the game since the start of the Open Beta Test prior to Update 1.27. For its size, the SB features a decent payload options. The manoeuvrability of the SB is also very impressive, allowing it to dogfight with less agile enemy fighters and damaging them utilizing the front mounted twin ShKAS machine guns. However the rear hemisphere protection is rather weak with just single ShKAS machine gun in a dorsal turret and single ShKAS in a ventral turret.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sb_2m_105.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "466"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "12.7"
+  },
+  {
+   "label": "Turn time",
+   "value": "21"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "366 m"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x VK-105R"
+  },
+  {
+   "label": "Length",
+   "value": "12.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "20.3 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "119 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "5.6"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.13 t (1h 58m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "600 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/6 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 310 / 316 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "350 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,920 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,500"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,600 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "600 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "347 → 464"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 50 / 100 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-I/AP-I/AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "API-T/API-T/API-T/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-I/AP-I/AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "API-T/API-T/API-T/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

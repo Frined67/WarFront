@@ -1,0 +1,142 @@
+{
+ "id": "il_sholef",
+ "wiki": "https://wiki.warthunder.com/unit/il_sholef",
+ "name": "Sholef",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "IV",
+ "br": {
+  "AB": "7.3",
+  "RB": "7.3",
+  "SB": "7.3"
+ },
+ "description": "The Sholef V1 (lit. \"Gunslinger V1\") is an Israeli prototype self-propelled howitzer developed by Soltam Systems during the 1980s. Based on a modified Merkava Mk.1 chassis, the Sholef incorporated numerous advanced systems into the vehicle, notably GPS, inertial navigation, and a fire control computer. Despite the project being prioritised by the IDF, it was ultimately cancelled in the early 1990s due to high cost. Instead, the IDF chose to upgrade existing M109 howitzers with the new M185 howitzer that was meant to be used by the Sholef instead. Introduced during Update \"Seek & Destroy\" as a reward for Battle Pass: Season XVI, \"Skilled Marksman\" , the Sholef is an advanced SPH based on the hull of the Merkava Mk.1 MBT. Although the chassis lacks any composite armour, it is still quite thick and sloped enough that it can take some hits from kinetic rounds. However, just like any other modern SPH, the Sholef's turret is large and thin, making it a juicy target for anyone, especially for various autocannon-armed IFVs that start to appear at the Sholef's BR. In terms of firepower, the Sholef is a big step up from the Rochev by having access to an autoloader and powerful conventional HE shell, capable of defeating most tanks it will face.",
+ "image": "https://static.encyclopedia.warthunder.com/images/il_sholef.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "90 / 50 / 30 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "95 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "54"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "15"
+  },
+  {
+   "label": "Ammunition",
+   "value": "75 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-3 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,600 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 50°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-120 / 80°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,755"
+  },
+  {
+   "label": "Crew training",
+   "value": "10,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (140 / 210 / 230) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M107",
+   "type": "HE",
+   "penetration": [
+    "61",
+    "61",
+    "61",
+    "61",
+    "61",
+    "61"
+   ]
+  },
+  {
+   "name": "M401",
+   "type": "HE",
+   "penetration": [
+    "63",
+    "63",
+    "63",
+    "63",
+    "63",
+    "63"
+   ]
+  },
+  {
+   "name": "M401 (PF)",
+   "type": "HE-VT",
+   "penetration": [
+    "63",
+    "63",
+    "63",
+    "63",
+    "63",
+    "63"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

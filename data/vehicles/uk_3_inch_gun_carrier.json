@@ -1,0 +1,108 @@
+{
+ "id": "uk_3_inch_gun_carrier",
+ "wiki": "https://wiki.warthunder.com/unit/uk_3_inch_gun_carrier",
+ "name": "Gun Carrier (3-in)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "3.0",
+  "SB": "3.0"
+ },
+ "description": "In 1941, under the possibility of German invasion on British soil, the British Army urgently required modern anti-tank weapons to combat the latest German tanks, particularly mounted as self-propelled guns. The QF 17-pounder was still under development, so as a stop-gap, it was decided to mount the old but proven OQF 3in 20cwt cannon on the chassis of the new Churchill heavy infantry tank. The designers could not install such a gun in any sort of turret (due to its massive breech), so it was decided simply to create a large casemate-type superstructure. The resulting vehicle was named Gun Carrier, 3-inch, Mk I, Churchill (A22D) . Although the WWI-era 3-inch gun installed on the Gun Carrier managed to cope with the tasks set before it, albeit with difficulty, and tests of the new SPG were generally considered satisfactory, the Royal Army Command was in no hurry to deploy it in combat. Before more technically advanced vehicles (such as the Achilles ) were developed, about a hundred units were sent to serve in the ranks of the First Canadian Armoured Brigade. Several \"Heavy Support Companies\" were formed, where they served away from active combat until their disbandment in March 1943. The Gun Carrier (3-in) was introduced along with the initial British ground tree in Update 1.55 \"Royal Armour\" . Many consider this SPG unwieldy until they encounter it head-on for the first time. The 3-inch Gun Carrier is capable of single-handedly holding a position when played skillfully, especially with the support of more mobile allies. The large calibre anti-tank cannon gives it a significant advantage in frontal confrontations, and the armour inherited from the Churchill forgives many tactical mistakes, since many opponents are unable to consistently penetrate the Churchill Gun Carrier even from the side. Nevertheless, the SPG suffers from serious mobility problems, and the small gun traverse angles only worsen the situation.",
+ "image": "https://static.encyclopedia.warthunder.com/images/uk_3_inch_gun_carrier.png",
+ "weapons": [
+  "76 mm OQF 3in 20cwt cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "76 / 64 / 51 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "104 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "26"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "9.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "65 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "8.1 → 6.3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 15°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-5 / 5°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "3.1"
+  },
+  {
+   "label": "Repair cost",
+   "value": "596 → 737"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 60 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,460"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Shot Mk.2",
+   "type": "AP",
+   "penetration": [
+    "131",
+    "125",
+    "104",
+    "82",
+    "65",
+    "51"
+   ]
+  },
+  {
+   "name": "Shell HE",
+   "type": "HE",
+   "penetration": [
+    "12",
+    "12",
+    "11",
+    "10",
+    "9",
+    "9"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,88 @@
+{
+ "id": "ussr_bm_8_24",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_bm_8_24",
+ "name": "BM-8-24",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "The BM-8-24 is a Soviet MLRS created during the Great Patriotic War. It is a futher development of the BM-8-36 combat vehicle and uses similar ammunition. These combat vehicles were mass-produced at the Kompressor and Krasnaya Presnya factories on T-40 and T-60 tank chassis. Instead of a turret, a launcher with M-8 rockets—a modified version of RS-82 aircraft rockets—was installed. The first T-60 tank-based vehicles arrived at the frontline in November 1941, and a total of 111 BM-8-24 MLRS were produced. However, by spring 1943, these vehicles had been decommissioned due to extensive wear. Nevertheless, the launchers were not retired. Several M-8-24 launchers, along with additional equipment, were removed from tank chassis and installed on trucks. This weapon was used in this form for some time. The BM-8-24 was introduced in Update 1.53 \"Firestorm\" . In terms of gameplay, the vehicle lacks the firepower to destroy enemy armored vehicles. Its rockets contain only 600 grams of explosives and can penetrate up to 9 mm of armor. This is only sufficient to destroy unarmored vehicles, such as early AAAs or SPGs.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_bm_8_24.png",
+ "weapons": [
+  "82 mm M-8 rocket"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "35 / 15 / 25 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "125 %"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "43"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "24 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "180 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-3 / 40°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-13 / 13°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "10.5"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,244"
+  },
+  {
+   "label": "Crew training",
+   "value": "2,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (55 / 85 / 75) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M-8",
+   "type": "R",
+   "penetration": [
+    "9",
+    "9",
+    "9",
+    "9",
+    "9",
+    "9"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

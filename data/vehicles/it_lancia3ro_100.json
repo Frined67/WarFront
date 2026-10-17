@@ -1,0 +1,164 @@
+{
+ "id": "it_lancia3ro_100",
+ "wiki": "https://wiki.warthunder.com/unit/it_lancia3ro_100",
+ "name": "Lancia 3Ro (100/17)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "The Lancia 3Ro was an Italian 4x2 heavy truck based on the earlier Lancia Ro model. The 3Ro proved itself to be a reliable design and extensively served throughout World War II, particularly during the North Africa and Sicily campaign. Much like many other Italian trucks, several 3Ro trucks were converted into makeshift SPGs by mounting the 100 mm 100/17 howitzer as well as having their top cab removed to better serve on the desert battlefield. Following the Italian armistice in 1943, the Wehrmacht ended up commandeering the vehicles of their former ally and later placed an order for more 3Ro trucks to be produced in occupied Italy in 1944. In total, around 9,490 3Ro trucks were produced by the end of the war. Introduced in Update \"Danger Zone\" , the Lancia 3Ro (100/17) is a makeshift SPG based on a truck and, as such, it features typical characteristics for such a vehicle: mediocre mobility and a very fragile hull. While the 100 mm howitzer initially offers very poor stock HE and AP rounds, the 3Ro’s potential will be unlocked after obtaining the HEAT shell with impressive penetration of 110 mm. This allows the 3Ro to effectively eliminate any vehicle within its BR range with ease. However, due to the aforementioned poor survivability issue, the 3Ro is best played as a fire support vehicle behind cover or allies.",
+ "image": "https://static.encyclopedia.warthunder.com/images/it_lancia3ro_100.png",
+ "weapons": [
+  "8 mm Breda Mod. 38 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "30 / 15 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "96 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "45"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "10.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "72 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "13 → 10 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-8 / 48°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,680 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 25°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-20 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "21"
+  },
+  {
+   "label": "Repair cost",
+   "value": "305 → 381"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 30 / 40 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,920"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Granata da 100 Mod.32",
+   "type": "HE",
+   "penetration": [
+    "27",
+    "27",
+    "27",
+    "27",
+    "27",
+    "27"
+   ]
+  },
+  {
+   "name": "Granata da 100 Mod.914",
+   "type": "AC shell",
+   "penetration": [
+    "26",
+    "26",
+    "24",
+    "23",
+    "22",
+    "21"
+   ]
+  },
+  {
+   "name": "Effetto Pronto da 100",
+   "type": "HESH",
+   "penetration": [
+    "75",
+    "75",
+    "75",
+    "75",
+    "75",
+    "75"
+   ]
+  },
+  {
+   "name": "Effetto Pronto mod.43",
+   "type": "HEAT",
+   "penetration": [
+    "110",
+    "110",
+    "110",
+    "110",
+    "110",
+    "110"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

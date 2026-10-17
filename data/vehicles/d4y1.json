@@ -1,0 +1,218 @@
+{
+ "id": "d4y1",
+ "wiki": "https://wiki.warthunder.com/unit/d4y1",
+ "name": "D4Y1",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "II",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.3"
+ },
+ "description": "The D4Y1 mod. 11 , designated as the Suisei 11 ( 彗星一一型 ) , was a dive bomber developed to replace the D3A1 with the primary design criteria being able to out-speed pursuers and out-range American carriers. With Japanese engine development lacking behind, the chosen high-output engine for the Suisei was the Aichi Atsuta 21 engine, a license-produced DB 601 found on the Bf 109 (Family) and many other German planes. While the engine outperformed its Japanese counterparts, the lack of industrial power, rare resources for parts and overall maintenance complexity strained its reliability and production numbers. It was introduced in Update 1.75 \"La Résistance\" . The pursuit for a long-range high-speed dive-bomber hampers the other capabilities of D4Y1, with relatively weak survivability, limited to only one bomb of maximum 500 kg which leaves the Suisei as a hit-and-run dive-bomber.",
+ "image": "https://static.encyclopedia.warthunder.com/images/d4y1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "552"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "9.3"
+  },
+  {
+   "label": "Turn time",
+   "value": "23"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,800 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "Atsuta 21"
+  },
+  {
+   "label": "Length",
+   "value": "10.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "154 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.59"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.79 t (2h 57m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "750 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -11/14 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 429 / 458 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "350 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "582 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.13 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "624 → 843"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 100 / 200 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,400"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/IAI/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "I/AP/AP/AP/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/Ball/AP/I/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,230 @@
+{
+ "id": "i-16_type17_china",
+ "wiki": "https://wiki.warthunder.com/unit/i-16_type17_china",
+ "name": "␗I-16 type 17",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "3.3",
+  "RB": "3.3",
+  "SB": "2.7"
+ },
+ "description": "The I-16 type 17 is a variant of the Soviet single-engine monoplane fighter developed in the 1930s by the Experimental Design Bureau of aircraft designer Nikolai Polikarpov. The I-16 was one of the world’s first mass-produced monoplane fighters with retractable landing gear. Developed in 1938, the type 17 was an evolution of the I-16 type 10 . It differed from the type 10 in its armament; the type 17 had 20-mm ShVAK cannons installed in the wings instead of ShKAS machine guns. A total of 341 I-16 Type 17s were produced from 1938 to 1939. In early 1941, the Chinese Air Force purchased 75 of them. However, they were outclassed by the latest Japanese A6M Zero fighters and did not prove very effective. The Chinese I-16 type 17 was introduced in Update 1.91 “Night Vision” . With its powerful armament and good maneuverability, the aircraft performs well in dogfights. Its suspended armament allows it to engage ground targets effectively, though precision is required. However, the I-16 has a low top speed and subpar climb rate among fighters, which is important to keep in mind when engaging German Bf 109s. Additionally, the aircraft's survivability is poor: its 8.5 mm armor plate does not provide reliable protection.",
+ "image": "https://static.encyclopedia.warthunder.com/images/i-16_type17_china.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "461"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "18.5"
+  },
+  {
+   "label": "Turn time",
+   "value": "16.5"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,300 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "210 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "M-25V"
+  },
+  {
+   "label": "Length",
+   "value": "6.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "143 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.62"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.15 t (44m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "700 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/15 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "260 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "300 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.21 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,300 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "493 → 624"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 70 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,380"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/HEF-I",
+   "penetration": [
+    "10",
+    "8",
+    "7",
+    "6",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/HEF-I/T/T",
+   "penetration": [
+    "10",
+    "8",
+    "7",
+    "6",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF/HEF-I/HEF/T",
+   "penetration": [
+    "10",
+    "8",
+    "7",
+    "6",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AI/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

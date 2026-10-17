@@ -1,0 +1,126 @@
+{
+ "id": "us_t77e1",
+ "wiki": "https://wiki.warthunder.com/unit/us_t77e1",
+ "name": "T77E1",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "II",
+ "br": {
+  "AB": "4.0",
+  "RB": "4.0",
+  "SB": "3.7"
+ },
+ "description": "The T77E1 Multiple Gun Motor Carriage (MGMC) is an American self-propelled anti-aircraft gun mounted on the M24 light tank chassis and armed with six 12.7 mm M2HB machine guns. Development began in July 1943 using the hull of the M24, which was still in development and designated as the T24. This SPAA was designated as the Carriage, Motor, Multiple, Cal. .50 Gun, T77, and was armed with four 12.7 mm machine guns. The design was approved for a mock-up by the end of 1943. After inspecting this mock-up, officials requested that two additional machine guns be added to the vehicle. The first T77 was completed in July 1945, and a second prototype was also made and designated as the T77E1. However, by this time, World War II had already ended. The T77 never saw active service, and the two prototypes were presumably soon scrapped. Introduced in Update \"Firebirds\" , the T77E1 is a very light and mobile vehicle, being based on the M24's light tank hull. The .50 cal armament can potentially be useful against armoured targets on the ground, though it is not ideal to engage with tanks due to enemy armor protection while dealing with the T77E1's thin, though angled, armour. With some good precision, you can easily take down enemy aircraft with your numerous machine guns.",
+ "image": "https://static.encyclopedia.warthunder.com/images/us_t77e1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "25 / 25 / 19 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "96 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "56"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "6,600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 85°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "45.5"
+  },
+  {
+   "label": "Repair cost",
+   "value": "859 → 1,106"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "60 / 60 / 100 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,330"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Universal",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": ".50 API",
+   "type": "API-T/AP-I/API-T",
+   "penetration": [
+    "30",
+    "27",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": ".50 AP",
+   "type": "AP/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": ".50 API-T",
+   "type": "API-T",
+   "penetration": [
+    "29",
+    "27",
+    "19",
+    "12",
+    "7",
+    "5"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

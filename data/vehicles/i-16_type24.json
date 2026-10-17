@@ -1,0 +1,170 @@
+{
+ "id": "i-16_type24",
+ "wiki": "https://wiki.warthunder.com/unit/i-16_type24",
+ "name": "I-16 type 24",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The I-16 Type 24 is a modified version of a Soviet single-engine monoplane fighter from the 1930s developed by Nikolai Polikarpov's design bureau. The I-16 was one of the world’s first mass-produced monoplane fighters with retractable landing gear. Developed in 1939, the Type 24 evolved from the I-16 Type 18 . It had a 3 mm plywood skin added between the spars, which significantly reduced wing torsion. The airframe was also slightly reinforced, and an M-63 engine was installed. The Red Army Air Force used I-16 Type 24 fighters in the battles of Khalkhin Gol, the Polish Campaign, and the Winter War. Despite becoming outdated, they were widely used during the Great Patriotic War, especially in its early stages. Between 1939 and 1941, approximately 934 I-16 Type 24 aircraft were produced. The I-16 Type 24 was introduced in Update 1.39 . With its excellent maneuverability, matched only by some Japanese fighters, and solid armament, the aircraft is well suited for air combat. However, its agility comes at the cost of survivability; the pilot's only protection is an armored backplate. Additionally, the M-63 engine is prone to quick overheating.",
+ "image": "https://static.encyclopedia.warthunder.com/images/i-16_type24.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "467"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "19.3"
+  },
+  {
+   "label": "Turn time",
+   "value": "16.4"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,300 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "210 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "M-63"
+  },
+  {
+   "label": "Length",
+   "value": "6.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "150 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.7"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.15 t (33m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "700 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/15 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 / 363 / 395 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "260 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,100"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "279 → 420"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 40 / 90 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AI/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

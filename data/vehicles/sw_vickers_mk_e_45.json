@@ -1,0 +1,121 @@
+{
+ "id": "sw_vickers_mk_e_45",
+ "wiki": "https://wiki.warthunder.com/unit/sw_vickers_mk_e_45",
+ "name": "▄T-26E",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The T-26E \"Englantilainen\" was a Finnish modification of the Vickers Mk. E Mod. B tank that involved replacing several components with Soviet ones. Following the Winter War, the Finns acquired numerous Soviet tanks as war trophies, including the T-26 . However, many of these tanks were in poor condition and could only be used for spare parts. Additionally, it became nearly impossible to obtain spare parts from other countries, including Great Britain. Consequently, they decided to modernize the tanks using parts from the captured vehicles. Thus, the Swedish 37mm Bofors gun was replaced with a Soviet 45mm gun, and gun mantlet was taken from the T-26 tanks. The Maxim machine gun was replaced with a Soviet DT, and several other minor changes were made. A total of 26 tanks were modernized between the Winter War of 1939–1940 and the start of the Continuation War. They participated in the war until Finland's withdrawal from the conflict and remained in service until at least the beginning of 1959. The Finnish T-26E was introduced in Update 2.21 \"Fire and Ice\" and can be found in the Swedish ground research tree. Compared to the Vickers Mk.E , it has enhanced armament. Compared to the T-26 , it has slightly better mobility, slightly better armor, and a larger crew.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_vickers_mk_e_45.png",
+ "weapons": [
+  "45 mm 20-K cannon",
+  "7.62 mm DT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "17 / 10 / 17 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "81 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "35"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "10.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "50 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.8 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-6 / 22°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,890 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "409"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 20 / 25) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-240",
+   "type": "APHEBC",
+   "penetration": [
+    "70",
+    "67",
+    "58",
+    "47",
+    "39",
+    "32"
+   ]
+  },
+  {
+   "name": "BR-240SP",
+   "type": "APBC",
+   "penetration": [
+    "73",
+    "70",
+    "60",
+    "50",
+    "41",
+    "34"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

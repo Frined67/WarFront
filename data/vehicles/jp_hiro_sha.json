@@ -1,0 +1,144 @@
+{
+ "id": "jp_hiro_sha",
+ "wiki": "https://wiki.warthunder.com/unit/jp_hiro_sha",
+ "name": "Ro-Go Exp.",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "The Ro-Go Experimental was a modification of the Ro-Go platform. It features a French Model 120 mm Schneider-Canet 1898 cannon as its main armament, designed to up-gun unused hulls and press them into service as capable glass-cannon self-propelled guns. The Ro-Go Exp. was introduced in Update \"Ixwa Strike\" . It possesses a very powerful cannon for the vehicles it faces, but it is based on a slow and sluggish heavy tank hull, which is its main drawback. Additionally, as it is open-topped and relatively thinly armoured, the best course of action is to use this \"glass cannon\" in a sniping position to engage targets at range.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_hiro_sha.png",
+ "weapons": [
+  "7.7 mm Type 97 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "25 / 25 / 25 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "107 %"
+  },
+  {
+   "label": "Crew",
+   "value": "7 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "23"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "11.4"
+  },
+  {
+   "label": "Ammunition",
+   "value": "16 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "13 → 10 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 15°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-12 / 12°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,960 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-8 / 20°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-110 / 110°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "14"
+  },
+  {
+   "label": "Repair cost",
+   "value": "193 → 239"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 20 / 30 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Schneider-Canet SAP",
+   "type": "SAPCBC",
+   "penetration": [
+    "63",
+    "62",
+    "58",
+    "53",
+    "49",
+    "45"
+   ]
+  },
+  {
+   "name": "Schneider-Canet HE",
+   "type": "HE",
+   "penetration": [
+    "25",
+    "25",
+    "25",
+    "25",
+    "25",
+    "25"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

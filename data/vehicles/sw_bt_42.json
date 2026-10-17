@@ -1,0 +1,102 @@
+{
+ "id": "sw_bt_42",
+ "wiki": "https://wiki.warthunder.com/unit/sw_bt_42",
+ "name": "BT-42",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "The BT-42 , officially known as \" 15 tonnin rynnäkkötykkipanssarivaunu BT-42 (15-ton assault gun tank BT-42)\", was a modified variant of the Soviet BT-7 light tanks which were captured by Finland during the Winter War and Continuation War; due to the lack of firepower of the 37/45 mm gun on original BT tanks and the dire need for tanks to defend against Soviet forces, some of these BT tanks were then upgraded with a British-aided 4.5 inch howitzer and new turret that housed this very gun. These tanks were then deployed to the battle against Soviet forces; only one of these 18 tanks eventually survived the war and the subsequent scrapping of the surviving tanks. The BT-42, introduced in Update \"Fire and Ice\" , is perhaps one of the most iconic light tanks in Finnish service as well as being a \"meme\" tank among players due to its screen time in a Japanese animation film. This captured BT-7 modified with a huge QF 4.5 inch howitzer will strike fear into enemies with its fearsome firepower while still retaining the iconic fast and nimble playstyle of a BT light tank.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_bt_42.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "20 / 15 / 13 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "83 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "54"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "26.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "22 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "13 → 10 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "4.2"
+  },
+  {
+   "label": "Repair cost",
+   "value": "169 → 218"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,460"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "akr 32/41",
+   "type": "HE",
+   "penetration": [
+    "25",
+    "25",
+    "25",
+    "25",
+    "25",
+    "25"
+   ]
+  },
+  {
+   "name": "hkr 42/C",
+   "type": "HEAT",
+   "penetration": [
+    "115",
+    "115",
+    "115",
+    "115",
+    "115",
+    "115"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

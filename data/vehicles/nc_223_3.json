@@ -1,0 +1,206 @@
+{
+ "id": "nc_223_3",
+ "wiki": "https://wiki.warthunder.com/unit/nc_223_3",
+ "name": "N.C.223.3",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "3.0",
+  "SB": "2.3"
+ },
+ "description": "The N.C.223.3, as a derivative of the Farman F.220 plane model, looks strikingly similar to the F.222.2 bomber, yet different as well. The biggest difference in the design was the twin rudder on the tail that helped improve stability and yaw control. The plane's overall design was also made more aerodynamic as part of the improvement, the nose section was made shorter, and the plane introduced improved Hispano-Suiza 12Y-29 engines that replaced the previous Gnome Rhone model engines. Defensive armaments were also improved with two Hispano cannons as the rear ventral and dorsal turret armament. In 1940, with the capitulation of France, these bombers were transferred to North Africa to work as transport aircraft, to later be replaced by other cargo aircraft, such as the C-47 Skytrain. It was introduced in Update 1.73 \"Vive la France\" . The N.C.223.3 works like many other bombers around its BR, being slow and relying on its altitude to stay alive in battles. It has access to a big payload even when compared to other heavy bombers, with 52 x 50 kg bombs that are enough to destroy a base or even destroy the enemy airfield in coordination with allied bombers. It features a strong airframe, capable of withstanding heavy damage without being destroyed, while also having a strong defensive armament in the rear in the form of 20 mm cannons. However the defensive armament only covers a few areas of the plane, and there are multiple blind spots, especially in the tail and vertical sections.",
+ "image": "https://static.encyclopedia.warthunder.com/images/nc_223_3.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "400"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "6.4"
+  },
+  {
+   "label": "Turn time",
+   "value": "29"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "520 m"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "4 x 12Y-29"
+  },
+  {
+   "label": "Length",
+   "value": "21.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "33.6 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "101 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "11.35"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "4.47 t (5h 16m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "450 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/5 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 / 454 / 491 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "480 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.45 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,350 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "495 → 627"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 70 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,930"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "PT/HEI/AP/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-T/AP/AP-T/HEI/AP-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/AP-T/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

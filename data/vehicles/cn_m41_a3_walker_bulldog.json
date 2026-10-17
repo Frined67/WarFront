@@ -1,0 +1,170 @@
+{
+ "id": "cn_m41_a3_walker_bulldog",
+ "wiki": "https://wiki.warthunder.com/unit/cn_m41_a3_walker_bulldog",
+ "name": "␗M41A3",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "III",
+ "br": {
+  "AB": "5.7",
+  "RB": "5.7",
+  "SB": "5.7"
+ },
+ "description": "The M41A3 , officially designated as M41A3戰車 or by its translated nickname 華克猛犬 (Walker Bulldog), was a light tank used by the ROCA and ROCMC from 1958 to 2022. The M41A3 was a modification of the older M41A1 , equipped with a fuel-injected AOS 895-5 diesel engine which was received by the ROCA in 1958 as military aid to the heated Taiwan Strait frontline. They mostly served as fire support vehicles for the outer islands and training vehicles for the ROCA armoured corps. Due to the aging and obsolete performance of Walker Bulldogs, the ROCA upgraded 50 of these tanks with better hull condition to the M41D standard, while the remaining ones would serve until the 2020s. A fatal vehicle rollover accident accelerated the decommissioning of unconverted M41s, as well as their replacement with the CM32 series. The final vehicle was decommissioned at Armor Training Command, ROCA, in Hsinchu on 25th February 2022. Introduced in Update \"Sons of Attila\" , the overall performance of the M41A3 is similar to its counterparts in other nations, with excellent mobility and sufficient firepower to take out most WWII tanks from the side. However, in the case of the M41A3, it trades its advanced ammunition (APDS and HEATFS) for a lower battle rating. Players can enjoy the Walker Bulldog now at a lower tier; flanking enemies will be a piece of cake with caution.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cn_m41_a3_walker_bulldog.png",
+ "weapons": [
+  "76 mm M32 cannon",
+  "12.7 mm M2HB machine gun",
+  "7.62 mm M1919A4E1 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "31 / 25 / 19 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "72"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "21.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "65 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.6 → 5.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,200 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 70°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Ammunition",
+   "value": "5,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,173"
+  },
+  {
+   "label": "Crew training",
+   "value": "10,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (90 / 130 / 175) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M339 shot",
+   "type": "APBC",
+   "penetration": [
+    "177",
+    "173",
+    "159",
+    "143",
+    "129",
+    "116"
+   ]
+  },
+  {
+   "name": "M352 shell",
+   "type": "HE",
+   "penetration": [
+    "15",
+    "15",
+    "14",
+    "12",
+    "12",
+    "12"
+   ]
+  },
+  {
+   "name": "M361",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,190 @@
+{
+ "id": "fr_crusader_mk_2",
+ "wiki": "https://wiki.warthunder.com/unit/fr_crusader_mk_2",
+ "name": "▄Crusader Mk.II",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "Several variants of the British Crusader cruiser tank family, notably the Crusader II and Crusader III , served with the Free French Forces. During the early stages of World War II, France was stripped of all equipment due to German occupation. The surviving forces received some of the Allies' tanks. The 1st autonomous tank company of the Free French Forces operated around 10 Crusader IIs and 18 Crusader IIIs. Introduced in Update 1.97 \"Viking Fury\" , the French Crusader II is a capable short-range light tank. It is mounted with a fast-firing 40 mm Ordnance QF 2-pounder tank gun, which is suitable for destroying tanks with a tightly packed interior and tank crews who are close to one other. Thanks to its rapid reload, primitive vertical gun stabilizer, and excellent handling, it is a fun light tank to play with. As cross-country performance is much better and the vehicle does not slide after sudden breaking, handling is much enhanced over the A13 cruiser tanks. Driving and fighting in the open field should be avoided due to lack of armour. Players should always look for cover or the terrain that hull-down tactics, which this tank excels at, may be used. The tank also boasts excellent gun depression and a small turret.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_crusader_mk_2.png",
+ "weapons": [
+  "40 mm QF 2-pounder cannon",
+  "7.92 mm BESA machine gun",
+  "7.92 mm BESA machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "20 / 28 / 14 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "76 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "42"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "20.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "110 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.6 → 2.8 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "25.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,375 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,950 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 10°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-50 / 50°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "3.8"
+  },
+  {
+   "label": "Repair cost",
+   "value": "436 → 627"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 40 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,470"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Shot Mk.1 AP/T",
+   "type": "AP",
+   "penetration": [
+    "72",
+    "68",
+    "52",
+    "37",
+    "27",
+    "19"
+   ]
+  },
+  {
+   "name": "Shot Mk.IXB APCBC/T",
+   "type": "APCBC",
+   "penetration": [
+    "89",
+    "86",
+    "77",
+    "66",
+    "57",
+    "50"
+   ]
+  },
+  {
+   "name": "Shot Mk.1 APHV/T",
+   "type": "AP",
+   "penetration": [
+    "80",
+    "75",
+    "58",
+    "41",
+    "30",
+    "21"
+   ]
+  },
+  {
+   "name": "Shell Mk.1 AP/T",
+   "type": "APHE",
+   "penetration": [
+    "66",
+    "62",
+    "49",
+    "36",
+    "26",
+    "19"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

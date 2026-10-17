@@ -1,0 +1,140 @@
+{
+ "id": "ussr_t_50",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_t_50",
+ "name": "T-50",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The T-50 was a Soviet light tank, built as replacement for T-26 and BT series tanks in late 1930s and early 1940s. The development of T-50 started in 1939 at the OKMO design bureau in Leningrad S.M. Kirov Factory No. 185 by L. Troyanov and I. Bushnevov. Two prototypes designated T-126 and T-127 were built, out of which the heavier T-126 was selected for further developement. However the design bureau was heavily impacted by the Great Purge and the design works had to be passed over to Leningrad K.E. Voroshilov Factory No. 174. Troyanov completed the T-50 design in January 1941. Meanwhile a replacement for BT tanks was designed and produced, the T-34 tank from Kharkov Locomotive Factory. The difficulties in manufacturing the T-50s aswell as their higher cost compared to T-34 led to stopping the production after 69 tanks built. Two T-50 survived to this day. One uparmoured version with appliqué armour installed was captured in 1944 by Finland and now is in Finnish Tank Museum at Parola and second standard T-50 is at Kubinka Tank Museum. The T-50 was introduced during the Closed Beta Test for Ground Forces before Update 1.41. It is an effective light tank with great sloping armour and an adequate 45 mm cannon, a great vehicle for beginners getting used to the Soviet playstyle in higher ranks. Basically, the T-50 is a mini T-34 and should be played as such: as a close range brawler.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_t_50.png",
+ "weapons": [
+  "45 mm 20-K cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "37 / 37 / 37 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "73 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "52"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "21.4"
+  },
+  {
+   "label": "Ammunition",
+   "value": "150 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.8 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-7 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "5.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,780 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "338 → 461"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 30 / 40 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,910"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-240",
+   "type": "APHEBC",
+   "penetration": [
+    "70",
+    "67",
+    "58",
+    "47",
+    "39",
+    "32"
+   ]
+  },
+  {
+   "name": "BR-240SP",
+   "type": "APBC",
+   "penetration": [
+    "73",
+    "70",
+    "60",
+    "50",
+    "41",
+    "34"
+   ]
+  },
+  {
+   "name": "BR-240P",
+   "type": "APCR",
+   "penetration": [
+    "94",
+    "87",
+    "64",
+    "43",
+    "29",
+    "20"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

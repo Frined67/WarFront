@@ -1,0 +1,145 @@
+{
+ "id": "it_l6",
+ "wiki": "https://wiki.warthunder.com/unit/it_l6",
+ "name": "L6/40",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The L6/40 is a tracked light tank made by Ansaldo for the Royal Italian army during the 1940s. The L6/40 was based on a heavily modified L3 chassis, keeping the two-person crew, but with an increase in firepower, protection, and mobility. It was heavily used during the occupation of the Balkans where it proved its worth. It was armed with the 20 mm Breda Mod.35 autocannon, able to fire a multitude of munitions including the Perforante mod.35 and the German PzGr 40. Introduced in Update 1.85 \"Supersonic\" , the L6/40's armament is more than sufficient for its battle rating as the majority of the enemies it will face do not have a lot of armour. It also has great turret rotation which is something which will be useful when flanking or when being flanked. Its mobility is also adequate; however, what it lacks in is survivability. The crew placement means that a well placed shot will instantly destroy your vehicle and, due to the lacklustre armour, you will more often than not be taken out even by low calibre guns. It's best if you stick with your more armoured allies if you wish to stay in the fight longer.",
+ "image": "https://static.encyclopedia.warthunder.com/images/it_l6.png",
+ "weapons": [
+  "20 mm Breda Mod.35 cannon",
+  "8 mm Breda Mod. 38 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "30 / 15 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "74 %"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "42"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "10"
+  },
+  {
+   "label": "Ammunition",
+   "value": "296 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.8 → 6 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "240 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-12 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,560 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 10 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "3,380"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/HEFI-T",
+   "penetration": [
+    "38",
+    "36",
+    "27",
+    "19",
+    "14",
+    "10"
+   ]
+  },
+  {
+   "name": "Perforante mod.35",
+   "type": "API-T",
+   "penetration": [
+    "38",
+    "36",
+    "27",
+    "19",
+    "14",
+    "10"
+   ]
+  },
+  {
+   "name": "20 mm PzGr.40",
+   "type": "HVAP-T/API-T",
+   "penetration": [
+    "48",
+    "45",
+    "31",
+    "20",
+    "13",
+    "8"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

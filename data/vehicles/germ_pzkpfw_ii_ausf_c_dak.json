@@ -1,0 +1,141 @@
+{
+ "id": "germ_pzkpfw_ii_ausf_c_dak",
+ "wiki": "https://wiki.warthunder.com/unit/germ_pzkpfw_ii_ausf_c_dak",
+ "name": "Pz.II C (DAK)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "The Pz.II C DAK (Deutsches Afrikakorps) was a variant of the Pz.II C used by the Afrika Korps, a German expeditionary force in Africa during the North Africa campaign. Initially sent as a defensive force to help Italy defend its African colonies, the formation fought in Africa under several names from March 1941 until its surrender in May 1943. The Panzer II C (DAK) primarily operated in the desert with the 2nd Battalion, 5th Panzer Regiment, 21st Division. The cooling air intake and exhaust apertures were expanded in these tanks, and the radiator fan was replaced with a high-performance version to cope with the intense desert temperatures. Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the premium Pz.II C (DAK) is a unique historical vehicle that is identical in performance to the standard Pz.II C variant. It is painted in desert camouflage to reflect its involvement in the North African campaign. Despite the modifications made to the Pz.II C (DAK) during service, they are not actively portrayed in the game. In general, the Pz.II C (DAK) is a dangerous light tank in the hands of an experienced player. As most enemy tanks in the early ranks are rather weakly armoured, the Pz.II C (DAK) can unleash a barrage of armour-piercing shells with the Kampfwagenkanone (KwK) 30 L/55 20 mm autocannon, crippling most opponent tanks with a single ammunition clip. The Pz.II C (DAK) could be acquired for free during the 2017 \"German Unity Day\" event.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_pzkpfw_ii_ausf_c_dak.png",
+ "weapons": [
+  "20 mm KwK30 cannon",
+  "7.92 mm MG34 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "20 / 14 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "68 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "44"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "15.4"
+  },
+  {
+   "label": "Ammunition",
+   "value": "180 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.8 → 6 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "280 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-9 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "17.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,800 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "328"
+  },
+  {
+   "label": "Crew training",
+   "value": "150"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (15 / 15 / 15) %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,620"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/HEFI-T",
+   "penetration": [
+    "37",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "20 mm PzGr.",
+   "type": "API-T",
+   "penetration": [
+    "37",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "20 mm PzGr.40",
+   "type": "HVAP-T",
+   "penetration": [
+    "48",
+    "45",
+    "31",
+    "20",
+    "13",
+    "8"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

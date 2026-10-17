@@ -1,0 +1,209 @@
+{
+ "id": "il_m48a1_patton_iii",
+ "wiki": "https://wiki.warthunder.com/unit/il_m48a1_patton_iii",
+ "name": "Magach 1",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "IV",
+ "br": {
+  "AB": "7.7",
+  "RB": "7.7",
+  "SB": "7.7"
+ },
+ "description": "Magach 1 (Hebrew: מגח‎ - \"battering ram\") was the Israeli designation for American M48A1 Patton III tanks. Israel began receiving M48 tanks from the USA in the 1960s, and at the start of the Six-Day War, it had around 120 operational vehicles of various modifications, some of which were modified directly within Israel. Moreover, during the war, the Jordanian army deployed its M48 tanks west of the Jordan River, violating an agreement made at their purchase. This resulted in several of their Pattons being captured as war trophies by the Israeli Defence Forces and later adopted for their own use. Subsequently, most tanks were upgraded to the Magach 3 version. Introduced in Update \"Wind of Change\" , the Magach 1 boasts good mobility, armour and a fairly decent 90 mm gun with HEATFS and APCBC rounds. It should stay close behind the more heavily armoured vehicles on the front lines, taking well-aimed shots to either destroy or cripple enemy vehicles. However, the Magach 1 lacks a gun stabiliser, which complicates firing on the move, and its large silhouette is difficult to conceal behind cover.",
+ "image": "https://static.encyclopedia.warthunder.com/images/il_m48a1_patton_iii.png",
+ "weapons": [
+  "12.7 mm M2HB machine gun",
+  "7.62 mm M73 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "110 / 76 / 35 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "117 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "45"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "18"
+  },
+  {
+   "label": "Ammunition",
+   "value": "60 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.8 → 6 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-9 / 19°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-9 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "6,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,359 → 4,400"
+  },
+  {
+   "label": "Crew training",
+   "value": "57,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "120 / 180 / 200 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "52,600"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,700"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M332 shot",
+   "type": "APCR",
+   "penetration": [
+    "321",
+    "316",
+    "292",
+    "265",
+    "240",
+    "218"
+   ]
+  },
+  {
+   "name": "M82 shot",
+   "type": "APCBC",
+   "penetration": [
+    "185",
+    "183",
+    "173",
+    "161",
+    "150",
+    "140"
+   ]
+  },
+  {
+   "name": "M431 shell",
+   "type": "HEATFS",
+   "penetration": [
+    "320",
+    "320",
+    "320",
+    "320",
+    "320",
+    "320"
+   ]
+  },
+  {
+   "name": "T142E3",
+   "type": "HESH",
+   "penetration": [
+    "102",
+    "102",
+    "102",
+    "102",
+    "102",
+    "102"
+   ]
+  },
+  {
+   "name": "M71 shell",
+   "type": "HE",
+   "penetration": [
+    "20",
+    "20",
+    "18",
+    "17",
+    "16",
+    "16"
+   ]
+  },
+  {
+   "name": "M313",
+   "type": "Smoke",
+   "penetration": [
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

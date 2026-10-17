@@ -1,0 +1,118 @@
+{
+ "id": "sw_pvlvv_fm42",
+ "wiki": "https://wiki.warthunder.com/unit/sw_pvlvv_fm42",
+ "name": "Pvlvv fm/42",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.7",
+  "SB": "1.3"
+ },
+ "description": "The Pvlvv fm/42 was a Swedish attempt at creating a self-propelled platform for the Bofors 20 mm anti-tank/anti-air autocannon L/70 (Swedish designation 20 mm automatkanon (akan) m/40 ). The idea was to reuse the chassis of the failed Landsverk L-120 prototype tankette and fit it with the aforementioned weapon to trial the concept. The trials were somewhat successful and would lead to the development of the Lvkv fm/43. The Pvlvv fm/42 (shortened Pvlvv fm/42 ) was introduced in Update 1.97 \"Viking Fury\" along with the initial Swedish ground tree. The Pvlvv fm/42 is a fast vehicle with a hard-hitting 20 mm cannon, making it a versatile vehicle. Its speed and manoeuvrability give it a feeling of driving a light tank with an autocannon similar to the Panzer II but with more vulnerability due to the exposed gunner and limited crew, making the Pvlvv fm/42 an easy vehicle to knock out. However, due to the 36-round drum and the versatility of the Lvakan m/40B cannons, it can deal with most opponents it will face, both on the ground and in the air.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_pvlvv_fm42.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "8 / 8 / 8 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "68 %"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "50"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "14.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "108 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "1.3 → 1 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "360 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 45°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "19.9"
+  },
+  {
+   "label": "Repair cost",
+   "value": "209 → 269"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 20 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,430"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/HEFI-T/HEFI-T",
+   "penetration": [
+    "38",
+    "36",
+    "27",
+    "20",
+    "14",
+    "10"
+   ]
+  },
+  {
+   "name": "slsgr m/42",
+   "type": "HEFI-T",
+   "penetration": [
+    "5",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "slpgr m/42",
+   "type": "AP-T",
+   "penetration": [
+    "38",
+    "36",
+    "27",
+    "19",
+    "13",
+    "9"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

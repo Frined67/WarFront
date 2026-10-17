@@ -1,0 +1,232 @@
+{
+ "id": "h-75m_china",
+ "wiki": "https://wiki.warthunder.com/unit/h-75m_china",
+ "name": "␗H-75M",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "During the war with Japan in the 1930s, China was in urgent need of fighter aircraft and was trying to find and purchase them. One such aircraft was the Curtiss H-75H, a simplified, export version of the American P-36 Hawk featuring fixed landing gear. Nationalist China purchased one of these aircraft and transferred it to Claire Lee Chennault, commander of the \"Flying Tigers\". Shortly afterwards, the Chinese bought two more H-75Os, which were originally intended for Argentina and had also been simplified. However, the most widespread Hawk in China's arsenal was the H-75M , which had a weaker Wright R-1820 Cyclone engine and fixed landing gear once again. A total of 112 H-75Ms were ordered, first 30 of which arrived in mid-1938 and were sent into combat almost immediately. However, due to poorly trained pilots, a lack of spare parts and an almost complete absence of qualified personnel to maintain the aircraft, all of the H-75Ms were soon lost and did not make a significant contribution to the conflict. The Chinese H-75M was introduced as a reward for the 2025 Winter Concert event . Unlike the American P-36 , the Chinese aircraft boasts a lower weight and slightly increased manoeuvrability. However, its engine is weaker and its flight speed is considerably lower due to worsened aerodynamics.",
+ "image": "https://static.encyclopedia.warthunder.com/images/h-75m_china.png",
+ "weapons": [
+  "12.7 mm M2 Browning machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "451"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "16"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,555 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "210 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "GR-1820 G-3"
+  },
+  {
+   "label": "Length",
+   "value": "8.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "109 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.38 t (1h 47m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "710 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.68 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/13 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "232 / 447 / 488 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.55 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,600"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "169"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,400"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 45 / 90) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP/AP/T/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP/T/T/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

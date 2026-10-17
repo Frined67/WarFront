@@ -1,0 +1,165 @@
+{
+ "id": "cn_m36",
+ "wiki": "https://wiki.warthunder.com/unit/cn_m36",
+ "name": "␗M36 GMC",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "III",
+ "br": {
+  "AB": "5.3",
+  "RB": "5.3",
+  "SB": "5.3"
+ },
+ "description": "A sole M36 GMC captured by the People's Volunteer Army (PVA, 中國人民志願軍) during the Korean War in Cheorwon County (철원군，鐵原郡). This vehicle is currently displayed in Hall B1 of the Military Museum of the Chinese People's Revolution. Separately, the ROCA acquired ten M36B2 GMCs from French surplus following their losses in Indochina. These GMCs were deployed as mobile artillery platforms during the First Taiwan Strait Crisis, engaging in artillery battles with the PLAGF. Records indicate varying success for these M36s against the PLAGF until their decommissioning in the late 1970s. Subsequently, they were distributed across Taiwan Island and Kinmen Island, serving as monuments or left abandoned. Introduced in Update 1.91 \"Night Vision\" , this vehicle is a variant of the American M36 GMC , sharing identical characteristics. The notable distinction lies in the Chinese M36 lacking the M304 shot APCR round available to its American counterpart.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cn_m36.png",
+ "weapons": [
+  "90 mm M3 cannon",
+  "12.7 mm M2HB machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "38 / 19 / 19 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "100 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "48"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "17.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "47 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "9.1 → 7 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "14.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 70°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,452 → 1,796"
+  },
+  {
+   "label": "Crew training",
+   "value": "30,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "90 / 140 / 170 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "29,900"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,200"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M77 shot",
+   "type": "AP",
+   "penetration": [
+    "162",
+    "160",
+    "148",
+    "135",
+    "123",
+    "113"
+   ]
+  },
+  {
+   "name": "M71 shell",
+   "type": "HE",
+   "penetration": [
+    "20",
+    "20",
+    "18",
+    "17",
+    "16",
+    "16"
+   ]
+  },
+  {
+   "name": "M82 shot",
+   "type": "APCBC",
+   "penetration": [
+    "185",
+    "183",
+    "173",
+    "161",
+    "150",
+    "140"
+   ]
+  },
+  {
+   "name": "M313",
+   "type": "Smoke",
+   "penetration": [
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

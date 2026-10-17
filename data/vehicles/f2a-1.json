@@ -1,0 +1,244 @@
+{
+ "id": "f2a-1",
+ "wiki": "https://wiki.warthunder.com/unit/f2a-1",
+ "name": "F2A-1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.3"
+ },
+ "description": "The Brewster F2A Buffalo was a revolutionary carrier-based monoplane designed to replace the outdated biplanes that were previously in service with the United States Navy. It was introduced as a much-needed upgrade to the fleet's aircraft, boasting impressive features such as a 950 horsepower engine and a total of four machine guns. The armament of the F2A-1 was distributed across different parts of the aircraft, with two machine guns of different calibers (a .50 cal or 12.7 mm and a .30 cal or 7.62 mm) situated in the nose, and two more machine guns on each wing, making it a formidable fighter. The Brewster F2A Buffalo was a popular aircraft not only in the United States but also in many other countries. In fact, the Finnish Air Force was highly successful with theirs , and they managed to take down numerous Soviet fighters using this aircraft. However, by the time World War II began and the Attack on Pearl Harbor occurred, the F2A-1 was outclassed by the Japanese A6M2 and Ki-43s , which were much more advanced and formidable opponents. In the game since the start of the Open Beta Test prior to Update 1.27, one of the Brewster F2A Buffalo's most significant advantages is its balance of speed and manoeuvrability. It is capable of outrunning biplanes and can out-turn most monoplanes. The F2A-1's armament of .50 calibre machine guns also allows it to pack a serious punch in combat. As a result, this plane is ideal for getting a pilot accustomed to the American style of playing using the \"Boom & Zoom\" tactic.",
+ "image": "https://static.encyclopedia.warthunder.com/images/f2a-1.png",
+ "weapons": [
+  "7.62 mm Browning machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "504"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.9"
+  },
+  {
+   "label": "Turn time",
+   "value": "18.2"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "250 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Cyclone R-1820-34"
+  },
+  {
+   "label": "Length",
+   "value": "7.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.7 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "136 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.21"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.43 t (2h 15m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "761 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.8 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 / 409 / 438 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "720 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,050"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.55 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "450 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "156 → 212"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 30 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,440"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP/AP/T/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP/T/T/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

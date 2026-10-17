@@ -1,0 +1,132 @@
+{
+ "id": "germ_flakpanzer_38t_gepard",
+ "wiki": "https://wiki.warthunder.com/unit/germ_flakpanzer_38t_gepard",
+ "name": "Flakpanzer 38",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "The Flakpanzer 38(t) auf Selbstfahrlafette 38(t) Ausführung M (Sd.Kfz. Index: Sd.Kfz. 140 ) is a German self-propelled anti-aircraft gun used in World War II. It is occasionally referred to incorrectly as the Gepard, which may cause confusion with the unrelated Flakpanzer Gepard . The Flakpanzer 38(t) was based on the chassis of the KD LT vz. 38 light tank, a pre-war Czech design that was produced for the Wehrmacht as the Panzerkampfwagen 38(t) light tank after the German occupation until it was no longer effective on the battlefield. From November 1943 to February 1944, a total of 141 units were built, including the single prototype, and entered service in 1944. Introduced in Update 1.47 \"Big Guns\" , the Flakpanzer 38(t) provides an extremely diverse playing experience. Players can use armour-piercing ammunition belts to engage enemy ground targets or high-explosive ammunition belts to engage enemy aircraft. Given that most tanks in its rank are lightly armoured, players will have no trouble engaging most enemies they encounter. However, the gunner is completely exposed without protection, so it is critical to be constantly on the move and remain in cover.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_flakpanzer_38t_gepard.png",
+ "weapons": [
+  "20 mm FlaK38 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "20 / 15 / 10 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "77 %"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "42"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "15.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,080 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "480 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-20 / 90°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "24.5"
+  },
+  {
+   "label": "Repair cost",
+   "value": "222 → 286"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 20 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,430"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/HEFI-T/HEFI-T/HEFI-T",
+   "penetration": [
+    "37",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "20 mm Sprgr.",
+   "type": "HEFI-T",
+   "penetration": [
+    "5",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "20 mm PzGr.",
+   "type": "API-T",
+   "penetration": [
+    "37",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "20 mm PzGr.40",
+   "type": "HVAP-T/API-T",
+   "penetration": [
+    "48",
+    "45",
+    "31",
+    "20",
+    "13",
+    "8"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

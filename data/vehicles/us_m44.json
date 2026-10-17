@@ -1,0 +1,140 @@
+{
+ "id": "us_m44",
+ "wiki": "https://wiki.warthunder.com/unit/us_m44",
+ "name": "M44",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "III",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "3.7"
+ },
+ "description": "The M44 is an American 155 mm self-propelled howitzer developed in the early 1950s to replace the obsolete M41 Gorilla. Development of the M44 was based on combat experience gained during World War II and the Korean War. A key requirement for the new vehicle was high mobility, which determined the choice of chassis: engineers used a modified platform of the M41 Walker Bulldog light tank, reversed to improve the layout. Initially, the M44 was developed as a closed SPG under the designation T99E1. This variant went into production before it was officially adopted. However, tests revealed a serious drawback – gas contamination of the fighting compartment after firing – which made the vehicle unsafe to operate. To solve the problem, it was decided to recall all 250 units produced and refine the design. Engineers proposed a modification called the T194E1, which included an open turret and a new 155 mm M45 cannon. By 1954, all produced vehicles had been modified according to this project and received the designation M44. The first batch of modernised SPGs was sent to Vietnam, but the vehicle never saw combat there. The M44 remained in service with the US Army until 1963, when it was replaced by the more modern M109 . Beginning in 1955, the M44 was actively supplied to US foreign partners as part of military assistance programmes. Among the countries that received these vehicles were Germany, Great Britain, Italy, Turkey, and Japan. Introduced in Update \"Storm Warning\" , the M44 features a compact size, a powerful 155 mm cannon, and good mobility. Two types of shells are available for the gun: the M107 high-explosive shell and the M110 smoke shell. However, it is worth noting that the thin armour of the fighting compartment and hull, as well as the open-top turret, make the M44 easy prey for both armoured vehicles and aircraft. The horizontal gun traverse angles are limited to 30 degrees, which often requires turning the hull to aim at the target. In addition, the long reload time, characteristic of guns of this calibre, makes the vehicle more effective at range than close quarters.",
+ "image": "https://static.encyclopedia.warthunder.com/images/us_m44.png",
+ "weapons": [
+  "12.7 mm M2HB machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "12 / 12 / 12 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "137 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "56"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "17.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "24 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "19.5 → 15 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 65°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-30 / 30°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 45°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,017 → 1,258"
+  },
+  {
+   "label": "Crew training",
+   "value": "13,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "70 / 100 / 130 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "19,860"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "980"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M107",
+   "type": "HE",
+   "penetration": [
+    "61",
+    "61",
+    "61",
+    "61",
+    "61",
+    "61"
+   ]
+  },
+  {
+   "name": "M110",
+   "type": "Smoke",
+   "penetration": [
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,157 @@
+{
+ "id": "jp_type_1_chi_he_5th_regiment",
+ "wiki": "https://wiki.warthunder.com/unit/jp_type_1_chi_he_5th_regiment",
+ "name": "Chi-He (5th Regiment)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The Chi-He (5th Regiment) is a regular Chi-He in service by the 1st Tank Division, 2nd Armored Brigade, 5th Armored Regiment of the Imperial Japanese Army. The 5th Tank Regiment was established in May 1937 in Kurume and stationed in Manchuria in 1938 as part of the Kwantung Army's 1st Tank Brigade during the Nomonhan Incident. Although better equipped than the 3rd and 4th Tank Regiments, the 5th Tank Regiment had many inexperienced soldiers, leading it to remain in reserve during the Second Nomonhan Incident and avoid combat. Afterwards, it helped establish the 10th and 11th Tank Regiments by providing personnel and equipment. During the Pacific War, the regiment continued training and security duties in Manchuria until March 1945, when it returned to Japan for homeland defence, stationed first in Tochigi and later in Saitama Prefecture. Notably, the 5th Tank Regiment never saw combat from its formation until Japan's surrender. It was introduced in Update \"Regia Marina\" . Being a carbon copy of the Chi-He , it plays exactly the same, on top of that it comes with a unique camouflage and 3 distinct decals on all available camouflages for the tank.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_type_1_chi_he_5th_regiment.png",
+ "weapons": [
+  "7.7 mm Type 97 machine gun",
+  "7.7 mm Type 97 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 25 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "44"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "14"
+  },
+  {
+   "label": "Ammunition",
+   "value": "121 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.3 → 3.3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 70°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "750"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,400"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (40 / 50 / 90) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Type 1 APHE",
+   "type": "APHE",
+   "penetration": [
+    "77",
+    "75",
+    "67",
+    "58",
+    "50",
+    "44"
+   ]
+  },
+  {
+   "name": "Type 1 HE",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "9",
+    "8",
+    "7",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

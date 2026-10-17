@@ -1,0 +1,168 @@
+{
+ "id": "germ_pzkpfw_38t_marder_iii",
+ "wiki": "https://wiki.warthunder.com/unit/germ_pzkpfw_38t_marder_iii",
+ "name": "Marder III",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "I",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The Marder III (Sd.Kfz. Index: Sd.Kfz. 139 ) was a modified Pz.38(t) up-gunned with captured Russian 76.2 mm field guns rechambered with the munition of the PaK 40 as a self-propelled anti-tank gun, adding significant firepower among self-propelled battalions. It was primarily decided to be built due to the increase of heavier Russian targets such as the KV-1 and T-34 as the German anti-tank tools in early Barbarossa failed to deal with these targets. It was introduced in Update 1.43 . Being a field gun strapped onto a light tank hull, it offers little protection to the crew, but this is compensated by the firepower the Marder does offer with its dangerous gun. It provides an excellent sniper vehicle to support the team at longer ranges, and to crack open heavier targets the rest of the team can't deal with.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_pzkpfw_38t_marder_iii.png",
+ "weapons": [
+  "7.92 mm MG37(t) machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 15 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "42"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "14.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "30 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-6 / 18°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-10 / 10°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "8.4"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,200 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "768 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 10°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-10 / 10°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "3.8"
+  },
+  {
+   "label": "Repair cost",
+   "value": "300 → 389"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 30 / 40 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,990"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "PzGr 39 rot",
+   "type": "APCBC",
+   "penetration": [
+    "141",
+    "138",
+    "127",
+    "114",
+    "103",
+    "93"
+   ]
+  },
+  {
+   "name": "Sprgr. 39",
+   "type": "HE",
+   "penetration": [
+    "9",
+    "9",
+    "9",
+    "9",
+    "9",
+    "9"
+   ]
+  },
+  {
+   "name": "Hl.Gr 38C",
+   "type": "HEAT",
+   "penetration": [
+    "115",
+    "115",
+    "115",
+    "115",
+    "115",
+    "115"
+   ]
+  },
+  {
+   "name": "PzGr 40",
+   "type": "APCR",
+   "penetration": [
+    "182",
+    "178",
+    "160",
+    "140",
+    "122",
+    "107"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

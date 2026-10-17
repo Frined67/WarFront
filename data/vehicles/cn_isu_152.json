@@ -1,0 +1,164 @@
+{
+ "id": "cn_isu_152",
+ "wiki": "https://wiki.warthunder.com/unit/cn_isu_152",
+ "name": "␗ISU-152",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "III",
+ "br": {
+  "AB": "4.7",
+  "RB": "4.7",
+  "SB": "4.7"
+ },
+ "description": "The ISU-152 (Самоходная установка на базе танка ИС с орудием калибра 152мм, ИСУ-152) is a Soviet armoured, self-propelled gun that was designed and utilized during World War II. It was informally dubbed the \"beast killer\" in response to the introduction of several advanced German tanks and weapons, including Tigers and Panthers . As the ISU-152's cannon was mounted in a casemate, aiming it was challenging and required rotating the entire vehicle using the tracks. As a result, it ended up being used as mobile artillery to support infantry behind the front lines. In 1955, the Soviet Army left Dalian in northeastern China, formally concluding a ten-year military occupation: all weaponry and armaments left behind by the Soviet Union were sold to the Chinese People's Liberation Army, including 67 ISU-152s. Around 45 ISU-152s were given to the newly created 1st Mechanized Division of the Chinese People's Liberation Army. The ISU-152 saw additional action during the Korean War, where it provided indirect fire support and attacked fortifications. The ISU-152 was introduced to the Chinese ground tree in Update 1.91 \"Night Vision\" . Well-armoured and mounted with a 152 mm ML-20S heavy howitzer, it will have no trouble engaging adversaries at any range. However, given the tank destroyer's calibre, players should be wary of the reload time and only fire when they are confident the shell will hit. On the right corner of the roof, a DShK heavy machine gun provides adequate deterrence against incoming aircraft and lightly armoured vehicles.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cn_isu_152.png",
+ "weapons": [
+  "12.7 mm DShK machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "90 / 90 / 60 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "83 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "35"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "11.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "20 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "27.7 → 21.3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-3 / 20°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-3 / 7°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "5.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "250 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 85°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,258 → 1,556"
+  },
+  {
+   "label": "Crew training",
+   "value": "22,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "80 / 120 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "24,600"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,100"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-540",
+   "type": "APHE",
+   "penetration": [
+    "170",
+    "169",
+    "161",
+    "152",
+    "144",
+    "136"
+   ]
+  },
+  {
+   "name": "OF-540",
+   "type": "HE",
+   "penetration": [
+    "49",
+    "49",
+    "49",
+    "49",
+    "49",
+    "49"
+   ]
+  },
+  {
+   "name": "BR-540B",
+   "type": "APHEBC",
+   "penetration": [
+    "171",
+    "169",
+    "160",
+    "150",
+    "141",
+    "133"
+   ]
+  },
+  {
+   "name": "BP-540",
+   "type": "HEAT",
+   "penetration": [
+    "250",
+    "250",
+    "250",
+    "250",
+    "250",
+    "250"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/IAI/API-T/AP-I(c)",
+   "penetration": [
+    "34",
+    "32",
+    "24",
+    "17",
+    "12",
+    "8"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

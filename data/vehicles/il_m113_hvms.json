@@ -1,0 +1,164 @@
+{
+ "id": "il_m113_hvms",
+ "wiki": "https://wiki.warthunder.com/unit/il_m113_hvms",
+ "name": "Bardelas/60mm HVMS",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "V",
+ "br": {
+  "AB": "7.7",
+  "RB": "7.7",
+  "SB": "7.7"
+ },
+ "description": "Bardelas is the Israeli designation for the American M113 armored personnel carrier. The first M113s were delivered to Israel in 1971, but most arrived during the Yom Kippur War as part of a U.S.-organized airlift of weapons. The M113s were intended to replace the vulnerable M3 semi-open armored vehicles. At the peak of their service, Israel had 6,000 M113s in its arsenal. Despite being vulnerable to mines, RPGs, and other anti-tank weapons, the Bardelas are still in service; however, there are plans to replace them with more advanced Eitan wheeled APCs. In 1977, the Italian company OTO Melara and the Israeli company IMI Systems began developing a 60 mm light gun housed in a two-person turret that could be mounted on any light armored vehicle. However, the companies soon disagreed on the gun's design, so Israel created its own High-Velocity Medium Support (HVMS) gun while Italy developed the High Velocity Gun System (HVGS) . Israel tried to mount the HVMS gun on various armored vehicles, including the M113, but only managed to sell it to Chile, where it was installed on the M24 Chaffee and M50 Super Sherman. The Bardelas/60mm HVMS was introduced in Update 2.51 \"Spearhead\" . Although the vehicle has a fairly powerful gun, it has low armor penetration and a long reload time for its caliber. Its aiming angles are mediocre and are often obstructed by objects on the turret roof. However, the Bardelas has relatively good survivability due to its large crew, distributed across the whole hull.",
+ "image": "https://static.encyclopedia.warthunder.com/images/il_m113_hvms.png",
+ "weapons": [
+  "7.62 mm FN MAG 60-40 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "38 / 44 / 38 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "205 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "64"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "15.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "23 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-6 / 48°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "21"
+  },
+  {
+   "label": "Ammunition",
+   "value": "400 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,600 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 50°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-120 / 120°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,333 → 4,546"
+  },
+  {
+   "label": "Crew training",
+   "value": "98,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "110 / 170 / 200 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "98,100"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,200"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M300",
+   "type": "APFSDS",
+   "penetration": [
+    "249",
+    "248",
+    "241",
+    "233",
+    "225",
+    "216"
+   ]
+  },
+  {
+   "name": "OTO HE",
+   "type": "HE",
+   "penetration": [
+    "17",
+    "17",
+    "15",
+    "13",
+    "11",
+    "11"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

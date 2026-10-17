@@ -1,0 +1,226 @@
+{
+ "id": "bb-1",
+ "wiki": "https://wiki.warthunder.com/unit/bb-1",
+ "name": "BB-1",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.3",
+  "SB": "1.7"
+ },
+ "description": "In the mid-1930s, tensions were rising in Europe and the Soviet Union. The Soviets determined a need for a new multipurpose combat aircraft, which would not specialise in a role but could be utilised as a bomber, attacker, and even as a combat fighter if needed. However, its main job would be as a reconnaissance aircraft which would then attack targets it came across. Joseph Stalin personally issued the requirement for this aircraft and the project was code-named \"Ivanov\" . P.O. Sukhoi became the chief designer of this proposed aircraft while working at the Tupolev experimental design bureau and designed what initially was known as the ANT-51, which first flew in 1937. Though a disappointment due to being outfitted with an 820 hp Shvetsov M-62 engine, the aircraft was re-equipped with a Tumansky M-87 engine and began production as the BB-1 (Blizhniy Bombardirovschik; Russian: Ближний Бомбардировщик — \"short-range bomber\"). In the game since the start of the Open Beta Test prior to Update 1.27, the BB-1 is a very forgiving aircraft, especially to those who are new to attack aircraft. While not a fast aircraft, it does allow pilots to buzz treetops and follow the terrain on the way to the targets. Though it cannot adequately bomb bases, it does have a keen ability to \"loiter\", slowly weaving around a battlefield where light trucks, anti-aircraft artillery, and light tanks will be about. The bomb options and the machine gun loadouts allow for this attacker to drop bombs on ground targets along with strafing them with machine guns. Once past the targets, the BB-1 can easily manoeuvre around and begin the attack run again. Enemy attackers and fighters which come along will quickly find the rear-facing 7.62 mm ShKAS machine gun turret, which is relatively fast-firing and can be quite effective at times, damaging and disabling aircraft which choose to sit on the BB-1's tail. Though not a strong suit of the attacker, it can, if need be, engage as a fighter. This attacker will not win any speed records when dogfighting, but with its large wings and rudder, it does have the ability to turn remarkably fast, making it difficult for an enemy fighter to get a firing solution.",
+ "image": "https://static.encyclopedia.warthunder.com/images/bb-1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "467"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "9.8"
+  },
+  {
+   "label": "Turn time",
+   "value": "23"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,900 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "420 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "M-88"
+  },
+  {
+   "label": "Length",
+   "value": "10.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "14.3 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "130 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.2"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.56 t (2h 2m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "541 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.8 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/9 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "340 / 340 / 395 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "350 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,400 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "900 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,245 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "510 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "110 → 149"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,960"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AI/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-I/AP-I/AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "API-T/API-T/API-T/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

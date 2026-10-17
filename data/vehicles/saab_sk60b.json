@@ -1,0 +1,117 @@
+{
+ "id": "saab_sk60b",
+ "wiki": "https://wiki.warthunder.com/unit/saab_sk60b",
+ "name": "SK60B",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "V",
+ "br": {
+  "AB": "7.3",
+  "RB": "7.0",
+  "SB": "7.3"
+ },
+ "description": "The SK60 was developed for the Swedish Air Force after SAAB's attempt to develop a twin-engine jet aircraft for civilian and military use in 1959. After problems with decision making, it was decided to focus only on the military version of the aircraft. After a few years of development, the prototype first flew in 1963, with a total order of 150 units placed by the Swedish Air Force in 1964. The aircraft was known as SAAB 105, the aircraft was later modified for ground attack with 60 units receiving the new role, Austria later endorsed the SAAB 105, and ordered 40 units. It was introduced in Update \"New Power\" . The SK60B, better known as the Saab 105, is a light training vehicle designed for the Swedish army. The vehicle is incredibly light and nimble, and served as ground attacker, thanks to its versatile arsenal of suspended armaments. It has relatively weak engine power and a mediocre flight performance when compared to other aircraft such as the Su-11 and even the Vampire, it lacks access to bombs, however it does feature RB05 MACLOS guided missiles and rockets, it should be noted however, that the guns take the same pylons as the missiles.",
+ "image": "https://static.encyclopedia.warthunder.com/images/saab_sk60b.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "792"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "22"
+  },
+  {
+   "label": "Turn time",
+   "value": "24"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,668 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "850 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x RM9B"
+  },
+  {
+   "label": "Length",
+   "value": "10.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "204 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.26"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.07 t (1h 33m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "934 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.91 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "350 / 387 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "400 km/h"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,100 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "550 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,220 → 4,611"
+  },
+  {
+   "label": "Crew training",
+   "value": "78,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "120 / 260 / 600 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "80,100"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,000"
+  }
+ ],
+ "shells": [],
+ "updated": "2026-10-17"
+}

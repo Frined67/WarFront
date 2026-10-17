@@ -1,0 +1,202 @@
+{
+ "id": "jp_m4a3e8_76w_sherman",
+ "wiki": "https://wiki.warthunder.com/unit/jp_m4a3e8_76w_sherman",
+ "name": "▅M4A3 (76) W",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "IV",
+ "br": {
+  "AB": "5.3",
+  "RB": "5.7",
+  "SB": "5.7"
+ },
+ "description": "The M4A3 (76) W was, together with the M24 , provided by the Americans to the Japanese to rebuild Japan's military in self-defense due to the outbreak of the Korean war. While they were initially supposed to receive M26 Pershings, the US Department of State opposed and kept it to the weaker surplus Shermans and Chaffees. With the Japanese deciding to build their own tank shortly after due to the weaker firepower the Sherman provided over 90 mm's and the relatively large size for the average Japanese tanker, the M4A3 (76) W was eventually replaced in end of the same decade by the Type 61 . The Japanese M4A3 (76) W was introduced along with the initial Japanese Ground Forces tree in Update 1.65 \"Way of the Samurai\" . This Japanese vehicle, following the M24 SDF in the tree line, is identical to the American M4A3 (76) W HVSS Sherman . The Sherman should be familiar to Japanese tankers in terms of its capabilities and performance. It offers strong firepower and mobility, but its armour is on the weaker side. Overall, it is a well-rounded tank that can be effective when used correctly.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_m4a3e8_76w_sherman.png",
+ "weapons": [
+  "76 mm M1 cannon",
+  "12.7 mm M2HB machine gun",
+  "7.62 mm M1919A4 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "63 / 38 / 38 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "121 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "42"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "15.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "71 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.6 → 5.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "14.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 70°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,169 → 2,792"
+  },
+  {
+   "label": "Crew training",
+   "value": "45,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "100 / 150 / 180 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "40,300"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,400"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M79 shot",
+   "type": "AP",
+   "penetration": [
+    "134",
+    "132",
+    "121",
+    "109",
+    "99",
+    "89"
+   ]
+  },
+  {
+   "name": "M42A1 shell",
+   "type": "HE",
+   "penetration": [
+    "16",
+    "16",
+    "14",
+    "13",
+    "11",
+    "10"
+   ]
+  },
+  {
+   "name": "M62 shell",
+   "type": "APCBC",
+   "penetration": [
+    "149",
+    "146",
+    "133",
+    "119",
+    "106",
+    "95"
+   ]
+  },
+  {
+   "name": "M93 shot",
+   "type": "APCR",
+   "penetration": [
+    "191",
+    "186",
+    "168",
+    "147",
+    "129",
+    "113"
+   ]
+  },
+  {
+   "name": "M88",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

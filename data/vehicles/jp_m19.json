@@ -1,0 +1,118 @@
+{
+ "id": "jp_m19",
+ "wiki": "https://wiki.warthunder.com/unit/jp_m19",
+ "name": "▅M19A1",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "III",
+ "br": {
+  "AB": "4.3",
+  "RB": "4.0",
+  "SB": "4.0"
+ },
+ "description": "The M19A1 (Japan) , like the M16 MGMC (Japan) , was American surplus equipment at the end of WWII, and was gifted to the start-up of the JSDF. Serving in the JASDF and JGSDF, they were in service until 1979 when they were deemed obsolete. It was introduced in Update \"Direct Hit\" . Being a simple hand-me-down from the US, it plays and is exactly the same as the M19A1 , offering 2 x 40 mm in a large open-top turret. Having relatively high armour penetration and the benefit of being built on the chassis of the M24 Chaffee, it can be used to flank and demolish ground targets. Fighting air targets with the M19 may prove more difficult than previous Japanese anti-aircraft vehicles: offering 40 mm auto cannons, the fire rate is diminished but is exchanged for increased shell velocity and single shell damage potential that can shred planes with a single hit.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_m19.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "12 / 12 / 12 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "122 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "56"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "15.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "352 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "0.6 → 0.5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "120 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 85°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "28"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,326 → 1,707"
+  },
+  {
+   "label": "Crew training",
+   "value": "13,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "70 / 90 / 130 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "19,810"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "980"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/FI-T",
+   "penetration": [
+    "72",
+    "69",
+    "58",
+    "46",
+    "37",
+    "29"
+   ]
+  },
+  {
+   "name": "40 mm Mk.II",
+   "type": "FI-T",
+   "penetration": [
+    "9",
+    "8",
+    "7",
+    "6",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "40 mm M81A1",
+   "type": "AP-T",
+   "penetration": [
+    "72",
+    "69",
+    "58",
+    "46",
+    "37",
+    "29"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,254 @@
+{
+ "id": "yak_2_kabb",
+ "wiki": "https://wiki.warthunder.com/unit/yak_2_kabb",
+ "name": "Yak-2 KABB",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "I",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.3",
+  "SB": "2.7"
+ },
+ "description": "The Yak-2 was initially built to be a light bomber and reconnaissance aircraft. Originally known as Ya-22, the aircraft was redesignated to Yak-2 later in 1941. Like many aircraft making the transition into World War II, it was constructed of wood, duralumin, steel framing, and fabric skin. Early prototypes exhibited issues with the engine cooling system, brakes, and the fuel system which resulted in the crash of one of the prototypes. Pressed into service, the Yak-2 saw early action as Germany made their rush into the Soviet Union. Conversion options of the Yak-2 resulted in an unusual setup, but a functioning multi-use aircraft. The Yak-2 KABB (Russian: kombineerovannaya artillereeysko-bombardirovochnaya batareya Mozharovskovo i Venevidova ; English: \"combined gun/bomb battery designed by Mozharovskiy and Venevidov\") eliminated the need of the radio/gunner and replaced that compartment with the capability to carry four 100 kg bombs. To aid the pilot in bombing targets, the nose of the aircraft was reconfigured to be an all-glazed nose, allowing the pilot fantastic visibility out the front of the aircraft. A ventral pack was mounted directly below the cockpit containing two 20 mm autocannons and two 7.62 mm machine guns which do not require the pilot to adjust for convergence when shooting as they are directly in-line with the fuselage. Introduced in Update 1.75 \"La Résistance\" , the Yak-2 KABB finds itself in an excellent position as either a fighter/bomber interceptor or as a ground attacker. Early in matches, if the Yak-2 KABB can attain a superior altitude over other fighters and bombers, then it can utilise the Boom & Zoom technique to attack fighters and bombers below it or to engage or outrun enemy fighters which manage to get up to the same altitude. As a low-level attacker, this aircraft does a great job of getting to targets where it can strategically bomb vehicles and anti-aircraft guns and when the bombs run out, the 20 mm and 7.62 mm machine guns can be turned on them to also inflict damage and destruction.",
+ "image": "https://static.encyclopedia.warthunder.com/images/yak_2_kabb.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "520"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "12.8"
+  },
+  {
+   "label": "Turn time",
+   "value": "19"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,100 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "450 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x M-103A"
+  },
+  {
+   "label": "Length",
+   "value": "9.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "14 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "150 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "4.09"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.6 t (1h 17m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "680 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -11/19 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "300 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.29 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "236 → 321"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 40 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,940"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "FI-T/AP-I",
+   "penetration": [
+    "28",
+    "24",
+    "14",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "FI-T/HEF/AP-I/FI-T",
+   "penetration": [
+    "28",
+    "24",
+    "14",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "HEF/FI-T/AP-I",
+   "penetration": [
+    "28",
+    "24",
+    "14",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "FI-T",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-I/FI-T/AP-I/AP-I",
+   "penetration": [
+    "28",
+    "24",
+    "14",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/HEF/HEF/FI",
+   "penetration": [
+    "28",
+    "24",
+    "14",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AI/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

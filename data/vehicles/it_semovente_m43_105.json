@@ -1,0 +1,106 @@
+{
+ "id": "it_semovente_m43_105",
+ "wiki": "https://wiki.warthunder.com/unit/it_semovente_m43_105",
+ "name": "105/25 M43",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "3.0",
+  "SB": "3.0"
+ },
+ "description": "The Semovente 105/25 Fiat-Ansaldo M43 was an Italian self-propelled artillery vehicle. In mid-1942, the Italian Army issued specifications for a new vehicle that could serve as both fire support for the infantry and an anti tank gun depending on the situation. In accordance with these requirements, Fiat-Ansaldo and OTO began developing prototypes simultaneously. In February 1943, they presented the Semovente 105/25 M43 to the military leadership. Shortly after the successful trials, the army ordered its mass production. More than 800 vehicles were planned, with production beginning as early as April 1943. However, by this time, Italian industry was already severely weakened, so production was slow. By 1944, approximately 120 Semovente 105/25 M43 self-propelled guns had been produced, most of which were in service with Italian or German forces. By the end of World War II, only a limited number of vehicles remained in service. After the war, they were no longer used. The 105/25 M43 was introduced in Update 1.85 \"Supersonic\" . This self-propelled gun combines impressive firepower with compact dimensions, making it effective against both peers and more modern opponents. However, its 105mm gun has mediocre ballistics, so it is best suited for medium-range engagements, such as in urban environments.",
+ "image": "https://static.encyclopedia.warthunder.com/images/it_semovente_m43_105.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 40 / 25 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "62 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "38"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "11.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "48 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "13 → 10 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 16°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-18 / 18°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Repair cost",
+   "value": "743 → 964"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 80 / 100 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,420"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Granata Perforante da 105",
+   "type": "APC",
+   "penetration": [
+    "91",
+    "89",
+    "81",
+    "72",
+    "64",
+    "57"
+   ]
+  },
+  {
+   "name": "Effetto Pronto mod.43",
+   "type": "HEAT",
+   "penetration": [
+    "120",
+    "120",
+    "120",
+    "120",
+    "120",
+    "120"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

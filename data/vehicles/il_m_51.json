@@ -1,0 +1,173 @@
+{
+ "id": "il_m_51",
+ "wiki": "https://wiki.warthunder.com/unit/il_m_51",
+ "name": "M-51",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "IV",
+ "br": {
+  "AB": "6.3",
+  "RB": "6.3",
+  "SB": "6.3"
+ },
+ "description": "After the establishment of the Israeli State in 1948, the IDF faced numerous conflicts with various nations, and needed a cheap way to create a capable armoured force. Various modifications of the M4 Sherman had been supplied from France in the 1950s, but these were rather outdated by this point. Thus, the M-50 was developed, combining the chassis of the M4A1 and a 76 mm cannon. However, this proved inadequate against more modern tanks like the T-54/55 that appeared in subsequent years. Consequently, the M-51 was developed, equipped with a 105 mm rifled cannon (the same used by the AMX-30 ). The tank saw action during the Yom Kippur War alongside Centurions and Patton tanks. The M-51, with its HEAT shell, proved more capable against the T-55 and T-62's armour; however, it suffered from poor engine reliability, mediocre off-road mobility, and minimal protection against enemy tanks, ATGMs, or RPGs. Eventually, the tanks were sold to Chile, where they became known as the M-60. The M-51, introduced in Update \"Wind of Change\", boasts a powerful 105 mm cannon; however, unlike other Shermans, it lacks a stabiliser. Its HEAT shell is powerful enough to penetrate virtually every enemy at its BR, even the Maus . However, this is balanced by limited mobility and extremely weak armour; most times, the vehicle will be destroyed from a single hit. Moreover, its off-road mobility and reverse speed are subpar for its BR, even when compared to heavy tanks. Therefore, it excels in ambushes or a defensive playstyle. Rushing and remaining on the frontlines is ill-advised; instead, adopt a cautious approach and utilise the cover provided by your teammates.",
+ "image": "https://static.encyclopedia.warthunder.com/images/il_m_51.png",
+ "weapons": [
+  "7.62 mm M1919A4 machine gun",
+  "7.62 mm M1919A4 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "63 / 38 / 38 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "121 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "38"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "11.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "56 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "9.7 → 7.5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-8 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,750 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "750 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,152 → 2,912"
+  },
+  {
+   "label": "Crew training",
+   "value": "45,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "100 / 150 / 180 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "40,600"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,400"
+  }
+ ],
+ "shells": [
+  {
+   "name": "OCC 105 F1",
+   "type": "HEAT",
+   "penetration": [
+    "400",
+    "400",
+    "400",
+    "400",
+    "400",
+    "400"
+   ]
+  },
+  {
+   "name": "OE 105 F1 Mle.60",
+   "type": "HE",
+   "penetration": [
+    "25",
+    "25",
+    "25",
+    "25",
+    "25",
+    "25"
+   ]
+  },
+  {
+   "name": "OFPH 105 F1",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

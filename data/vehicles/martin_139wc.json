@@ -1,0 +1,146 @@
+{
+ "id": "martin_139wc",
+ "wiki": "https://wiki.warthunder.com/unit/martin_139wc",
+ "name": "Martin 139WC",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.7"
+ },
+ "description": "The Martin 139WC , often referred as the 馬丁式轟炸機 (Martin Bomber), was the export version of Martin B-10 bomber for the NRAAF in 1936. As part of the 50th birthday cerebration of Chiang Kai-Shek's fundraising campaign, some of the funds raised were taken as the fund to purchase nine Martin 139W bombers to strengthen the NRAAF; these aircrafts were in service alongside with some He 111A series and SM.72 during the early days of the total outbreak of Sino-Japanese War but with minimal efficiency. The most famous operation carried out by Martin 139WC was the propaganda leaflet \"bombing\" to Kyushu on 20th May, 1938 with the help of long-range radio and US instructors, 4 years before the Doolittle Raid on April 1942; as the bomber was already obsolete and new Soviet/US-built bombers arrived in China, the Martins were soon phrased out and left as training aids for bomber crews as late as 1945. Introduced in Update 1.91 \"Night Vision\" with the Chinese tech tree, although having a rather peculiar aerodynamic design like a boat and less than desired self-defense firepower, Martin 139WC can still prove its worthiness with up to 600 kg bombs at its rank and deliver destruction to enemy stationary targets.",
+ "image": "https://static.encyclopedia.warthunder.com/images/martin_139wc.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "370"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "7.7"
+  },
+  {
+   "label": "Turn time",
+   "value": "21"
+  },
+  {
+   "label": "Max altitude",
+   "value": "7,380 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "600 m"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Cyclone R-1820G2"
+  },
+  {
+   "label": "Length",
+   "value": "13.6 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "21.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "105 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "5.39"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.22 t (3h 46m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "564 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.65 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/7 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "235 / 313 / 328 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "235 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,800 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "111 → 139"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 30 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,960"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

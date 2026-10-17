@@ -1,0 +1,174 @@
+{
+ "id": "cr_32_quater",
+ "wiki": "https://wiki.warthunder.com/unit/cr_32_quater",
+ "name": "CR.32 quater",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The CR.32 quater was the next development of the CR.32 family, in particular compared to the CR.32 ter, this variant was lightened to increase manoeuvrability at low altitudes. It was the last variant of the CR.32 to be built when production of them ended in 1939, and they began to be replaced by the more powerful CR.42 from 1940 onwards. When World War II broke out, the CR.32 quater were mostly in the hands of the 1st, 2nd and 6th Stormo, Caccia Terrestre, and a small part of the Gruppi Autonomi, and eventually the 410th and 411th Squadriglia Autonoma Caccia located in East Africa. Added with the introduction of the Italian air tech tree in Update 1.69 \"Regia Aeronautica\" , this aircraft is the second reserve of the Italian air tech tree. It is an enhancement of the CR.32 that allows it to be more manoeuvrable, while the armament is the same as the previous one having two very powerful 12.7 mm machine guns; in particular, using the \"Air targets\" belts that contain many incendiary projectiles can set enemies on fire very easily.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cr_32_quater.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "350"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "9.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "14"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "150 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "A30 Bis"
+  },
+  {
+   "label": "Length",
+   "value": "7.5 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "85 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.61"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.27 t (1h 31m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "590 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/15 G"
+  },
+  {
+   "label": "Ammunition",
+   "value": "700 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "3,610"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP-I/HEF/API-T/I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/HEF/HEF",
+   "penetration": [
+    "20",
+    "18",
+    "11",
+    "6",
+    "4",
+    "2"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

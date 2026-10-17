@@ -1,0 +1,182 @@
+{
+ "id": "cn_m4a4_sherman_1st_ptg",
+ "wiki": "https://wiki.warthunder.com/unit/cn_m4a4_sherman_1st_ptg",
+ "name": "␗M4A4 (1st PTG)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "3.7"
+ },
+ "description": "M4A4 Shermans were used by the Chinese-American 1st Provisional Tank Group (1st PTG) of the Chinese Expeditionary Forces (中國遠征軍) during World War II. Under the lend-lease programme, the Chinese Kuomintang government received 32 of these tanks and established the 1st PTG, which was stationed in India. The Chinese Expeditionary Forces primarily operated the M4A4 Sherman and M3A3 Stuart . They fought mainly in the China-Burma-India theatre, playing a crucial role in helping the Allies reopen the land route through Japanese-occupied Burma by securing and repairing the Ledo-Burma Road. Introduced in Update 1.91 \"Night Vision\" , the premium M4A4 (1st PTG) is a unique historical unit based on the M4A4 . It shares similar performance characteristics with other M4 Sherman variants armed with the 75 mm M3 tank gun. Players benefit from increased accuracy while moving thanks to the vertical stabiliser included in the gun mount. The vehicle mirrors the tech tree M4A4 except for unique camouflage and a turret-mounted M2HB Browning heavy machine gun. Initially offered as part of a premium pack, it was later withdrawn from the store following the 2021 May Sale . During the 2021 \"National Day of the People's Republic of China\" , the M4A4 Sherman became temporarily available for purchase in-game once again. It returned in Update \"Sky Guardians\" as a premium vehicle purchasable with Golden Eagles.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cn_m4a4_sherman_1st_ptg.png",
+ "weapons": [
+  "75 mm M3 cannon",
+  "12.7 mm M2HB machine gun",
+  "7.62 mm M1919A4 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 38 / 38 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "102 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "40"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "98 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "400 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 30°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "624"
+  },
+  {
+   "label": "Crew training",
+   "value": "10,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (60 / 90 / 125) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M72 shot",
+   "type": "AP",
+   "penetration": [
+    "91",
+    "88",
+    "78",
+    "67",
+    "57",
+    "49"
+   ]
+  },
+  {
+   "name": "M48 shell",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "M61 shot",
+   "type": "APCBC",
+   "penetration": [
+    "104",
+    "102",
+    "93",
+    "84",
+    "75",
+    "68"
+   ]
+  },
+  {
+   "name": "M89",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

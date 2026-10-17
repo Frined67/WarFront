@@ -1,0 +1,262 @@
+{
+ "id": "spitfire_mk5b_notrop",
+ "wiki": "https://wiki.warthunder.com/unit/spitfire_mk5b_notrop",
+ "name": "Spitfire Mk Vb",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "4.0",
+  "RB": "4.0",
+  "SB": "3.7"
+ },
+ "description": "The advent of the high-altitude Ju 86 bomber over Britain in late 1940 saw a growing need for a new high-altitude-capable (pressurised) variant of the Spitfire. A stop-gap solution was presented in the Spitfire Mk V, a Mk I airframe fitted with a new Merlin 45 engine, producing 1,440 hp and incorporating a new single-stage supercharger, as well as other improvements including a carburettor able to handle zero-G manoeuvres without fuel flow issues. The Mk Vb was the main production model, featuring the B-type wing equipping dual Hispano cannons and quad Browning .303 machine guns. Spitfire Mk Vs were also commonly operated overseas, resulting in their tropicalised counterparts . However, the Spitfire Mk V was quickly outclassed by the introduction of the Fw 190 in 1941, and they were soon superseded by the Spitfire F Mk IX . Introduced in Update 1.77 \"Advancing Storm\" , the Spitfire Mk Vb sports a new and more powerful Merlin 45 inline engine compared to the previous Merlin XII engine, giving it an extra 100 horsepower when upgraded, which provides better high altitude performance and faster top speed than the Mk IIb . The Mk Vb has marginally better performance over its preceding tropicalised counterpart due to the lack of air filters and other modifications, although the difference is rather minimal. Unfortunately, the Mk Vb still has similar problems to the early Spitfires such as a very weak airframe, weak wings, bad roll rate at high speeds and lack of combat flaps to help with dog-fighting. The Spitfire fights best at close-range. The basic strategy that many Spitfire pilots use is a tactic whereby they bait head-ons from enemy aircraft, before evading and turning around to put shots into the target at close range while the enemy is pulling out. When the Spitfire has the initiative in the engagement and has successfully manoeuvred onto a six-o-clock aspect, it is nearly impossible for the opponent to regain the advantage. Using clever management of the throttle and manoeuvres to gain or bleed energy, an experienced pilot can maintain the initiative in the engagement and stay on an opponent's six o'clock.",
+ "image": "https://static.encyclopedia.warthunder.com/images/spitfire_mk5b_notrop.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "589"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "18"
+  },
+  {
+   "label": "Turn time",
+   "value": "16.5"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "340 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Merlin-45"
+  },
+  {
+   "label": "Length",
+   "value": "9.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "132 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.68"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.29 t (59m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "760 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.82 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "270 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "120 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.32 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,400 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "500 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "150 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "771 → 998"
+  },
+  {
+   "label": "Crew training",
+   "value": "9,200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 110 / 240 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "13,730"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "860"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEI/SAP-I/T",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/SAP-I",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/HEI/SAP-I/HEI/SAP-I",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/SAP-I/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI/HEI/SAP-I",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/AP-I/Ball/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

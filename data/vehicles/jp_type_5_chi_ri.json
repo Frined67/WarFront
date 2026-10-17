@@ -1,0 +1,185 @@
+{
+ "id": "jp_type_5_chi_ri",
+ "wiki": "https://wiki.warthunder.com/unit/jp_type_5_chi_ri",
+ "name": "Chi-Ri",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "IV",
+ "br": {
+  "AB": "5.7",
+  "RB": "5.7",
+  "SB": "5.7"
+ },
+ "description": "The Type 5 Chi-Ri ( 五式中戦車「チリ」 ) was designed as a result of Japanese field reports on the Eastern front war between Germany and the Soviet Union which evolved tank combat as a separate branch. Roughly offering the hull protection of a KV-1 and the firepower of German long 75 mm's, the Chi-Ri was to be a heavy medium tank offering quality over quantity in tank design. However, with the scale the Chi-Ri was supposed to be designed and the draining of resources the Japanese military experienced through China and mainly the Pacific, resources were diverted to the more practical Chi-To instead. The Chi-Ri was introduced along with the initial Japanese Ground Forces tree in Update 1.65 \"Way of the Samurai\" . It's armed with a Type II Model I 75 mm cannon with a rather fast reload and a big first-order ammunition. The big drawback of the Chi-Ri is its size and traverse speeds - while it offers a stronger engine once spaded, the massive turret will crank slowly making response time slow if the hull isn't utilized and the sheer size of the tank makes for a massive target.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_type_5_chi_ri.png",
+ "weapons": [
+  "37 mm Type 1 cannon",
+  "7.7 mm Type 97 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "75 / 35 / 35 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "130 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "45"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "14.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "100 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.8 → 4.5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "8.4"
+  },
+  {
+   "label": "Ammunition",
+   "value": "102 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-8 / 17°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-10 / 10°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "5,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,152 → 2,770"
+  },
+  {
+   "label": "Crew training",
+   "value": "45,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "90 / 150 / 170 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "40,500"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,400"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Type 1 APHE",
+   "type": "APHE",
+   "penetration": [
+    "148",
+    "145",
+    "132",
+    "117",
+    "104",
+    "93"
+   ]
+  },
+  {
+   "name": "Type 4 Kou",
+   "type": "APHE",
+   "penetration": [
+    "151",
+    "148",
+    "137",
+    "124",
+    "112",
+    "101"
+   ]
+  },
+  {
+   "name": "Type 90 HE",
+   "type": "HE",
+   "penetration": [
+    "17",
+    "17",
+    "15",
+    "14",
+    "12",
+    "11"
+   ]
+  },
+  {
+   "name": "Type 1 APHE",
+   "type": "APHE",
+   "penetration": [
+    "57",
+    "54",
+    "39",
+    "26",
+    "18",
+    "12"
+   ]
+  },
+  {
+   "name": "Type 94 HE",
+   "type": "HE",
+   "penetration": [
+    "6",
+    "6",
+    "5",
+    "4",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

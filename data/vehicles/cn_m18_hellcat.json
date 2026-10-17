@@ -1,0 +1,161 @@
+{
+ "id": "cn_m18_hellcat",
+ "wiki": "https://wiki.warthunder.com/unit/cn_m18_hellcat",
+ "name": "␗M18 GMC",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "IV",
+ "br": {
+  "AB": "5.3",
+  "RB": "6.0",
+  "SB": "6.0"
+ },
+ "description": "The M18 GMC (76 mm Gun Motor Carriage M18) is an American tank destroyer from World War II that was supplied to the Republic of China as part of U.S. aid during the Korean War. A military aid expert group was sent to Taiwan, and based on their recommendations, the U.S. began supplying the Republic of China's armed forces with surplus World War II weapons. The first batch of military aid was M18 Hellcat tank destroyers, which arrived in Taiwan in 1952. These Hellcats were actually the first combat vehicles that the US provided to the Republic of China. A total of 243 M18s were sent during the operation. The army and marine corps received these Hellcats, which soon became the backbone of Taiwan's armed forces. They remained in service until the 1970s. Later, some Hellcats were transferred to remote islands and served as stationary coastal artillery in fortifications. The Chinese M18 GMC was introduced in Update 1.91 \"Night Vision\" . The vehicle has good mobility and a powerful 76mm M1 gun with APCBC shells, making it well-suited for flanking maneuvers and capturing key positions. However, its weak armor and open turret roof leave it extremely vulnerable to the enemy fire.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cn_m18_hellcat.png",
+ "weapons": [
+  "76 mm M1 cannon",
+  "12.7 mm M2HB machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "12 / 12 / 12 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "81 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "80"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "26"
+  },
+  {
+   "label": "Ammunition",
+   "value": "45 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.9 → 6.1 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 70°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,099 → 2,863"
+  },
+  {
+   "label": "Crew training",
+   "value": "52,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "100 / 150 / 190 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "47,300"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,500"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M79 shot",
+   "type": "AP",
+   "penetration": [
+    "134",
+    "132",
+    "121",
+    "109",
+    "99",
+    "89"
+   ]
+  },
+  {
+   "name": "M42A1 shell",
+   "type": "HE",
+   "penetration": [
+    "16",
+    "16",
+    "14",
+    "13",
+    "11",
+    "10"
+   ]
+  },
+  {
+   "name": "M62 shell",
+   "type": "APCBC",
+   "penetration": [
+    "149",
+    "146",
+    "133",
+    "119",
+    "106",
+    "95"
+   ]
+  },
+  {
+   "name": "M88",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

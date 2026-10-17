@@ -1,0 +1,290 @@
+{
+ "id": "ba_65_k14_l",
+ "wiki": "https://wiki.warthunder.com/unit/ba_65_k14_l",
+ "name": "Ba.65 (K.14) L",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "The Ba.65 (K.14) L is an Italian strike aircraft. It was introduced in Update 1.69 \"Regia Aeronautica\" . The Breda Ba.65 (K.14) L does its job well thanks to a high ammo count and the fact that it receives an air spawn in Realistic Battles (which makes up for the slow top speed). In Realistic, most of the time you will be flying against Soviet planes or on some maps, Americans and British. Your tail gunner, which is armed with a 7.7 mm machine gun, will do medium to high amounts of damage if armed with Universal belts. The 7.7 mm machine gun is more dangerous the closer the enemy gets. If you get a chance at a head-on, go for it because you will most likely win- the plane has very strong frontal armament for its tier. The Ba.65 is able to utilize its flaps to gain combat advantages, which is an uncommon feature in low BR planes. You can use them to slow down during a strafing run to put more rounds into the target. Also, if you've mapped different keys for small calibre and large calibre guns, the 7.7 mm machine guns will be recognized as small calibre and the 12.7 mm machine guns will be recognized as large calibre, and the guns will be able to fire separately. As for payload options, the 4 x 50 kg bombs are much more useful against the light ground targets you will see at this battle rating.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ba_65_k14_l.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "490"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "7.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "29"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,800 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "730 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "K-14fc"
+  },
+  {
+   "label": "Length",
+   "value": "9.5 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "130 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.53"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.51 t (2h 13m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "590 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.65 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "250 / 451 / 490 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "400 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "700 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "113 → 152"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,960"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP-I/HEF/API-T/I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/HEF/HEF",
+   "penetration": [
+    "20",
+    "18",
+    "11",
+    "6",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T",
+   "penetration": [
+    "5",
+    "4",
+    "2",
+    "1",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/AP/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP-I/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

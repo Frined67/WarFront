@@ -1,0 +1,148 @@
+{
+ "id": "us_m10",
+ "wiki": "https://wiki.warthunder.com/unit/us_m10",
+ "name": "M10 GMC",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "II",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.3",
+  "SB": "3.3"
+ },
+ "description": "The Fall of France led the United States to frantically find ways to counter the new threat profile of the German panzer divisions. This led to the formation of the Tank Destroyer Branch whose main purpose was to blunt any German armoured exploitation attempts with a mobile tank destroyer force to eliminate the enemy tanks. The rapid creation led to placeholder vehicles like the 37 mm GMC M6 and 75 mm GMC M3 to be put in service, but these were not ideal as the Tank Destroyer Branch sought a vehicle that could reach ideal positions faster than regular tanks. While such a tank destroyer was in development, the urgency for a vehicle led to a conversion of a M4A2 hull with a larger, open-topped turret carrying a high-velocity 3-inch gun into battle. This weapon system would be adopted as the M10 GMC and would see service for all of World War II after its introduction in the Tunisian campaign. The M10 would also be famously known as the Wolverine in modern pop culture, though this is likely a post-war invention and not a term used during World War II. Introduced in Update 1.49 \"Weapons of Victory\" , the M10 GMC takes much from the M4A2 Sherman which it was derived from. The drivetrain is identical with the drive shaft running from the engine in the rear to the front transmission and sprockets. The hull is sloped to a larger degree. The 3-inch (76 mm) cannon, originally mounted on the experimental M6 Heavy Tank, lacks the muzzle brake of the 76 mm M1A2 gun used on the later Rank III Shermans and the M18 Hellcat. The turret is a pentagonal shaped M5 Mount type. It has a powerful 76 mm gun; however it is held back due to the sluggish turret traverse speed. This severely limits the ability to quickly react and engage opponents when fired upon, a problem that can prove costly in high intensity matches. However, should any enemy come into the crosshair of the 3-inch gun, the M10 is very likely to put a penetrating hole in the enemy's armour.",
+ "image": "https://static.encyclopedia.warthunder.com/images/us_m10.png",
+ "weapons": [
+  "12.7 mm M2HB machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "51 / 25 / 25 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "86 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "48"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "54 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 30°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "3.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "400 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 28°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "675 → 913"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 80 / 100 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,330"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M79 shot",
+   "type": "AP",
+   "penetration": [
+    "134",
+    "132",
+    "121",
+    "109",
+    "99",
+    "89"
+   ]
+  },
+  {
+   "name": "M42A1 shell",
+   "type": "HE",
+   "penetration": [
+    "17",
+    "16",
+    "15",
+    "13",
+    "12",
+    "10"
+   ]
+  },
+  {
+   "name": "M62 shell",
+   "type": "APCBC",
+   "penetration": [
+    "149",
+    "146",
+    "133",
+    "119",
+    "106",
+    "95"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,226 @@
+{
+ "id": "sbd-3",
+ "wiki": "https://wiki.warthunder.com/unit/sbd-3",
+ "name": "SBD-3",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "2.0",
+  "SB": "1.7"
+ },
+ "description": "The SBD Dauntless was the workhorse of the US Navy, serving from 1940 all the way to late 1944 as the main carrier-based dive bomber. It replaced the SBC Helldiver and SBU Corsair aboard US carriers. Featuring a range of about 1,700 km, and quite heavy armaments for its size and role - two 12.7 mm Browning M2 machine guns in the engine cowling and a bomb load of up to 2,250 lbs, it was very versatile plane. The SBD participated in many battles in the Pacific theatre, and achieved successes such as the sinking of Japanese aircraft carrier Shōhō during the Battle of the Coral Sea in May 1942. Its biggest success was during the Battle of Midway in June 1942, when SBD bombers sank four aircraft carriers, namely Akagi, Kaga, Sōryū, and Hiryū. By 1944, the SBD was slowly being replaced by the faster and more modern SB2C Helldiver. Foreign users included the Royal Navy, Free French Air Force, Mexico, Chile, and Morocco. In War Thunder since the start of the Open Beta Test, the SBD-3 is one of the first bombers in the American aviation tech tree. It features an airspawn allowing for quick bombing runs out of reach of enemy fighters, as your bombs are dropped before the fighters can climb up to your altitude. The heavy armament compared to contemporaries found in other tech trees allows for engaging enemy fighters using altitude advantage or, after installation of the DGP-1 machine gun pods, engaging enemy medium and heavy bombers such as Fw 200s, He 111s or Ju 88s. Despite being a bomber, SBD is also quite a manoeuvrable aircraft, allowing to win prolonged turn fights with less agile opponents such as the He 112 or MiG-3.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sbd-3.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "439"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "9.8"
+  },
+  {
+   "label": "Turn time",
+   "value": "25.5"
+  },
+  {
+   "label": "Max altitude",
+   "value": "5,700 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "291 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "Cyclone R-1820-52"
+  },
+  {
+   "label": "Length",
+   "value": "10 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12.7 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "122 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.42"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.27 t (1h 5m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "740 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.8 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -12/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "320 / 469 / 498 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "450 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "360 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.55 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "750 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "250 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "314 → 427"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 60 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,950"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP/AP/T/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

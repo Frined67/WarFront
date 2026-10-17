@@ -1,0 +1,276 @@
+{
+ "id": "saab_t18b_1",
+ "wiki": "https://wiki.warthunder.com/unit/saab_t18b_1",
+ "name": "T18B",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "III",
+ "br": {
+  "AB": "4.0",
+  "RB": "4.3",
+  "SB": "4.0"
+ },
+ "description": "The Saab 18 was a series of twin-engine bombers developed and used from the end of World War II until 1959. Development of the aircraft began in 1938, originally intended for both bombing and reconnaissance roles, but it only entered service with the Swedish Air Force in 1944. The T18B was a variant of this aircraft, initially designed as a torpedo bomber by SAAB. However, during prototype testing, it was shown that the aircraft was too fast for torpedo drops, as torpedoes had to be released at a suitable drop speed from an altitude of only 15 m, which was challenging for the pilot to achieve. As a result, the aircraft was converted into an attack aircraft, with two 20 mm akan m/41 cannons fitted under the nose. The enlarged bomb bay, originally designed for a torpedo, also allowed the aircraft to carry more bombs than the standard variants. In addition, earlier variants featured a rearward-firing machine gun installed beneath the aircraft, in addition to the dorsal one, but it was removed on the T18B. Deliveries began in 1947 to the Blekinge Air Force Wing, where the aircraft served until its withdrawal from service in 1956–1957. Early in its service, the aircraft was tested with the RB 302 anti-ship missile, but it did not pass the prototype phase. The T18B was introduced in Update 1.95 \"Northern Wind\" . It is a relatively fast aircraft, reaching a top speed of 595 km/h. Its two forward-firing 20 mm cannons provide strong offensive armament; however, its rear protection is limited, with only a single defensive machine gun covering the back. For secondary armament, the aircraft can carry rockets, conventional bombs, and torpedoes. The aircraft can also fulfil a CAS role thanks to its cannons, which can deal significant damage to enemy ground targets when used effectively.",
+ "image": "https://static.encyclopedia.warthunder.com/images/saab_t18b_1.png",
+ "weapons": [
+  "13.2 mm Akan m/39A machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "595"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.3"
+  },
+  {
+   "label": "Turn time",
+   "value": "25"
+  },
+  {
+   "label": "Max altitude",
+   "value": "11,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "450 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x DB-605B"
+  },
+  {
+   "label": "Length",
+   "value": "13.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "17 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "216 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "7.92"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.23 t (2h 3m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "735 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.84 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/7 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "290 / 439 / 468 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "120 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "630 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.43 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "300 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,080 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.84 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "300 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,080 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.84 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,620 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "810 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,101 → 1,527"
+  },
+  {
+   "label": "Crew training",
+   "value": "22,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "80 / 180 / 290 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "24,250"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,100"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEF-T/AP-T/HEF-T/AP-T",
+   "penetration": [
+    "38",
+    "35",
+    "24",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEFI-T/HEFI-T/HEFI-T/AP-T",
+   "penetration": [
+    "38",
+    "35",
+    "24",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP-T/AP-T/HEF-T",
+   "penetration": [
+    "38",
+    "35",
+    "24",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "HEF-T/AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "HEF-T/AP/AP/AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF-T/HEF-T/AP/HEF-T",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "HEF-T/AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "HEF-T/AP/AP/AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "HEF-T/HEF-T/AP/HEF-T",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "a5m4_hagiri",
+ "wiki": "https://wiki.warthunder.com/unit/a5m4_hagiri",
+ "name": "Hagiri's A5M4",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "This A5M4 (W-102) was piloted by the Japanese pilot Matsuo Hagiri during his time in the fighter squadron on the Sōryū aircraft carrier. He would become an ace during the Second Sino-Japanese War and in the Pacific theatre of World War II. His early successes came in the skies over China where he shot down 8 Chinese aircraft, with both his A5M4 (W-102) and an A6M which he was piloting as part of combat trials with other high-ranking Navy pilots. The Hagiri's A5M4 was introduced in Update 1.31 and translates exactly over from reality, leading in monoplane manoeuvrability at the early ranks. It allows the pilot to evade and manoeuvre around their adversaries, as well as presenting a decent airframe that can take a beating from regular munitions. However, it lacks in damage output, being equipped with only two 7.7 mm machine guns.",
+ "image": "https://static.encyclopedia.warthunder.com/images/a5m4_hagiri.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "447"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "12.8"
+  },
+  {
+   "label": "Turn time",
+   "value": "12.3"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,800 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "324 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Kotobuki 41"
+  },
+  {
+   "label": "Length",
+   "value": "7.6 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "92 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.46"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.17 t (59m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "558 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/13 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "220 / 369 / 398 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "323"
+  },
+  {
+   "label": "Crew training",
+   "value": "150"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (15 / 25 / 80) %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,670"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/IAI/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "I/AP/AP/AP/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

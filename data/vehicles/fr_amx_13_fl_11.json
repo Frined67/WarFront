@@ -1,0 +1,152 @@
+{
+ "id": "fr_amx_13_fl_11",
+ "wiki": "https://wiki.warthunder.com/unit/fr_amx_13_fl_11",
+ "name": "AMX-13 (FL11)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "III",
+ "br": {
+  "AB": "4.3",
+  "RB": "4.3",
+  "SB": "4.3"
+ },
+ "description": "The AMX-13/75 FL-11 is the first subvariant of the AMX-13/75 FL-10 , which is the first variant of the AMX-13 light tank family. France had been fighting in the First Indochina War for six years by February 1952. Jean Letourneau, French Minister of State for Relations with Associated States, requested that the most advanced light tank, the AMX-13/75 FL-10, be delivered to cavalry units fighting the Viet Minh. However, the massive FL-10 turret and its long, high-velocity 75 mm SA 50 L/57 tank gun were simply unsuitable for Vietnam. To meet such demands, it was decided that the AMX-13/75 FL-10 would need to be modified to be suited for confined environments within the jungle while also being light enough that it could be transported by air. This was accomplished by equipping the AMX-13/75 FL-10 hull with the new FL-11 turret, primarily designed for the Panhard Engin Blindé de Reconnaissance (E.B.R.) Modèle 1951 ; it was smaller and lighter, and had a shorter gun that was more suited to the dense jungle environment, being able to more effectively use its high-explosive shell to provide infantry support. The new tank was designated AMX-13/75 FL-11. While it was a successful modification that saved 1.5 tonnes of weight, the vehicle still had to be completely disassembled to be air-transported, and the eventual end of the war meant that the tank would never enter mass-production. The initial batch of 5 units was ultimately sold to Morocco. Introduced in Update 1.75 \"La Résistance\" , the AMX-13/75 FL-11, like other light tanks, excels as a flanker and scout due to its extremely thin armour. The sloped upper glacis plate and turret front may deflect some rounds from weaker enemy tanks, but everything else will easily penetrate the AMX-13/75 FL-11 armour. Frontal assaults against the adversary should not be carried out with the AMX-13/75 FL-11. Furthermore, due to its sluggish reverse speed, it is difficult to return to cover after being detected; therefore, vigilant awareness of the surroundings is required in combat.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_amx_13_fl_11.png",
+ "weapons": [
+  "7.5 mm MAC 31 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "40 / 20 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "78 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "61"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "21.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "37 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.8 → 6 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-8 / 15°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "18.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,950 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "550 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "935 → 1,344"
+  },
+  {
+   "label": "Crew training",
+   "value": "22,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "60 / 90 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "24,680"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,100"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M72 shot",
+   "type": "AP",
+   "penetration": [
+    "91",
+    "88",
+    "78",
+    "67",
+    "57",
+    "49"
+   ]
+  },
+  {
+   "name": "M61 shot",
+   "type": "APCBC",
+   "penetration": [
+    "104",
+    "102",
+    "93",
+    "84",
+    "75",
+    "68"
+   ]
+  },
+  {
+   "name": "M48 shell",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "M89",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

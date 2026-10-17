@@ -1,0 +1,114 @@
+{
+ "id": "il_zsu_23_4",
+ "wiki": "https://wiki.warthunder.com/unit/il_zsu_23_4",
+ "name": "ZSU-23-4V",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "V",
+ "br": {
+  "AB": "8.0",
+  "RB": "8.0",
+  "SB": "8.0"
+ },
+ "description": "Israel captured a total of 60 ZSU-23-4 from Egypt and Syria, who acquired them from the Soviet Union shortly after its introduction, during the Yom Kippur War and other conflicts. While there is very limited data surrounding Israel's usage of ZSU-23-4s in combat or even in active service, some captured units were used for personal training in a very limited number. Currently there is a ZSU-23-4 in display at the Yad la-Shiryon Museum, Israel. Introduced in Update \"Fire and Ice\" , the ZSU-23-4V (Israel) \"Shilka\" presents a higher rate of fire and more powerful ammunition than its predecessor Hovet , allowing the user to saturate the airspace to increase the chance of hitting a low-flying aircraft. It has the same performance as the Soviet ZSU-23-4 , thus it has a very good fire rate, a mediocre cannon for dealing with ground units and an average mobility. Like many other SPAAGs of its rank, it lacks access to any kind of guided missile to deal with air threats.",
+ "image": "https://static.encyclopedia.warthunder.com/images/il_zsu_23_4.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "9 / 9 / 7 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "250 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "50"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "850 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-4 / 85°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "49"
+  },
+  {
+   "label": "Repair cost",
+   "value": "4,912 → 6,322"
+  },
+  {
+   "label": "Crew training",
+   "value": "110,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "150 / 190 / 230 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "116,000"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/HEF-I",
+   "penetration": [
+    "51",
+    "48",
+    "36",
+    "26",
+    "18",
+    "13"
+   ]
+  },
+  {
+   "name": "23 mm HEFI-T",
+   "type": "HEF-I/HEFI-T/HEF-I/API-T",
+   "penetration": [
+    "51",
+    "48",
+    "36",
+    "26",
+    "18",
+    "13"
+   ]
+  },
+  {
+   "name": "23 mm API-T",
+   "type": "API-T/API-T/API-T/HEFI-T",
+   "penetration": [
+    "51",
+    "48",
+    "36",
+    "26",
+    "18",
+    "13"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

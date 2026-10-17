@@ -1,0 +1,153 @@
+{
+ "id": "cn_t_34_85_d_5t",
+ "wiki": "https://wiki.warthunder.com/unit/cn_t_34_85_d_5t",
+ "name": "␗T-34-85 (S-53)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "III",
+ "br": {
+  "AB": "5.7",
+  "RB": "5.7",
+  "SB": "5.7"
+ },
+ "description": "The T-34-85 (S-53) Model 1944 is a remodelling of the late-production T-34-85 variant with the introduction of an 85 mm Zavod imeni Stalina (ZiS) S-53 tank gun. Being the sixth variant of the T-34 medium tank family, it features an easier-to-reload ZiS S-53 tank gun, a radio relocated from the hull into a turret with an improved layout, and an improved gunner's sight. The T-34-85 (S-53) arrived in China as part of a Soviet military assistance package. With the start of the Korean War, China received 300 T-34-85 medium tanks, along with many trucks and other support vehicles. A total of more than 2,000 military vehicles, as well as three large and medium-sized repair factories and various ammunition, were transferred to China. The T-34-85 (S-53) was the main armoured backbone of the Chinese People's Volunteer Army during the Korean War, performing various missions ranging from tank-to-tank combat to infantry support. Introduced in Update 1.91 \"Night Vision\" , the T-34-85's firepower is significantly increased over the previous T-34 (1943) , thanks to the ZiS S-53 tank gun. The sloped armour provides adequate protection, but players should not rely on it to exchange fire with enemy tanks because most adversaries at this rank will easily penetrate the tank. It lacks a turret-roof-mounted heavy machine gun as compared to American tanks. However, this is included in the T-34-85 Gai (improved) version of the T-34-85 (S-53).",
+ "image": "https://static.encyclopedia.warthunder.com/images/cn_t_34_85_d_5t.png",
+ "weapons": [
+  "85 mm ZIS-S-53 cannon",
+  "7.62 mm DT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "45 / 45 / 45 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "100 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "55"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "15.4"
+  },
+  {
+   "label": "Ammunition",
+   "value": "60 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "9.6 → 7.4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 22°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "17.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,890 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,236 → 1,649"
+  },
+  {
+   "label": "Crew training",
+   "value": "30,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "80 / 120 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "30,000"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,200"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-365K",
+   "type": "APHE",
+   "penetration": [
+    "148",
+    "143",
+    "126",
+    "106",
+    "90",
+    "77"
+   ]
+  },
+  {
+   "name": "O-365K",
+   "type": "HE",
+   "penetration": [
+    "19",
+    "18",
+    "17",
+    "16",
+    "15",
+    "14"
+   ]
+  },
+  {
+   "name": "BR-365",
+   "type": "APHEBC",
+   "penetration": [
+    "135",
+    "133",
+    "124",
+    "114",
+    "104",
+    "95"
+   ]
+  },
+  {
+   "name": "BR-365P",
+   "type": "APCR",
+   "penetration": [
+    "195",
+    "187",
+    "154",
+    "122",
+    "96",
+    "76"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

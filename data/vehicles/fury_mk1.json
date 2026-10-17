@@ -1,0 +1,162 @@
+{
+ "id": "fury_mk1",
+ "wiki": "https://wiki.warthunder.com/unit/fury_mk1",
+ "name": "Fury Mk I",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The first Fury Mk I prototype was presented in 1927, with the first flight of a production model in March 1931 and entered service with the RAF in May of the same year, together with the Nimrod Mk I (a naval version of the Fury). The Fury Mk I was in service with Yugoslavia, Iran, South Africa, as well as participated in the Spanish Civil War and World War II. A total of 117 Fury Mk I fighters were produced. In 1937 the Fury Mk II was introduced with a more powerful engine. It replaced the Fury Mk I in production and on airfields. It has been in the game since the start of the Open Beta Test prior to Update 1.27. The Fury Mk I is one of the three reserve fighters in the British tree - the other two being the Nimrod Mk I , as well as the Fury Mk II . In the game, the Fury Mk I is a slow fighter with insufficient weapons and not the best rate of climb, but with quite great manoeuvrability. The turning speed is better than most other biplanes, which gives it an advantage, but during active manoeuvres, the speed is used up very quickly. Thus, after one full circle, it is impossible to stay at the same height, it is necessary to descend to maintain controllability of the aircraft.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fury_mk1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "394"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "15.7"
+  },
+  {
+   "label": "Turn time",
+   "value": "16"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,100 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "231 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Kestrel IIS"
+  },
+  {
+   "label": "Length",
+   "value": "8.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "67 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.41"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.16 t (1h 11m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "600 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/11 G"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,690"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/IAI/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "I/AP/AP/AP/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

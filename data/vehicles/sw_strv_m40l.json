@@ -1,0 +1,140 @@
+{
+ "id": "sw_strv_m40l",
+ "wiki": "https://wiki.warthunder.com/unit/sw_strv_m40l",
+ "name": "Strv m/40L",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The Strv m/40L was an upgrade to the Strv m/39, which was also an upgrade over the Strv m/38. At the outbreak of World War II, the Swedish Armed Forces were not satisfied with their tanks in service, and the Strv m/39 was seen as too weak, and they requested a version with increased armour thickness. Thus the m/39 was upgraded with more armour over the years, but this was not enough. The turret mantlet was modified and a commander's cupola was added along with side hatches. These also received the upgraded armour of the Strv m/39, and were designated as L-60 S/III (Strv m/40L). The tank was also the basis of the L-62 Anti II SPAAG designed for Finland. It was introduced in Update 1.97 \"Viking Fury\" . The Strv m/40L solves most of the weaknesses in early Swedish tanks like the Strv m/38 and m/39. The upgraded armour is good enough to protect from autocannon fire and even stop some low penetration shells like solid AP shots from 37 or even 40 mm cannons. However, the tank excels as a sniper and a flanker, using its good mobility to change positions fast and surprise your enemies. The unlockable APDS shell is excellent and is able to penetrate even heavy tanks such as the B1 ter , but their large crew still allow them to have very good survivability. Some of the most dangerous threats however are the M4A3 (105) , Pz.IV E , and StuG III A , this is because of their good HEAT shells, that can overpressure the Strv m/40L in some weak spots and knock out the entire crew.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_strv_m40l.png",
+ "weapons": [
+  "37 mm kan m/38 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "43 / 13 / 13 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "69 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "45"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "15.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "100 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.1 → 3.1 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-14 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,500 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "648 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "249 → 320"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 20 / 30 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "slpprj m/38",
+   "type": "APBC",
+   "penetration": [
+    "59",
+    "55",
+    "41",
+    "28",
+    "19",
+    "13"
+   ]
+  },
+  {
+   "name": "slpgr m/39",
+   "type": "APHE",
+   "penetration": [
+    "55",
+    "51",
+    "37",
+    "26",
+    "17",
+    "12"
+   ]
+  },
+  {
+   "name": "3,7 cm slpprj m/49",
+   "type": "APDS",
+   "penetration": [
+    "115",
+    "111",
+    "95",
+    "78",
+    "64",
+    "52"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

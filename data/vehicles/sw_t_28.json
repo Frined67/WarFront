@@ -1,0 +1,176 @@
+{
+ "id": "sw_t_28",
+ "wiki": "https://wiki.warthunder.com/unit/sw_t_28",
+ "name": "▄T-28",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "A total of seven T-28s were captured by the Finnish from the Soviet Union during the Winter War and Continuation War. The seven T-28s captured were the only ones able to move on their own power due to lacking of tractors able to tow these vehicles, so most other T-28s were looted of anything with value that could be useful for the Finnish. The T-28 (Sweden) was introduced in Update \"Fire and Ice\" for the Swedish tech tree as an early medium tank. It is identical in performance to the Soviet T-28 but starts with the worse Sh-354T shrapnel shells giving it a limited penetration ability until the better BR-305A APHE rounds are unlocked. The T-28 is overall a great vehicle, with fairly large crew making them more survivable to automatic cannon fire, but due to the crew being in relatively close proximity, they are vulnerable to larger calibre fire like the 75 mm that can be found on the M3 Lee and the short barrel Pz.IV F1 .",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_t_28.png",
+ "weapons": [
+  "7.62 mm DT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "30 / 20 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "94 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "38"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "19.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "69 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "5,292 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 28°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-33 / 145°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "17.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,646 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "208 → 268"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Sh-354T",
+   "type": "Shrapnel",
+   "penetration": [
+    "31",
+    "30",
+    "26",
+    "22",
+    "19",
+    "16"
+   ]
+  },
+  {
+   "name": "OF-350M",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "BR-350A (MD-5 fuze)",
+   "type": "APHEBC",
+   "penetration": [
+    "67",
+    "66",
+    "60",
+    "54",
+    "48",
+    "43"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

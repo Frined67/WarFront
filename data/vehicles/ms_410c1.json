@@ -1,0 +1,244 @@
+{
+ "id": "ms_410c1",
+ "wiki": "https://wiki.warthunder.com/unit/ms_410c1",
+ "name": "M.S.410",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The M.S.410 was meant to be an upgrade over the M.S.406 after its introduction in 1939. The engineers included a new wing design, improved offensive armament and a new fixed radiator, among other minor upgrades. The changes were minor and the plane was not much different compared to its predecessor, the aircraft never managed to be used by the French Air Force since its production started just before France's capitulation in June 1940. The aircraft was however, was produced in limited numbers under German supervision in Vichy France, also a few M.S.406 airframes were converted to the 410. Introduced in Update 1.73 \"Vive la France\" , the M.S.410 behaves like many other French aircraft of its rank and BR, it has a relatively mediocre armament and good agility at the cost of top speed and durability. The M.S.410 has an acceptable climb rate that should be used to maintain initiative and energy fight slower opponents, since many fighters, specially German and American fighters will be able to outrun you. Due to its armament, the M.S.410 is not well suited to pursuing bombers, instead, try saving the ammo of your 20 mm cannon for fighters and critical shots.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ms_410c1.png",
+ "weapons": [
+  "20 mm Hispano 404 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "477"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "11.9"
+  },
+  {
+   "label": "Turn time",
+   "value": "20"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,800 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "12Y-31"
+  },
+  {
+   "label": "Length",
+   "value": "8.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.6 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "159 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.25"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.3 t (1h 27m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "756 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.76 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -9/13 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "270 / 359 / 394 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "60 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.45 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,350 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "311 → 423"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 60 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,920"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "PT/HEI/AP/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/AP-T/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP/AP-T/HEI/AP-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

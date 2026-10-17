@@ -1,0 +1,234 @@
+{
+ "id": "a6m2_zero_china",
+ "wiki": "https://wiki.warthunder.com/unit/a6m2_zero_china",
+ "name": "␗A6M2",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "III",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "3.3"
+ },
+ "description": "The A6M2 Mod. 21 (commonly known in Chinese as 零战21型) was captured on multiple occasions by both Nationalist and Communist forces, during and after WWII respectively. This model likely represents the two aircraft, numbered V-172 and V-174, that were captured after making forced landings on the Leizhou Peninsula in 1941 – the very first Zeroes captured by Allied forces – and served as examples to evaluate this fighter just before the outbreak of the Pacific War. Introduced in Update 1.93 \"Shark Attack\" , the fighter performs identically to its Japanese counterpart with excellent manoeuvrability and devastating firepower; however, players also have to be aware of its low cannon ammo capacity as well as its rather fragile airframe that will burst into flames when the fuel tanks are hit. Always leave some energy to climb back to altitude for maximum efficiency – even the most manoeuvrable fighter needs energy to survive long enough against waves of enemies.",
+ "image": "https://static.encyclopedia.warthunder.com/images/a6m2_zero_china.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "510"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "13.3"
+  },
+  {
+   "label": "Turn time",
+   "value": "17"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,300 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "175 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Sakae 12"
+  },
+  {
+   "label": "Length",
+   "value": "9.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "107 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.01"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.39 t (1h 30m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "660 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.83 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/13 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 451 / 484 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "310 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "120 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "520 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.11 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,360 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "792"
+  },
+  {
+   "label": "Crew training",
+   "value": "10,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (55 / 180 / 275) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/HEF-I/HEF-I/APHE",
+   "penetration": [
+    "19",
+    "18",
+    "12",
+    "7",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "HEF-T/HEF/HEF/APHE",
+   "penetration": [
+    "21",
+    "20",
+    "13",
+    "8",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "APHE/APHE/APHE/APHE/HEF/HEF-T",
+   "penetration": [
+    "21",
+    "20",
+    "13",
+    "8",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "HEF-T",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF/HEF/HEF/APHE/APHE",
+   "penetration": [
+    "21",
+    "20",
+    "13",
+    "8",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/IAI/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "I/AP/AP/AP/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

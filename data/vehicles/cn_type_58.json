@@ -1,0 +1,184 @@
+{
+ "id": "cn_type_58",
+ "wiki": "https://wiki.warthunder.com/unit/cn_type_58",
+ "name": "T-34-85 Gai",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "III",
+ "br": {
+  "AB": "5.7",
+  "RB": "5.7",
+  "SB": "5.7"
+ },
+ "description": "The T-34-85 Gai (Chinese: T or 特[Te]-34-85改) was what would become the first domestic tank built by Mainland China in the 1950s. Due to the demand for new tanks to fulfill the needs of new armour divisions, Chinese engineers reverse-engineered or acquired the blueprints for the T-34/85 Mod. 1944 in the late 1950s. This version represents a planned modification equipping a HMG on the commander's cupola and minor appearance changes for domestic production. Due to the introduction of complete T-54A blueprints that set the foundations for the Type 59, the production plan for the T-34-85 was ditched and the remaining fleet was left in reserve until the 1990s. Introduced in Update 1.91 \"Night Vision\" as the successor of the Soviet-given T-34-85, the tank is generally similar to the earlier T-34-85 (S-53) , which itself is identical to the Soviet T-34-85 ; the Gai's gameplay should be very familiar to experienced players. It differentiates itself with a number of cosmetic differences, and more importantly, a roof-mounted 12.7 mm DShK heavy machine gun. For the first time, T-34 drivers can enjoy the utility offered by a heavy machine gun similar to the ubiquitous M2 Browning featured on American tanks.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cn_type_58.png",
+ "weapons": [
+  "12.7 mm Type 54 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "45 / 45 / 45 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "100 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "55"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "55 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "9.6 → 7.4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "17.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-4 / 82°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,890 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,645 → 2,117"
+  },
+  {
+   "label": "Crew training",
+   "value": "39,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "90 / 140 / 160 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "34,600"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Type 56 AP",
+   "type": "APHE",
+   "penetration": [
+    "148",
+    "143",
+    "126",
+    "106",
+    "90",
+    "77"
+   ]
+  },
+  {
+   "name": "Type 56 HE",
+   "type": "HE",
+   "penetration": [
+    "19",
+    "18",
+    "17",
+    "16",
+    "15",
+    "14"
+   ]
+  },
+  {
+   "name": "Type 56 APBC",
+   "type": "APHEBC",
+   "penetration": [
+    "135",
+    "133",
+    "124",
+    "114",
+    "104",
+    "95"
+   ]
+  },
+  {
+   "name": "Type 56 APCR",
+   "type": "APCR",
+   "penetration": [
+    "195",
+    "187",
+    "154",
+    "122",
+    "96",
+    "76"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/IAI/API-T/AP-I(c)",
+   "penetration": [
+    "34",
+    "32",
+    "24",
+    "17",
+    "12",
+    "8"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

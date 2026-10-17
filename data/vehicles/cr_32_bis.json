@@ -1,0 +1,226 @@
+{
+ "id": "cr_32_bis",
+ "wiki": "https://wiki.warthunder.com/unit/cr_32_bis",
+ "name": "CR.32 bis",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "After the development of the CR.32 , an improvement of the aircraft was requested. In particular, two 7.7 mm machine guns were added, which increased the weight, though it was accepted by the pilots despite the loss of manoeuvrability and speed. 328 examples were produced from April 1936 until July 1937, and 45 of these were sold to Austria. These CR.32 were used in the Spanish Civil War with the Aviazione Legionaria with great success, proving to be deadlier than other biplanes also in service like the I-15, and even the I-16. They also served during World War II where they were later replaced with the more powerful CR.42 and relegated to training or used for civilian purposes. Added with the introduction of the Italian aircraft tech tree as a premium pre-order pack for Update 1.69 \"Regia Aeronautica\" , it was removed from the store after the 5th Anniversary sale but came back in the Warbonds shop as part of the first trophy chest in April 2018 until the end of Battle Pass: Season IV, \"Fearless Voltigeur\" . The CR.32 bis is an improved version of the CR.32 and CR.32 quater. The main improvement is the firepower. The aircraft has a very similar flight performance to other biplanes, with very good turning speed, weak engines, very low energy retention and a low stall spead, they are also easier to fly in simulator battles, since they are usually more stable. The improved armament is a game changer, since it now has access to 12.7mm HMGs that are very lethal against other biplanes and also against early monoplanes like the Hurricane and I-16, although to a lesser extent. The most critical aspects of the CR.32 bis are the overall mediocre flight performance, the poor roll rate and the telescopic gunsight which is extremely hard to use in Simulator.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cr_32_bis.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "356"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "9.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "14"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "150 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "A30 Bis"
+  },
+  {
+   "label": "Length",
+   "value": "7.5 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "88 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.67"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.27 t (1h 31m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "590 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/14 G"
+  },
+  {
+   "label": "Ammunition",
+   "value": "700 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "491"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 30 / 70) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP-I/HEF/API-T/I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/HEF/HEF",
+   "penetration": [
+    "20",
+    "18",
+    "11",
+    "6",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T",
+   "penetration": [
+    "5",
+    "4",
+    "2",
+    "1",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/AP/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

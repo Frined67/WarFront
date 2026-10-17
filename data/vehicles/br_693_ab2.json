@@ -1,0 +1,292 @@
+{
+ "id": "br_693_ab2",
+ "wiki": "https://wiki.warthunder.com/unit/br_693_ab2",
+ "name": "Br.693AB2",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "I",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.0",
+  "SB": "1.7"
+ },
+ "description": "In 1934, Bréguet Aviation presented its Bre 690 to fulfil the Aeronautical Technical Service's specification for a three-seat bomber, competing against the Potez 630 , Romano R.110, and some other submissions. The Potez 630 ended up winning the competition, but despite this, Bréguet began construction of the Bre 690 prototype in 1935. After putting some pressure on the Air Force, Bréguet managed to secure a contract in 1937. It first flew on 23rd March 1938 and impressed the Air Force so much that they ordered the construction of 200 Bréguet 691AB2 two-seaters on 14th June. Bréguet continued to improve the aircraft, replacing a Hispano cannon with two 7.5 mm machine guns and replacing one of the crew seats with a bomb bay. Only 76 Bre 691AB2 were built as the Air Force preferred the improved modifications. One of these was the Br 693AB2 , with radial Gnome-Rhône 14M engines and minor modifications to the exhaust system. Production began in late 1939, and 124 aircraft were built before the armistice. Its short service was far from impressive as the French lost 14 planes but did not achieve any success on the battlefield. It would later be used as a trainer for Vichy France and the Germans. The Br.693AB2 was introduced in Update 1.93 \"Shark Attack\" . It is a decently manoeuvrable twin-engine attacker with powerful armament and an air spawn. However, its payload options are limited, its climb rate is mediocre at best, and its defensive armament has poor aiming angles.",
+ "image": "https://static.encyclopedia.warthunder.com/images/br_693_ab2.png",
+ "weapons": [
+  "20 mm Hispano 404 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "495"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "7.8"
+  },
+  {
+   "label": "Turn time",
+   "value": "19"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "350 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x 14M-6"
+  },
+  {
+   "label": "Length",
+   "value": "9.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "15.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "139 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.46"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.59 t (1h 40m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "591 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.65 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/9 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "294 / 320 / 382 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "295 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "90 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.45 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,350 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,350 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "155 → 213"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 30 / 70 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,440"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "PT/HEI/AP/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/AP-T/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP/AP-T/HEI/AP-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

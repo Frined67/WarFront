@@ -1,0 +1,228 @@
+{
+ "id": "saab_b18a",
+ "wiki": "https://wiki.warthunder.com/unit/saab_b18a",
+ "name": "B18A",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.7",
+  "SB": "2.3"
+ },
+ "description": "Sweden had been using the Ju 86K (designated as the B3C ) bomber as their main bomber. In 1938, a requirement was put forth to Swedish aircraft manufacturers for a fast reconnaissance aircraft with a crew of three. SAAB was awarded the contract for the project and began to build the SAAB 18. The B18 was modified from being just a reconnaissance aircraft to also being a medium bomber. It was deemed underpowered with the two R-1830 Twin Wasp radial engines, but these would later be replaced by license-built DB 605 liquid-cooled engines. Later, the B18B variant was modified to operate as a dive bomber/ground attack variant which could be outfitted with three 120 kg bombs or 12 m/51 rockets. The mid-project changes caused a significant delay in the production of the aircraft which didn't roll out for duty until mid-1944. It was introduced in Update 1.95 \"Northern Wind\" . This bomber can operate in two roles, either as a medium-altitude bomber working on destroying vehicles and anti-aircraft artillery targets or to bomb enemy bases. Flying at a higher altitude will help to avoid a majority of the fighter aircraft which tend to stay at the lower altitudes. The B18A can also be pressed into service in the lower altitudes and even on the deck. When outfitted with rockets, the B18A can dive-bomb ground targets to include tanks, bunkers, anti-aircraft artillery and naval ships.",
+ "image": "https://static.encyclopedia.warthunder.com/images/saab_b18a.png",
+ "weapons": [
+  "13.2 mm Akan m/39A machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "465"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "7"
+  },
+  {
+   "label": "Turn time",
+   "value": "30"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,100 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "530 m"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x STWC3"
+  },
+  {
+   "label": "Length",
+   "value": "13.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "17 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "167 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "6.09"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.23 t (2h 16m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "735 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.84 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/9 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "290 / 439 / 468 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "300 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,080 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.84 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,080 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.84 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,430 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "530 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "448 → 612"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 70 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,920"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEF-T/AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "HEF-T/AP/AP/AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF-T/HEF-T/AP/HEF-T",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "HEF-T/AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "HEF-T/AP/AP/AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "HEF-T/HEF-T/AP/HEF-T",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

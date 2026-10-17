@@ -1,0 +1,228 @@
+{
+ "id": "tbd-1_1938",
+ "wiki": "https://wiki.warthunder.com/unit/tbd-1_1938",
+ "name": "TBD-1",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.7"
+ },
+ "description": "The Devastator had a short lifespan in the US Navy, even though it was, at the time of its introduction, one of the most advanced torpedo bombers. It saw limited use during WWII since it was considered an outdated design, with a very mediocre performance, however this failure can be attributed to the poor reliability of the U.S. Mk. 13 torpedo. A total of 129 units were purchased by the US Navy before WWII, but the Navy decided in 1940 that the Devastator needed to be quickly replaced by the Grumman TBF Avenger, that was much heavier, but also had a much larger payload and was much more survivable. The Devastator was forced into active service, since the Avenger was still not ready, with 41 being deployed for the Battle of Midway and only four returning to the carriers. Most of the losses were attributed to the lack of radios and communication issues. At the end, the Devastator was an example of the technological difference between interwar and WWII developed aircraft. The TBD-1 was introduced in Update 1.53 \"Firestorm\" and is the first usable bomber in the U.S. aircraft line-up. The Devastator is adept at bombing either naval or land-based targets. On maps with naval ships, torpedoes require the naval bomber to release from a very low altitude, a maximum of 340 ft (104 m) or 820 ft (250 m) depending on the torpedo used. For the pilots who prefer using bombs, they can be just as easily dropped on ships as on land-based vehicles. The aircraft needs to fly quite low to the ground to ensure greater accuracy. The lone offensive machine gun does not offer much but can be effectively used to pick off damaged ground targets or even damage a critical module on an enemy fighter, it is also quite manoeuvrable and can quickly whip around to attempt a second bombing run on a target if there are any bombs left over.",
+ "image": "https://static.encyclopedia.warthunder.com/images/tbd-1_1938.png",
+ "weapons": [
+  "12.7 mm M2 Browning machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "312"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "6.1"
+  },
+  {
+   "label": "Turn time",
+   "value": "19"
+  },
+  {
+   "label": "Max altitude",
+   "value": "6,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "150 m"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "R1830-64"
+  },
+  {
+   "label": "Length",
+   "value": "12.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "15.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "85 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.84"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.49 t (2h 5m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "431 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.6 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/8 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "212 / 212 / 212 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "185 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.55 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,050 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "525 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "96 → 131"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 30 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,975"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP/AP/T/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

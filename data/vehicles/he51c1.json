@@ -1,0 +1,166 @@
+{
+ "id": "he51c1",
+ "wiki": "https://wiki.warthunder.com/unit/he51c1",
+ "name": "He 51 C-1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The He 51 C-1 is a German biplane fighter. It has been in the game since the start of the Open Beta Test prior to Update 1.27. The Heinkel He 51 was one of the first aircraft which the German Luftwaffe (still operating in secrecy) tasked to be built. Brothers and talented aircraft designers Walter and Siegfried Günter were working for Heinkel Flugzeugwerke in 1931 when they developed the design for an advanced trainer biplane which was designated He 49. Though touted as a trainer, the aircraft had been designed as a fighter and with a few minor conversions, could be an operational fighter aircraft. After several iterations, the Luftwaffe ordered this aircraft into production as the He 51 in 1933. Currently in service with Germany was the older Arado Ar 65 biplane which the He 51 was slated to replace, unfortunately by the time the He 51 A rolled off the production lines, it was already outdated, however, it wasn't until after 150 were built that important modifications were made which resulted in the upgraded He 51 B. Of the 450 B variants built, 46 of them were modified by replacing the fixed landing gear with floats to allow the fighter to land on water. Later another 100 were built as the He 51 C variant which was configured as a light ground-attack aircraft. Used initially in the Spanish Civil War, the He 51 showed to dominate over older biplanes, however, the advantage was short-lived as modern Soviet fighters and bombers arrived and the He 51 could no longer keep up with them. Operations for the He 51 converted to night fighting, however not long after that it was designated solely for ground attack operations. Though not seen as a fantastic aircraft, behind the scenes it had set the stage for the Luftwaffe years later when close support tactics were developed by Field Marshal Wolfram von Richthofen while flying a He 51. When paired up against other reserve fighters in the game, the He 51 can hold its own, though it will not win any speed records, nor will its machine guns out fire some of the early Soviet fighters, however, there is a place for the He 51 C-1. Diving straight into a cluster of fighters rolling around with each other is not the best tactic, it is better to pick a target and go after it, however, if cornered, the slower speed and manoeuvrability of the He 51 can get it out of tight spaces and potentially down a few enemy aircraft in the process. With two 7 mm machine guns, tracer rounds work best against early aircraft, especially those which are fabric covered and have non-sealing fuel tanks. Though the pilot may find themselves up-tiered against mono-wing aircraft of faster speeds, the He 51 C-1 can quickly turn the tables and put the faster enemy fighter on the receiving end of a stream of bullets, and only a few hits are enough to hobble the enemy aircraft allowing the Heinkel to catch up and finish the job.",
+ "image": "https://static.encyclopedia.warthunder.com/images/he51c1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "310"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "14.3"
+  },
+  {
+   "label": "Turn time",
+   "value": "15"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "294 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "VI"
+  },
+  {
+   "label": "Length",
+   "value": "8.4 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "13.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "76 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.75"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.3 t (1h 41m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "550 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "320 / 469 / 498 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

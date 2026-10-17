@@ -1,0 +1,184 @@
+{
+ "id": "mig_21_2000_iaf",
+ "wiki": "https://wiki.warthunder.com/unit/mig_21_2000_iaf",
+ "name": "MiG-21 2000",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "VII",
+ "br": {
+  "AB": "12.0",
+  "RB": "11.7",
+  "SB": "11.3"
+ },
+ "description": "The MiG-21-2000 was a modernization program developed by Israel Aerospace Industries (IAI) in the 1990s for the MiG-21bis fighter. The program aimed to transform the aging aircraft into a modern combat platform by replacing its avionics entirely. Russia had been negotiating MiG-21 modernization programs with many countries, including Romania. Thus, the announcement of a Romanian-Israeli agreement on the same subject in early 1993 came as an unpleasant surprise. IAI and Elbit were responsible for preparing the documentation and equipment kits for the upgrades. The Romanian company Aerostar (formerly IAR Brașov) was responsible for installing the upgraded equipment on the aircraft. The contract stipulated that around 100 MiG-21s of the Romanian Air Force were to be upgraded. The first upgraded aircraft was presented at the Paris Air Show in 1993. The aircraft's nose section was fitted with an Elta EL/M-2032 pulse-Doppler radar, and the cockpit was outfitted with multifunction displays and a helmet-mounted sight, greatly improving the pilot's situational awareness. The armament was upgraded to meet Western standards, and the Israeli-made Python 3 high-maneuverability missile became the primary close-range weapon. The program was actively promoted for export to Eastern European countries operating the MiG-21, and several states purchased modernization packages. The MiG-21-2000 was introduced in Update 2.57 \"Heavy Cavalry\" . Its avionics, centered around the EL/M-2032 radar, enable the aircraft to detect enemies earlier and employ modern guided weapons. Its air combat capability revolves around Python 3 missiles with all-aspect infrared seekers, which give it a high chance of success in close-range dogfights. Its flight performance is similar to that of the MiG-21bis, offering excellent acceleration and maneuverability at subsonic speeds. However, its limited fuel load and low airframe strength require disciplined flying.",
+ "image": "https://static.encyclopedia.warthunder.com/images/mig_21_2000_iaf.png",
+ "weapons": [
+  "23 mm GSh-23L cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "2,240"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "225"
+  },
+  {
+   "label": "Turn time",
+   "value": "37"
+  },
+  {
+   "label": "Max altitude",
+   "value": "16,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "750 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "R-25-300"
+  },
+  {
+   "label": "Length",
+   "value": "14.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "7.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "371 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "6.13"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "2.4 t (34m)"
+  },
+  {
+   "label": "Fuel in drop tanks",
+   "value": "1.83 t (26m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "1,365 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "2.21 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "450 / 595 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "700 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "250 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "3,396 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "9.9 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,300 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "650 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,915 → 4,393"
+  },
+  {
+   "label": "Crew training",
+   "value": "200,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "90 / 310 / 490 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "216,800"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "3,000"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEFI-T/AP-I/HEF-I",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "HEF-I/AP-I/AP-I/AP-I",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEFI-T/HEF-I/HEFI-T/HEF-I/AP-I",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "15",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/HEF-I/HEF-I",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "15",
+    "10",
+    "7"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

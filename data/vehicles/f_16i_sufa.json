@@ -1,0 +1,184 @@
+{
+ "id": "f_16i_sufa",
+ "wiki": "https://wiki.warthunder.com/unit/f_16i_sufa",
+ "name": "F-16I Sufa",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "VIII",
+ "br": {
+  "AB": "14.0",
+  "RB": "13.7",
+  "SB": "13.0"
+ },
+ "description": "During the 1990s, Israel sought to procure a new and modernised aircraft to supplement its existing fleet of F-15 and F-16 fighter jets and to replace the antiquated F-4 Phantom. After lengthy consideration, the Israeli Air Force (IAF) chose to order a modified variant of the General Dynamics F-16 Block 52 (F-16I) instead of the existing F-15I Ra’am from Boeing, due to its cost-effectiveness and improved versatility. In 1999, Israel announced its intention to purchase the F-16I, signing a contract under the Peace Marble V programme for 50 aircraft. Deliveries to the IAF began in 2004, and the F-16I is currently in service with the \"Negev\", \"Orange Tail Knights\", and \"Bat\" squadrons of the IAF. A key feature of the F-16I is its compatibility with existing Israeli weaponry such as the Python missiles and the SPICE, as over 50% of the internal avionics from the Block 52 were replaced by Israeli-developed systems. The F-16I Sufa was introduced in Update “Tusk Force” . Compared to the American F-16C and the preceding F-16D Barak II , the F-16I is equipped with an upgraded engine and radar, a Missile Approach Warning (MAW) system with full coverage, an enhanced variety of air-to-ground ordnance, and an increased number of countermeasures. Due to its potent ground ordnance loadout, the F-16I specialises in a CAS fighter role and can use the fire-and-forget SPICE bombs to decimate numerous ground targets simultaneously while staying at a comfortable distance from enemy anti-air units. For air-to-air combat, the F-16I can use the ubiquitous AIM-9M Sidewinder and the AIM-120C active-radar homing missiles. However, the F-16I is not as effective for air battles due to its mediocre flight characteristics and low missile capacity.",
+ "image": "https://static.encyclopedia.warthunder.com/images/f_16i_sufa.png",
+ "weapons": [
+  "20 mm M61A1 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "2,110"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "285"
+  },
+  {
+   "label": "Turn time",
+   "value": "20.5"
+  },
+  {
+   "label": "Max altitude",
+   "value": "15,240 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "850 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "F100-PW-229"
+  },
+  {
+   "label": "Length",
+   "value": "15.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "422 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "9.14"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "2.63 t (27m)"
+  },
+  {
+   "label": "Fuel in drop tanks",
+   "value": "4.48 t (46m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "1,555 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "2.2 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/13 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "463 / 470 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "482 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "512 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "6,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "9.98 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "5,420 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "3,000 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,201 → 4,462"
+  },
+  {
+   "label": "Crew training",
+   "value": "270,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "100 / 320 / 500 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "295,400"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "3,300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEF-I/API-T/AP-I/SAPHEI",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF-I/HEF-I/API-T/HEF-I/HEF-I/AP-I",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF-I/AP-I/AP-I/SAPHEI",
+   "penetration": [
+    "40",
+    "36",
+    "21",
+    "11",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "SAPHEI",
+   "penetration": [
+    "37",
+    "33",
+    "20",
+    "11",
+    "6",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

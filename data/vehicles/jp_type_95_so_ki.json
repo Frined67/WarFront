@@ -1,0 +1,118 @@
+{
+ "id": "jp_type_95_so_ki",
+ "wiki": "https://wiki.warthunder.com/unit/jp_type_95_so_ki",
+ "name": "So-Ki",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "3.0",
+  "SB": "3.0"
+ },
+ "description": "The Experimental Anti-Air So-Ki was a further development of anti-air mechanization for Japan as the idea for it wasn't completely abandoned. While the previous Ta-Se wasn't adopted into service due to lower accuracy, crew comfort, and in turn, difficulty maintaining a high fire rate, the So-Ki would go a step further to fix these issues. The Ke-Ni was once again chosen as a chassis and instead of an enclosed turret with a singular gun, the So-Ki design was opted to carry 2 x Type 2 20 mm cannons packing more volume of fire and only offering a gunshield to decrease the weight of the gun traverse and less cramping of the gunner. The So-Ki was introduced along with the initial Japanese Ground Forces tree in Update 1.65 \"Way of the Samurai\" . This anti-aircraft vehicle features dual 20 mm Type 98 cannons which have high-velocity rounds and good traverse. The tank is quite fast, being built on the chassis of the Type 98 Ke-Ni . Players can use it as a scout by shooting other tanks and marking them on the map, but the primary role of the design is defending the team against aircraft. This tank performs decently at its BR and with a good commander, it can be competitive against aircraft even into higher tiers.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_type_95_so_ki.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "16 / 12 / 10 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "74 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "50"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "18.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "520 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "300 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 85°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "28"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,037 → 1,335"
+  },
+  {
+   "label": "Crew training",
+   "value": "9,200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "70 / 70 / 100 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "13,960"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "860"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/HEFI-T/HEFI-T",
+   "penetration": [
+    "48",
+    "45",
+    "35",
+    "26",
+    "19",
+    "14"
+   ]
+  },
+  {
+   "name": "Type 100 HE-T",
+   "type": "HEFI-T",
+   "penetration": [
+    "6",
+    "5",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Type 100 AP-T",
+   "type": "API-T",
+   "penetration": [
+    "48",
+    "45",
+    "35",
+    "26",
+    "19",
+    "14"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

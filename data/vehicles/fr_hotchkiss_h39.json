@@ -1,0 +1,116 @@
+{
+ "id": "fr_hotchkiss_h39",
+ "wiki": "https://wiki.warthunder.com/unit/fr_hotchkiss_h39",
+ "name": "H.39",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The Char léger modèle 1935 (Hotchkiss) H modifié 39 is a heavily upgraded Char léger modèle 1935 (Hotchkiss) H cavalry tank from 1939. Since cavalry units sought a faster tank, it was decided in October 1936 to modernize its current tanks by installing a more powerful engine. In 1937, a new prototype with a 120 hp engine was created in place of the 78 hp engine. The hull was stretched to provide enough space to accommodate it, resulting in a taller, nearly level engine deck. Aside from episcopes, tails, and various radio sets, this included the gradual introduction of a larger 37 mm SA38 L/35 tank gun with much improved anti-tank capabilities, providing 30 mm of armour penetration at 1 km. Introduced in Update 1.75 \"La Résistance\" , the Char léger modèle 1935 (Hotchkiss) H modifié 39 is vastly improved over its predecessor. It has a slightly superior main armament, thicker armour overall, and a substantially more powerful engine, which makes it surprisingly fast on flat ground. Nonetheless, as compared to adversaries from other nations, this vehicle remains below average. While it travels quickly in a straight line, it goes slowly over muddy terrain, and its narrow tracks considerably slow it cross-country. It is best employed as a close support tank in urban environments, following teammates while waiting for a good firing opportunity at the enemy.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_hotchkiss_h39.png",
+ "weapons": [
+  "7.5 mm MAC 31 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "40 / 40 / 40 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "74 %"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "36"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "9.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "100 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-16 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,400 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "550 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 10 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "3,620"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Mle1938",
+   "type": "APC",
+   "penetration": [
+    "54",
+    "50",
+    "36",
+    "24",
+    "16",
+    "11"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

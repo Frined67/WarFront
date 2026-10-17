@@ -1,0 +1,165 @@
+{
+ "id": "germ_pzkpfw_iv_ausf_e",
+ "wiki": "https://wiki.warthunder.com/unit/germ_pzkpfw_iv_ausf_e",
+ "name": "Pz.IV E",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "I",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The Panzerkampfwagen IV Ausführung E (Panzer IV E) (Sd.Kfz. Index: Sd.Kfz. 161 ) is the fifth variant of the Panzerkampfwagen IV medium tank family. Following the victory in Poland, the German Army ordered additional Panzer IV vehicles. This resulted in the Panzer IV E, which was essentially a slightly modified Panzer IV D variant. The structural framework of the Panzer IV E was identical to that of the earlier Panzer IV D. One of the few alterations was the addition of a new driver's visor. Another change was the replacement of the hatch door hinge design, which improved protection. The Panzer IV E's turret design was mostly unchanged from the preceding Panzer IV D variant. The commander's cupola was modified and reinforced. It had five vision ports, each of which was shielded by two sliding armoured coverings. In addition, the command cupola bulge that protruded from the rear armour plate was removed from the rear half of the turret. A fume ventilator and a modification of the signal port's protective cap shape were also added. From March 1941, all Panzer IV E vehicles would be equipped with a storage bin on the rear of the turret. By the end of the production phase in April 1941, approximately 200 complete tanks had been constructed. Introduced in Update 1.45 \"Steel Generals\" , the Panzer IV E was a continuation of the Panzer IV medium tank family. While the Panzer IV E is capable of fighting more advanced adversaries thanks to increased protection and new HEAT ammunition, it is still largely similar to the previous Panzer IV C, and thus has similar gameplay.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_pzkpfw_iv_ausf_e.png",
+ "weapons": [
+  "75 mm KwK37 cannon",
+  "7.92 mm MG34 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 20 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "98 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "43"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "14.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "80 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.3 → 3.3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,700 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "300 → 409"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 30 / 30 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "K.Gr.rot Pz.",
+   "type": "APCBC",
+   "penetration": [
+    "52",
+    "51",
+    "45",
+    "39",
+    "34",
+    "30"
+   ]
+  },
+  {
+   "name": "Sprgr. 34",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "Hl.Gr 38B",
+   "type": "HEAT",
+   "penetration": [
+    "80",
+    "80",
+    "80",
+    "80",
+    "80",
+    "80"
+   ]
+  },
+  {
+   "name": "Hl.Gr 38C",
+   "type": "HEAT",
+   "penetration": [
+    "115",
+    "115",
+    "115",
+    "115",
+    "115",
+    "115"
+   ]
+  },
+  {
+   "name": "K.Gr.Rot Nb.",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,250 @@
+{
+ "id": "re_2002_early",
+ "wiki": "https://wiki.warthunder.com/unit/re_2002_early",
+ "name": "Re.2002 Early",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The Re.2002 \"Ariete II\" was a further development of the Re.2001 concept and was intended for assault operations and aviation support. This aircraft had a Piaggio P.XIX RC.45 Turbine B engine, which was better suited for low altitudes and more resistant to damage than the German DB 601A engine. In addition to the new engine, the wing spar system was modified, a forced cooling fan was installed, and a pylon for larger-caliber bombs was added. Despite the loss of visibility and the rather capricious engine, which would simply stall or vibrate heavily, the aircraft proved to be highly versatile. Initially intended as an interceptor and ground attack aircraft, variants soon emerged for torpedo bombers, photo reconnaissance aircraft, air defense aircraft, and long-range bomber interceptors. However, development of the aircraft was delayed until March 1941, as was the start of mass production. Part of the production capacity was occupied with developing the P.108 and repairing the Re.2000 , which could not be repaired on site. Consequently, although many machines were produced, they were delivered late to the troops, leaving no time to address the initial issues. After Italy's surrender on September 9, 1944, the fascist government in the breakaway Republic of Salò did not order new aircraft but \"urgently requested\" that the remaining 56 aircraft be completed with a more powerful BMW-801 engine. Clearly, this plan failed; the Focke-Wulf engine simply did not fit under the cowling of the small fighter. Therefore, either the DB-601A or the remains of the original Italian engines were installed. The remaining Re.2002s were used by partisans to continue liberating Italy or were sent by the Germans to France to fight resistance in the south. The Re.2002 Early was introduced in Update 1.89 \"Imperial Navy\" . It is a decent early fighter-bomber capable of effectively fighting enemy aircraft and ground forces. Its main advantages are its maneuverability, two powerful, large-caliber machine guns in front of the cockpit, the ability to carry suspended weapons, and its durable engine. Disadvantages include weak armor, mediocre survivability with frequent fires, and a low maximum speed.",
+ "image": "https://static.encyclopedia.warthunder.com/images/re_2002_early.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "530"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "12.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "19"
+  },
+  {
+   "label": "Max altitude",
+   "value": "11,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "150 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "P.XIX. R.C. 45"
+  },
+  {
+   "label": "Length",
+   "value": "8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "160 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.78"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.44 t (1h 33m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "740 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.85 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 429 / 458 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "840"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,260 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "660 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "155 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "449 → 611"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 80 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,430"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP-I/HEF/API-T/I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/HEF/HEF",
+   "penetration": [
+    "20",
+    "18",
+    "11",
+    "6",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T",
+   "penetration": [
+    "5",
+    "4",
+    "2",
+    "1",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/AP/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

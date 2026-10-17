@@ -1,0 +1,190 @@
+{
+ "id": "p-51k",
+ "wiki": "https://wiki.warthunder.com/unit/p-51k",
+ "name": "␗P-51K",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "III",
+ "br": {
+  "AB": "4.7",
+  "RB": "5.0",
+  "SB": "5.3"
+ },
+ "description": "The P-51K (China) , colloquially known as 野馬機 in Chinese, was the version of P-51D series produced in Dallas, TX by North American Aviation with a 4-bladed propeller from different supplier. Due to the hollow blades that caused fatal in-flight problems, notably propeller vibration, most of these aircrafts were aided to allied countries including the Nationalist forces as a cheap yet potent fighters (or more precisely, Pursuer). These aircrafts were supplied to ROCAF by the mid-1940s as aids for them; by the time of late Civil War, the soon-to-be PLAAF also acquired some of these aircrafts from defected pilots or captured at airfields. While the ROCAF Mustangs later retreated to Taiwan Island after the major losses at Mainland China and soon phrased-out by jet fighters as soon as the Korean War started, PLAAF Mustangs were also known for flew twice during the parade at the establishment of PRC and one of these pilots, Lin Hu (林虎, 1927/12/26-2018/3/3) later became a commander of PLAAF and later a political commissar in 1990s. As \"new\" Soviet Lavochkin fighters were imported and later MiG jet fighters joined PLAAF, they were soon phrased out as well and leaving only 2 examples in Mainland China where both of them are in Beijing at present. It was introduced in Update 1.91 \"Night Vision\" one of the fighters on the Chinese aviation tech-tree at the ROCAF line, the P-51K looks much like the prior ROCAF P-51D-20 . The main external difference is the unique Aeroproducts propeller with thinner blades. It flies identically to the American P-51D-30 and the higher engine boost compared to the P-51D-20 improves the performance greatly. While it does have its quirks, the P-51K is one of the finest ROCAF propeller fighters and offers a good stepping stone to the jet age, marked by the succeeding ROCAF F-86F-30 .",
+ "image": "https://static.encyclopedia.warthunder.com/images/p-51k.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "721"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "22.7"
+  },
+  {
+   "label": "Turn time",
+   "value": "20"
+  },
+  {
+   "label": "Max altitude",
+   "value": "12,700 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "396 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "V-1650-7"
+  },
+  {
+   "label": "Length",
+   "value": "9.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.3 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "202 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.76"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.74 t (1h 45m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "910 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.85 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "265 / 513 / 644 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "281 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,880"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,510 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "755 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,115 → 1,472"
+  },
+  {
+   "label": "Crew training",
+   "value": "30,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "70 / 160 / 330 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "29,900"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,200"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/AP/AP/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/API-T/I/I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "API-T/I/AP/AP/AP-I/AP-I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/I/AP-I/I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

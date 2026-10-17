@@ -1,0 +1,222 @@
+{
+ "id": "d_500",
+ "wiki": "https://wiki.warthunder.com/unit/d_500",
+ "name": "D.500",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The D.500 was the replacement for the NiD-62 fighters that were still in operational service with France in the early 1930s. The French Air Ministry issued a new order for a fighter capable of replacing the aging NiD-62; an all-metal interceptor was developed, becoming the D.500. The aircraft was adopted in 1935, and it was a very competent fighter for its time, but it was quickly surpassed by superior designs such as the M.S.406 . The aircraft never saw combat in the Battle of France and was directly succeeded by the D.520 . The D.500 was introduced in Update 1.73 \"Vive la France\" . When playing Simulator Battles (or Arcade and Realistic Battles in cockpit view), this aircraft offers excellent visibility, really limiting visibility only where the wings protrude out of the fuselage. This aircraft boasts 1,200 rounds of ammunition split between four machine guns which can inflict severe damage, especially when gun convergence is between 150 and 350 m.",
+ "image": "https://static.encyclopedia.warthunder.com/images/d_500.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "366"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "12.5"
+  },
+  {
+   "label": "Turn time",
+   "value": "15"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "150 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "12Xgrs"
+  },
+  {
+   "label": "Length",
+   "value": "7.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12.1 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "106 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.53"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.21 t (1h 13m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "576 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.67 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/13 G"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,350 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,350 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "3,270"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

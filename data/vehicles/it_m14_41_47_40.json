@@ -1,0 +1,190 @@
+{
+ "id": "it_m14_41_47_40",
+ "wiki": "https://wiki.warthunder.com/unit/it_m14_41_47_40",
+ "name": "M14/41 (47/40)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The Fiat-Ansaldo M14/41 (47/40) was an experimental variant of the Italian M14/41 medium tank. Built as a one-off during World War II, this vehicle replaced the 47/32 gun with an extended 40-caliber version identical to that on the M15/42 . Another difference is that two 8-mm Breda Model 31 machine guns were replaced with a single 13.2-mm Breda Model 38 machine gun, similar to the commander’s version. These modifications increased the tank’s firepower against armored vehicles and its effectiveness against infantry. Previously, only commander’s tanks and tankettes had this combination of capabilities. In the 1950s, an M14/41 with an extended 47-mm gun was found near Milan, but nothing is known about its combat service or subsequent fate. The M14/41 (47/40) was introduced in Update 1.99.1 \"Regina Marina\" . Despite its medium tank status, its weight and weak hull armor place it more firmly in the light tank category. Furthermore, the M14/41 has mediocre mobility on soft terrain due to its small tracks. However, the new 47mm gun has greater penetration than its predecessor, the 13.2mm machine gun is useful against lightly armored vehicles, and the turret has fairly good armor.",
+ "image": "https://static.encyclopedia.warthunder.com/images/it_m14_41_47_40.png",
+ "weapons": [
+  "13.2 mm Breda Mod.31 machine gun",
+  "8 mm Breda Mod. 38 machine gun",
+  "8 mm Breda Mod. 38 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "30 / 25 / 25 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "82 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "33"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "11"
+  },
+  {
+   "label": "Ammunition",
+   "value": "87 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.8 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "300 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "450 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-8 / 20°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-10 / 10°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "21"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,424 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "288 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "857"
+  },
+  {
+   "label": "Crew training",
+   "value": "2,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (35 / 40 / 115) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Granata mod.35",
+   "type": "HE",
+   "penetration": [
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "Granata Perforante mod.39",
+   "type": "APHE",
+   "penetration": [
+    "62",
+    "61",
+    "53",
+    "46",
+    "39",
+    "33"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP-T",
+   "penetration": [
+    "28",
+    "25",
+    "16",
+    "10",
+    "6",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

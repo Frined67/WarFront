@@ -1,0 +1,118 @@
+{
+ "id": "jp_type_5_na_to",
+ "wiki": "https://wiki.warthunder.com/unit/jp_type_5_na_to",
+ "name": "Na-To",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "III",
+ "br": {
+  "AB": "3.3",
+  "RB": "3.3",
+  "SB": "3.3"
+ },
+ "description": "The Na-To was a tank destroyer and testbed for theType 5 75 mm Cannon on the hull of the Type 4 Chi-So armoured tracked carrier. Although the IJA ordered them into production, barely any were completed before the end of the war. The Type 5 Na-To was introduced along with the initial Japanese Ground Forces tree in Update 1.65 \"Way of the Samurai\" . It is a rather traditional tank destroyer of a simple vehicle chassis with a gun pasted on top. It is highly vulnerable to many battlefield weapons due to its weak overall armour, but if it can get the jump on an enemy, it can wreak havoc. Thus, one should not play the Na-To as a front-line weapon but as a sniper far back behind the front lines. This will ensure the Na-To will not become a priority target and also to maximize the gun's long-range capacity to take out targets. Watch frequently traveled roads and choke points for enemy, then blast them away before retreating to reload in case they are still active after the first shot.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_type_5_na_to.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "12 / 12 / 4 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "40"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12"
+  },
+  {
+   "label": "Ammunition",
+   "value": "40 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.6 → 5.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-20 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "4.2"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,042 → 1,289"
+  },
+  {
+   "label": "Crew training",
+   "value": "13,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "70 / 110 / 140 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "19,850"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "980"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Type 1 APHE",
+   "type": "APHE",
+   "penetration": [
+    "144",
+    "141",
+    "128",
+    "114",
+    "102",
+    "90"
+   ]
+  },
+  {
+   "name": "Type 4 APCR",
+   "type": "APCR",
+   "penetration": [
+    "177",
+    "175",
+    "151",
+    "127",
+    "108",
+    "91"
+   ]
+  },
+  {
+   "name": "Type 90 HE",
+   "type": "HE",
+   "penetration": [
+    "17",
+    "17",
+    "15",
+    "14",
+    "12",
+    "11"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

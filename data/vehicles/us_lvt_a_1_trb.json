@@ -1,0 +1,165 @@
+{
+ "id": "us_lvt_a_1_trb",
+ "wiki": "https://wiki.warthunder.com/unit/us_lvt_a_1_trb",
+ "name": "○LVT(A)(1)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The LVT(A)(1) is an American amphibious assault vehicle developed by FMC in the early 1940s. It was a modernized version of the LVT-2 with a slightly modified turret from the M3 Stuart light tank being the main difference. The LVT(A)(1) entered service in late 1943 and was produced from December 1943 until late 1944, with a total of 510 vehicles built. The U.S. Army and Marine Corps actively used this amphibious tank during World War II for amphibious assaults on Japanese-occupied islands. A special version of the LVT(A)(1) with a unique camouflage was introduced in 2023 as a reward for following TheRussianBadger’s partner link. The vehicle combines excellent survivability with a powerful gun that reloads quickly and has decent penetration. However, it has some weaknesses, including limited armor and a huge silhouette that makes it difficult to conceal. Nevertheless, the LVT(A)(1) is a versatile tank capable of effectively executing both aggressive and passive combat tactics.",
+ "image": "https://static.encyclopedia.warthunder.com/images/us_lvt_a_1_trb.png",
+ "weapons": [
+  "37 mm M6 cannon",
+  "7.62 mm M1919A4 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "12 / 6 / 6 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "132 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "40"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "104 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.7 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "6,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 40°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "106 → 136"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M74B1 shot",
+   "type": "AP",
+   "penetration": [
+    "79",
+    "76",
+    "65",
+    "54",
+    "45",
+    "37"
+   ]
+  },
+  {
+   "name": "M51B1 shot",
+   "type": "APCBC",
+   "penetration": [
+    "87",
+    "84",
+    "73",
+    "60",
+    "50",
+    "41"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

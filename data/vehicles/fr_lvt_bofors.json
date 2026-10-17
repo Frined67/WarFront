@@ -1,0 +1,136 @@
+{
+ "id": "fr_lvt_bofors",
+ "wiki": "https://wiki.warthunder.com/unit/fr_lvt_bofors",
+ "name": "LVT-4/40",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "II",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "3.7"
+ },
+ "description": "After the end of WWII, France used its relatively large stockpile of US military vehicles obtained through aid to rebuild its military until domestic vehicles could be produced. The LVT series of amphibious armoured vehicles was part of the vehicles sent to France as military aid by the US. France used this vehicle, modified with a 40 mm Bofors autocannon that proved to be more effective against enemies in Indochina than the original 37 mm cannons with its superior firepower and fire rate. It was introduced during Update \"Direct Hit\" as a reward for Battle Pass: Season V, \"River Hunter\" . With access to a 40 mm Bofors cannon, its firepower is much better when compared to the original LVT-4. The survivability however, is rather poor, being placed at a much higher BR than the original LVT-4, the vehicle is not well armoured at all and can be penetrated by autocannon fire, it might be able to resist under fire for some time, but this is due to its large crew.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_lvt_bofors.png",
+ "weapons": [
+  "40 mm Bofors L/60 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "12 / 6 / 6 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "132 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "40"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "14.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "384 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "0.6 → 0.5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "120 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-3 / 87°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "24.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,400 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "886"
+  },
+  {
+   "label": "Crew training",
+   "value": "2,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (35 / 35 / 75) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/FI-T",
+   "penetration": [
+    "72",
+    "69",
+    "58",
+    "46",
+    "37",
+    "29"
+   ]
+  },
+  {
+   "name": "40 mm Mk.II",
+   "type": "FI-T",
+   "penetration": [
+    "9",
+    "8",
+    "7",
+    "6",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "40 mm M81A1",
+   "type": "AP-T",
+   "penetration": [
+    "72",
+    "69",
+    "58",
+    "46",
+    "37",
+    "29"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

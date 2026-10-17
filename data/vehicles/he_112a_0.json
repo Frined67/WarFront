@@ -1,0 +1,172 @@
+{
+ "id": "he_112a_0",
+ "wiki": "https://wiki.warthunder.com/unit/he_112a_0",
+ "name": "He 112 A-0",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The Heinkel He 112 was the main competitor to the Bf 109 in the race to become the Luftwaffe’s primary production fighter. Despite successful trials in Spain, where He 112 pilots supported the Nationalists as part of the Condor Legion, the Bf 109 ultimately took the lead — primarily because Messerschmitt’s design was cheaper and simpler to produce. Although the Heinkel was aerodynamically superior and required only a new engine to reach its full potential, the Bf 109 entered production first, and all new engines were reserved for it. As a result, the He 112 was effectively “put on the back burner”. However, Ernst Heinkel continued to refine his creation, and eventually several aircraft were exported to Romania and Hungary. The aircraft also attracted Japanese interest, and four units were sent to Japan for testing . Only the Romanian He 112s saw active combat, but due to their use primarily as ground-attack aircraft, their effectiveness was low and losses were high. The V6/A-0 variant was experimental, bridging the “V” prototypes and the “B” production series. A single aircraft was built in 1936, armed with a 20 mm Rheinmetall-Borsig MG C/30L cannon mounted in the engine V-block, firing through the hollow propeller shaft. The experiment was a success, and the aircraft was sent to Spain for trials, where pilots achieved impressive results in ground-attack missions, even destroying an entire armoured train. The cannon-armed He 112 operated successfully in Spain for about six months, until a landing accident destroyed the aircraft. The He 112 A-0 has been in the game since the start of the Open Beta Test, prior to Update 1.27. It is an extremely versatile aircraft with powerful and accurate armament. The He 112 A-0 (or “Kanonenflieger”) is a sturdy fighter capable of sustaining serious damage. It can dive away from almost any opponent without breaking apart at high speed. It retains good horizontal manoeuvrability compared to earlier versions. Its 20 mm cannon has excellent ballistics, allowing effective long-range fire against both air and ground targets, depending on the ammunition belts selected. The fighter excels particularly in ground-attack roles during combined battles.",
+ "image": "https://static.encyclopedia.warthunder.com/images/he_112a_0.png",
+ "weapons": [
+  "20 mm MG C/30L cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "473"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "11.1"
+  },
+  {
+   "label": "Turn time",
+   "value": "17"
+  },
+  {
+   "label": "Max altitude",
+   "value": "7,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "350 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Jumo 210С"
+  },
+  {
+   "label": "Length",
+   "value": "8.9 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "103 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.03"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.2 t (1h 20m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "680 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "270 / 382 / 403 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "300 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "100 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "325 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.67 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "179 → 221"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 30 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/HEFI-T/HEFI-T/HEFI-T",
+   "penetration": [
+    "37",
+    "35",
+    "27",
+    "19",
+    "14",
+    "10"
+   ]
+  },
+  {
+   "name": "API-T",
+   "type": "API-T",
+   "penetration": [
+    "37",
+    "35",
+    "27",
+    "19",
+    "14",
+    "10"
+   ]
+  },
+  {
+   "name": "HEFI-T",
+   "type": "HEFI-T",
+   "penetration": [
+    "5",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "HEFI-T/API-T",
+   "penetration": [
+    "37",
+    "35",
+    "27",
+    "19",
+    "14",
+    "10"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

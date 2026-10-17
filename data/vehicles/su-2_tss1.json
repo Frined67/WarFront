@@ -1,0 +1,226 @@
+{
+ "id": "su-2_tss1",
+ "wiki": "https://wiki.warthunder.com/unit/su-2_tss1",
+ "name": "Su-2 TSS-1",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "The Su-2 (or the BB-1) was a Soviet light bomber that served with the Red Army Air Force during World War II. Originally designed as a bomber, its primary frontline duties shifted to artillery spotting and dropping propaganda leaflets over enemy-occupied cities from 1942 onward. Serial production lasted from December 1940 to February 1942, during which time a total of 893 aircraft were built. Continuous repairs and restoration of damaged airframes allowed the Su-2 to remain in combat service until January 1944. Following a review of the aircraft's offensive armament by the Defense Committee in September 1940, the BB-1's forward-firing armament was reduced from four ShKAS machine guns to two. In spring 1941, the aircraft's flight performance was attempted to be improved by replacing the bulky MV-5 turret with the lighter TSS-1 turret. Although the TSS-1 failed its trials due to its limited firing arc and poor gun handling, it nevertheless entered production. By May 1941, 250 Su-2 aircraft with the TSS-1 turret had been built before production halted at the Air Force Research Institute's request. The Su-2 TSS-1 has been in the game since the beginning of the Open Beta Test prior to Update 1.27. The aircraft is well suited for attacking ground targets with bombs and rockets. However, it is more difficult to engage enemy aircraft due to its reduced volume of fire. It carries only two wing-mounted ShKAS machine guns instead of four. Additionally, the TSS-1 defensive turret has inferior firing angles compared to other Su-2 variants. While these changes slightly improved the aircraft's flight performance, engagements with enemy fighters should still be approached with caution as this version lacks the rear fuselage armor protection found on the Su-2 with the MV-5 turret .",
+ "image": "https://static.encyclopedia.warthunder.com/images/su-2_tss1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "512"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "8.9"
+  },
+  {
+   "label": "Turn time",
+   "value": "25"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,120 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "368 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "M-88"
+  },
+  {
+   "label": "Length",
+   "value": "10.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "14.3 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "130 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.2"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.56 t (2h 2m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "541 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.67 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/9 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "340 / 340 / 395 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "350 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,700 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,245 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "510 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "238 → 322"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 40 / 100 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,920"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AI/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-I/AP-I/AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "API-T/API-T/API-T/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

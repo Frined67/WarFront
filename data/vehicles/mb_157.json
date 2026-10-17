@@ -1,0 +1,182 @@
+{
+ "id": "mb_157",
+ "wiki": "https://wiki.warthunder.com/unit/mb_157",
+ "name": "M.B.157",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "III",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "3.3"
+ },
+ "description": "The Bloch M.B.150 series was a single seat, all-metal low-wing monoplane fighter featuring a fully enclosed cockpit and retractable landing gear, a very revolutionary design for the French Air Force at the time of its development in 1934. The development was hampered by operational problems during its development. In 1938, 25 preproduction aircraft were ordered. With further testing, improved versions like the 151 and 152 entered service at the outbreak of WWII, powered by 920 hp and 1,050 hp engines respectively. The M.B.157 was a prototype further development of the M.B.152, featuring an even more powerful 1,590 hp engine; however, only one prototype was built and it never saw service. It was introduced in Update 1.73 \"Vive la France\" . The M.B.157 is a solid fighter, well suited for boom and zoom tactics. It has an average climb rate but a powerful engine that allows good top speed in level flight, side climbing is recommended at the start of the match. It can quickly dive into unsuspected enemies from above and engage in dogfights if necessary, since it is a nimble fighter, it will be able to keep up and outperform other fighters in the hands of a good pilot. Since it has a small ammo pool, trigger discipline is required for the greatest efficiency.",
+ "image": "https://static.encyclopedia.warthunder.com/images/mb_157.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "712"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "14.1"
+  },
+  {
+   "label": "Turn time",
+   "value": "19"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "650 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "14R"
+  },
+  {
+   "label": "Length",
+   "value": "9.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.7 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "190 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.81"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.35 t (1h 23m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "810 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.81 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -9/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "270 / 419 / 448 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "340 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "240 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.45 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "897 → 1,127"
+  },
+  {
+   "label": "Crew training",
+   "value": "13,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "60 / 130 / 270 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "19,800"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "980"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "PT/HEI/AP/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/AP-T/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP/AP-T/HEI/AP-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

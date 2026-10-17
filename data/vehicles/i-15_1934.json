@@ -1,0 +1,166 @@
+{
+ "id": "i-15_1934",
+ "wiki": "https://wiki.warthunder.com/unit/i-15_1934",
+ "name": "I-15 WR",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The I-15 WR is a Soviet fighter. It has been in the game since the start of the Open Beta Test prior to Update 1.27. The I-15 WR is a single-engine fighter developed by the OKB Polikarpov as the I-15 (TsKB-3), first released in 1934 which featured a biplane mixed design with a gull-type upper wing, open cockpit and non-retractable landing gear. The I-15 WR fighter was developed at the Central Design Bureau under the direction of N. N. Polikarpov. This aircraft was a further development and refinement of the existing I-5 and I-6 fighters. The main task of the designers when creating the I-15 WR was to improve aerodynamics without significant changes to the overall size of the aircraft. The first prototype first flew in October 1934 under the direction of test pilot V. P. Chkalov. This aircraft had an American 9-cylinder star-shaped, air-cooled engine Wright Cyclone SGR-1820-F-3 installed which had a take-off capacity of 715 litres. Preparations for mass production of the I-15 began even before the completion of flight tests. The first serial fighter of its type, the I-15, was built at aircraft factory No. 39 the summer of 1934. The initial armament of this fighter series consisted of two 7.62 mm synchronized PV-1 machine guns (\"Aircraft machine gun\" - a version of Maxim machine gun designed for installation on aeroplanes) with 750 rounds of ammunition per barrel. Cartridges loaded into ammunition belts and were housed in the central part of the fuselage just behind the gas tank. Provisions were made to also collect the spent ammunition casings. Aiming the machine guns was carried out using an optical sight OP-1 (a variant of the British \"Aldis\"), which was placed on the edge of the pilot's visor. In the event the optical sight failed, a backup mechanical ring sight, the KP-5 was attached to the telescopic sight tube. Under the lower wing, four Der-32 bomb racks could be installed for small-calibre bombs with a total mass of up to 40 kg (4 x P-7, or 4 x AO-8, or 4 x AO-10), however, two 50 kg FAB-50 bombs could be taken as maximum payload as is the option here in War Thunder. Total aircraft production in 1934, between the two Moscow Aviation Manufacturing Plants, No. 1 and No. 39 produced 94 I-15 fighters. The first batch of 50 aircraft featured the American SGR-1820-F-3 engines installed as manufactured, however, after April 1934 the rest of the Wright Cyclone engines underwent alterations and improvements at the request of Soviet engineers in which particular changes were made especially to the machine gun synchronization mechanism installed on the engine.",
+ "image": "https://static.encyclopedia.warthunder.com/images/i-15_1934.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "368"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "13.4"
+  },
+  {
+   "label": "Turn time",
+   "value": "8"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,200 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "125 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "SGR-1820 F-3"
+  },
+  {
+   "label": "Length",
+   "value": "6.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "57 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.18"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.16 t (50m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "560 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,200"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.12 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/AP-I/AI/AI/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP-I/AI/AI/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/AP-I/AI/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

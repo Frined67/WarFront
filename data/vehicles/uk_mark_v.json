@@ -1,0 +1,142 @@
+{
+ "id": "uk_mark_v",
+ "wiki": "https://wiki.warthunder.com/unit/uk_mark_v",
+ "name": "Mark V",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The British heavy tank was a series of tanks developed by the United Kingdom during World War I. These vehicles were designed by the Landship Committee, formed in 1915 by the then First Lord of the Admiralty, Winston Churchill, to develop a vehicle capable of breaking the stalemate of trench warfare. The resulting vehicle was called a \"tank\" initially for secrecy's sake, and this name was later adopted to refer to a new type of weapon. The first tank to enter service, the Mark I, heralded the era of armoured combat when it made its debut at the Battle of Flers–Courcelette on 15 September 1916. Following this, the Mark I spawned several successive variants, with the Mark IV (an uparmoured Mark I) being the most produced variant at 1,220 vehicles. The Mark V was an improved variant of the Mark IV heavy tank developed in late 1917. The Mark V featured several improvements, such as a new steering system and transmissions as well as a more powerful engine, although it retained the poor ventilation system from its predecessor, leading to carbon monoxide poisoning for the crew. As with the Mark IV, the Mark V came in two variants: the \"male\" version, armed with two 57 mm cannons and three 8 mm machine guns; and the \"female\" version, armed exclusively with five 8 mm machine guns. The Mark V saw service during the final years of World War I as well as in the Allied intervention in the Russian Civil War. In total, 400 Mark V tanks were built. The Mark V was introduced as one of the rewards of the 2025 “The Great War” event . Much like its contemporaries, the Mark V suffers from a lack of mobility and armour. Despite the lack of armour, its size and dispersed seven-man crew can sometimes increase its chances of survival. While its 57 mm gun offers limited penetration, the Mark V can perform well in close-quarters combat thanks to its sponson gun placement. However, the tank is highly vulnerable to precise shots aimed at its rear ammo rack, as well as to HE shells and bombs.",
+ "image": "https://static.encyclopedia.warthunder.com/images/uk_mark_v.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "16 / 12 / 12 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "81 %"
+  },
+  {
+   "label": "Crew",
+   "value": "8 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "8"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "282 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-6 / 12°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "0 / 105°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "10.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "6,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "450 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 10°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-45 / 45°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "42"
+  },
+  {
+   "label": "Repair cost",
+   "value": "127 → 163"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "QF AP",
+   "type": "APHE",
+   "penetration": [
+    "37",
+    "36",
+    "29",
+    "23",
+    "18",
+    "14"
+   ]
+  },
+  {
+   "name": "QF HE",
+   "type": "HE",
+   "penetration": [
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

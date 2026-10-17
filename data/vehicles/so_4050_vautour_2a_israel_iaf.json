@@ -1,0 +1,178 @@
+{
+ "id": "so_4050_vautour_2a_israel_iaf",
+ "wiki": "https://wiki.warthunder.com/unit/so_4050_vautour_2a_israel_iaf",
+ "name": "Vautour IIA",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "VI",
+ "br": {
+  "AB": "9.7",
+  "RB": "8.7",
+  "SB": "8.0"
+ },
+ "description": "The Vautour IIA was a jet-powered attack aircraft designed by France during the 1950s. It was operated by Israel alongside the IIN variant. Armed with cannons and rockets, it was used in aerial reconnaissance duties but had the capabilities to perform Close Air Support missions thanks to its large amount of anti-ground ordnance. Introduced in Update \"Winged Lions\" , the Vautour IIA has very good flight performance compared to most bombers. The engines of the Vautour can beat most subsonic jets, both in top speed and acceleration. The aircraft has decent manoeuvrability for a bomber, and since it lacks any way to guide bombs precisely to its destination it's better used in low level attacks, flying close to the ground and dropping the bombs close to the target. These can be dangerous but is the most effective way to destroy enemy bases and ground units.",
+ "image": "https://static.encyclopedia.warthunder.com/images/so_4050_vautour_2a_israel_iaf.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "1,100"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "52"
+  },
+  {
+   "label": "Turn time",
+   "value": "32"
+  },
+  {
+   "label": "Max altitude",
+   "value": "15,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "900 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Atar 101E3"
+  },
+  {
+   "label": "Length",
+   "value": "17.6 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "15.1 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "318 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "11.12"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "3.18 t (27m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "1,166 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "1.1 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/8 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "463 / 565 / 585 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "425 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "400 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "5.03 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "4,400 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "1,500 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,811 → 3,820"
+  },
+  {
+   "label": "Crew training",
+   "value": "120,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "100 / 260 / 600 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "128,600"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,400"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/HEI/HEF",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "HEI/API-T/API-T/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF/HEI/HEF/HEI/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF/HEI",
+   "penetration": [
+    "4",
+    "4",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

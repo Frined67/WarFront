@@ -1,0 +1,178 @@
+{
+ "id": "kfir_c7",
+ "wiki": "https://wiki.warthunder.com/unit/kfir_c7",
+ "name": "Kfir C.7",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "VII",
+ "br": {
+  "AB": "12.0",
+  "RB": "12.0",
+  "SB": "11.3"
+ },
+ "description": "The IAI Kfir entered service in 1975, but it was soon relegated to second line service after being replaced by more modern F-15s and F-16s in very few years. The C.7 variant was the third and most advanced of the Kfir. The aircraft featured larger canards in the front of the wings and carried a stronger version of the J79 engine that could help it take off with a heavier payload. Compared to previous variants it also fitted more hardpoints for missiles or ground ordnance, like bombs or gun pods. Despite being an air superiority fighter, it only scored a single aerial kill, due to being overshadowed by 4th generation fighters, this kill occurred in 1993 during Operation Accountability, after which it was gradually removed from service. However, an export version was sold to Colombia, Ecuador and Sri Lanka. After that, it saw service in the Sri Lankan Civil War (1983-2009) after being introduced in 1996. Introduced in Update \"Winged Lions\" , the Kfir's weapons leave something to be desired, reflecting its real-life usage as a basic fighter-bomber. It can carry an impressive payload of bombs and rockets. Its best dogfight missile is the Python 3, which is one of the most agile missiles in-game, it's also extremely quick to accelerate. However, the Kfir C.7 doesn't have access to any SARH missiles, limiting its BVR capability, and also lacks a proper radar (having only a radar rangefinder, linked to its gunsight). It also does not have guided air-to-ground weapons used by the Kurnass 2000 . Thus, the Kfir requires a skilled pilot to take advantage of its excellent performance and IR missiles to win engagements. However, for its BR, it excels in its flight performance, it accelerates very rapidly, faster than MiG-21s and even 4th generation fighters like the F-16C and MiG-29SMT. Its DEFA 30 mm cannons have very good damage output, and are also rather easy to aim; they have a low fire rate, but this also means that their trigger time is higher than other 30 mm cannons.",
+ "image": "https://static.encyclopedia.warthunder.com/images/kfir_c7.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "2,390"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "225"
+  },
+  {
+   "label": "Turn time",
+   "value": "27"
+  },
+  {
+   "label": "Max altitude",
+   "value": "16,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "750 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "J79-GE-J1E"
+  },
+  {
+   "label": "Length",
+   "value": "15 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "8.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "288 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "7.39"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "2.52 t (30m)"
+  },
+  {
+   "label": "Fuel in drop tanks",
+   "value": "0.71 t (8m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "1,460 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "2.5 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/12 G"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "500 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "280 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "5.03 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "5,775 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "1,751 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,006 → 4,043"
+  },
+  {
+   "label": "Crew training",
+   "value": "200,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "100 / 320 / 600 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "217,000"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "3,000"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/HEI/HEF",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "HEI/API-T/API-T/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF/HEI/HEF/HEI/API-T",
+   "penetration": [
+    "35",
+    "32",
+    "21",
+    "13",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF/HEI",
+   "penetration": [
+    "4",
+    "4",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

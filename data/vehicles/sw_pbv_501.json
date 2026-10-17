@@ -1,0 +1,128 @@
+{
+ "id": "sw_pbv_501",
+ "wiki": "https://wiki.warthunder.com/unit/sw_pbv_501",
+ "name": "Pbv 501",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "IV",
+ "br": {
+  "AB": "6.7",
+  "RB": "6.7",
+  "SB": "6.7"
+ },
+ "description": "The Pbv 501 was the Swedish designation for the BMP-1, acquired from Germany after the fall of the Soviet Union. In defense decisions 92, Sweden wanted to invest a portion of the military funding to mechanized infantry, during this decision they decided to buy 433 vehicles of different BMP-1 models. These Pbv 501 were sent to the Czech Republic to be modified to Swedish standards and would be used until 2010, when the Pbv 501 were sold to the Czech Republic which later sold them to Iraq. The Pbv 501 was introduced in Update \"Kings of Battle\" . Compared to other BMP-1s, it lacks the ATGMs most BMP vehicles are equipped with in-game, decreasing the vehicle's effectiveness at long range. However, it is still equipped with its 73 mm 2A28 gun, a familiar weapon for those who are experienced with the BMP-1. Its thin armor leaves much to be desired, but its autoloaded gun and good mobility make it a good brawler in close range engagements.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_pbv_501.png",
+ "weapons": [
+  "7.62 mm PKT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "19 / 18 / 16 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "70 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "65"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "25.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "40 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-4 / 30°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "14"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,669 → 3,835"
+  },
+  {
+   "label": "Crew training",
+   "value": "61,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "110 / 150 / 200 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "61,600"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,800"
+  }
+ ],
+ "shells": [
+  {
+   "name": "PG-9",
+   "type": "HEAT",
+   "penetration": [
+    "300",
+    "300",
+    "300",
+    "300",
+    "300",
+    "300"
+   ]
+  },
+  {
+   "name": "OG-9",
+   "type": "HE",
+   "penetration": [
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,182 @@
+{
+ "id": "f2a-3",
+ "wiki": "https://wiki.warthunder.com/unit/f2a-3",
+ "name": "F2A-3",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The final version of the Brewster Buffalo was the F2A-3. Parts of the F2A-3's airframe were revised and the fuel capacity was increased to 908 L (240 gal). Although the fuel capacity was increased, the engine stayed the same which greatly diminished performance. The climb rate, top speed, and overall flight performance fell and pilots didn't enjoy flying it. The US Navy grew tired and annoyed at Brewster's constant issues with delivering aircraft on time and other problems. Squadrons using the F2A-3 quickly switched to the F4F Wildcat and were eventually sent to the Marine Corps. The F2A-3 saw its first major combat in the Battle of Midway where Buffalo pilots were hopelessly outmatched by A6M Zeroes. High-ranking officials within the US armed forces were greatly disappointed by the F2A-3's performance. Captain Phillip R. White would later say, \" It is my belief that any commander who orders pilots out for combat in a F2A-3 should consider the pilot lost before leaving the ground. \" This marked the end of the Buffalo in active service and all Buffalos were relegated to training. The F2A-3 has been in the game since the start of the Open Beta Test prior to Update 1.27. The climb rate, top speed, and overall handling leave much to be desired. In the hands of a skilled pilot, however, it can account for itself very well due to excellent turning with judicious use of flaps and good handling characteristics. It also has no armour which leaves very critical components like the engine and fuel tanks vulnerable to enemy fire. However, the F2A-3 does come armed with four 12.7 mm machine guns, two firing through the propellor and two mounted in the wings, which is an improvement over the F2A-1's armament. It can also carry two 100 lb bombs which are mainly effective against open-topped vehicles, light tanks, and other soft ground targets.",
+ "image": "https://static.encyclopedia.warthunder.com/images/f2a-3.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "518"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "16.4"
+  },
+  {
+   "label": "Turn time",
+   "value": "17.6"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,424 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "200 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Cyclone R-1820-40"
+  },
+  {
+   "label": "Length",
+   "value": "7.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.7 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "167 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.81"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.43 t (1h 30m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "761 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.8 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 / 409 / 438 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "720 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,300"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.55 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "333 → 448"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 60 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,930"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP/AP/T/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

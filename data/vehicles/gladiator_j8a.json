@@ -1,0 +1,190 @@
+{
+ "id": "gladiator_j8a",
+ "wiki": "https://wiki.warthunder.com/unit/gladiator_j8a",
+ "name": "J8A",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The J8A was the service name adopted by Sweden for their Gloster Gladiator Mk II acquired from Great Britain. The first Gloster Gladiator was delivered to the Swedish Air Force on April 15th 1937 and locally designated as the 'Jaktplan 8' (J8). While the first few Swedish Gladiators were fitted with the Fairey three-bladed propeller, the decision was taken to switch back to the earlier fixed-pitch two-bladed wooden propeller. The new J8s would serve in a new Fighter Wing that was intended to provide an aerial defence to the Stockholm region and would consist of three squadrons operating the J8. The new Fighter Wing was created alongside 4 Bomber Wing due to the rising of tensions in Europe. The J8s saw combat in Finland as part of military aid, while the rest were transferred to training units until their eventual retirement in 1947. It was introduced in Update 1.93 \"Shark Attack\" but was unavailable to be played in any game mode, however, it could be flown in test-flight and with the mission editor against NPC aircraft. The aircraft was fully implemented in Update 1.95 \"Northern Wind\" . The J8A is quite average in terms of agility, and its roll rate is quite poor. However, its best asset is the high top speed of 400 km/h, one of the highest among biplanes, although it will still struggle against next-generation monoplanes like the I-16 and Bf 109 A . Of course, against these aircraft, it will still have a turning advantage. It has access to four 8 mm MGs, which is a very standard armament for Rank I fighters, but they are very user friendly thanks to their large ammo pool and high rate of fire.",
+ "image": "https://static.encyclopedia.warthunder.com/images/gladiator_j8a.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "414"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "15.7"
+  },
+  {
+   "label": "Turn time",
+   "value": "16"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,211 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "231 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Mercury VIIIA/AS"
+  },
+  {
+   "label": "Length",
+   "value": "8.4 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "73 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.84"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.28 t (1h 24m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "600 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "320 / 469 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.25 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "3,270"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/AP/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/T/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "T/I/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

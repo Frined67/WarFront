@@ -1,0 +1,226 @@
+{
+ "id": "ju-87g_2",
+ "wiki": "https://wiki.warthunder.com/unit/ju-87g_2",
+ "name": "Ju 87 G-2",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "1.7",
+  "SB": "2.7"
+ },
+ "description": "The Ju 87 G-2 is a German strike aircraft. It has been in the game since the start of the Open Beta Test prior to Update 1.27. The flight model is identical to the G-1 with similar values to the Ju 87 D series. The differences between the G-1 and the G-2 is that the G-1 has the wing of the D-3 while the G-2 has the same wing area as the Ju 87 D-5 variant. Regarded highly by famed German ace Hans-Ulrich Rudel, the Ju 87 G is one of the deadliest ground attack aircraft in War Thunder. Building upon the classic \"Stuka\" design, German engineers fitted a pair of Bordkanone 37 mm cannons to early Ju 87 D models, creating a beast. Instead of bombs, this aircraft utilizes its twin synchronized 37 mm anti-tank cannons to demolish any armour it faces. Able to fire the German 37 mm high-velocity armour piercing round, the Ju 87 G is more than a force to be reckoned with. Unfortunately, each cannon only holds 12 rounds of ammunition each, for a total of 12 individual shots. This puts a cap on how much total damage the Ju 87 G can do. The Ju 87 G's armament, a pair of Bordkanone BK 3,7 cannons, are deadly in all regards. They are able to destroy most ground units and aircraft with a single press of the trigger. Equip air targets or armoured targets belt depending on what your target is. The armoured targets belt is fairly ineffective against aircraft and the air targets belt does next to nothing to armoured ground units. The Ju 87 G-2 differs from its earlier counterpart, the Ju 87 G-1 in that it utilizes the later D model, the Ju 87 D-5 . The G-1 model uses the earlier Ju 87 D-3 model.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ju-87g_2.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "380"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "9.5"
+  },
+  {
+   "label": "Turn time",
+   "value": "32"
+  },
+  {
+   "label": "Max altitude",
+   "value": "7,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "513 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "Jumo 211J"
+  },
+  {
+   "label": "Length",
+   "value": "10.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "15 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "209 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "5.39"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.58 t (1h 42m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "730 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.65 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "320 / 454 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "24 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "180 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.43 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,700 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,596 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.27 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "332 → 427"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 60 / 110 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,930"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HVAP-T/HEF-T",
+   "penetration": [
+    "108",
+    "101",
+    "75",
+    "51",
+    "35",
+    "24"
+   ]
+  },
+  {
+   "name": "Light armor targets",
+   "type": "SAPHEI-T",
+   "penetration": [
+    "31",
+    "29",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "APHE",
+   "penetration": [
+    "52",
+    "48",
+    "35",
+    "23",
+    "16",
+    "10"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "HVAP-T",
+   "penetration": [
+    "108",
+    "101",
+    "75",
+    "51",
+    "35",
+    "24"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF-T",
+   "penetration": [
+    "7",
+    "7",
+    "5",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-I/AP-T/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

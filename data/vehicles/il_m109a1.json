@@ -1,0 +1,173 @@
+{
+ "id": "il_m109a1",
+ "wiki": "https://wiki.warthunder.com/unit/il_m109a1",
+ "name": "Rochev",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "IV",
+ "br": {
+  "AB": "6.0",
+  "RB": "6.0",
+  "SB": "6.0"
+ },
+ "description": "The Rochev was the name given by the IDF to the M109 self-propelled howitzer. They received the M109 before the Yom Kippur War of 1973, and the nickname was associated with the variants from M109 to M109A2. Most of the differences between all of these variants were internal, especially regarding the shell loading system. While the early M109 was used during the Yom Kippur War and Lebanon War of 1982, by the 2006 Lebanon War, only the longer barrel M109 with the new M185 cannon was still in service, with some field modifications to improve quality of life and or survivability of the crew, like extra machine guns or outside storage compartments. Introduced in Update \"Air Superiority\" , the Rochev is very similar to the normal M109 in the Israeli tech tree, acting as a direct, if slight, upgrade. It features a new M185 cannon of the same 155 mm calibre as the regular M109 with the same shells. This means that while penetration is not improved, muzzle velocity is, making aiming and long range shots easier with this vehicle. An additional barrel-mounted 7.62 mm machine gun helps in mowing down obstacles and some unarmoured vehicles and can be used as a rangefinding help. The lack of significant armour and long reload time leads to poor survivability, however the high explosive shell is powerful enough to deal with most MBTs if aimed properly and lighter vehicles stand very little chance.",
+ "image": "https://static.encyclopedia.warthunder.com/images/il_m109a1.png",
+ "weapons": [
+  "12.7 mm M2HB machine gun",
+  "7.62 mm M1919A4 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "32 / 32 / 32 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "95 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "56"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "28 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "17.3 → 13.3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-3 / 75°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 30°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,148 → 3,894"
+  },
+  {
+   "label": "Crew training",
+   "value": "52,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "110 / 180 / 230 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "47,000"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,500"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M107",
+   "type": "HE",
+   "penetration": [
+    "61",
+    "61",
+    "61",
+    "61",
+    "61",
+    "61"
+   ]
+  },
+  {
+   "name": "M110",
+   "type": "Smoke",
+   "penetration": [
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "M107 (PF)",
+   "type": "HE-VT",
+   "penetration": [
+    "61",
+    "61",
+    "61",
+    "61",
+    "61",
+    "61"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

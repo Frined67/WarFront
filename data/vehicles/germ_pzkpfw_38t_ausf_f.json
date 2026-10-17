@@ -1,0 +1,140 @@
+{
+ "id": "germ_pzkpfw_38t_ausf_f",
+ "wiki": "https://wiki.warthunder.com/unit/germ_pzkpfw_38t_ausf_f",
+ "name": "Pz.38(t) F",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "Pz.Kpfw. 38(t) was the German designation for captured Czech light tanks LT vz.38. At the outbreak of World War II, these vehicles were considered among the best light tanks available. After the occupation of Czechoslovakia and the seizure of the first batch of LT vz.38 tanks , the Germans continued their production and modernisation, now for their own army. This led to the release of the Ausf. F version, 250 of which were produced from May to October 1941. It inherited the straight upper frontal armour plate from previous modifications, and the armour of the hull and turret was doubled all around. As a result, the tank's combat weight reached 10.14 tons, necessitating an increase in the number of leaf springs in the front bogie suspension from 14 to 15. The tank was used in all initial campaigns of the Wehrmacht until the end of 1941, when it was removed from production due to its failure to meet new combat requirements. The Pz.38(t) F was introduced in Update 1.41 . Facing opponents with superior protection and armament compared to its earlier modification , the tank can no longer provide adequate resistance. However, with its compact size and decent gun, the vehicle proves itself well as a support tank or for surprise flanking and rear attacks, targeting enemy vehicles in vulnerable areas. While armour on all sides has been doubled in thickness, the increased armour thickness brings additional weight, making this tank a bit slower than the Ausf. A variant. Another drawback of the Pz.38(t) F is the dense arrangement of internal modules and crew, which often results in its complete destruction from a single accurate hit.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_pzkpfw_38t_ausf_f.png",
+ "weapons": [
+  "7.92 mm MG37(t) machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 30 / 30 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "72 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "42"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.4"
+  },
+  {
+   "label": "Ammunition",
+   "value": "90 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.3 → 3.3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "17.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "5,600 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "768 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "161 → 218"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,440"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Pzgr. 34(t)",
+   "type": "APC",
+   "penetration": [
+    "62",
+    "59",
+    "45",
+    "32",
+    "23",
+    "17"
+   ]
+  },
+  {
+   "name": "Pzgr.(t) umg.",
+   "type": "APC",
+   "penetration": [
+    "61",
+    "58",
+    "44",
+    "31",
+    "22",
+    "15"
+   ]
+  },
+  {
+   "name": "PzGr. 40",
+   "type": "APCR",
+   "penetration": [
+    "86",
+    "77",
+    "47",
+    "26",
+    "14",
+    "8"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

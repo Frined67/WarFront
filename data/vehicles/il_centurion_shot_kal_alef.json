@@ -1,0 +1,186 @@
+{
+ "id": "il_centurion_shot_kal_alef",
+ "wiki": "https://wiki.warthunder.com/unit/il_centurion_shot_kal_alef",
+ "name": "Sho't Kal Alef",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "V",
+ "br": {
+  "AB": "8.0",
+  "RB": "8.0",
+  "SB": "8.0"
+ },
+ "description": "The Sho't Kal Alef was the first serial modernisation of the Sho't . After the Six-Day War in 1967, it became clear that the basic version of the Sho't had become seriously outdated, as its 20-pounder gun, antiquated fire control system (FCS), and weak, fuel-hungry engine could not provide sufficient firepower, good mobility, and reliability for the vehicle. A decision was made in 1969 to upgrade all existing Sho't tanks to the Sho't Kal level - with a new American 105 mm M68 gun, a more powerful diesel engine and transmission, a new FCS, and a modified commander's cupola. As early as 1970, the first modernised prototypes entered service with the IDF (Israel Defence Forces). The tanks were first used during the Yom Kippur War in 1973, after which they underwent further modifications, primarily concerning armour protection. The Sho't Kal Alef was introduced in Update \"Wind of Change\" . Players familiar with the British Centurion Mk 10 or Swedish Strv 101 will immediately the similar improvement in mobility, made possible by the installation of a new Continental AVDS-1790-2A engine. Also, thanks to the installation of the American M68 gun, the Sho't Kal Alef has access to a new set of ammunition, including a more powerful HEATFS shell and previously unavailable HESH shell. However, as the hull is still inherited from the Centurion Mk.5 , its overall protection is inferior to competitors - even APCR and solid-shot rounds can pose a significant threat to the vehicle.",
+ "image": "https://static.encyclopedia.warthunder.com/images/il_centurion_shot_kal_alef.png",
+ "weapons": [
+  "105 mm M68 cannon",
+  "7.62 mm L3A1 machine gun",
+  "7.62 mm L3A1 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "76 / 50 / 38 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "119 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "48"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "14.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "72 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "8.7 → 6.7 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "14"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 50°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "4,385 → 5,643"
+  },
+  {
+   "label": "Crew training",
+   "value": "86,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "130 / 190 / 230 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "87,700"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,100"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M728",
+   "type": "APDS",
+   "penetration": [
+    "265",
+    "263",
+    "252",
+    "240",
+    "228",
+    "216"
+   ]
+  },
+  {
+   "name": "M456",
+   "type": "HEATFS",
+   "penetration": [
+    "400",
+    "400",
+    "400",
+    "400",
+    "400",
+    "400"
+   ]
+  },
+  {
+   "name": "M393A2",
+   "type": "HESH",
+   "penetration": [
+    "127",
+    "127",
+    "127",
+    "127",
+    "127",
+    "127"
+   ]
+  },
+  {
+   "name": "M416",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

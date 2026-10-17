@@ -1,0 +1,96 @@
+{
+ "id": "il_ss_11_halftrack",
+ "wiki": "https://wiki.warthunder.com/unit/il_ss_11_halftrack",
+ "name": "Zachlam Tager",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "IV",
+ "br": {
+  "AB": "6.7",
+  "RB": "6.7",
+  "SB": "6.7"
+ },
+ "description": "During the IDF arming process during the 1948 Arab-Israeli War, the IDF employed several American half-tracks as their main APCs. Vehicles like the M2, M3, M5, and M9 were acquired from different sources. Many were adapted for different purposes, like the TCM-20 SPAA. With the introduction of the French SS.11 ATGM in the 1950s (locally designated \"Tager\"), it was decided to use the abundant American half-tracks for anti-armour purposes. Even though they were somewhat obsolete by then, they saw most of their action during the Six-Day War of 1967 against T-54s. However, due to a lack of doctrinal knowledge in ATGM usage, many Tagers were ignored during the conflict, and it is not clear if any scored kills. Introduced in Update \"Wind of Change\" , the Zachlam Tager s Tager missiles have, like most early ATGMs, keyboard-guided controls and slow speeds compared to contemporary tank shells. However, the missiles pack a hefty punch and are quite manoeuvrable once you get the hang of the controls, and are an enabler that lets you take on heavily armoured Cold War heavy tanks front-on if need be, rewarding skillful play but with some amount of risk involved. Since the Zachlam Tager is fast, it can reach objectives faster than most MBTs, hide in well-camouflaged positions and strike at any enemy that tries to take back the area with its missiles. The missiles have a moderate speed for the tier, being faster than some early ATGMs such as the Type 60 ATM 's missiles or the ZBD86 's ATGM, but it is certainly not the fastest overall and does take a few seconds to reach its target. With fairly responsive controls for MCLOS missiles and also having leading speed among the small but still somewhat diverse MCLOS missile pool, the Zachlam Tager is only held back by its very poor protection due to its open top and unarmoured nature, as well as the very small bank of only 4 ATGMs loaded at any given time.",
+ "image": "https://static.encyclopedia.warthunder.com/images/il_ss_11_halftrack.png",
+ "weapons": [
+  "SS.11 anti-tank guided missile"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "12 / 6 / 6 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "80 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "76"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "17.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "6 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "13 → 10 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7"
+  },
+  {
+   "label": "Fire on the move",
+   "value": "up to 5 km/h"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,693 → 4,675"
+  },
+  {
+   "label": "Crew training",
+   "value": "57,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "120 / 200 / 240 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "52,900"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,700"
+  }
+ ],
+ "shells": [
+  {
+   "name": "LFK SS.11",
+   "type": "ATGM",
+   "penetration": [
+    "600",
+    "600",
+    "600",
+    "600",
+    "600",
+    "600"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

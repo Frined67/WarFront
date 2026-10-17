@@ -1,0 +1,152 @@
+{
+ "id": "sw_pvkv_iv",
+ "wiki": "https://wiki.warthunder.com/unit/sw_pvkv_iv",
+ "name": "Pvkv IV",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "III",
+ "br": {
+  "AB": "3.0",
+  "RB": "3.0",
+  "SB": "3.0"
+ },
+ "description": "The Pvkv IV Värjan was an experimental tank destroyer that was developed during the 1950s along with the Pvkv II and Pvkv III . The Pvkv IV is based on the hull of Strv m/40L with an new turret to be able fit the new 57 mm Pvkan m/43 and keep the L-60 hulls in service longer. However, the Pvkv IV was soon cancelled when the Strv 74 entered service. Introduced in Update \"Sons of Attila\" , the Pvkv IV \"Värjan\" is an excellent tank destroyer in the guise of a medium tank, when can be used to its advantages of keeping a distance from its targets. Due to its relatively thin armour and slow turret traverse, it is a bit unsuitable in close combat environments. Speed is not an issue for this vehicle, it can manoeuvre around maps with relative ease, and fast reload and excellent gun elevation and depression makes this vehicle suitable for hiding behind hills and other high positions for cover and the element of surprise.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_pvkv_iv.png",
+ "weapons": [
+  "7.62 mm ksp 39 C machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "35 / 13 / 13 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "69 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "45"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "14.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "40 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-14 / 19°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "3.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,500 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "648 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "990 → 1,274"
+  },
+  {
+   "label": "Crew training",
+   "value": "13,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "60 / 90 / 110 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "19,860"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "980"
+  }
+ ],
+ "shells": [
+  {
+   "name": "slpprj m/43",
+   "type": "AP",
+   "penetration": [
+    "101",
+    "97",
+    "81",
+    "65",
+    "52",
+    "42"
+   ]
+  },
+  {
+   "name": "slpgr m/43",
+   "type": "APHEBC",
+   "penetration": [
+    "88",
+    "86",
+    "78",
+    "69",
+    "61",
+    "53"
+   ]
+  },
+  {
+   "name": "sgr m/43",
+   "type": "HE",
+   "penetration": [
+    "8",
+    "8",
+    "8",
+    "8",
+    "8",
+    "8"
+   ]
+  },
+  {
+   "name": "slpprj m/49",
+   "type": "APDS",
+   "penetration": [
+    "179",
+    "175",
+    "158",
+    "140",
+    "124",
+    "109"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

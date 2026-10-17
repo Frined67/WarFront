@@ -1,0 +1,153 @@
+{
+ "id": "uk_a_22b_mk_3_churchill_1942",
+ "wiki": "https://wiki.warthunder.com/unit/uk_a_22b_mk_3_churchill_1942",
+ "name": "Churchill III",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "heavy_tank",
+ "role": "Heavy tank",
+ "rank": "III",
+ "br": {
+  "AB": "4.0",
+  "RB": "4.0",
+  "SB": "4.3"
+ },
+ "description": "The Churchill III was an infantry tank developed and used by Britain during the Second World War. This variant featured significant improvements in armament over its predecessors, replacing the relatively weak 40 mm QF 2-pounder gun with the much more effective 57 mm QF 6-pounder gun. The hull howitzer present on the Churchill I was also removed and replaced with a machine gun. Compared to earlier turrets, this version featured a new design that was more boxy and squarish in shape. It also included several modifications to the transmission and engine. In total, 675 such vehicles were manufactured in 1942. This variant first saw combat during the Dieppe Raid, marking the Churchill tank’s first use in action. After that, it was mainly used in North Africa, including at the Second Battle of El Alamein. The Soviet Union received 301 Churchill tanks under the Lend-Lease programme, including Mk II, Mk III, and Mk IV variants. They saw limited service in the Soviet Army but participated in several major battles. Introduced in Update 1.55 \"Royal Armour\" , the Churchill III has relatively thick armour, especially at the front. Its separated crew layout also slightly increases its survivability. It is equipped with a decent gun capable of dealing with most opponents, and its fairly slow speed (a notable drawback of the Churchill) means it performs best in a heavy tank role when used efficiently but cautiously.",
+ "image": "https://static.encyclopedia.warthunder.com/images/uk_a_22b_mk_3_churchill_1942.png",
+ "weapons": [
+  "57 mm 6pdr OQF Mk.V cannon",
+  "7.92 mm BESA machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "89 / 76 / 51 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "87 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "28"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "9.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "85 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-12 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "6,975 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,227 → 1,593"
+  },
+  {
+   "label": "Crew training",
+   "value": "13,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "70 / 100 / 100 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "19,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "980"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Shot Mk.8",
+   "type": "APC",
+   "penetration": [
+    "116",
+    "111",
+    "94",
+    "76",
+    "62",
+    "50"
+   ]
+  },
+  {
+   "name": "Shell Mk.10",
+   "type": "HE",
+   "penetration": [
+    "9",
+    "9",
+    "9",
+    "9",
+    "9",
+    "9"
+   ]
+  },
+  {
+   "name": "Shot Mk.5 HV",
+   "type": "AP",
+   "penetration": [
+    "115",
+    "111",
+    "93",
+    "75",
+    "60",
+    "49"
+   ]
+  },
+  {
+   "name": "Shot Mk.9",
+   "type": "APCBC",
+   "penetration": [
+    "132",
+    "127",
+    "110",
+    "91",
+    "75",
+    "63"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

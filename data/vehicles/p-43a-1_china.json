@@ -1,0 +1,182 @@
+{
+ "id": "p-43a-1_china",
+ "wiki": "https://wiki.warthunder.com/unit/p-43a-1_china",
+ "name": "␗P-43A-1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "",
+ "image": "https://static.encyclopedia.warthunder.com/images/p-43a-1_china.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "566"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "13.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "19"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,700 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "342 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "R-1830-47"
+  },
+  {
+   "label": "Length",
+   "value": "8.5 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "154 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.81"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.4 t (1h 5m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "760 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "241 / 397 / 427 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "281 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "800 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "637 → 800"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 100 / 200 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,480"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP-I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/AP-I/T/I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP/AP-I/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/T/T/AP-I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP-I/AP-I/I/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

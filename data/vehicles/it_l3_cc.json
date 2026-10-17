@@ -1,0 +1,98 @@
+{
+ "id": "it_l3_cc",
+ "wiki": "https://wiki.warthunder.com/unit/it_l3_cc",
+ "name": "L3/33 CC",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The Carro Veloce, also known as the L3/33 , was designed and produced by Ansaldo for the Regio Esercito beginning in 1933. It swiftly became one of the most utilised platforms due to its unique features that made it a very useful vehicle for the Italian terrain. As a compact, light design with decent mobility, it swiftly saw combat in many war theatres Italy was present in, such as Yugoslavia, Albania, and Greece. Several variants were produced, including a flamethrower variant (the L3/33 LF, standing for \"LanciaFiamme\") and even a bridge carrier variant. The CC variant was primarily armed with a 20 mm Fucile Controcarri S Mod.39 anti-tank gun. These were surprisingly effective during the pre-war and early war periods, as heavily armoured threats were not yet prevalent. However, once heavier foes began to be deployed, the gun was used less for anti-tank duties and more for general fire support against remaining light tanks, infantry, and other support vehicles that might be encountered. This vehicle survived the end of the war and remained in service in limited numbers with the Italian post-war police force. Introduced in Update 1.85 \"Supersonic\" , the L3/33 CC can be effective around its battle rating, its small stature allowing it to be the perfect ambush vehicle. You can easily hide this vehicle within vegetation, or just as easily cover it with bushes. The mobility is very good; it is able to quickly manoeuvre across the battlefield, scouting for pockets to position the vehicle in for tactical advantages against the slower and heavier enemy vehicles it may face.",
+ "image": "https://static.encyclopedia.warthunder.com/images/it_l3_cc.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "14 / 14 / 8 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "62 %"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "42"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.4"
+  },
+  {
+   "label": "Ammunition",
+   "value": "110 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.8 → 6 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "60 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 15°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-10 / 10°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "14"
+  },
+  {
+   "label": "Repair cost",
+   "value": "90 → 111"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Perforante mod.35",
+   "type": "APHE",
+   "penetration": [
+    "38",
+    "36",
+    "27",
+    "19",
+    "14",
+    "10"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

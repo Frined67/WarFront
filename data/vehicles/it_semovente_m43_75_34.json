@@ -1,0 +1,118 @@
+{
+ "id": "it_semovente_m43_75_34",
+ "wiki": "https://wiki.warthunder.com/unit/it_semovente_m43_75_34",
+ "name": "75/34 M43",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "II",
+ "br": {
+  "AB": "3.3",
+  "RB": "3.3",
+  "SB": "3.3"
+ },
+ "description": "The Semovente da 75/34 M43 was an Italian self-propelled gun. By the end of World War II, half of Italy was under the control of the Wehrmacht. Production facilities for the 75/46 M43 and licensed copies of the 75-mm KwK 40 gun were located in the German-occupied zone. However, due to Allied bombing, producing guns became nearly impossible. As a result, the Germans ordered the continuation of producing self-propelled guns using whatever was available in stock, which turned out to be Italian 75/34 Mod. S.F. guns. Additionally, the frontal armor of the self-propelled gun was reinforced during production. A total of 29 vehicles were built and served the Wehrmacht until the end of the war. The 75/34 M43 was introduced in Update 1.85 \"Supersonic\" . It is a small vehicle with good frontal armor and a gun capable of firing HEAT rounds. However, the vehicle’s compact design makes it fragile, and its shell penetration may be insufficient.",
+ "image": "https://static.encyclopedia.warthunder.com/images/it_semovente_m43_75_34.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 40 / 25 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "62 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "38"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "11.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "45 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.8 → 6 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 16°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-18 / 18°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Repair cost",
+   "value": "870 → 1,129"
+  },
+  {
+   "label": "Crew training",
+   "value": "9,200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "60 / 90 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "13,960"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "860"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Granata Perforante 75/32",
+   "type": "APCBC",
+   "penetration": [
+    "79",
+    "78",
+    "71",
+    "64",
+    "58",
+    "52"
+   ]
+  },
+  {
+   "name": "EPS M42",
+   "type": "HEAT",
+   "penetration": [
+    "100",
+    "100",
+    "100",
+    "100",
+    "100",
+    "100"
+   ]
+  },
+  {
+   "name": "Granata 75/32",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "10",
+    "9",
+    "9",
+    "9",
+    "9"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

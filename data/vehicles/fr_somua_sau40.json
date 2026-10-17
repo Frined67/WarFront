@@ -1,0 +1,140 @@
+{
+ "id": "fr_somua_sau40",
+ "wiki": "https://wiki.warthunder.com/unit/fr_somua_sau40",
+ "name": "SAu 40",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "The SAu 40 was developed by SOMUA between 1935 and 1937 alongside the S.35 tank for the French cavalry. It featured a redesigned hull to house a 75 mm cannon and a new commander's cupola with a machine gun. The prototype was finished in 1939 after delays in acquiring the cannon. It is uncertain whether more vehicles were produced or if it saw combat action. Doctrinally, the vehicle was relegated to a support role, intended to provide cover for heavier tanks like the Char B1. Introduced in Update 1.75 \"La Résistance\" the SAu 40 distinguishes itself by its very tall cupola and thick gun barrel. As it was developed from the French S.35 , this tank shares many of its characteristics. As for the hull, it is a widened variant of the S.35 's ~40 mm thick cast hull bolted onto the chassis, with two 8 mm grilles over the engine compartment and doors on the side. The track system is mostly the same, with 25 mm plates covering the roller wheels. The tank features an APHE shell, a rare feature in the French tech tree; this increases the chances of one-shot kills against enemy tanks. In terms of mobility, it is a fairly slow tank, and it is not very survivable either, as it has a very large profile and the commander's cupola is a major weak point that can be exploited by other vehicles.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_somua_sau40.png",
+ "weapons": [
+  "7.5 mm MAC 31 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "40 / 40 / 34 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "99 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "37"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "7.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "101 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.2 → 5.5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 30°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-7 / 7°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "4.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,300 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "550 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-9 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "8.4"
+  },
+  {
+   "label": "Repair cost",
+   "value": "298 → 369"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 30 / 40 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,960"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Mle1910M",
+   "type": "APHE",
+   "penetration": [
+    "74",
+    "72",
+    "64",
+    "55",
+    "47",
+    "41"
+   ]
+  },
+  {
+   "name": "Mle1915",
+   "type": "HE",
+   "penetration": [
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

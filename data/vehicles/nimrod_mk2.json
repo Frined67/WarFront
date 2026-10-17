@@ -1,0 +1,162 @@
+{
+ "id": "nimrod_mk2",
+ "wiki": "https://wiki.warthunder.com/unit/nimrod_mk2",
+ "name": "Nimrod Mk II",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The Hawker Nimrod was a carrier-borne, biplane fighter which entered service with Britain's Fleet Air Arm in 1931. By 1934, full-scale production of Nimrod Mk I fighters was replaced by that of Mk II fighters. All Nimrod Mk IIs were fitted with an arrestor hook for carrier operations, their wings were modified with a slight sweep back and tail surfaces were slightly larger than those of the Nimrod Mk I. The powerplant was also improved in the Mk II; a 608 hp Rolls-Royce Kestrel V liquid cooled, in-line engine replaced the earlier 590 hp engine. The Hawker Nimrod fighter was replaced in first-line units by the Gloster Sea Gladiator and the Blackburn Skua before the start of World War II. Nimrods continued to be operated as training and liaison aircraft until July 1941. At the end only 30 units of the Mk.II variant were ever built. It has been in the game since the start of the Open Beta Test prior to Update 1.27. The Nimrod Mk II is a rank I plane for Britain. It is a biplane with 2 x 7.7 mm Vickers machine guns. The main difference between it and the Mk. I is the slightly swept wing and more powerful engine. Climb rate, turn rate, roll rate, and acrobatic ability are superb, mostly due to the Nimrod being a biplane. Being a biplane, the Nimrod is very forgiving and thus is very flexible in techniques and tactics. Turn rate provides players with a thrilling beginning in Arcade, and the roll rate and climb rate provides for some interesting acrobatics with the Nimrod. The armament is poor when compared to contemporaries. For Simulator Battles (SB) the Nimrod provides a great chance for players to have their first taste of Simulator Battles. The open cockpit provides beginners with an open and clear view, and learning to use the gun sight provides unique gameplay for beginners.",
+ "image": "https://static.encyclopedia.warthunder.com/images/nimrod_mk2.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "394"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "15.7"
+  },
+  {
+   "label": "Turn time",
+   "value": "16"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,100 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "231 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Kestrel VFP"
+  },
+  {
+   "label": "Length",
+   "value": "8.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "13.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "65 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.67"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.16 t (58m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "600 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/10 G"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "97 → 121"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 20 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,960"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/IAI/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "I/AP/AP/AP/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

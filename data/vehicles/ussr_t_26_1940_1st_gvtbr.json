@@ -1,0 +1,125 @@
+{
+ "id": "ussr_t_26_1940_1st_gvtbr",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_t_26_1940_1st_gvtbr",
+ "name": "T-26 (1st Gv.T.Br.)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The T-26 is a Soviet light tank from the interwar period. It was developed based on the imported British Vickers Mk E, also known as Vickers 6-Ton. The Soviet Army used it in the Winter War, the Spanish Civil War, on the Far Eastern Front, and during the Great Patriotic War. In addition to the USSR, around 10 other countries operated the T-26 at different times. A total of 11,218 T-26 tanks were produced, making it one of the most mass-produced Soviet tanks. At the start of the Great Patriotic war, some T-26 tanks were a part of the legendary 1st Guards Tank Brigade, also known as the \"Katukov Brigade,\" which fought throughout the conflict—from the defense of Moscow and the Battle of Kursk to the fighting in Europe and on the outskirts of Berlin. The T-26 (1st Gv.T.Br.) was added in the Update 1.41.27.12 . It differs from the standard version in that it has the unique camouflage of the 1st Tank Brigade. This light tank resembles a self-propelled gun. It is slow, fragile, and difficult to spot. However, it can deal significant damage to the enemy team from cover and at long range. For new players it provides access to a powerful and effective gun while teaching caution due to its weak armor. Its low mobility also discourages risky maneuvers, preventing positioning mistakes.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_t_26_1940_1st_gvtbr.png",
+ "weapons": [
+  "45 mm 20-K cannon",
+  "7.62 mm DT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "15 / 15 / 6 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "74 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "30"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "9.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "205 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.8 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-6 / 22°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,890 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "322"
+  },
+  {
+   "label": "Crew training",
+   "value": "150"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (15 / 20 / 25) %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,020"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-240",
+   "type": "APHEBC",
+   "penetration": [
+    "70",
+    "67",
+    "58",
+    "47",
+    "39",
+    "32"
+   ]
+  },
+  {
+   "name": "BR-240SP",
+   "type": "APBC",
+   "penetration": [
+    "73",
+    "70",
+    "60",
+    "50",
+    "41",
+    "34"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

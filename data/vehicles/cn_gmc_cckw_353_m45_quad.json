@@ -1,0 +1,130 @@
+{
+ "id": "cn_gmc_cckw_353_m45_quad",
+ "wiki": "https://wiki.warthunder.com/unit/cn_gmc_cckw_353_m45_quad",
+ "name": "CCKW 353 (M45)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The CCKW 353 (M45) was the ROCA's attempt to build a domestic SPAA vehicle. The CCKW-353 2 1/2 ton truck, known as the 季姆西十輪大卡車 (\"GMC 10-wheeled truck\") by the NRA during the Second Sino-Japanese War, was manufactured by GMC and was a mainstay of the ROCA during both the Chinese Civil War and the Taiwan Strait Crisis, serving as a versatile utility truck. It is likely that the ROCA assembled CCKW-353 trucks fitted with M45 quad-mount turrets as placeholders or mock-ups for the 1961 Republic of China Year 50 parade in Taipei, intended to showcase the strength of the armed forces. Following the introduction of M35 trucks and new SAM systems, these vehicles were likely abandoned and faded into obscurity, leaving behind only sparse photographic evidence from the parade that documents their existence. The CCKW 353 (M45) was introduced in Update \"Hot Tracks\" . Although lacking the relatively robust armour scheme found on its US counterpart, the M16 MGMC , the M45 turret remains formidable at its tier thanks to its diverse ammunition belts and easy-to-learn ballistics. This makes it a much-needed SPAA for the Chinese tech tree at low ranks, boasting a substantial ammunition capacity.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cn_gmc_cckw_353_m45_quad.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "0 / 0 / 0 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "80 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "64"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "11.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,200 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "18.2 → 14 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 90°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "42"
+  },
+  {
+   "label": "Repair cost",
+   "value": "446 → 578"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 40 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,920"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Universal",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": ".50 API",
+   "type": "API-T/AP-I/API-T",
+   "penetration": [
+    "30",
+    "27",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": ".50 AP",
+   "type": "AP/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": ".50 API-T",
+   "type": "API-T",
+   "penetration": [
+    "29",
+    "27",
+    "19",
+    "12",
+    "7",
+    "5"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,170 @@
+{
+ "id": "i-16_type10_china",
+ "wiki": "https://wiki.warthunder.com/unit/i-16_type10_china",
+ "name": "␗I-16 type 10",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.0",
+  "SB": "1.7"
+ },
+ "description": "The I-16 type 10 is a variant of the Soviet single-engine monoplane fighter developed in the 1930s by the Experimental Design Bureau of aircraft designer Nikolai Polikarpov. The I-16 was one of the world’s first mass-produced monoplane fighters with retractable landing gear. Developed in 1938, the Type 10 was an evolution of the I-16 Type 6. Differences included the installation of a more powerful M-25V engine, improved armament (up to four ShKAS machine guns instead of two on earlier variants), a new sight, and other design changes. A total of 934 I-16 Type 10 aircraft were built from 1938 to 1939. The first fighters of this variant were delivered to China in spring 1938 but were inferior to the Japanese A6M and appeared outdated. Nevertheless, the I-16 Type 10 effectively countered the Japanese strategic bombing campaign against China. The Chinese I-16 type 10 was introduced in Update 1.91 \"Night Vision\" . With its excellent maneuverability — only Japanese fighters and biplanes can rival it in this regard — decent armament, and good climb rate, the aircraft is suitable for both dogfights and hit-and-run tactics. However, the aircraft's armor leaves much to be desired; the 6 mm armor plate does not provide reliable protection. Another drawback is its low top speed, which is particularly noticeable when engaging German fighters.",
+ "image": "https://static.encyclopedia.warthunder.com/images/i-16_type10_china.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "453"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "19.8"
+  },
+  {
+   "label": "Turn time",
+   "value": "16.7"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,300 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "210 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "M-25V"
+  },
+  {
+   "label": "Length",
+   "value": "6.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "136 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.54"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.15 t (42m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "700 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/16 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "260 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,100"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "358 → 538"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 60 / 140 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,930"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AI/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

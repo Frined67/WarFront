@@ -1,0 +1,254 @@
+{
+ "id": "ki_44_2_hei",
+ "wiki": "https://wiki.warthunder.com/unit/ki_44_2_hei",
+ "name": "Ki-44-II Hei",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "3.0"
+ },
+ "description": "The Ki-44-II hei , designated as the Type 2 Single-Seat Fighter, Model IIc ( 二式単座戦闘機一型丙 ) , was the final standard production variant of the Ki-44-II. It was armed with four 12.7 mm guns and featured a Type 100 optical sight, replacing the older Type 97 telescopic sight. As the most produced variant of the Ki-44, many earlier Ki-44-II models were upgraded to the Ki-44-IIc standard, although they often retained their original Type 97 gunsights. Despite this, the relatively limited production of the Ki-44 and the development of the Ki-44-III were eventually discontinued in favour of the more versatile Ki-84, Type 4 Fighter. This marked the end of the Ki-44's rather anticlimactic service record, which saw early action in the Pacific but primarily over the home islands. Although initially intended to be a formidable contender against Western designs, it was ultimately disliked by many Japanese aviators and was relegated to a limited-production interceptor mainly used for homeland defence. The default camouflage bears the insignia of the 70th Sentai, which like many other Ki-44 using air squadrons was purposed to shoot down B-29s in defense of Japan. Around June 1945, the squadron was slowly reinforced with Ki-84s, but didn't see service, the squadron members were instead prepared to train on the Ki-200 , in July all pilots were taken to the Aviation Inspection Department to take physical examinations to fly the Ki-200, but the war ended before the squadron could take flight with the Ki-200. It was introduced in Update 1.55 \"Royal Armour\" . As the final variant of the Ki-44, it is heavily armed with four deadly 12.7 mm guns loaded with high-explosive rounds. However, this armament upgrade also pits it against more formidable opponents, making positioning crucial. To succeed, always aim to catch other pilots off guard by maintaining an altitude advantage, then use its relative manoeuvrability to finish them off. While climbing is straightforward, be aware that aircraft in this tier may be able to keep up with the Ki-44-II in a chase. Therefore, it is essential to destroy your target quickly or maintain your altitude advantage to stay ahead.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ki_44_2_hei.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "606"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "18.8"
+  },
+  {
+   "label": "Turn time",
+   "value": "20"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,800 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "320 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Ha-109"
+  },
+  {
+   "label": "Length",
+   "value": "8.9 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "177 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.35"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.38 t (1h 6m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "850 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.81 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "250 / 412 / 433 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "250 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.53 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.53 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "499 → 627"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 70 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,400"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEF-I/AP/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/HEF-I/HEF-I/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/AP/AP-T",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/HEF-I/HEF-I/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/AP/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEF-I/AP/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/HEF-I/HEF-I/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/AP/AP-T",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/HEF-I/HEF-I/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

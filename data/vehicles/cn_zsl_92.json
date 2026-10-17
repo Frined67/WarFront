@@ -1,0 +1,144 @@
+{
+ "id": "cn_zsl_92",
+ "wiki": "https://wiki.warthunder.com/unit/cn_zsl_92",
+ "name": "ZSL92",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "IV",
+ "br": {
+  "AB": "6.3",
+  "RB": "6.3",
+  "SB": "6.3"
+ },
+ "description": "The ZSL92 (ZSL92式轮式装甲输送车; industrial code WZ551) was the first mass-produced in-service variant of the WZ551 vehicle family. Although there had been earlier attempts to produce a new wheeled APC for the PLAGF as early as 1970, the eventual cancellation of the vehicles under Campaign 704 halted the development of wheeled APCs for almost a decade until Factory 256 (NORINCO Chongqing Tiema Industries) unveiled plans to modify Mercedes-Benz NG 2026 trucks into the new APC program. Evaluations in the 1980s established a 25 mm weapons system and a revised APC chassis. The earliest variant entered PLAGF evaluation as the ZSL90, while the revised and improved variant entered service as ZSL92. The ZSL92 also set the foundation for the future AFT09 and the PTL02 / WMA301 series which are still in PLAGF service to this day. Introduced in Update \"Seek & Destroy\" , the ZSL92 has sufficient elevation limits to gun down enemy aircraft with its main cannon inherited from the ZSD63/PG87 while having sufficient penetration to end the service of vehicles at its tier from their sides. However, players must be extremely cautious about the minimal protection of ZSL92 and plan carefully for any assaults, as the poor reverse speed will not allow the vehicle to retreat quickly in a pinch.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cn_zsl_92.png",
+ "weapons": [
+  "7.62 mm Type 86 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "12 / 8 / 6 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "136 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "88"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "20.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "400 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "32.5 → 25 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-8 / 52°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "31.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,253 → 4,723"
+  },
+  {
+   "label": "Crew training",
+   "value": "68,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "140 / 170 / 240 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "71,300"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,900"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/FI-T",
+   "penetration": [
+    "63",
+    "61",
+    "51",
+    "41",
+    "33",
+    "27"
+   ]
+  },
+  {
+   "name": "Type 87 HE",
+   "type": "FI-T",
+   "penetration": [
+    "8",
+    "8",
+    "6",
+    "5",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Type 87 AP",
+   "type": "AP-T",
+   "penetration": [
+    "63",
+    "61",
+    "51",
+    "41",
+    "33",
+    "27"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

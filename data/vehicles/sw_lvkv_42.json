@@ -1,0 +1,120 @@
+{
+ "id": "sw_lvkv_42",
+ "wiki": "https://wiki.warthunder.com/unit/sw_lvkv_42",
+ "name": "Lvkv 42",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "III",
+ "br": {
+  "AB": "4.7",
+  "RB": "4.7",
+  "SB": "4.3"
+ },
+ "description": "The lvkv 42 was developed by the Swedish arms manufacturer Bofors on request from the Swedish army as a 1950s next generation Swedish SPAA following the 1940s limited production lvkv fm/43 SPAA. Two prototypes based on a new original chassis-design were built and delivered for testing late December 1953 and early January 1954 respectively after various delays. In the end the project was scrapped as SPAAs with integrated radars became more necessary. It was introduced in Update 1.97 \"Viking Fury\" . In similar fashion to the ZSU-57, the Lvkv 42 is an SPAA particularly deadly for enemy tanks. It has access to a powerful 40 mm cannon with a good fire rate. It also features SAPHEI shells in some of its belts, which helps against lightly armoured vehicles. Flanking is a good idea, although the speed is not the best, it's still agile enough to get to good positions to ambush other tanks. Like most SPAAs of its tier, it's very fragile, and most HE or HEAT shells would kill you in a single hit, the gun lacks access to APHE shells in all of its belts and using its only cannon against enemy aircraft may be challenging to inexperienced players.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_lvkv_42.png",
+ "weapons": [
+  "40 mm lvakan m/48 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "10 / 10 / 10 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "71 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "60"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "14.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "104 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "0.6 → 0.5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "240 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 90°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "49"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,706 → 2,196"
+  },
+  {
+   "label": "Crew training",
+   "value": "30,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "90 / 110 / 170 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "29,600"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,200"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP/HEFI-T",
+   "penetration": [
+    "95",
+    "90",
+    "72",
+    "55",
+    "42",
+    "32"
+   ]
+  },
+  {
+   "name": "slsgr m/36C",
+   "type": "HEFI-T/HEFI-T/HEFI-T/AP",
+   "penetration": [
+    "95",
+    "90",
+    "72",
+    "55",
+    "42",
+    "32"
+   ]
+  },
+  {
+   "name": "slhpgr m/43",
+   "type": "SAPHEI/SAPHEI/SAPHEI/HEFI-T",
+   "penetration": [
+    "68",
+    "64",
+    "49",
+    "35",
+    "25",
+    "18"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

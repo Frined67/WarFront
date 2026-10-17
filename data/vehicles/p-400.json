@@ -1,0 +1,316 @@
+{
+ "id": "p-400",
+ "wiki": "https://wiki.warthunder.com/unit/p-400",
+ "name": "P-400",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The P-400 was the American redesignation for the export model of the P-39 Airacobra, intended to be sent to Britain and other Allies. It was equipped with a 20 mm Hispano cannon in the nose, rather than the typical 37 mm of other models. Britain ordered 675 P-39s (redesignated as the \"Airacobra Mk I\") starting in September 1940; however, once they began to arrive in September 1941, it was quickly found that they had inadequate climb rate and high-altitude performance, and only 80 were operated. 200 were later sent from Britain to the Soviet Union. After the attack on Pearl Harbor, the US requisitioned another 200 of the units intended to be sent to Britain (redesignating them \"P-400\"), some of which were later sent on for use in the RAAF. It was introduced in Update 1.37 . The P-400 is the \"little brother\" of the P-39 and P-63. Reaching maximum speed at an altitude of 2,400 m (7,900 ft) means you will have to look for enemies below you, or sacrifice speed to meet the opposition higher up. At medium and low altitudes it can be considered quite a fast plane for its BR range. It handles turning at higher speed rather well but can become unstable at lower speeds. Watch out when engaging in stall fighting (hammerheads & yo-yos). The P-400 can survive at high speeds while diving, but suffers from compression. The plane is suitable for high speeds attacks where you work more with horizontal rather than vertical movements. The P-400 has good weapons consisting of one 20 mm cannon with 60 rounds and two .50 cals and four .30 cals. If you have a good aim, you can destroy enemies in seconds, but if you don't the limited cannon ammo will run out in about 10-15 seconds. The .50 cals will still destroy foes reasonably quick, though the .30 cals require the right amount of accuracy, consistency and concentrated fire.",
+ "image": "https://static.encyclopedia.warthunder.com/images/p-400.png",
+ "weapons": [
+  "20 mm Hispano 404 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "576"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "9.7"
+  },
+  {
+   "label": "Turn time",
+   "value": "22"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "320 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "V-1710-35"
+  },
+  {
+   "label": "Length",
+   "value": "9.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "175 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.15"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.33 t (1h 6m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "886 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.81 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -9/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "233 / 374 / 400 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "322 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "60 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.45 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "540 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.55 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "349 → 448"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 60 / 130 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,950"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "PT/HEI/AP/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/AP-T/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP/AP-T/HEI/AP-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP/AP/T/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP/T/T/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

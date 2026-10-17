@@ -1,0 +1,170 @@
+{
+ "id": "hurricanemkii",
+ "wiki": "https://wiki.warthunder.com/unit/hurricanemkii",
+ "name": "Hurricane Mk IIB/Trop",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The Hurricane Mk IIB/Trop is a tropicalized variant of the Hawker Hurricane Mk II. Compared to the Mark I version, the Mark II featured an addition of four 7.7 mm Browning machine guns in the outer leading edge of the wings along with bomb racks. The increase in number of small-calibre guns was due to the British still being reluctant to use the then notoriously jammable Hispano autocannons, and believing that adding more guns would compensate for lack of hard-hitting firepower that the Hispano could offer. While this only held true against lighter aircraft at closer range, the sheer number of guns and additional bomb racks allowed the Hurricane to find its new niche as a ground attacker during the Africa campaign, while leaving the air combat duties to the more nimble Spitfire instead. The Hurricane Mk IIB/Trop has been in the game since the start of the Open Beta Test prior to Update 1.27. Compared to the early Hurricane models such as the Hurricane Mk I/L or the Sea Hurricane Mk IB , the Mk IIB/Trop is noticeably slower and less responsive than the Mk I version due to the addition of bomb racks and extra guns. While generally less agile, the Mk IIB can perform well enough as a fighter due to its agility. Though, like its predecessor, it is often held back by its slow top speed and acceleration. Though the addition of bombs and rockets slowed down the plane somewhat, this allows the Mk II to perform as a close air support better than its predecessor. With twelve of 7.7 mm Browning MGs and absurd amount of ammo, the Hurricane is capable of obliterating any thin-skinned biplanes it may come across, having more than enough ammo to rake a huge number of ground target kills, and to give a good beating against more durable monoplanes in uptiers.",
+ "image": "https://static.encyclopedia.warthunder.com/images/hurricanemkii.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "510"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "11.1"
+  },
+  {
+   "label": "Turn time",
+   "value": "17"
+  },
+  {
+   "label": "Max altitude",
+   "value": "11,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "320 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Merlin-XX"
+  },
+  {
+   "label": "Length",
+   "value": "9.6 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "139 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.32 t (1h 4m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "660 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.79 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "202 / 247 / 268 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,960 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.17 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "358 → 448"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 60 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,930"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/AP-I/Ball/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

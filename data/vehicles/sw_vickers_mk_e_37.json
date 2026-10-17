@@ -1,0 +1,129 @@
+{
+ "id": "sw_vickers_mk_e_37",
+ "wiki": "https://wiki.warthunder.com/unit/sw_vickers_mk_e_37",
+ "name": "Vickers Mk.E",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The Vickers Mk.E was developed as a private venture by Vickers to create a lightweight, easy-to-maintain, and inexpensive light tank. Destined for infantry support, three variants were created: the Model A with two machine guns in independent turrets, the Model B with a QF 3 pounder 47 mm cannon, and the Vickers Medium Dragon, which was used as a cargo vehicle, mainly as an artillery tractor. While the British army did not use the Model A or B, it did use the Dragon model. The base variants found service in countries like China, India, Finland, and Poland. The vehicle even inspired the Polish 7TP (a modified Vickers Mk.E Model B) and the famous T-26, which was a licensed variant of the Vickers Mk.E with domestically made systems, such as optics and a 45 mm gun instead of the QF 3 pounder. The vehicle had very poor performance; however, it was developed in 1929 and used up until the 1940s. It's no surprise that it was severely outclassed by tanks like the Panzer III during the German-Soviet aggression against Poland and later on the Eastern Front, or against the T-34 during the Continuation War. Introduced in Update \"Fire and Ice\" , the Vickers Mk.E sits at a very low BR, with poor mobility and armament that might label it as a mediocre tank. However, it does have some advantages. Unlike American or French 37 mm cannons, the Vickers Mk.E features an APHE round with decent muzzle velocity, but with a very small amount of explosive filler (just 15g). The APHE round offers lower penetration values compared to the AP round, but this is less of an issue at Rank I where many vehicles have no armour, and long-range shots are challenging. Still, it is recommended to carry a small amount of AP rounds for heavier targets. One of the Vickers Mk.E's significant strengths is its gun depression of 10 degrees, combined with a turret positioned higher than the hull. This configuration makes it easier to peak over hills compared to other tanks. However, escaping from dangerous situations is difficult due to its maximum reverse speed of only 3.6 km/h. Despite its very poor armour, the transmission is relatively large for its size and its position can sometimes deflect shots that might otherwise kill crew members or damage internal modules.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_vickers_mk_e_37.png",
+ "weapons": [
+  "37 mm Psv.K/36 cannon",
+  "8 mm ksp m/36 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "14 / 14 / 14 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "81 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "35"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "10.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "50 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.1 → 3.1 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "648 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "106 → 136"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "psav Vj4",
+   "type": "AP",
+   "penetration": [
+    "62",
+    "58",
+    "42",
+    "29",
+    "20",
+    "14"
+   ]
+  },
+  {
+   "name": "pstkr 27-34",
+   "type": "APHE",
+   "penetration": [
+    "55",
+    "51",
+    "37",
+    "26",
+    "17",
+    "12"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

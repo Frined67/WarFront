@@ -1,0 +1,130 @@
+{
+ "id": "jp_halftrack_m16",
+ "wiki": "https://wiki.warthunder.com/unit/jp_halftrack_m16",
+ "name": "▅M16 MGMC",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The M16 MGMC (Japan) was American surplus equipment at the end of WWII, and was handed down to Japanese national forces for self-defense and building of a Japanese reserve in the image of the US military. Serving through the NSF and JGSDF, they were in service until 1974 when they were deemed obsolete. It was introduced in Update \"Direct Hit\" . Being a simple hand-me-down from the US, it plays and is exactly the same as the M16 MGMC , offering 4x .50 M2HBs in a single mount, it destroys aircraft by the sheer volume of fire which is further helped by the Incendiary it carries in its belts. Armour protection is little to rely upon, but due to the placement of the crew, it may survive more often than not when fired upon.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_halftrack_m16.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "6 / 6 / 6 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "80 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "76"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "17.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,800 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "18.2 → 14 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 90°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "42"
+  },
+  {
+   "label": "Repair cost",
+   "value": "653 → 840"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 50 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,430"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Universal",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": ".50 API",
+   "type": "API-T/AP-I/API-T",
+   "penetration": [
+    "30",
+    "27",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": ".50 AP",
+   "type": "AP/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": ".50 API-T",
+   "type": "API-T",
+   "penetration": [
+    "29",
+    "27",
+    "19",
+    "12",
+    "7",
+    "5"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

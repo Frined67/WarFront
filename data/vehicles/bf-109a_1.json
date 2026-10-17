@@ -1,0 +1,166 @@
+{
+ "id": "bf-109a_1",
+ "wiki": "https://wiki.warthunder.com/unit/bf-109a_1",
+ "name": "Flegel's Bf 109 A",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "Flegel's Bf 109 A is a premium German fighter. It was introduced in Update 1.69 \"Regia Aeronautica\" . The plane is painted after the camouflage scheme of Luftwaffe pilot Norbert Flegel in the Condor Legion of the Spanish Civil War. While available in-game for purchase with GE, Flegel's Bf 109A was given away during the 2017 German Unity Day event. Though capable in engagements against aircraft of similar BR, Flegel's Bf 109 A finds itself lacking in power, handling, and armament. As with later 109s, energy preservation is a must, and this aircraft should be used as a Boom and Zoom fighter against larger targets. This early Bf 109 is a definite collector's vehicle. With a two bladed wooden prop and a distinctive camouflage, this plane's visual looks give it most of its appeal to its owners. With an underwhelming armament of 2 x 7.92 mm MG 17 guns, it will find itself struggling to bring down heavy aircraft.",
+ "image": "https://static.encyclopedia.warthunder.com/images/bf-109a_1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "444"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "9.3"
+  },
+  {
+   "label": "Turn time",
+   "value": "20"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "210 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Jumo 210D"
+  },
+  {
+   "label": "Length",
+   "value": "8.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9.9 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "136 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.02"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.18 t (1h 1m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "790 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.82 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "250 / 371 / 388 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "280 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "323"
+  },
+  {
+   "label": "Crew training",
+   "value": "150"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (15 / 25 / 65) %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,340"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

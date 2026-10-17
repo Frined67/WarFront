@@ -1,0 +1,145 @@
+{
+ "id": "uk_a_13_mk2_1939",
+ "wiki": "https://wiki.warthunder.com/unit/uk_a_13_mk2_1939",
+ "name": "A13 Mk II 1939",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "The Tank, Cruiser, Mark IV (A13 Mark II 1939) is the early-production second variant of the A13 cruiser tank family. It was the fourth cruiser tank family designed for the British Army, the direct successor of the A13 Mark I . The earliest A13 Mark IIs were A13 Mark Is with turret armour added. As a result, the hull protection of the A13 Mark II 1939 is identical to that of the A13 Mark I, with the exception of improved turret protection. Only 8 units were made in this fashion. Introduced as a premium pack in Update 1.53 \"Firestorm\" , the A13 Mark II 1939 provides slightly better turret protection than the A13 Mark I, adding about 0.8 tonnes of armour without sacrificing mobility. However, the A13 Mark II 1939's armour improvements are insufficient to protect the tank against most weapons, as nearly all opponents are capable of penetrating it. The 40 mm Ordnance QF 2-pounder tank gun is adequate for its rank, capable of dealing with the vast majority of opponents it will face. However, the ammunition lacks the penetrating force and accuracy needed to deal with stronger opponents at long ranges. It was removed from the store in May 2016 . It has since been available for purchase as a reward vehicle for War Thunder's 7th Anniversary Event and during the 2017 \"April Fools\" Sale . It was also made available as a war trophy vehicle in the Warbonds shop in April 2019 . It was a reward for participating in War Thunder's 10th Anniversary Event . It is also available on the Marketplace.",
+ "image": "https://static.encyclopedia.warthunder.com/images/uk_a_13_mk2_1939.png",
+ "weapons": [
+  "40 mm QF 2-pounder cannon",
+  "7.7 mm Vickers machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "30 / 14 / 14 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "93 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "48"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "23.4"
+  },
+  {
+   "label": "Ammunition",
+   "value": "87 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.6 → 2.8 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "25.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,500 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "390 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "410"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 20 / 25) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Shot Mk.1 AP/T",
+   "type": "AP",
+   "penetration": [
+    "72",
+    "68",
+    "52",
+    "37",
+    "27",
+    "19"
+   ]
+  },
+  {
+   "name": "Shot Mk.IXB APCBC/T",
+   "type": "APCBC",
+   "penetration": [
+    "89",
+    "86",
+    "77",
+    "66",
+    "57",
+    "50"
+   ]
+  },
+  {
+   "name": "Shot Mk.1 APHV/T",
+   "type": "AP",
+   "penetration": [
+    "80",
+    "75",
+    "58",
+    "41",
+    "30",
+    "21"
+   ]
+  },
+  {
+   "name": "Shell Mk.1 AP/T",
+   "type": "APHE",
+   "penetration": [
+    "66",
+    "62",
+    "49",
+    "36",
+    "26",
+    "19"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "IT/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

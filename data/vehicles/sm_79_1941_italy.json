@@ -1,0 +1,280 @@
+{
+ "id": "sm_79_1941_italy",
+ "wiki": "https://wiki.warthunder.com/unit/sm_79_1941_italy",
+ "name": "S.M.79 AS",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The S.M.79 AS is a torpedo bomber version of the S.M.79 aircraft. The designation AS stands for aerosilurante, which is Italian for \"torpedo bomber\". Beginning in 1940, Sparviero aircraft suffered increasing losses at the hands of new Allied monoplane fighters. Consequently, part of the fleet was converted into torpedo bombers. In this new role, the aircraft proved to be just as effective as it had been earlier as a bomber. The 1941 production aircraft differed from earlier variants in that they had exhaust stacks with flame dampers for night operations and mounts for carrying a torpedo under the fuselage, usually offset to the left. Production of the S.M.79 continued until 1944, with a total of 1,458 aircraft built, including those produced under license in Romania. The S.M.79 AS was introduced in Update 1.69 \"Regia Aeronautica\" . Compared to its predecessor , the S.M.79 AS is slightly faster and more maneuverable. It also has the ability to carry a single 450 mm torpedo in addition to its bomb load. Like previous variants, the AS remains versatile, performing well in various roles, from bombing bases to destroying ground targets in air and mixed battles. With the addition of a torpedo, the aircraft becomes a valuable asset in naval battles. However, as opposing aircraft speeds increased, the S.M.79 lost its ability to outrun enemies and began to encounter faster opponents more frequently. The widespread use of fighter planes armed with cannons has also made the aircraft vulnerable to enemy fire, while its defensive armament has become significantly less effective.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sm_79_1941_italy.png",
+ "weapons": [
+  "12.7 mm Breda-SAFAT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "480"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "5.9"
+  },
+  {
+   "label": "Turn time",
+   "value": "31"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "400 m"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "3 x 126 RC 34"
+  },
+  {
+   "label": "Length",
+   "value": "15.6 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "21.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "164 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "7.7"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "2.39 t (3h 58m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "530 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.61 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -2/4 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "220 / 298 / 313 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "300 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "350 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.41 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "970 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "550 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.09 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "632 → 872"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 100 / 200 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,460"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP-I/HEF/API-T/I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/HEF/HEF",
+   "penetration": [
+    "20",
+    "18",
+    "11",
+    "6",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/AP/AP/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "API-T/AP-I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP-I/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

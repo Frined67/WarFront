@@ -1,0 +1,230 @@
+{
+ "id": "fokker_d21_mod20",
+ "wiki": "https://wiki.warthunder.com/unit/fokker_d21_mod20",
+ "name": "▄Fokker D.XXI",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.0",
+  "SB": "1.7"
+ },
+ "description": "Introduced in Update \"Ixwa Strike\" , the Fokker D.XXI is a slow but very agile fighter. It has a very similar performance to its predecessor, being slow but having a good climb rate. It has an increased firepower over the D.XXI-3, featuring 2 x 20 mm cannons that are very lethal at its BR. Try climbing to a good altitude since the start of the match, 4,000-5,000 m would be a good idea, so that you can dive and gain speed if you need to retreat. It is also particularly stable in simulator battles, so it's a beginner friendly aircraft. For its survivability, the aircraft has only a single fuel tank, so a leak would eventually result in the aircraft losing all the fuel, and a fire in that tank would also cause the aircraft to get destroyed. The new 20 mm cannons mean increased weight and the aircraft is slightly slower, the cannons are also prone to overheating and jamming, and have a low ammo pool.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fokker_d21_mod20.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "425"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "14.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "16"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,100 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "150 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Mercury VIII"
+  },
+  {
+   "label": "Length",
+   "value": "8.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "128 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.76"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.27 t (1h 26m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "735 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.78 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/14 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "240 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "120 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "468 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.01 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.27 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "827"
+  },
+  {
+   "label": "Crew training",
+   "value": "2,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (35 / 60 / 135) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEI/HEI/P/T",
+   "penetration": [
+    "17",
+    "15",
+    "11",
+    "7",
+    "5",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "HEI/SAP-I/AP/T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP/T/HEI",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP/AP/AP/HEI/T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI/HEI/SAP-I/AP",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/AP-I/Ball/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,116 @@
+{
+ "id": "fr_amc_34",
+ "wiki": "https://wiki.warthunder.com/unit/fr_amc_34",
+ "name": "AMC.34 YR",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The Automitrailleuse de Combat AMC.34 (APX-1) , otherwise known as the Renault YR , was an interwar light cavalry tank. It was a further development of earlier tankette designs, which were called to development after the Red Scare with Joseph Stalin taking power of the USSR. The Renault YR started development in 1933, which by March of 1934 received an order of twelve pre-series vehicles without turrets for evaluation and trial deployment. Deployed within the 4e GAM (previously and later re-known as the 4e RC ) in '34, the AMCs were initially armed with modified FT-17 cannon turrets, which shortly after were replaced by surplus APX-1 turrets (produced for the Char D2 ). However, it was not well-received as it didn't achieve the requested mobility and armour. With better tanks being developed and produced, the development of the AMC.34 was cancelled and was redesigned as the later AMC.35 . The AMC.34s were shipped to the colony of Morocco and equipped by the 1e and 5e RCA and received their last turret change to a 1-man APX-2-like turret housing a 25 mm gun. By 1939 they were completely phased out by the H.39 . It was introduced in Update 1.75 \"La Résistance\" . While originally a reserve vehicle, it was later superseded in status as a reserve vehicle in Update 1.93 \"Shark Attack\" by the AMD.35 . The vehicle features 2-man crew, mediocre mobility, armour and firepower. It features a well-armoured turret on a fragile chassis with a subpar SA34 L/30 cannon as the main armament which has poor reload speed and low penetration at 27 mm at point-blank range, which results in a not at all beginner-friendly vehicle and inferior to most rank I tanks. It requires great skill and map knowledge to be used with effectiveness, try to engage at close quarters and with allied support for increased chances of survival.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_amc_34.png",
+ "weapons": [
+  "7.5 mm MAC 31 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "20 / 18 / 10 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "40"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.4"
+  },
+  {
+   "label": "Ammunition",
+   "value": "76 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-18 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,800 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "550 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "106 → 136"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Mle1892G",
+   "type": "APHE",
+   "penetration": [
+    "27",
+    "26",
+    "20",
+    "15",
+    "11",
+    "8"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

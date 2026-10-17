@@ -1,0 +1,168 @@
+{
+ "id": "germ_garford_putilov",
+ "wiki": "https://wiki.warthunder.com/unit/germ_garford_putilov",
+ "name": "Garford-Beute",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "During the Great War, the Imperial German Army made use of many captured vehicles from the Allied powers. One such example is the Garford-Beute , a captured Garford-Putilov armoured car produced for the Russian Naval Infantry regiment. After at least three vehicles were captured in 1917 in poor condition, they were modified to replace the Maxim machine guns with German MG08 machine guns. While the Garfords were assigned to the Kokampf Armoured Division to be used against the Russians, it was only made combat-ready on 10 November 1918—just a day before the Armistice. After the war, the Garford was used by the Freikorps in the newly formed Weimar Republic to quell political riots in various major cities before being scrapped after the signing of the Treaty of Versailles in 1919. Introduced during Update \"Hornet's Sting\" as a reward for the 2025 \"The Great War!\" event , the Garford-Beute is an archaic armoured car based on a truck chassis, with very poor mobility and barely enough armour to resist small-calibre machine guns. Being designed before armoured warfare came into being, the Garford was ill-equipped to deal with tanks and armoured vehicles: The 76.2 mm gun was designed solely to deal with infantry and emplacements, and as such it does not have access to AP shells. Instead, it only has HE and shrapnel shells, both of which can only damage thin-skinned vehicles such as its contemporaries or unarmoured AAs, on top of having abysmal shell velocity. Because of this, the Garford should only be played as a support tank to deal with less-protected enemies, as the vehicle is unable to hold its own.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_garford_putilov.png",
+ "weapons": [
+  "7.92 mm MG08 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "6 / 6 / 6 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "70 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "18"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "3.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "44 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 15°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-125 / 140°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "10.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-4 / 10°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-80 / 1°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "42"
+  },
+  {
+   "label": "Repair cost",
+   "value": "105 → 136"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "76 mm Granata",
+   "type": "HE",
+   "penetration": [
+    "24",
+    "24",
+    "21",
+    "18",
+    "16",
+    "14"
+   ]
+  },
+  {
+   "name": "76 mm Shrapnel",
+   "type": "Shrapnel",
+   "penetration": [
+    "18",
+    "17",
+    "16",
+    "14",
+    "12",
+    "10"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

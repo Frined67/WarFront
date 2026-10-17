@@ -1,0 +1,182 @@
+{
+ "id": "p-51c-11-nt_china",
+ "wiki": "https://wiki.warthunder.com/unit/p-51c-11-nt_china",
+ "name": "␗P-51C-11-NT",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "III",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "4.0"
+ },
+ "description": "The P-51C-11-NT is a modified version of the famous American fighter aircraft from the early 1940s, the P-51 Mustang . The development of the Mustang C began with the introduction of new Packard V-1650-3 engines, which doubled the aircraft's power. Experience gained from the P-51A also allowed for improvements to be made. Two versions of the aircraft were produced: the P-51B in Inglewood, California, and the P-51C in Dallas, Texas. In addition to the new engine, the cooling system and cowling were redesigned, the carburetor was replaced with an updraft carburetor, and the propeller was replaced with a new, four-bladed propeller. Serial production of the P-51C began in the summer of 1943 and continued until September 1944. The initial C-1 fighters were equipped with a low-altitude Packard V-1650-3 engine. Later series, including the C-5, C-10, and C-11, were equipped with a high-altitude Packard V-1650-7 engine. During their service with the U.S. Air Force, C-model Mustangs fought in the Pacific and European theaters until the end of World War II, being decommissioned in 1949. Deliveries of Mustangs to China began in November 1944 for pilots of the Chinese-American Composite Wing (CACW), commanded by the Republic of China Air Force. The Mustangs were intended to replace the outdated P-40s, which no longer posed a significant threat to Japanese pilots. Initially, relatively old P-51B and P-51C models were delivered, but they were soon joined by P-51D and P-51K models. With the end of the Sino-Japanese War, the fighters also participated in the Chinese Civil War. The late history of the early modifications is lost, but it is known that the D and K models continued to serve on both sides until the mid-1950s. The Chinese P-51C-11-NT was introduced as a reward for the Battle Pass Season 15, \"Northern King\" . It is a fast and maneuverable fighter in combat, but its armament of only four M2 Browning machine guns requires good positioning and sustained fire to ensure enemy destruction. It is also inferior to later Mustangs in terms of armament and cockpit visibility in simulator mode.",
+ "image": "https://static.encyclopedia.warthunder.com/images/p-51c-11-nt_china.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "708"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "16.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "21"
+  },
+  {
+   "label": "Max altitude",
+   "value": "12,800 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "V-1650-7"
+  },
+  {
+   "label": "Length",
+   "value": "9.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.3 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "195 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.62"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.74 t (1h 45m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "853 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.84 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "433 / 676 / 676 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "287 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,260"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,340 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "670 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "695"
+  },
+  {
+   "label": "Crew training",
+   "value": "10,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (70 / 165 / 345) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/AP/AP/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/API-T/I/I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "API-T/I/AP/AP/AP-I/AP-I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/I/AP-I/I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

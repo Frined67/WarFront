@@ -1,0 +1,202 @@
+{
+ "id": "mosquito_fb_mk6_ash_norway",
+ "wiki": "https://wiki.warthunder.com/unit/mosquito_fb_mk6_ash_norway",
+ "name": "◢Mosquito FB Mk VI ASH",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "III",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "3.3"
+ },
+ "description": "The de Havilland Mosquito was a British, twin-engine, multi-role aircraft from the early 1940s. The Mosquito FB Mk.VI , its strike variant, was developed based on the Mosquito F Mk.II fighter modification. This modification included installing underwing weapon mounts and an additional fuel tank, as well as reinforcing the wing structure. Some aircraft were also equipped with an AI Mk XV ASH (Air-Surface-H) radar for searching for maritime targets instead of four small-caliber machine guns. Typically, such radars were installed in the wing; however, there was no room for them on the Mosquito, so they were installed in the nose with their antennas placed in the wing. Due to heavy losses suffered by the 333rd Squadron, almost all Norwegian flights ceased. From August 28 to November 15, only reconnaissance flights were carried out. During this time, new pilots were trained. The Mosquito FB Mk.VI became the 333rd Squadron's new workhorse. By Christmas, six aircraft and seven crews were ready, and this number continued to grow. Until the end of World War II, the aircraft served in reconnaissance and anti-ship roles. In 1945, a new squadron, the 334th, also armed with Mosquitos, was formed. After the war ended in November 1945, the squadrons were withdrawn from the Royal Air Force and returned to Norway with their aircraft. The aircraft remained in service until 1952, when they were replaced by jet planes. The Norwegian Mosquito FB Mk. VI ASH was introduced in Update 2.49 \"Tusk Force\" , as a part of the Swedish aviation research tree. Unlike the FB Mk.VI , this aircraft lost four small caliber machine guns but gained radar. In combat, the difference is practically imperceptible; it is a fast, multi-role aircraft with excellent offensive armament and payload. However, it has poor survivability and will lose in a dogfight against the single-engined fighter.",
+ "image": "https://static.encyclopedia.warthunder.com/images/mosquito_fb_mk6_ash_norway.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "618"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "8.5"
+  },
+  {
+   "label": "Turn time",
+   "value": "28"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,300 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "450 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Merlin-25"
+  },
+  {
+   "label": "Length",
+   "value": "12.4 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "16.5 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "208 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "6.95"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.47 t (2h 34m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "720 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.71 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/8 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "312 / 356 / 390 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "315 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.32 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "2,000 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "500 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "960 → 1,319"
+  },
+  {
+   "label": "Crew training",
+   "value": "30,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "70 / 140 / 270 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "29,900"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,200"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEI/SAP-I/T",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/SAP-I",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/HEI/SAP-I/HEI/SAP-I",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/SAP-I/HEI/AP-T",
+   "penetration": [
+    "37",
+    "35",
+    "25",
+    "16",
+    "10",
+    "7"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI/HEI/SAP-I",
+   "penetration": [
+    "22",
+    "20",
+    "14",
+    "9",
+    "6",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

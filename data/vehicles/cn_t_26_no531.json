@@ -1,0 +1,158 @@
+{
+ "id": "cn_t_26_no531",
+ "wiki": "https://wiki.warthunder.com/unit/cn_t_26_no531",
+ "name": "T-26 No.531",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "Between 1937 and 1938, a batch of T-26 s was purchased by the Republic of China, amounting to 82 units, and used at the beginning of the Second Sino-Japanese War. The majority of the tanks were operated by the 200th Mechanized Division of the Nationalist Revolutionary Army of the Kuomintang. Among them was the T-26 numbered 531 - a command tank belonging to the Chinese general Sun Li-jen (Chinese: 孙立人). He was known as an excellent tactician, earning him the nickname \"Rommel of the East\". In the spring of 1942, the 200th Division was transferred to Burma, where in 1943, under Sun Li-jen's command, a series of defeats were inflicted upon the Japanese. After the evacuation of the Kuomintang to Taiwan in 1955, Sun Li-jen was accused of collaborating with Soviet intelligence (due to disputes with Chiang Kai-shek's appointees) and spent a long time under house arrest. T-26 No.531 was introduced in Update 1.91 \"Night Vision\" . Being essentially a copy of the tech-tree version with a unique camouflage, this variant retains all its features: slow, fragile, and inconspicuous, but capable of inflicting significant damage on the enemy team by firing from afar and behind cover. It is a good starting tank for a new player, as it provides access to a powerful and effective gun and at the same time teaches caution due to the particularly weak armour.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cn_t_26_no531.png",
+ "weapons": [
+  "45 mm 20-K cannon",
+  "7.62 mm DT machine gun",
+  "7.62 mm DT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "15 / 15 / 6 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "74 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "28"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "9.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "107 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.8 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 16°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,890 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,134 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-9 / 23°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "322"
+  },
+  {
+   "label": "Crew training",
+   "value": "150"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (15 / 15 / 20) %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,020"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-240",
+   "type": "APHEBC",
+   "penetration": [
+    "70",
+    "67",
+    "58",
+    "47",
+    "39",
+    "32"
+   ]
+  },
+  {
+   "name": "BR-240SP",
+   "type": "APBC",
+   "penetration": [
+    "73",
+    "70",
+    "60",
+    "50",
+    "41",
+    "34"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

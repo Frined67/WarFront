@@ -1,0 +1,170 @@
+{
+ "id": "ffvs_j22_b",
+ "wiki": "https://wiki.warthunder.com/unit/ffvs_j22_b",
+ "name": "J22-B",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "III",
+ "br": {
+  "AB": "4.0",
+  "RB": "3.7",
+  "SB": "2.3"
+ },
+ "description": "The J22-B is a Swedish fighter. It was introduced in Update 1.95 \"Northern Wind\" . With World War II on the brink of starting, Sweden realized that their air fleet was outdated and many foreign options fell through either through unacceptable offers, embargoes or unrealistic transit times. SAAB was already at maximum capacity building SAAB 17 fighters and SAAB 18 bombers and could not help. To bypass this problem, a new company and factory were setup (Royal Air Administration Factory in Stockholm, FFVS) to build the J 22 fighter. This fighter was relatively straight forward as a steel frame and plywood covered aircraft of a conventional build. The main landing gear retracted into the fuselage and everything was built simplistically to aid in the expedient building along with easy maintenance. Due to the necessity of needing engines for this aircraft, an unlicensed copy of the Pratt & Whitney R-1830 engine was built and utilised (though later the license fees were paid). The simplicity of the aircraft not only made it a dream to build and maintain but for the pilots which flew it, they stated that it was well-liked and was very responsive resulting in good manoeuvrability. Though problems typical to tail-dragger aircraft, forward visibility while taxiing was terrible and it was necessary to lock in the tail wheel on takeoff to prevent the aircraft from entering into a ground-loop and crashing. Pilots found that the J22-B could hold its own in a mock dogfight with Swedish P-51s (J26) as long as they remained under 4,000 m (13,000 ft), anywhere above that, the fighter began to struggle and lose any equality or advantage it had over the Mustangs and required the pilot to really work the controls just to be anywhere close to competitive. Tight turns sometimes resulted in the J22-B inadvertently flipping over onto its back. Pilots in War Thunder will find controlling the J22-B relatively easy especially when speed is maintained as long as they remain under the 4,000 m ceiling. This fighter is not necessarily the best choice for intercepting bombers unless they attempt to tackle the smaller attacker/bombers or low-altitude strategic bombers like the Do 17, Su-2s or other bombers in this size/weight range. The J22-B should be able to hold its own with most fighters in a dogfight, however, it would be wise to look for any speed/height advantages before taking on an A6M or Spitfire. Like many fighters of its day, being outfitted with only machine guns can mean more time spent firing at a target, but for those pilots who properly set their convergence and then fight within that range, the four machine guns should be more than sufficient to take down most enemy fighters.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ffvs_j22_b.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "560"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.5"
+  },
+  {
+   "label": "Turn time",
+   "value": "21"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "330 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "STWC3"
+  },
+  {
+   "label": "Length",
+   "value": "7.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "174 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.51"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.28 t (1h 2m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "670 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.77 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "225 / 445 / 488 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "270 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,080 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.84 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "892 → 1,120"
+  },
+  {
+   "label": "Crew training",
+   "value": "13,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 130 / 280 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "19,800"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "980"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEF-T/AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "HEF-T/AP/AP/AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF-T/HEF-T/AP/HEF-T",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,142 @@
+{
+ "id": "germ_a7v",
+ "wiki": "https://wiki.warthunder.com/unit/germ_a7v",
+ "name": "A7V",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "When the British Empire deployed tanks in combat for the first time in history in September 1916, the German War Ministry recognised the threat of the new weapon and started a project to develop their equivalent. The new \"Sturmpanzerwagen\" (armoured assault vehicle) was to be called the A7V , shorthand for Abteilung 7 Verkehrswesen (section 7, transport), the division of the GWM responsible for designing the vehicle. The A7V's chassis, like its French contemporaries, was based on a modified Holt tractor chassis. The A7V entered service during the final year of the war, in which it was involved in the first tank battle in history at the Second Battle of Villers-Bretonneux. While the A7V proved capable as a breakthrough vehicle as designed, it suffered from mechanical problems as well as poor off-road mobility due to its high centre of gravity. As such, the German Army did not consider the A7V a success, and a plan for its successor was made. However, this was put to an end due to the Armistice in November 1918. Out of the 20 tanks built, only a single example named \"Mephisto\" survives to this day and is on display at the Australian War Memorial in Canberra. Introduced during Update \"Hornet's Sting\" as one of the rewards for the 2025 \"The Great War!\" event , the A7V is very archaic in design. The tank's massive crew of 18 is packed inside a thinly clad, boxy hull. While the tank's top speed of 12 km/h was considered impressive during its heyday, it is extremely poor when compared to more modern tanks. As such, the A7V will usually be the last to reach the objective. The A7V is armed with a single 57 mm Maxim-Nordenfelt cannon, with barely enough penetration to damage other tanks and very poor velocity. However, with the aforementioned huge crew count, the A7V is capable of taking a large number of hits from the low-calibre guns that are common at its BR.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_a7v.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "30 / 20 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "187 %"
+  },
+  {
+   "label": "Crew",
+   "value": "18 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "12"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "6.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "180 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-20 / 20°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-40 / 40°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "10.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "30,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 10°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-45 / 45°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "42"
+  },
+  {
+   "label": "Repair cost",
+   "value": "127 → 163"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Gr.m.P.",
+   "type": "APHE",
+   "penetration": [
+    "40",
+    "38",
+    "32",
+    "26",
+    "21",
+    "17"
+   ]
+  },
+  {
+   "name": "Gr.",
+   "type": "HE",
+   "penetration": [
+    "6",
+    "6",
+    "5",
+    "5",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

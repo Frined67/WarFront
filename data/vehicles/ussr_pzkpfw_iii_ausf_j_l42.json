@@ -1,0 +1,120 @@
+{
+ "id": "ussr_pzkpfw_iii_ausf_j_l42",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_pzkpfw_iii_ausf_j_l42",
+ "name": "▂T-III",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "I",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "During the Polish campaign, Red Army soldiers found a damaged Pz.III tank, abandoned by its crew, which was secretly transported to the USSR and thoroughly studied. With the attack of Nazi Germany on the Soviet Union, Red Army soldiers began capturing other Pz.III tanks. These were then repaired and put into service with Soviet units under the designation T-III (Type-3). They were successfully used until 1943, when, due to insufficient penetration of the main gun and a limited supply of captured ammunition, they were withdrawn from service. The Soviet T-III was introduced in Update 1.43 . Being a copy of the German Pz.III J , it also boasts a powerful 50 mm gun, which allows it to engage even the most heavily armoured combat vehicles encountered in battles. Its decent mobility allows it to both keep up with light tanks, supporting them with fire, and to take up advantageous firing positions. One of the tank's key drawbacks is its mediocre survivability: the crew is compactly arranged, and the upper glacis plate and sides are easily penetrated. Therefore, for increased protection, the tank should be angled with a corner towards the enemy.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_pzkpfw_iii_ausf_j_l42.png",
+ "weapons": [
+  "7.92 mm MG34 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "53 / 30 / 53 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "53"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "99 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,350 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "857"
+  },
+  {
+   "label": "Crew training",
+   "value": "2,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (35 / 40 / 45) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "PzGr 39",
+   "type": "APC",
+   "penetration": [
+    "80",
+    "76",
+    "62",
+    "48",
+    "38",
+    "29"
+   ]
+  },
+  {
+   "name": "PzGr 40",
+   "type": "APCR",
+   "penetration": [
+    "116",
+    "107",
+    "74",
+    "47",
+    "30",
+    "19"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,126 @@
+{
+ "id": "jp_type_89b_i_go_otsu",
+ "wiki": "https://wiki.warthunder.com/unit/jp_type_89b_i_go_otsu",
+ "name": "I-Go Ko",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The I-Go Ko was Japan's first domestic mass-produced tank, with the model B (otsu) being the world's first diesel-powered mass-produced tank to boot. Design started in 1925 as a light tank project planned on the FT-17, but the design based on the Vickers Medium C, the I-Go was adopted in 1929 as a light tank but shortly after reclassified as a medium tank for weighing over 10 tons. Well regarded in its early career against the poorly armoured forces of the Chinese, it couldn't keep up with motorized infantry and was easily outgunned at Khalkin Gol, and would be phased out by the 2nd generation of Imperial Japanese tanks, the Ha-Go and Chi-Ha . It was introduced in Update 1.65 \"Way of the Samurai\" along with the rest of the initial Japanese Ground Forces Tree. While a slow infantry support tank, with little armour for tank combat, it comes equipped with a low velocity 57 mm cannon loaded with capable HEAT shells, able to lob high penetrating shells at close range and behind cover. Making for a challenging task for new tankers, it will serve as a trial by fire to learn positioning and shell trajectory with a glass cannon.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_type_89b_i_go_otsu.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "17 / 17 / 17 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "74 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "27"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "9.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "100 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.3 → 3.3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "10.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 10 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "3,620"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Type 92 APHE",
+   "type": "APHE",
+   "penetration": [
+    "21",
+    "21",
+    "19",
+    "16",
+    "14",
+    "13"
+   ]
+  },
+  {
+   "name": "Type 3 HEAT",
+   "type": "HEAT",
+   "penetration": [
+    "55",
+    "55",
+    "55",
+    "55",
+    "55",
+    "55"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "Ball/T",
+   "penetration": [
+    "5",
+    "4",
+    "2",
+    "1",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

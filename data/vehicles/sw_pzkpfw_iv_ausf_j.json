@@ -1,0 +1,164 @@
+{
+ "id": "sw_pzkpfw_iv_ausf_j",
+ "wiki": "https://wiki.warthunder.com/unit/sw_pzkpfw_iv_ausf_j",
+ "name": "▄Pz.IV",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "III",
+ "br": {
+  "AB": "4.0",
+  "RB": "4.0",
+  "SB": "4.0"
+ },
+ "description": "The Panzerkampfwagen IV (7.5 cm 40 L/48) Ausführung J , also known as the PzKpfw IV J, was a German medium tank purchased by Finland. Deliveries of the Pz.IV tank began in July 1944. According to Finnish plans, two battalions (one partially) of an armored division were to be equipped with Pz.IV tanks, for which a total of 70 tanks were required. However, the Finnish military was unable to carry out these plans. By September 1944, when Finland withdrew from the war, only 15 tanks had been received. They were sent to the 2nd Battalion of the Tank Brigade and supported StuG IIIs. Until the war ended for Finland, one tank was lost due to an engine fire. After the war, four more tanks were lost in a warehouse fire. Since 1951 Pz.IVs were used exclusively for crew training until getting decommissioned in 1962. The Finnish Pz.IV was introduced in Update 2.21 \"Fire and Ice\" , and is located in the Swedish ground research tree. It is virtually identical to the German Pz.IV J , featuring a slow manual turret drive, but decent armor and powerful cannon.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_pzkpfw_iv_ausf_j.png",
+ "weapons": [
+  "7.92 mm MG34 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "80 / 30 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "98 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "39"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12"
+  },
+  {
+   "label": "Ammunition",
+   "value": "87 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,150 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,057 → 1,430"
+  },
+  {
+   "label": "Crew training",
+   "value": "22,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "70 / 100 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "24,600"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,100"
+  }
+ ],
+ "shells": [
+  {
+   "name": "PzGr 39",
+   "type": "APCBC",
+   "penetration": [
+    "145",
+    "143",
+    "130",
+    "116",
+    "104",
+    "93"
+   ]
+  },
+  {
+   "name": "Sprgr. 34",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "Hl.Gr 38B",
+   "type": "HEAT",
+   "penetration": [
+    "80",
+    "80",
+    "80",
+    "80",
+    "80",
+    "80"
+   ]
+  },
+  {
+   "name": "PzGr 40",
+   "type": "APCR",
+   "penetration": [
+    "182",
+    "177",
+    "159",
+    "140",
+    "122",
+    "107"
+   ]
+  },
+  {
+   "name": "K.Gr.Rot Nb.",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

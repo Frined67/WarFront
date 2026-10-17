@@ -1,0 +1,100 @@
+{
+ "id": "ussr_su_57",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_su_57",
+ "name": "SU-57",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "I",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "SU-57 was the Soviet designation for the American T48 GMC, developed by Diamond T in 1942 and actively supplied to the USSR under Lend-Lease. The T48 emerged as a quick solution to American and British military needs for increased mobility of anti-tank guns and is based on the M3 half-track armoured personnel carrier, armed with a US-made version of the British 57 mm Ordnance QF 6-pounder gun. A total of 962 T48s were produced between 1942 and 1943, ultimately proving unnecessary for both British and American forces. However, this self-propelled gun was actively supplied to the Soviet Union, which received 650 T48s between 1943 and 1945, and used them throughout the latter half of World War II. Introduced in Update 1.49 \"Weapons of Victory\" , the SU-57 is similar to the American 75 mm GMC M3 , mounting a gun on the back of a half-track. The most distinctive feature of this vehicle is its gun. Armed with the very accurate 57 mm M1 gun with good penetration and fast reload speed, the SU-57 is a very effective long-range tank destroyer. Aside from that, the SU-57 is very mobile, fast, and agile. This, however, is vital for its survival as the vehicle lacks adequate armour protection. In order to use the SU-57 effectively, it is essential to combine its firepower with its mobility - attack selected targets from distance and be prepared for rapid relocation, as one well-placed enemy shot can tear the vehicle apart. On the other hand, one well-placed shot of the 57 mm gun can tear apart almost everything the SU-57 will encounter, especially when aiming for weak spots.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_su_57.png",
+ "weapons": [
+  "57 mm M1 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "6 / 6 / 6 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "76"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "17.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "99 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 15°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-26 / 26°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "4.9"
+  },
+  {
+   "label": "Repair cost",
+   "value": "559"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,400"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (30 / 35 / 45) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M70",
+   "type": "AP",
+   "penetration": [
+    "118",
+    "114",
+    "97",
+    "80",
+    "66",
+    "54"
+   ]
+  },
+  {
+   "name": "M86",
+   "type": "APCBC",
+   "penetration": [
+    "122",
+    "118",
+    "103",
+    "87",
+    "73",
+    "62"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

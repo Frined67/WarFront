@@ -1,0 +1,120 @@
+{
+ "id": "ussr_zis_43",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_zis_43",
+ "name": "ZiS-43",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "II",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.0",
+  "SB": "2.7"
+ },
+ "description": "The ZiS-43 is a self-propelled anti-aircraft gun prototype developed by the Soviets during World War II to improve anti-air capability against enemy aircraft. In 1942, a 37 mm 61K autocannon was mounted and tested on a half-track. Thin armour plates were installed throughout the vehicle to provide minor protection for the crews. It never progressed beyond the prototype stage. Introduced in Update 1.65 \"Way of the Samurai\" , the ZiS-43 is a mediocre vehicle that takes a lot of practice to master. Despite its potent main armament, it is poorly armoured, tall, slow, and unstable. While the 37 mm 61K autocannon can penetrate most enemy ground targets from the side, it is too slow to perform any effective flanking manoeuvres. Due to the slow rate of fire requiring precision hits and accurate target leading, engaging enemy aircraft requires a steep learning curve as well.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_zis_43.png",
+ "weapons": [
+  "37 mm 61-K cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "10 / 10 / 10 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "35"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "10.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "260 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "0.6 → 0.5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "160 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 85°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "21"
+  },
+  {
+   "label": "Repair cost",
+   "value": "911 → 1,172"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "60 / 60 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,340"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/HEFI-T",
+   "penetration": [
+    "70",
+    "68",
+    "56",
+    "45",
+    "36",
+    "29"
+   ]
+  },
+  {
+   "name": "UO-167",
+   "type": "HEFI-T",
+   "penetration": [
+    "8",
+    "8",
+    "7",
+    "5",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "BR-167",
+   "type": "AP-T",
+   "penetration": [
+    "70",
+    "68",
+    "56",
+    "45",
+    "36",
+    "29"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,242 @@
+{
+ "id": "a6m2_zero",
+ "wiki": "https://wiki.warthunder.com/unit/a6m2_zero",
+ "name": "A6M2",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "3.3"
+ },
+ "description": "The A6M2 Mod. 21 , designated as the Type 0 Carrier-based Fighter Model 21 ( 零式艦上戦闘機二一型 ) , was the most common version of the Zero encountered by Allied pilots. The A6M2 had excellent manoeuvrability and long range, making it a formidable carrier-borne dogfighter in the early stages of the war. It participated in several major battles, such as Pearl Harbor, Midway, and the Aleutian Islands campaign. However, it also had some weaknesses, such as lack of armour, self-sealing fuel tanks, or hydraulic boosters. As the war progressed, the A6M2 Model 21 became outmatched by newer and more powerful Allied fighters, such as the F6F Hellcat and the F4U Corsair . It has been in the game since the start of the Open Beta Test prior to Update 1.27. As the first proper production model of the A6M series, the A6M2 mod. 21 comes with the full package for carrier operations over the A6M2 mod. 11 : tail hook, external fuel tank mountings, and foldable wing tips. Despite the different wings, the Model 21 will fly on par with the earlier model. It has near unprecedented manoeuvrability, and deadly but limited and low-velocity 20 mm cannons. The A6M2 can dominate any dogfight at its own or lower altitude, depending on the pilot's skill, but it can be easily outrun by faster enemies. In that case, the pilot has to decide whether to take a final shot or break off the engagement, as pursuing the enemy may expose the Zero to interception by other fighters. If faced with a Boom-N-Zoom attack, the pilot must avoid the enemy's fire by using the Zero's agility, as the plane has no armour, self-sealing fuel tanks, or robust airframe. Although the A6M2 is not the fastest plane in its tier, it can keep up with its opponents better than the later A6M5s, which encounter proportionally much faster aircraft more often.",
+ "image": "https://static.encyclopedia.warthunder.com/images/a6m2_zero.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "510"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "13.3"
+  },
+  {
+   "label": "Turn time",
+   "value": "17"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,300 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "175 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Sakae 12"
+  },
+  {
+   "label": "Length",
+   "value": "9.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "107 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.01"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.39 t (1h 30m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "660 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.83 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/13 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 451 / 484 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "310 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "120 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "520 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.11 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,360 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "599 → 815"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 100 / 200 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,350"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/HEF-I/HEF-I/APHE",
+   "penetration": [
+    "19",
+    "18",
+    "12",
+    "7",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "HEF-T/HEF/HEF/APHE",
+   "penetration": [
+    "21",
+    "20",
+    "13",
+    "8",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "APHE/APHE/APHE/APHE/HEF/HEF-T",
+   "penetration": [
+    "21",
+    "20",
+    "13",
+    "8",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "HEF-T",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEF/HEF/HEF/APHE/APHE",
+   "penetration": [
+    "21",
+    "20",
+    "13",
+    "8",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/IAI/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/IAI/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "I/AP/AP/AP/IAI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

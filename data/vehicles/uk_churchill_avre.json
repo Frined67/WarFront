@@ -1,0 +1,108 @@
+{
+ "id": "uk_churchill_avre",
+ "wiki": "https://wiki.warthunder.com/unit/uk_churchill_avre",
+ "name": "Churchill AVRE Petard",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "heavy_tank",
+ "role": "Heavy tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The Churchill AVRE Petard, officially the \"Mortar, Recoiling, Spigot, 29 mm, Mk I\", was the first vehicle to bear the name \"AVRE\" (Armoured Vehicle Royal Engineer) as a breakthrough tank for the British Army's Royal Engineers. The 1942 Dieppe Raid revealed a dire need for a vehicle that could assist in breaching extensive bunker/pillbox defences, particularly when attempting to break through enemy lines from new beachheads. This vehicle would serve as a mobile cover for Royal Engineers while operating in the battlefield. After evaluations of several tanks, the Churchill infantry tank became the chosen vehicle for this mission. Aside from some components being replaced by engineering supplies and having larger side doors for infantry operation, a new 29 mm spigot mortar, dubbed the \"flying dustbin\", was also installed in the turret to launch ranged demolition charges without having to leave the vehicle during crossfire. After trials in 1943, the new vehicle, now known as the Churchill AVRE, was ready for service and proved very successful during the breakthrough stage in the Normandy Landings in June 1944. The 79th Armoured Division, with their \"Hobart's Funnies\" vehicles, successfully provided reliable support for the first wave of assault groups. The AVRE name would also be retained for all new vehicles designed for these purposes, including the Centurion Mk.5 AVRE which was still in service during the Gulf War of the 1990s. Introduced during Update \"Alpha Strike\" as a reward for the 2024 Operation Overlord event , the Churchill AVRE plays similarly to the German Sturmtiger , as instead of a cannon it has a 230 mm Petard mortar, which launches huge 18 kg projectiles. However, such a weapon requires special skill: aiming is not easy due to the low initial velocity of the projectile. For the same reason, the effective range of the mortar's flight does not exceed 100 metres, so the Churchill AVRE is effective only at short combat distances, such as in urban areas. The outstanding protection of the Churchill will be very useful to get close enough to enemy vehicles, allowing it to survive several hits. However, it should be noted that the gun has a long reload time, and the loaded shell in the barrel can be easily detonated with even machine gun fire.",
+ "image": "https://static.encyclopedia.warthunder.com/images/uk_churchill_avre.png",
+ "weapons": [
+  "7.92 mm BESA machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "89 / 76 / 51 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "87 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "28"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "9.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "16 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "26 → 20 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-3 / 15°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "6,975 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "566"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,400"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (40 / 55 / 65) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "No.1 Demolition Bomb",
+   "type": "R",
+   "penetration": [
+    "64",
+    "64",
+    "64",
+    "64",
+    "64",
+    "64"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

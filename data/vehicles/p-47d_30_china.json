@@ -1,0 +1,190 @@
+{
+ "id": "p-47d_30_china",
+ "wiki": "https://wiki.warthunder.com/unit/p-47d_30_china",
+ "name": "␗P-47D-30",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "III",
+ "br": {
+  "AB": "4.0",
+  "RB": "5.0",
+  "SB": "3.7"
+ },
+ "description": "The P-47D-30 Thunderbolt was an American fighter aircraft supplied to the Kuomintang after World War II. After the war, the Republic of China Air Force received 102 P-47s of various models from the U.S. 14th Air Force. They were supplemented by around 250 F-47Ns in 1950-1951. These Thunderbolts were used during the Chinese Civil War and, after the Kuomintang’s defeat, formed the backbone of Taiwan’s fighter aviation. They were retired in 1957. The Chinese P-47D-30 was introduced in Update 1.91 \"Night Vision\" . The “Thunderbolt” is the ideal high-speed fighter in terms of its characteristics: powerful offensive armament, good top speed, excellent handling at high speeds, and a high speed limit. These features allow players to effectively employ the “Boom & Zoom” tactics. Additionally, the P-47D is handful in ground attack thanks to its ability to carry a large number of bombs and rockets. On the other hand, its a heavy plane with a poor climb rate.",
+ "image": "https://static.encyclopedia.warthunder.com/images/p-47d_30_china.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "714"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "14.1"
+  },
+  {
+   "label": "Turn time",
+   "value": "23"
+  },
+  {
+   "label": "Max altitude",
+   "value": "12,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "700 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "R-2800-59"
+  },
+  {
+   "label": "Length",
+   "value": "10.6 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12.4 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "237 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "5.27"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.03 t (1h 6m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "885 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.9 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "320 / 469 / 498 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "450 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,400 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,970 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "935 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "983 → 1,298"
+  },
+  {
+   "label": "Crew training",
+   "value": "22,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "60 / 140 / 310 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "24,500"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,100"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/AP/AP/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/API-T/I/I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "API-T/I/AP/AP/AP-I/AP-I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/I/AP-I/I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,162 @@
+{
+ "id": "hawk_iii",
+ "wiki": "https://wiki.warthunder.com/unit/hawk_iii",
+ "name": "Hawk III",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.3"
+ },
+ "description": "The Curtiss Model 68 Hawk III was an export version of the BF2C Goshawk naval fighter developed in 1935 following the withdrawal of the BF2C from the US Navy carrier fleet. Compared to the original version, the Hawk III features an improved version of the Wright R-1820 Cyclone engine as well as provision for larger bomb load. China became the largest operator of the Hawk III after acquiring license to produce 100 aircrafts in addition of two purchased from the US. These aircraft were extensively used during the Second Sino-Japanese war, particularly during the Battle of Shanghai and Nanjing. Despite it being frequently pitted against superior Japanese monoplanes such as the IJN's A5M and IJA's Ki-27 , several Chinese pilots ended up becoming a fighter ace while solely flying the Hawk IIIs. After the introduction of the Soviet-supplied I-15 and I-16 fighters, the remaining Hawk IIIs were relegated to secondary roles The Hawk III was introduced in the Update 1.91 \"Night Vision\" . Compared to the American version, the BF2C-1 the Hawk III features two key improvements; speed and bomb loadout. Powered by an improved version of the Wright Cyclone engine, the Hawk is noticeably faster than most biplanes at its rank, and is capable of carry a considerably large payload for its size in the form of a single 500 lb bomb and four 100 lb bombs. While the main armament of two machine guns is quite lackluster, the Hawk is still capable as a fighter and excel at providing close air support.",
+ "image": "https://static.encyclopedia.warthunder.com/images/hawk_iii.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "444"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "15.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "13.3"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,700 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "274 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Cyclone R-1820-F53"
+  },
+  {
+   "label": "Length",
+   "value": "7.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "80 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.64"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.31 t (1h 53m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "600 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/12 G"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "280 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,200 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "300"
+  },
+  {
+   "label": "Crew training",
+   "value": "150"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (15 / 25 / 55) %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,540"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP/T/T/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

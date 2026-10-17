@@ -1,0 +1,166 @@
+{
+ "id": "i-153_m62_china",
+ "wiki": "https://wiki.warthunder.com/unit/i-153_m62_china",
+ "name": "␗I-153 M-62",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.0"
+ },
+ "description": "The I-153 M-62 \"Chaika\" was a Soviet single-engine piston fighter designed by the Polikarpov Design Bureau. It was an advancement of the I-15 and I-15bis models. Compared to its predecessors, the I-153 had improved aerodynamics. The characteristic gull-type upper wing was reinstated, and retractable landing gear was introduced. Additionally, the aircraft received a more powerful, higher-altitude M-62 engine with a variable-pitch propeller; its overall structure was reinforced; and an armored backplate was added to protect the pilot. Despite its prolonged and problematic development process, the aircraft entered service in 1938 and saw action in several conflicts, including the Khalkhin Gol battles, the Soviet-Finnish War, and the early stages of the Great Patriotic War. It was also supplied abroad. From autumn 1937 to early 1941, 1,250 aircraft of various types were delivered to China. Of these, 93 were I-153 fighters received in the first half of 1940. That same year, three groups were formed from the delivered \"Chaikas\" and were used for air defense around major population centers. Most of these aircraft were lost in combat against Japanese fighters and bombers. The Chinese I-153 M-62 was introduced in Update 1.91 \"Night Vision\" . The \"Chaika\" stands out as an exceptional fighter in its class, offering outstanding turning performance, respectable speed, and a good climb rate for a biplane. It is also armed with four weak ShKAS machine guns, as well as able to carry unguided rockets or bombs. However, it has low structural durability, and its dive and level-flight speed are inferior to those of monoplanes.",
+ "image": "https://static.encyclopedia.warthunder.com/images/i-153_m62_china.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "444"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "15.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "13.3"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,700 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "274 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "M-62"
+  },
+  {
+   "label": "Length",
+   "value": "6.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "83 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.6"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.24 t (1h 2m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "580 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/12 G"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "450 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,470"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "170 → 213"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 30 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,420"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AI/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

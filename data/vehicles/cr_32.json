@@ -1,0 +1,174 @@
+{
+ "id": "cr_32",
+ "wiki": "https://wiki.warthunder.com/unit/cr_32",
+ "name": "CR.32",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The CR.32 is a biplane fighter designed by the aeronautical engineer Celestino Rosatelli, as a modification of the CR.30: the structure around the engine was modified, and the armament was improved with two Breda-SAFAT 12.7 mm. It was given the serial number MM 201, tested at Montecelio and consequently renamed to CR.32. The biplane was appreciated by the Regia Aeronautica for its balanced manoeuvrability and armament and was used in several units and various campaigns. Introduced in Update 1.69 \"Regia Aeronautica\" , the CR.32 is the first aircraft available in the Italian tech tree. It is a very good fighter with very powerful 12.7 mm machine guns, particularly when using the \"Air targets\" belt, very manoeuvrable even at low speeds, and is in practice a turn fighter. It can withstand few shots before being destroyed, but in the end as a reserve is an excellent aircraft.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cr_32.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "372"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "9.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "14"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "150 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "A30"
+  },
+  {
+   "label": "Length",
+   "value": "7.5 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "83 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.56"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.27 t (1h 31m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "590 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.7 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -7/15 G"
+  },
+  {
+   "label": "Ammunition",
+   "value": "700 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.39 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "3,270"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "2"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP-I/HEF/API-T/I",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "API-T/AP-I/HEF",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "21",
+    "19",
+    "12",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/AP-I/HEF/HEF",
+   "penetration": [
+    "20",
+    "18",
+    "11",
+    "6",
+    "4",
+    "2"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,161 @@
+{
+ "id": "it_m15_42",
+ "wiki": "https://wiki.warthunder.com/unit/it_m15_42",
+ "name": "M15/42",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The Fiat-Ansaldo M15/42 , also known as the M15/42, was an Italian medium tank. Also known as the M.42, it was an improvement on the M13/40 design developed and produced by the same company. By July 1942, the M13/40 and M14/41's problems and defects were well known, so development began on an updated tank with a more advanced engine and modernized gun. The updated vehicle was equipped with a more powerful gasoline engine (diesel fuel was in short supply, and most of it was being diverted to naval needs and army freight transport), with a power output of 190 hp, as well as a modernized 47/32 gun (also used in the M14/41 ). This new tank served as the basis for the 75/34 M42 and the Semovente da 75/18 self-propelled artillery pieces. A total of 152 vehicles were produced and used by the Wehrmacht, the Royal Italian Army, and the Army of the Republic of Salò following the September 1943 split. The M15/42 was introduced in Update 1.85 \"Supersonic\" . This combat vehicle has good mobility and a decent gun with a fast reload time. However, its weak armor and mediocre gun traverse speed prevent it from reaching its full potential.",
+ "image": "https://static.encyclopedia.warthunder.com/images/it_m15_42.png",
+ "weapons": [
+  "8 mm Breda Mod. 38 machine gun",
+  "8 mm Breda Mod. 38 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 25 / 25 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "82 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "38"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "12.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "111 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.8 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "288 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,536 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "392 → 530"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 40 / 40 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,910"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Granata mod.35",
+   "type": "HE",
+   "penetration": [
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "Granata Perforante mod.39",
+   "type": "APHE",
+   "penetration": [
+    "62",
+    "61",
+    "53",
+    "46",
+    "39",
+    "33"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

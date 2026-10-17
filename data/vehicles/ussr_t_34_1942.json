@@ -1,0 +1,201 @@
+{
+ "id": "ussr_t_34_1942",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_t_34_1942",
+ "name": "T-34 (1942)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "4.0",
+  "RB": "4.0",
+  "SB": "4.0"
+ },
+ "description": "The T-34 (1942) is the third variant of the T-34 medium tank family. Since the T-34's standardized manufacturing machine tools were not easily available, modifications were rarely introduced into the production process. Despite the protests of the crews and commanders, several elements of the T-34 remained unmodified until 1942. For the T-34 (1942) variant, the main changes were to make the manufacturing process streamlined and the parts became less expensive. For example, the regularly used F-34 76.2 mm tank gun was streamlined to the point that approximately 200 parts (from 861 to 614) were no longer required. Even though numerous gun mounts were tested, the gun sights and range finder remained primitive. The crews were unable to use their guns at long range, as the Germans frequently did. This resulted in aggressive tactics focused on frequent mobility, whereas German tanks could remain still and fire at approaching targets from a safe distance. Due to a paucity of rubber, regular rubberized wheels were not utilized, and many bare-metal wheels of various designs were employed. This is frequently observed in photographs (and reflected in-game) as a bizarre blend of road wheels. Early in 1942, a new, considerably improved hexagonal turret was introduced as an outcome of the abandoned T-34M project, which was an important improvement over the previous T-34 (1941) variant . Notably, the large hatch was replaced by separate hatches (called \"Mickey Mouse\" by the Germans because of how it appeared from the front with the hatches open). Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the T-34 (1942) improved crew ergonomics and dependability, although this is largely due to mechanical component simplification rather than a primary objective of crew comfort. In general, the T-34 (1942) variant is quite similar to the previous T-34 (1941) variant in capabilities and attributes, but with a somewhat faster reload speed and a thicker driver's hatch cover. It also has late-war armour-piercing composite rigid (APCR) ammunition at its disposal. However, as adversaries begin to gain more powerful armaments, resulting in much tougher enemies in battle, players may begin to find the hull frontal armour plate inadequate in protection.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_t_34_1942.png",
+ "weapons": [
+  "76 mm F-34 cannon",
+  "7.62 mm DT machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "45 / 45 / 40 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "83 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "49"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "100 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "8.4 → 6.5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 30°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "17.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,890 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "651 → 894"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 70 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,390"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BR-350A (MD-5 fuze)",
+   "type": "APHEBC",
+   "penetration": [
+    "87",
+    "85",
+    "77",
+    "69",
+    "62",
+    "55"
+   ]
+  },
+  {
+   "name": "OF-350M",
+   "type": "HE",
+   "penetration": [
+    "13",
+    "12",
+    "11",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "Sh-354T",
+   "type": "Shrapnel",
+   "penetration": [
+    "35",
+    "34",
+    "30",
+    "26",
+    "22",
+    "19"
+   ]
+  },
+  {
+   "name": "BR-350SP",
+   "type": "APBC",
+   "penetration": [
+    "99",
+    "96",
+    "87",
+    "76",
+    "66",
+    "58"
+   ]
+  },
+  {
+   "name": "BR-354P",
+   "type": "APCR",
+   "penetration": [
+    "125",
+    "117",
+    "87",
+    "60",
+    "41",
+    "28"
+   ]
+  },
+  {
+   "name": "BP-353A",
+   "type": "HEAT",
+   "penetration": [
+    "80",
+    "80",
+    "80",
+    "80",
+    "80",
+    "80"
+   ]
+  },
+  {
+   "name": "BR-350B (MD-8 fuze)",
+   "type": "APHEBC",
+   "penetration": [
+    "96",
+    "94",
+    "84",
+    "74",
+    "64",
+    "56"
+   ]
+  },
+  {
+   "name": "D-350A",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

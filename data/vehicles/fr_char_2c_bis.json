@@ -1,0 +1,122 @@
+{
+ "id": "fr_char_2c_bis",
+ "wiki": "https://wiki.warthunder.com/unit/fr_char_2c_bis",
+ "name": "2C bis",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "heavy_tank",
+ "role": "Heavy tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "The Char 2C bis is an experimentally modified Char 2C that primarily differs in its main armament. Following a decision made in December 1922, a standard Char 2C was modified at La Seyne from 1923 to 1926 and designated Char 2C bis, an experimental super-heavy tank with a 155 mm Schneider 155 C howitzer in a rounded cast steel turret. The main armament had a muzzle velocity of 200 m/s. The three separate machine gun positions were removed and more powerful Sautter-Harlé engines were installed. The tank weighed around 74 tonnes in this configuration. The modification was only temporary, as this experimental super-heavy tank was returned to its original state after 1934. Introduced in Update \"Apex Predators\" , the 2C bis has a playstyle comparable to the Char 2C . However, since it is equipped with a short-barreled 155 mm howitzer, the reload time is substantially longer than most adversaries it will face during combat, players need always make every shot count in this experimental super-heavy tank. Despite being a super-heavy tank, its armour is not thick enough to stop the majority of tank rounds fired at it, and as such the 2C bis relies entirely on its huge crew count of 12 and empty hull space to survive. Staying behind the frontlines and acting as artillery is a feasible strategy, but due to the low velocity of the ammunition, this is extremely challenging for inexperienced players. Though with a careful aim, mastering the howitzer can be very rewarding, especially since it can obliterate even tanks at a much higher rank or BR. Always be aware of your surroundings and stay close to allies to prevent being isolated and overwhelmed by enemies.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_char_2c_bis.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "45 / 22 / 22 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "250 %"
+  },
+  {
+   "label": "Crew",
+   "value": "12 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "15"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "7.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "24 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "22.4 → 17.2 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 20°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-100 / 100°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "6,000"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "450 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 10°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-130 / 120°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "14"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,086"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,400"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (30 / 30 / 40) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "OA Mle1914",
+   "type": "HE",
+   "penetration": [
+    "63",
+    "63",
+    "63",
+    "63",
+    "63",
+    "63"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

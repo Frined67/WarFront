@@ -1,0 +1,166 @@
+{
+ "id": "fr_saint_chamond",
+ "wiki": "https://wiki.warthunder.com/unit/fr_saint_chamond",
+ "name": "St-Chamond",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The Saint-Chamond was the second French tank to enter service during World War I. The tank was born as a result of business rivalry between the arms manufacturer Schneider, the designer of the Schneider CA1 tank (the first French tank to enter service) and the FAMH steel plant; when FAMH was ordered to build 400 tanks of Schneider’s design, Schneider refused to share the tank’s patents for free, prompting FAMH to try to come up with a better design to upstage the former. Similar to the CA1 and the German counterpart, the A7V , the Saint-Chamond was based on a modified Holt tractor chassis. When the Saint-Chamond entered frontline service in 1917, many design flaws became apparent. Chief among these was the huge frontal overhang designed in an attempt to fit the 75 mm Mle 1897 cannon at the front. This overhang had a tendency to get stuck into the ground and trenches, defeating the very purposes the tank was designed for. Because of this, along with the tank crew’s negative opinion about the tank, the Saint-Chamond was retired as soon as the war was over, with only a single example surviving to this day and preserved at Musée des Blindés in running condition. Introduced during Update “Hornet’s Sting” as one of the rewards for the 2025 “The Great War!” event , the Saint-Chamond is similar to other early tanks: very large and slow, with just enough armour to resist small arms. The tank’s notoriously poor design choices resulted in several deficiencies, such as a nonexistent firing arc for the main gun, a cramped frontal compartment where six out of seven crews were located, and its tendency to get stuck on trenches and obstacles. Nevertheless, the Saint-Chamond does have an ace up its sleeve in the form of the 75 mm Mle 1897 cannon, an exceptionally powerful gun for its time, which is still capable of dealing with more modern tanks at its rank.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_saint_chamond.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "11 / 17 / 8 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "81 %"
+  },
+  {
+   "label": "Crew",
+   "value": "8 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "12"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "4.1"
+  },
+  {
+   "label": "Ammunition",
+   "value": "106 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 11°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-2 / 2°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "10.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "450 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "6,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "450 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 5°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-39 / 39°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "42"
+  },
+  {
+   "label": "Repair cost",
+   "value": "127 → 163"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Mle1910M",
+   "type": "APHE",
+   "penetration": [
+    "77",
+    "75",
+    "66",
+    "57",
+    "49",
+    "42"
+   ]
+  },
+  {
+   "name": "Mle1900",
+   "type": "HE",
+   "penetration": [
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

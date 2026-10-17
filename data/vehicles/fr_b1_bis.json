@@ -1,0 +1,173 @@
+{
+ "id": "fr_b1_bis",
+ "wiki": "https://wiki.warthunder.com/unit/fr_b1_bis",
+ "name": "B1 bis",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "heavy_tank",
+ "role": "Heavy tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The B1 bis was the primary production variant of the B1 tank, which had 36 tanks developed from 1929 up to 1936. By 1937, French command ordered an upgrade to the B1 production line, increasing its anti-tank capabilities with a new 47 mm, stronger engine and armour due to the rising treat of anti-tank gun development. The B1 bis' upgrades however hampered its total range significantly, while at a slow speeds on roads it achieved 180 km with 400 l fuel, but this rapidly decreased at 20 km/h max speed to 120 km, and even shorter off-road. Due to the range, and logistical issues, caused multiple attempts at counter-offensives in 1940 to be called off. With roughly 50 orders for the B1 bis in the interwar period by 3 tank battalions, the orders of the B1 bis skyrocketed with the declaration of war, up to 1114 of which only 369 B1 bis' could be full-filled. While the B1 bis line of production kept improving down the line, increasing total ammo count, radio (upgrades) and fuel tanks until France's capitulation in 1940. It was introduced in Update 1.75 \"La Résistance\" . Renowned for heavy armour causing plenty of trouble to the German offensive, the B1 bis translates that to the battlefields in-game, being well armoured facing relatively low penetrations, this tank can shrug of most attacks like the heavy tank it is. This armour however comes at the cost of overall mobility and firepower. While the quick-firing SA35 L/32 (47 mm) in the APX-4 turret has acceptable penetration and pretty much stable at any speed due to its shoulder stabilization and low top speed, the turret is rather immobile due to its 1-man crew. The primary 75 mm in the hull has very limited angles, and needs to be hull aimed to make work, which may be counter-productive to maximize armour efficiency, which while strong, can be flat penned by specialized anti-tank guns, and may need to be angled in case of facing such foes.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_b1_bis.png",
+ "weapons": [
+  "47 mm SA35 L/32 cannon",
+  "7.5 mm MAC 31 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "60 / 55 / 50 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "106 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "28"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "9.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "74 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "11.1 → 8.6 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 25°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-1 / 1°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "2.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "50 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 18°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "5,100 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "550 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "706 → 873"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 40 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,880"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Mle1910M",
+   "type": "APHE",
+   "penetration": [
+    "58",
+    "57",
+    "50",
+    "43",
+    "37",
+    "32"
+   ]
+  },
+  {
+   "name": "Mle1915",
+   "type": "HE",
+   "penetration": [
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11"
+   ]
+  },
+  {
+   "name": "Mle1935",
+   "type": "APC",
+   "penetration": [
+    "62",
+    "59",
+    "47",
+    "36",
+    "27",
+    "20"
+   ]
+  },
+  {
+   "name": "Mle1935 HE",
+   "type": "HE",
+   "penetration": [
+    "6",
+    "6",
+    "5",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,242 @@
+{
+ "id": "he_112b_0",
+ "wiki": "https://wiki.warthunder.com/unit/he_112b_0",
+ "name": "He 112 B-0",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.0",
+  "SB": "2.3"
+ },
+ "description": "The He 112 B-0 is a German fighter. It has been in the game since the start of the Open Beta Test prior to Update 1.27. The He 112 B-0 represents the most advanced He 112 variant in the game (after the He 112 V-5 and cannon-armed He 112 A-0 ). Given all advantages and disadvantages, He 112 B-0 is best played as a universal fighter. If encountering highly agile biplanes, use the He 112's speed to outrun them. If encountering fast, but less agile monoplanes, use agility to out-turn them. And if faced with bombers, nothing shall hold the He 112 back, as the firepower can finish any bomber quickly. That said, the He 112 B-0 can be a quite enjoyable fighter to play, and will serve as a trainer for its successor in the German research tree – the Bf 109 B-1/L, the first version of the legendary Bf 109 fighter series. It is reasonably fast for a rank II aircraft, while not faster than the Soviet LaGG-3 and Yak fighters, or the American F2A Buffalos and P-36 Hawks – all of them common adversaries of the B-0. It is also quite agile for a monoplane, but will always be out-turned by biplanes or light Japanese fighters such as the A5M4 or Ki-27 . Its climb rate is not exactly stellar, but the He 112 B-0 can handle surprisingly high speeds – a red line of 690 km/h is not bad for a rank 2 fighter. While mediocre in manoeuvrability and performance, the strongest trait of this plane is clearly the armament, which is the same as on the Bf 109 E-3 fighter.",
+ "image": "https://static.encyclopedia.warthunder.com/images/he_112b_0.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "502"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "13.8"
+  },
+  {
+   "label": "Turn time",
+   "value": "19"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "250 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Jumo 210С"
+  },
+  {
+   "label": "Length",
+   "value": "9.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "9.1 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "131 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.02"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.2 t (1h 17m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "730 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.8 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "320 / 469 / 498 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "300 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "120 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "520 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.01 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "353 → 447"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 60 / 120 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,930"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "IT/IT/APHE",
+   "penetration": [
+    "15",
+    "13",
+    "8",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "IT/FI-T/FI-T/APHE",
+   "penetration": [
+    "15",
+    "13",
+    "8",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "FI-T/FI-T/AP-I/APHE/IT",
+   "penetration": [
+    "20",
+    "17",
+    "10",
+    "5",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT/IT/FI-T/FI-T",
+   "penetration": [
+    "7",
+    "7",
+    "4",
+    "3",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "APHE",
+   "penetration": [
+    "15",
+    "13",
+    "8",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,140 @@
+{
+ "id": "uk_valentine_mk_9",
+ "wiki": "https://wiki.warthunder.com/unit/uk_valentine_mk_9",
+ "name": "Valentine IX",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "3.0",
+  "SB": "3.0"
+ },
+ "description": "The Valentine IX is a British medium tank. It was introduced along with the initial British tree line in Update 1.55 \"Royal Armour\" . At its BR, the Valentine's protection starts to let it down a bit, uptiers can bring guns powerful enough to cut through the Valentine's armour anywhere. Still, the protection is fairly good, especially on the turret cheeks but the hull is somewhat weaker. Mobility is poor. However the Mark. IX sports the formidable 6-pounder gun, which can reliably get through the armour of many vehicles. The Valentine's small profile also allows it to be \"sneaky\".",
+ "image": "https://static.encyclopedia.warthunder.com/images/uk_valentine_mk_9.png",
+ "weapons": [
+  "57 mm 6pdr OQF Mk.III cannon"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "60 / 43 / 60 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "77 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "24"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "9.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "53 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-8 / 17°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11.2"
+  },
+  {
+   "label": "Repair cost",
+   "value": "684 → 925"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 60 / 70 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,330"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Shot Mk.5",
+   "type": "AP",
+   "penetration": [
+    "101",
+    "97",
+    "82",
+    "66",
+    "53",
+    "43"
+   ]
+  },
+  {
+   "name": "Shell Mk.10",
+   "type": "HE",
+   "penetration": [
+    "9",
+    "9",
+    "9",
+    "9",
+    "9",
+    "9"
+   ]
+  },
+  {
+   "name": "Shot Mk.5 HV",
+   "type": "AP",
+   "penetration": [
+    "108",
+    "104",
+    "87",
+    "70",
+    "57",
+    "46"
+   ]
+  },
+  {
+   "name": "Shot Mk.8",
+   "type": "APC",
+   "penetration": [
+    "110",
+    "106",
+    "89",
+    "72",
+    "59",
+    "48"
+   ]
+  },
+  {
+   "name": "Shot Mk.9",
+   "type": "APCBC",
+   "penetration": [
+    "122",
+    "118",
+    "101",
+    "84",
+    "70",
+    "58"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

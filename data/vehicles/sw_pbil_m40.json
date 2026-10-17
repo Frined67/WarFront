@@ -1,0 +1,136 @@
+{
+ "id": "sw_pbil_m40",
+ "wiki": "https://wiki.warthunder.com/unit/sw_pbil_m40",
+ "name": "Pbil m/40",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The Pbil m/40 was an armoured car and was used by the Swedish Army. Originally designed for the Danish Army, several units were to be delivered until World War 2 broke out, in which the remaining units intended for the Danish Army instead entered service for the Swedish Army. Pbil m/40 are similar to the m/39 but were manufactured by Volvo instead of Landsverk due to limited capacity from the latter. A total order of 30 Pbil m/40 were ordered by the Swedish army where they would have a new Volvo engine, an improved turret and change of the ammunition storage. Pbil m/40 got the same nickname as the Landsverk version m/39 of the name \"Lynx\", they were well liked within the Army and would serve within the Swedish Armed forces between 1941 to 1958. Only one version remains in Sweden and are located in Strängnäs at the military museum Arsenalen. The Pbil m/40 was introduced during Update \"Direct Hit\" as a reward for the 2021 Export Order event. It's an armoured car with a 20 mm autocannon similar to the Pvlvv fm/42 . It has light armour but comes with an large 6-person crew that improves the survivability against solid AP shells, the Pbil m/40 are capable to go the same speed forward and backwards. Its agile maneuverability and speed grants it the ability to move around the map with ease and move to positions to flank and engage unaware enemies, due to the relatively low penetration of its rounds its wise to not engaging well armoured hostiles in a head-on engagement and makes flanking the most viable option to grant effectiveness of the gun. So the Pbil m/40 should be used to flank around the map, hit unaware enemies from the side or the back where it will have greatest possibility to knock out the hostile.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_pbil_m40.png",
+ "weapons": [
+  "8 mm ksp m/36 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "12 / 10 / 12 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "73 %"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "70"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "252 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "1.3 → 1 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "360 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "648 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "438"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 20 / 20) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/HEFI-T/HEFI-T",
+   "penetration": [
+    "38",
+    "36",
+    "27",
+    "20",
+    "14",
+    "10"
+   ]
+  },
+  {
+   "name": "slsgr m/42",
+   "type": "HEFI-T",
+   "penetration": [
+    "5",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "slpgr m/42",
+   "type": "AP-T",
+   "penetration": [
+    "38",
+    "36",
+    "27",
+    "19",
+    "13",
+    "9"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,118 @@
+{
+ "id": "jp_type_3_ho_ni_iii",
+ "wiki": "https://wiki.warthunder.com/unit/jp_type_3_ho_ni_iii",
+ "name": "Ho-Ni III",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The Type 3 Ho-Ni III ( 三式砲戦車「ホニIII」 ) was a tank destroyer developed by Japan during World War II. It was equipped with a Type 3 75 mm tank gun, which had a high muzzle velocity and could penetrate the armour of US tanks. Unlike its predecessors, the Ho-Ni III had a fully enclosed and armoured casemate that provided protection to the crew from ground and aerial threats. The vehicle was designed to supplement the newer Type 3 Chi-Nu tanks by converting the obsolete Type 97 Chi-Ha hulls into self-propelled guns. The production of the Ho-Ni III started in 1944, but only 31 units were completed due to material shortages and bombing. Most of these vehicles were stationed in the Japanese home islands and never saw combat. The Ho-Ni III was introduced along with the initial Japanese ground tree in Update 1.65 \"Way of the Samurai\" . It is similar to the Type 1 Ho-Ni I , but improved: more crew members, a shorter reload time, and armour for the gun crew. However this comes at the cost of a lower top speed. The gun has high penetration and damage, so enemies can be easily sniped from afar. The armour is weak and most enemies can pierce it easily. Help allies by giving fire support, and use smoke shells to create temporary cover.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_type_3_ho_ni_iii.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "25 / 25 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "74 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "40"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "11.9"
+  },
+  {
+   "label": "Ammunition",
+   "value": "46 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-10 / 10°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11.2"
+  },
+  {
+   "label": "Repair cost",
+   "value": "600 → 742"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 60 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,390"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Type 1 APHE",
+   "type": "APHE",
+   "penetration": [
+    "102",
+    "100",
+    "91",
+    "81",
+    "72",
+    "64"
+   ]
+  },
+  {
+   "name": "Type 94 HE",
+   "type": "HE",
+   "penetration": [
+    "12",
+    "12",
+    "12",
+    "12",
+    "12",
+    "12"
+   ]
+  },
+  {
+   "name": "Type 90 Smoke",
+   "type": "Smoke",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

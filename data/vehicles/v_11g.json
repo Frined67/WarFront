@@ -1,0 +1,206 @@
+{
+ "id": "v_11g",
+ "wiki": "https://wiki.warthunder.com/unit/v_11g",
+ "name": "V-11",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.7"
+ },
+ "description": "The V-11 was one of the earliest attacker aircraft of NRAAF (Nationalist Air Force) before the 2nd Sino-Japanese War; the Vultee Aircraft Inc. designed an \"airliner\", V-1 for US domestic markets, however, the new regulations on airliners put a full stop to any further production of this airframe at only 25 aircraft. Meanwhile, the USAAF bought a few aircraft and converted them under the name YA-19, which proved to be inferior to its twin-engine competitors and only used in Panama. For countries that were in dire need of new attack aircraft, namely China; the Nationalist government bought 30 aircraft and planned to assemble most of them in China Proper at Zhejiang or Guangdong, although they were flown by mercenary pilots and having minor results during the early days of war to bombard Japanese-occupied infrastructures, due to the worsening of war and crashes after the retreat, they were soon decommissioned by 1940. Introduced in Update \"Hot Tracks\" as one of the Vultee V-1 variants introduced to the Chinese tech tree, although V-11 has rather a large size at its tier and less than desired firepower, the aircraft can sometimes surprise enemy aircraft, sometimes even biplanes with its somewhat decent turning radius; while the bomb options can still ensure a kill against ground targets and serve as a good trainer aircraft for attackers.",
+ "image": "https://static.encyclopedia.warthunder.com/images/v_11g.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "360"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "6.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "22"
+  },
+  {
+   "label": "Max altitude",
+   "value": "6,800 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "Cyclone R-1820G2"
+  },
+  {
+   "label": "Length",
+   "value": "11.4 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "15.2 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "112 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.2"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.78 t (4h 37m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "620 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/8 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 280 / 330 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,400 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "179 → 226"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 30 / 70 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,430"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP/T/T/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

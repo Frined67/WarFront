@@ -1,0 +1,158 @@
+{
+ "id": "p1y1_mod11_china",
+ "wiki": "https://wiki.warthunder.com/unit/p1y1_mod11_china",
+ "name": "␗P1Y1 mod. 11",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "II",
+ "br": {
+  "AB": "3.3",
+  "RB": "3.3",
+  "SB": "4.0"
+ },
+ "description": "The P1Y1 mod. 11 (China) ,aka Frances in Allied codename or by its Japanese name Ginga (銀河, lit. Galaxy), was the captured twin-engine bomber from IJNAS used very briefly by the ROCAF by the mid-1940s. As part of the defence deployment of Japanese islands and the colony of Taiwan in 1944, IJNAS deployed numbers of P1Y1 in Tainan as the main composition of bombers defending their soon-to-crumble empire; however, the bomber didn't achieve any significant victories against the US forces and was soon abandoned on the Taiwan Island alongside with other Japanese aircraft. Before the outbreak of the Chinese Civil War, ROCAF had to source their fleet from abandoned Japanese aircraft from both Mainland China and Taiwan Island, these 12 remaining P1Y1 became one of the bombers of ROCAF before more reliable US-built bombers replaced them as soon as 1946; according to the records in Taiwan, these aircraft were soon dismantled alongside with hundreds of Japanese aircraft to minimize the risk of armed riots or revolutions against the Nationalist government on Taiwan Island. Introduced in Update 1.91 \"Night Vision\" alongside with the Chinese tech tree, the Ginga is known for being one of the fastest bombers and is played similarly to the German Ju 288 and Arado 234. The overall tactic - dive, drop payload, retreat, repeat. The P1Y1 can go a little over 675 km/h (400 mph) in a dive, which is very fast for the battle rating. The P1Y1 is a rather fragile aircraft, specifically to its detriment it has poor defensive guns and sadly has no turret coverage for the underside of the aircraft. This typically results in a situation where the P1Y1 is easy prey to enemy fighters attacking from underneath without fear of reprisal. The P1Y1 becomes extremely vulnerable after the loss of both speed and altitude. Since the P1Y1 can outrun all Japanese fighters that you will face (except the J5N1, Ki-108, and J2M), you can speed away to fighter cover or the home airfield if caught in a sticky situation. For the planes you can't outrun, there are one of two strategies. If the plane chasing you is heavier than the P1Y1, you can generally outmanoeuvre it, which will make them lose energy and retreat. Another strategy is making them follow behind your rear gunner, so long as your gunner is firing, the enemy aircraft will need to manoeuvre to avoid being hit, effectively messing up.",
+ "image": "https://static.encyclopedia.warthunder.com/images/p1y1_mod11_china.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "546"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "26"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,400 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "720 m"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x Homare 12"
+  },
+  {
+   "label": "Length",
+   "value": "15 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "20 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "186 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "7.69"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "2.76 t (4h 15m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "680 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/7 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "275 / 405 / 431 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "275 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "450 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "535 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.14 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "609 → 818"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 90 / 140 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,390"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/HEF/APHE",
+   "penetration": [
+    "19",
+    "18",
+    "12",
+    "7",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "HEF-T/APHE/APHE/APHE/APHE",
+   "penetration": [
+    "21",
+    "20",
+    "13",
+    "8",
+    "5",
+    "4"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEF/HEF-T/HEF/APHE/HEF-T",
+   "penetration": [
+    "21",
+    "20",
+    "13",
+    "8",
+    "5",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

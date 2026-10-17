@@ -1,0 +1,130 @@
+{
+ "id": "ussr_gaz_4m",
+ "wiki": "https://wiki.warthunder.com/unit/ussr_gaz_4m",
+ "name": "GAZ-AAA (4M)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The GAZ-AAA (4M) is the first variant of the GAZ-AAA-based self-propelled anti-aircraft gun family. It is a Soviet anti-aircraft truck developed in 1938, based on the GAZ-AAA truck platform and armed with a quad 7.62 mm Maxim light machine gun. The 7.62 mm Maxim light machine guns originate from a World War I Russian Imperial stockpile, of which thousands were available after the war ended. With the unexpected German invasion of the Soviet Union, the Soviets lacked dedicated anti-aircraft guns. As a result, during the early stages of World War II, many improvised and makeshift anti-aircraft guns are designed. Given its high fire rate, the quad 7.62 mm Maxim light machine gun was extremely effective against low-flying targets. Unfortunately, due to a lack of historical articles and resources, little is known about this improvised anti-aircraft gun. The GAZ-AAA (4M) was delivered in the late summer and winter of 1941, before being replaced by a more powerful variant, the GAZ-AAA (DShK). A total of 37,373 units were produced. Introduced in Update 1.49 \"Weapons of Victory\" , the GAZ-AAA (4M) is a very light vehicle that provides adequate deterrence against early aircraft like biplanes. It is not recommended to charge into the battle and engage any enemy vehicles since the weaponry does not have the penetration to damage anything. With a large ammunition pool available, players can fire confidently without fear of running out of bullets.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ussr_gaz_4m.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "0 / 0 / 0 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "75 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "65"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "8,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.8 → 6 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 50°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "42"
+  },
+  {
+   "label": "Repair cost",
+   "value": "100 → 130"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,975"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AI/AP-I/AP-I/AP-I/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "7.62 mm API",
+   "type": "AP-I/API-T/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "7.62 mm API-T",
+   "type": "API-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

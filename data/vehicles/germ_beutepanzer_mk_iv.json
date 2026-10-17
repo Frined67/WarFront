@@ -1,0 +1,142 @@
+{
+ "id": "germ_beutepanzer_mk_iv",
+ "wiki": "https://wiki.warthunder.com/unit/germ_beutepanzer_mk_iv",
+ "name": "Beutepanzer IV",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The Beutepanzer IV is a modified British Mark IV tank captured during World War I that was repurposed and used by the German forces. Introduced in 1917, the Mark IV was an improved version of the earlier Mark I and was available in two main variants: the \"male\" version, armed with two 57 mm cannons and three 7.7 mm machine guns; and the \"female\" version, armed exclusively with five 7.7 mm machine guns. Since the German Empire had limited experience with its own tank production during World War I (the A7V was the only German tank produced in significant numbers during World War I), captured Allied tanks were repaired, modified, and reused to bolster German tank capabilities. By the end of the war in 1918, over 170 Allied tanks had been captured, mostly British Mark IVs. These tanks were modified in specialist workshops. The two 6 pdr 57 mm cannons that were standard on the Mark IV \"male\" were replaced with 57 mm Maxim Nordenfelt cannons to avoid supply shortages. The Beutepanzer were also repainted and marked with the German Army's Iron Cross to prevent friendly fire incidents. The Beutepanzer IV was introduced in War Thunder as a playable reward during the 2025 April Fools' Day event “The Great War.” In the game, the vehicle offers good close-quarters combat capabilities thanks to its armament. However, it suffers from a lack of mobility and armor. Its size and dispersed seven-man crew can sometimes increase its chances of survival, as it makes it difficult to quickly eliminate all crew members. However, the tank is highly vulnerable to precise shots aimed at its rear ammunition bay, as well as to HE shells and bombs. Despite its limitations, the Beutepanzer IV remains a memorable and historically significant tank of the First World War.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_beutepanzer_mk_iv.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "16 / 12 / 12 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "81 %"
+  },
+  {
+   "label": "Crew",
+   "value": "7 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "6"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "4.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "282 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-6 / 12°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "0 / 88°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,500 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 10°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-25 / 45°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "42"
+  },
+  {
+   "label": "Repair cost",
+   "value": "127 → 163"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,970"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Gr.m.P.",
+   "type": "APHE",
+   "penetration": [
+    "40",
+    "38",
+    "32",
+    "26",
+    "21",
+    "17"
+   ]
+  },
+  {
+   "name": "Gr.",
+   "type": "HE",
+   "penetration": [
+    "6",
+    "6",
+    "5",
+    "5",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AI/AP-I/AP-I/AP-I/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

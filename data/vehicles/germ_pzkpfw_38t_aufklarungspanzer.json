@@ -1,0 +1,149 @@
+{
+ "id": "germ_pzkpfw_38t_aufklarungspanzer",
+ "wiki": "https://wiki.warthunder.com/unit/germ_pzkpfw_38t_aufklarungspanzer",
+ "name": "Sd.Kfz. 140/1",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The Aufklärungspanzer 38(t) (Sd.Kfz. Index: Sd.Kfz. 140/1 ) was a reconnaissance vehicle used by the German Army during World War II. Its task was to scout out enemy positions ahead of the main attack column. They would then radio back the number of hostile forces and their location. They might occasionally direct an artillery or airstrike. German half-tracked and wheeled armoured cars were used for armoured reconnaissance but suffered in the tough circumstances of the Eastern Front. The Aufklärungspanzer 38(t) was intended to replace both of these vehicles as a key reconnaissance vehicle. It was outfitted with a 'Hangelafette turret' armed with a 20 mm Kampfwagenkanone (KwK) 38 autocannon and a single 7.92 mm MG42 light machine gun capable of anti-aircraft and ground fire. Introduced in the Closed Beta Test for Ground Forces before Update 1.41, the Aufklärungspanzer 38(t) performs similarly to a Panzer II but with a more resilient overall structure. It retains its mobility, but players should be aware that it lacks the primitive vertical stabilizer present in Panzer IIs. Nonetheless, it is a highly versatile light tank capable of both anti-aircraft and ground tasks. However, due to its low gun depression, this light tank may struggle to perform in rugged terrain.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_pzkpfw_38t_aufklarungspanzer.png",
+ "weapons": [
+  "20 mm KwK38 cannon",
+  "7.92 mm MG42 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 30 / 30 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "73 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "58"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "300 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.8 → 6 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "450 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-4 / 70°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "28"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,800 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "410"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 20 / 20) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/HEFI-T",
+   "penetration": [
+    "37",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "20 mm Sprgr.",
+   "type": "HEFI-T",
+   "penetration": [
+    "5",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "20 mm PzGr.",
+   "type": "API-T",
+   "penetration": [
+    "37",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "20 mm PzGr.40",
+   "type": "HVAP-T",
+   "penetration": [
+    "48",
+    "45",
+    "31",
+    "20",
+    "13",
+    "8"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

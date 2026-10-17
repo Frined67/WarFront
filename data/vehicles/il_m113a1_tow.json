@@ -1,0 +1,203 @@
+{
+ "id": "il_m113a1_tow",
+ "wiki": "https://wiki.warthunder.com/unit/il_m113a1_tow",
+ "name": "Giraf",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "VI",
+ "br": {
+  "AB": "8.3",
+  "RB": "8.3",
+  "SB": "8.3"
+ },
+ "description": "Shortly after the introduction of the M113, Israel became one of the largest users of this vehicle. With over 6,000 vehicles acquired over the years from the US, the M113 became one of the most common vehicles in IDF service, being capable of fulfilling multiple roles such as APC, IFV, ATGM carrier, and Short Range Air Defence vehicle. Giraf was the name given by the Israeli Defence Force to the M113A1 carrying a TOW missile launcher. Countries like the United States, Italy, and Taiwan were already experienced with this system and many M113 were modified to serve as tank destroyers using the TOW missile. The vehicle served with Israel until the introduction of the Spike anti-tank guided missile, which was also fitted to the M113 under the name \"Hafiz\". Introduced in Update \"Air Superiority\" , the M113A1 TOW Giraf is very similar to other ATGM carriers in-game. It uses the BGM-71C I-TOW anti-tank guided missile as its main armament, with 10 rounds in total alongside a coaxial 12.7 mm MG. The Giraf has very good gun depression (-20°) and the missiles have a good speed of almost 300 m/s and a decent range of almost 4 kilometres. Like most M113s, the Giraf is not very mobile and struggles on inclines due to the lack of engine power, and its protection is nothing special, being very vulnerable to 20 mm or 14.5 mm autocannon shots and even 12.7 mm fire from the side. Thus, it should be played very passively, staying behind the cover of hills and teammates utilizing its gun depression to its advantage. The Giraf is a vehicle meant to be played on certain maps in certain situations, and is the definition of a niche vehicle - you won't see much use out of it on most maps, but in situations where it shines it can hold an area very effectively.",
+ "image": "https://static.encyclopedia.warthunder.com/images/il_m113a1_tow.png",
+ "weapons": [
+  "BGM-71B TOW anti-tank guided missile",
+  "12.7 mm M2HB machine gun",
+  "BGM-71C I-TOW anti-tank guided missile",
+  "12.7 mm M2HB machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "38 / 44 / 38 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "68 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "64"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "19.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "10 rounds"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-20 / 25°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-45 / 45°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "21"
+  },
+  {
+   "label": "Fire on the move",
+   "value": "up to 5 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 50°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-120 / 120°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Ammunition",
+   "value": "10 rounds"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-20 / 25°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-45 / 45°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "21"
+  },
+  {
+   "label": "Fire on the move",
+   "value": "up to 5 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 50°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-120 / 120°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "4,441 → 5,871"
+  },
+  {
+   "label": "Crew training",
+   "value": "130,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "160 / 210 / 250 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "130,700"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "2,400"
+  }
+ ],
+ "shells": [
+  {
+   "name": "BGM-71 TOW",
+   "type": "ATGM",
+   "penetration": [
+    "430",
+    "430",
+    "430",
+    "430",
+    "430",
+    "430"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "BGM-71C I-TOW",
+   "type": "ATGM",
+   "penetration": [
+    "630",
+    "630",
+    "630",
+    "630",
+    "630",
+    "630"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

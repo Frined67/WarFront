@@ -1,0 +1,166 @@
+{
+ "id": "it_m3a3_stuart",
+ "wiki": "https://wiki.warthunder.com/unit/it_m3a3_stuart",
+ "name": "▄M3A3",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The history of the American M3A3 Stuart in Italian service starts in the immediate aftermath of post-war Italy. Several re-armament programs, partially supported by America and the United Kingdom, allowed them to give away surplus military equipment away to nations who needed to bolster their forces. Italy received the vehicles in the form of the Military Assistance Program, and they would be in service in several armoured regiments for many decades. They were well-liked as the doctrine of the Italian army allowed for the Stuart to fit in nicely without too many issues, mainly thanks to its compact design which made it ideal for use in Italy. It was light but armoured enough to withstand hits from lower calibre rounds. Introduced in Update \"Starfighters\" , the M3A3 has great mobility which can be taken advantage of at the start of matches, either to get into a favourable position or to capture a point before anyone else. It is very small, so you can hide the vehicle to set up ambushes with allies. Its crew arrangement however isn't good as one good hit means that you will likely not be able to keep fighting. Armament is good enough to fight other light tanks in your class, for more armoured targets the munitions provided can penetrate enemies from the sides which is easy to do because your mobility allows you to flank enemy teams with ease. Overall, it's a recommended addition to anyone's lineup when researching the Italian tech tree.",
+ "image": "https://static.encyclopedia.warthunder.com/images/it_m3a3_stuart.png",
+ "weapons": [
+  "37 mm M6 cannon",
+  "7.62 mm M1919A4 machine gun",
+  "7.62 mm M1919A4 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "25 / 25 / 25 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "58"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "18.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "174 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.7 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "14"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,500 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 70°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 15°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "436 → 627"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 40 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,430"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M74B1 shot",
+   "type": "AP",
+   "penetration": [
+    "79",
+    "76",
+    "65",
+    "54",
+    "45",
+    "37"
+   ]
+  },
+  {
+   "name": "M51B1 shot",
+   "type": "APCBC",
+   "penetration": [
+    "87",
+    "84",
+    "73",
+    "60",
+    "50",
+    "41"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

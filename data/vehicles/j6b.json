@@ -1,0 +1,273 @@
+{
+ "id": "j6b",
+ "wiki": "https://wiki.warthunder.com/unit/j6b",
+ "name": "J6B",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "Designed and manufactured in Sweden during the early 1930s, the J6B biplane fighter was the last biplane fighter to be designed in Sweden and the last variant of its series to be built. It was manufactured by ASJA from 1933 to 1935, but the core-design was originally constructed by Svenska Aero AB, which was purchased by ASJA in 1932. The J6B served as a fighter aircraft in the Swedish air force between 1934 to 1938 and as a fighter-trainer from 1938 to 1940. Two J6Bs were sent to Finland as war aid during the Winter War. In Finland, they were designated JF, and served as trainers until 1945. It was introduced in Update 1.95 \"Northern Wind\" , and though not a speedy aircraft compared to other reserve aircraft in the game, the J6B features extremely good manoeuvrability and two nose-mounted 8 mm fast-firing machine guns which makes it extremely deadly in a skilled pilot's hands, but at the same time, also very forgiving to the new player. It has access to several ammunition belts which allow the J6B to effectively fight both air and ground targets in air RB. The aircraft might not look impressive on paper, but any pilot with basic air combat knowledge can easily prove that this biplane fighter is no slouch. The great climb rate and manoeuvrability, in combination with some creativity, is all you need to perform and exceed in this aircraft",
+ "image": "https://static.encyclopedia.warthunder.com/images/j6b.png",
+ "weapons": [
+  "8 mm Ksp m/22 Fv machine gun",
+  "8 mm Ksp m/22 Fh machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "325"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "16.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "13.7"
+  },
+  {
+   "label": "Max altitude",
+   "value": "7,700 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "294 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Jupiter VIIF"
+  },
+  {
+   "label": "Length",
+   "value": "7.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "62 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "1.25"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.24 t (1h 52m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "560 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.6 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/12 G"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.25 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.25 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "free"
+  },
+  {
+   "label": "Crew training",
+   "value": "free"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 50 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "3,270"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/AP/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/AP/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/T/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "T/I/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/AP/T/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/T/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "T/I/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

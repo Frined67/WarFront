@@ -1,0 +1,178 @@
+{
+ "id": "us_halftrack_m15",
+ "wiki": "https://wiki.warthunder.com/unit/us_halftrack_m15",
+ "name": "M15 CGMC",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "The M15 CGMC is a American Self-Propelled Anti-Aircraft (SPAA) gun. It was one of the first American tanks to be released with the American ground tree in Update 1.45 \"Steel Generals\" . Comparing the M15 CGMC to the M16 and M13 , they first appear similar. The same manoeuvrability and mobility are still passed on. All feature, Browning heavy machine guns. But at this point, the similarities end. Both M13 and M16 have only one weapon system making long range shots easier to hit with all weapons. They also carry plenty of ammo (both 4800 rounds or 12 / 6 reloads) and will fire long after the M15 ran out of 37 mm and 12.7 mm rounds. Of course, the Combination Gun Motor Carriage has some advantages to the machine gun only armed versions: A nasty cannon and actual armour, the M15A1 is entrusted with the ability to engage at a longer distance down aircraft faster, and most importantly, survive much longer. However, the price paid is the inability for the armament to cover the vehicle's front and slower turret rotation. The latter can be addressed by driving backwards while in a combat zone. A noteworthy issue is the gun layout: The secondary anti-air weapons (the M2 Brownings) can only be fired with the machine gun key. They do not activate when pressing the secondary weapon key. As being a half truck and tank it will turn well in all speeds compared to other SPAA. The M15 CGMC is a self-propelled anti-air vehicle. This machine is a very simple deal: More armour and a cannon in change for less ammo and more difficult aiming. Not much more to say. Stay behind, close to allies but outside the enemies view-range, and with a clear line of sight to the horizon for low aircraft. Keep the turret facing the rear of the vehicle.",
+ "image": "https://static.encyclopedia.warthunder.com/images/us_halftrack_m15.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "6 / 6 / 6 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "82 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "76"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16.4"
+  },
+  {
+   "label": "Ammunition",
+   "value": "240 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "2.6 → 2 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "120 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 85°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "17.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,600 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "222 → 286"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 20 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Universal",
+   "type": "APC/HEFI-T",
+   "penetration": [
+    "48",
+    "46",
+    "40",
+    "33",
+    "27",
+    "23"
+   ]
+  },
+  {
+   "name": "37 mm M54",
+   "type": "HEFI-T",
+   "penetration": [
+    "7",
+    "6",
+    "5",
+    "4",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "37 mm M59A1",
+   "type": "APC",
+   "penetration": [
+    "48",
+    "46",
+    "40",
+    "33",
+    "27",
+    "23"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": ".50 API",
+   "type": "API-T/AP-I/API-T",
+   "penetration": [
+    "30",
+    "27",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": ".50 AP",
+   "type": "AP/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": ".50 API-T",
+   "type": "API-T",
+   "penetration": [
+    "29",
+    "27",
+    "19",
+    "12",
+    "7",
+    "5"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

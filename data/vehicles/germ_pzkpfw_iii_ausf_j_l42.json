@@ -1,0 +1,128 @@
+{
+ "id": "germ_pzkpfw_iii_ausf_j_l42",
+ "wiki": "https://wiki.warthunder.com/unit/germ_pzkpfw_iii_ausf_j_l42",
+ "name": "Pz.III J",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "I",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The Panzerkampfwagen III Ausführung J (Panzer III J) (Sd.Kfz. Index: Sd.Kfz. 141 ) is the ninth variant of the Panzerkampfwagen III medium tank family (the \"I\" variant was skipped). The Panzer III J looked much like the Panzer III G. It was designed with a turret housing a 50 mm Kampfwagenkanone (KwK) 38 L/42 tank gun. It used the same Maybach HL 120 TRM petrol/gasoline 285 horsepower engine and had identical armour thickness. The hull frontal armour's basic armour thickness had increased to 50 mm. An additional armour plate was installed internally to the front of the turret in the spring of 1941, increasing it to a maximum thickness of 57 mm in places. To improve engine compartment ventilation, the structure of the chassis was extended. The armoured front brake vents were redesigned. On the roof of the turret was an armoured extractor fan. The 50 mm KwK38 L/42 tank gun was capable of firing up to 20 rounds per minute, through the use of a semi-automatic breech that opened before the end of the recoil, ejected the used casing, and allowed for fast loading of the next shell. Introduced in Update 1.45 \"Steel Generals\" , the Panzer III J is the next addition to the Panzer III medium tank family. The Panzer III J, armed with the already familiar 50 mm KwK38 L/42 tank gun, can readily deal with adversaries in its ranks. Increased hull frontal armour thickness allows players to take greater risks during combat. The turret traverse, on the other hand, is sluggish, owing to the lack of an electric power traverse system. This is arguably one of the most significant disadvantages of any Panzer IIIs, especially when fighting in towns or areas with a lot of cover. Players must use caution when playing in maps where enemy tanks might quickly set up ambush.",
+ "image": "https://static.encyclopedia.warthunder.com/images/germ_pzkpfw_iii_ausf_j_l42.png",
+ "weapons": [
+  "7.92 mm MG34 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "53 / 30 / 53 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "88 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "53"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "99 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "9.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,350 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "300 → 409"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 30 / 30 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,920"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "PzGr 39",
+   "type": "APC",
+   "penetration": [
+    "80",
+    "76",
+    "62",
+    "48",
+    "38",
+    "29"
+   ]
+  },
+  {
+   "name": "PzGr 40",
+   "type": "APCR",
+   "penetration": [
+    "116",
+    "107",
+    "74",
+    "47",
+    "30",
+    "19"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

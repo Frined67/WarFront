@@ -1,0 +1,230 @@
+{
+ "id": "saab_j21ra",
+ "wiki": "https://wiki.warthunder.com/unit/saab_j21ra",
+ "name": "J21RA",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "V",
+ "br": {
+  "AB": "6.7",
+  "RB": "6.7",
+  "SB": "6.7"
+ },
+ "description": "The J21RA was Sweden's first jet powered aircraft, built on the existing J21 series. The former planes had to be altered a bit due to issues that came with installing a jet engine and would encounter a few issues in the initial stages, but these would later be resolved. It would not be until 10 March 1947 when it would have its first flight. It was less than adequate in a fighter role, but would perform better in an attacker role. The Swedish air force would used these jets between 1949 to 1957, when they would later be replaced by the J29 and A28B . The J21RA was introduced in Update 1.95 \"Northern Wind\" . As a jet-powered version of the J21, it is the Swedish introduction to jets. Due to equipping a jet engine, the J21RA comes with a higher maximum speed than its predecessor, the J21A-2 ; it can perform very well in capable hands as a hit and run jet, but it can also perform well if needed in a dogfight. Having a cannon and four heavy machine guns gives it similar firepower to the J21A-2 , which is adequate enough to deal with most enemies it will be up against. The J21RA is pretty user friendly, with a lot of ammunition, so mistakes when taking shots are not so costly, but there are also dangers due to it having a habit of easily tearing off its wings at high speeds. Fortunately, it comes with airbrakes that can slow the aircraft down fast enough in case it gets close to these dangerous levels of speed.",
+ "image": "https://static.encyclopedia.warthunder.com/images/saab_j21ra.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "799"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "21"
+  },
+  {
+   "label": "Turn time",
+   "value": "24"
+  },
+  {
+   "label": "Max altitude",
+   "value": "12,192 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "850 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "RM1"
+  },
+  {
+   "label": "Length",
+   "value": "10.4 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.6 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "192 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.55"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.71 t (23m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "787 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.76 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 / 409 / 438 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "360 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "140 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "725 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.64 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,350"
+  },
+  {
+   "label": "Fire rate",
+   "value": "768 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.55 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "3,132 → 4,588"
+  },
+  {
+   "label": "Crew training",
+   "value": "68,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "130 / 270 / 600 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "71,100"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,900"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEF-T/AP-T/HEF-T/AP-T",
+   "penetration": [
+    "38",
+    "35",
+    "24",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEFI-T/HEFI-T/HEFI-T/AP-T",
+   "penetration": [
+    "38",
+    "35",
+    "24",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP-T/AP-T/HEF-T",
+   "penetration": [
+    "38",
+    "35",
+    "24",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/AP/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/API-T/I/I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "API-T/I/AP/AP/AP-I/AP-I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "API-T",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP-I/I/AP-I/I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,182 @@
+{
+ "id": "ki_61_1a_otsu",
+ "wiki": "https://wiki.warthunder.com/unit/ki_61_1a_otsu",
+ "name": "Ki-61-I Otsu",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "3.7",
+  "RB": "3.7",
+  "SB": "3.3"
+ },
+ "description": "The Ki-61-I otsu (乙) , designated Type 3 Fighter, Model 1B ( 三式戦闘機一型乙 ) , was the second production variant of the Kawasaki Ki-61 series, manufactured from September 1943 to April 1944. Unlike the earlier kō model , the otsu was completed as originally intended, replacing the wing-mounted 7.7 mm machine guns with 12.7 mm Ho-103s for a full complement of four 12.7 mm guns. Combat experience with the Ki-61-I kō led to further survivability improvements, including additional fuel protection and pilot armour plating. Field units briefly experimented with removing the central fuselage fuel tank to further reduce fire risk, but this was quickly abandoned due to fuel imbalance issues caused by leakage from the wing tanks into the centre section. To simplify production, the tailwheel was also made fixed rather than retractable. The Ki-61-I otsu has been in the game since the start of the Open Beta Test prior to Update 1.27. Retaining the balanced flight characteristics typical of the Ki-61 family, it offers solid speed for a Japanese fighter, stable handling at medium altitudes, and respectable durability thanks to self-sealing fuel tanks and armour protection. The major improvement over the kō variant is its consistent firepower: with four 12.7 mm Ho-103 machine guns, the otsu delivers reliable burst mass without the weak rifle-calibre compromise of its predecessor. While it does not excel in climb rate or raw manoeuvrability compared to some contemporaries, it performs well as an energy fighter using speed retention and controlled engagements rather than sustained turning fights.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ki_61_1a_otsu.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "587"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "11"
+  },
+  {
+   "label": "Turn time",
+   "value": "20.3"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "420 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Ha-40"
+  },
+  {
+   "label": "Length",
+   "value": "8.7 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "153 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.65"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.42 t (1h 25m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "850 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/11 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "230 / 282 / 292 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "250 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.53 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "650 → 816"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 100 / 200 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,420"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEF-I/AP/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/HEF-I/HEF-I/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/AP/AP-T",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/HEF-I/HEF-I/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

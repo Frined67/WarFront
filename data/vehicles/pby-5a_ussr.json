@@ -1,0 +1,190 @@
+{
+ "id": "pby-5a_ussr",
+ "wiki": "https://wiki.warthunder.com/unit/pby-5a_ussr",
+ "name": "▂PBY-5A Catalina",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "2.0"
+ },
+ "description": "The Catalina was the Soviet Union's main naval reconnaissance aircraft and naval bomber during and after the Second World War. It was so popular in fact that bombers meant to replace it, like the Be-6, never fully managed to fulfil its role. The Soviet Union received a total of 185 Catalinas of the two main variants in the Lend-Lease program. The Catalinas received by the Soviet Union were both the amphibious variants and those with tricycle landing gear. The Catalinas arrived to the Soviet Union in 1944 and gained good reputation in Soviet naval aviation, serving for many years as naval bombers and rescue aircraft, until they were finally fully retired from military service between 1954 and 1957. It has been in the game since the start of the Open Beta Test prior to Update 1.27. Although technically a medium bomber, the PBY-5's strategies are much like that of heavy bombers in higher tiers such as the Pe-8. It is best to fly high, and for fending off enemy fighters, it is better to use the rudder to direct one of the side gunners towards the attacking plane. It is also smart to use the guns manually in this situation, as the AI is often very inaccurate and will refuse to fire beyond a certain distance. The PBY-5A Catalina is slow and clunky, but it offers a heavy payload that is sure to be a game changer if used properly. It also has a very good defensive armament for its tier, which can occasionally be a saviour against an enemy fighter. The plane is quite unmanoeuvrable, and its wings are very weak, being able to snap just by turning just a little too tight at higher speeds in a realistic battle. This version has landing gear, facilitating the task of landing and enabling it to capture bases in Airfield Domination mode in Arcade Battles.",
+ "image": "https://static.encyclopedia.warthunder.com/images/pby-5a_ussr.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "282"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "5.1"
+  },
+  {
+   "label": "Turn time",
+   "value": "30"
+  },
+  {
+   "label": "Max altitude",
+   "value": "4,420 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "364 m"
+  },
+  {
+   "label": "Crew",
+   "value": "6 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x R1830-92"
+  },
+  {
+   "label": "Length",
+   "value": "19.5 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "31.7 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "99 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "9.44"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "3.43 t (3h 40m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "405 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -3/3 G"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "450 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "956 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,500"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,000 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.16 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "2,200 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "1,100 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "212"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,400"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (30 / 100 / 115) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/AP/AP/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/API-T",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/I/AP-I/API-T",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

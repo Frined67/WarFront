@@ -1,0 +1,226 @@
+{
+ "id": "fr_m36b2_cefeo",
+ "wiki": "https://wiki.warthunder.com/unit/fr_m36b2_cefeo",
+ "name": "▄M36B2",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "III",
+ "br": {
+  "AB": "5.7",
+  "RB": "5.7",
+  "SB": "5.7"
+ },
+ "description": "The M36B2 was one of the main armored actives of the French Armed Forces in their efforts to combat the constant rebellions and revolutions in Indochina. The vehicle was acquired by the French after the Second World War, at this point, the US had a very large stockpile of surplus military vehicles that were no longer needed. As such, the French obtained a large number of M36s. These tanks operated under the Régiment Blindé Colonial d'Extrême Orient alongside M24 Chaffes and other tanks obtained from the US. The M36B2 proved very successful in dealing with fortifications, Vietnamese light vehicles, and as a support vehicle, conducting direct fire support. The M36B2 was introduced in Update 2.19 \"Drone Age\" . It is the spiritual successor to the M10 and an improvement over the M36, although it is very similar in playstyle. The M36B2 GMC performs extremely similarly to the original M36 GMC. Armoured turret cover shields were added to the M36B2, providing some modest protection against small artillery shrapnel and strafing by small-calibre aircraft machine guns. Despite this, the vehicle remains poorly armoured, leaving it vulnerable to strafing by large-calibre aircraft heavy machine guns or aircraft cannons. For the M36B2 variant, new HEAT-FS ammunition has become available, allowing it to engage strongly armoured enemy vehicles at a significantly greater range with reliability.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_m36b2_cefeo.png",
+ "weapons": [
+  "90 mm M3 cannon",
+  "12.7 mm M2HB machine gun",
+  "7.62 mm M1919A4 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "38 / 19 / 19 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "100 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "40"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "47 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "9.1 → 7 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "16.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 70°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 70°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 150°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,814 → 2,244"
+  },
+  {
+   "label": "Crew training",
+   "value": "39,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "100 / 150 / 190 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "34,700"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "T33 shot",
+   "type": "APBC",
+   "penetration": [
+    "175",
+    "172",
+    "161",
+    "149",
+    "137",
+    "126"
+   ]
+  },
+  {
+   "name": "M71 shell",
+   "type": "HE",
+   "penetration": [
+    "20",
+    "20",
+    "18",
+    "17",
+    "16",
+    "16"
+   ]
+  },
+  {
+   "name": "M82 shot",
+   "type": "APCBC",
+   "penetration": [
+    "185",
+    "183",
+    "173",
+    "161",
+    "150",
+    "140"
+   ]
+  },
+  {
+   "name": "M304 shot",
+   "type": "APCR",
+   "penetration": [
+    "287",
+    "281",
+    "259",
+    "234",
+    "211",
+    "191"
+   ]
+  },
+  {
+   "name": "M313",
+   "type": "Smoke",
+   "penetration": [
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "M348 shell",
+   "type": "HEATFS",
+   "penetration": [
+    "305",
+    "305",
+    "305",
+    "305",
+    "305",
+    "305"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

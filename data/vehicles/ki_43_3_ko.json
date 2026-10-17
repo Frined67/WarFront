@@ -1,0 +1,182 @@
+{
+ "id": "ki_43_3_ko",
+ "wiki": "https://wiki.warthunder.com/unit/ki_43_3_ko",
+ "name": "␗Ki-43-III Ko",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "2.3",
+  "RB": "3.0",
+  "SB": "2.7"
+ },
+ "description": "The Ki-43-III ko (China) (Falcon), with Allied codename of Oscar, represented the captured Ki-43 by National Revolutionary Air Force. After the total outbreak of 2nd Sino-Japanese War, IJAAS deployed their Ki-43 in Mainland China. Used by the 64th Air Squadron, the Ki-43s were able to score some victories on Sino-US forces during their deployment. Later in April 1942, the Chinese Expeditionary Force (中國遠征軍) captured a Ki-43-Ic which has been flown by Yasuda Yoshito (安田義人). After the end of war, ROCAF obtained the remaining Ki-43s in China, mostly at Nanjing as the supplement fighters before new US-built fighters joined them. They were decommissioned in 1946 while the Communist forces captured eight Ki-43s at Northeastern China and been used as trainer aircraft like many other captured Japanese fighters. Introduced in Update 1.91 \"Night Vision\" alongside with the Chinese tech-tree, this variant of Ki-43 featured a more powerful engine as demanded by IJAAS for better dive speed; while the firepower is still rather poor with only two 12.7 mm nose machine guns, players could still enjoy its excellent maneuverability even against fighters from the country it was once served in - Japan.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ki_43_3_ko.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "558"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "15.3"
+  },
+  {
+   "label": "Turn time",
+   "value": "15"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,800 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "190 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "Ha-115-II"
+  },
+  {
+   "label": "Length",
+   "value": "8.9 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "10.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "121 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.23"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.4 t (49m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "661 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.65 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "300 / 449 / 478 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "330 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.53 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "169 → 212"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 30 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEF-I/AP/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/HEF-I/HEF-I/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/AP/AP-T",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/HEF-I/HEF-I/HEF-I",
+   "penetration": [
+    "21",
+    "19",
+    "13",
+    "7",
+    "4",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

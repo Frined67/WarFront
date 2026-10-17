@@ -1,0 +1,140 @@
+{
+ "id": "us_lvt_a_4",
+ "wiki": "https://wiki.warthunder.com/unit/us_lvt_a_4",
+ "name": "LVT(A)(4)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "The Amphibious Vehicle, Tracked, Armoured, Mark 4 - LVT(A)(4) is the fourth armoured, infantry support variant of the Amphibious Vehicle, Tracked (LVT) family. The 37 mm M6 tank gun of the LVT(A)(1) was deemed insufficient for fire support by the U.S. Marines, thus the turret of the 75 mm Howitzer Motor Carriage M8 (HMC), also known as the M8 \"Scott\" , was modified to produce the LVT(A)(4). A 12.7 mm M2HB Browning heavy machine gun was mounted on the ring mount above the turret's rear. The two 7.62 mm M1919A4 light machine guns mounted on ring mounts on the aft deck behind the turret were removed. During World War II, a total of 1,890 units were built. The U.S. Army received 1,307 units, the British Army received 50, and the remaining units were used by the U.S. Marines. Introduced during Update 1.97 \"Viking Fury\" as a reward for the 2020 Victory Day event, the LVT(A)(4) is a premium beginner light tank under the U.S. Army ground forces. It has similar firepower to the M8 \"Scott\" but has the unique ability to traverse across water, which most tanks do not have. To keep afloat in the water, the tank is made of relatively thin steel plates and provides little protection against anything heavier than light machine gun fire. Due to the low muzzle velocity of the rounds, it is possible to shoot over low obstacles in some situations, allowing players to damage other lightly armoured vehicles without exposing themselves. Finally, the 12.7 mm M2HB Browning heavy machine gun can be highly effective while dealing with other lightly armoured vehicles as well as low and slow-flying aircraft in the beginner ranks.",
+ "image": "https://static.encyclopedia.warthunder.com/images/us_lvt_a_4.png",
+ "weapons": [
+  "12.7 mm M2HB machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "12 / 6 / 6 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "132 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "40"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "100 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.3 → 3.3 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-20 / 40°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "4.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "400 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 70°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "410"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 20 / 50) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M66",
+   "type": "HEAT",
+   "penetration": [
+    "89",
+    "89",
+    "89",
+    "89",
+    "89",
+    "89"
+   ]
+  },
+  {
+   "name": "M64",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  },
+  {
+   "name": "M48 shell",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "10",
+    "10",
+    "10",
+    "10",
+    "10"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

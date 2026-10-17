@@ -1,0 +1,188 @@
+{
+ "id": "sw_ikv_73",
+ "wiki": "https://wiki.warthunder.com/unit/sw_ikv_73",
+ "name": "Ikv 73",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The Ikv 73 was an infantry tank that originated during the 1950s. However the design dates back to the Lago I , an export project that was meant to be developed as a tank for Hungary in the 1930s. However, since Hungary withdrew, the Lago I later became the Strv m/42, one of the versions of that tank was the Strv /42 EH, which was retired in the 1950s after the introduction of the Strv 81. Thus, the tank was remodelled and repurposed as an infantry support tank, designated Ikv 73. The tank remained largely the same, although the turret was modified to fit a new roof mounted machine gun. Introduced in Update \"Starfighters\" as a reward for the 2020 Operation S.U.M.M.E.R. event, the Ikv 73 has a similar playstyle as the Strv m/42 EH except the hull machine gun has been replaced with a roof-mounted MG, giving it a better chance to destroy aircraft and engage open-top vehicles. The tank has a decent mobility, although with a slow reverse speed, it will be faster than most medium tanks. However the main problem is the low penetration of the gun, the APHE shell is not the most reliable against tanks like the KV-1 and T-34, although if it does penetrate it has a very good amount of explosive filler, and in most cases it would overpressure the interior, specially if the tank is hit in the middle of the crew compartment.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_ikv_73.png",
+ "weapons": [
+  "8 mm ksp m/36 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "55 / 30 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "81 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "42"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "18.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "59 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "7.6 → 5.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "10.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "648 shots/min"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "648 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 65°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "21"
+  },
+  {
+   "label": "Repair cost",
+   "value": "571"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,900"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (55 / 80 / 90) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "slpprj m/40",
+   "type": "AP",
+   "penetration": [
+    "85",
+    "83",
+    "74",
+    "64",
+    "55",
+    "48"
+   ]
+  },
+  {
+   "name": "slpprj m/40B",
+   "type": "APBC",
+   "penetration": [
+    "85",
+    "82",
+    "73",
+    "63",
+    "54",
+    "46"
+   ]
+  },
+  {
+   "name": "rökgr m/22",
+   "type": "Smoke",
+   "penetration": [
+    "4",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "sgr m/40",
+   "type": "HE",
+   "penetration": [
+    "10",
+    "10",
+    "9",
+    "9",
+    "9",
+    "9"
+   ]
+  },
+  {
+   "name": "slpgr m/39",
+   "type": "APHE",
+   "penetration": [
+    "63",
+    "61",
+    "53",
+    "44",
+    "37",
+    "31"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

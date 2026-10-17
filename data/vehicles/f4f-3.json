@@ -1,0 +1,182 @@
+{
+ "id": "f4f-3",
+ "wiki": "https://wiki.warthunder.com/unit/f4f-3",
+ "name": "F4F-3",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.3",
+  "SB": "3.0"
+ },
+ "description": "The Grumman F4F Wildcat was the US Navy's backbone against the Japanese A6M2 and A6M3 Zero in the early stages of the Pacific War. The aircraft was praised for its survivability and reliability, but in most cases, regular pilots could not out-dogfight the skilled Japanese pilots in their Zero fighters. The F4F-3 was a single-engine all-metal plane with midwing construction, armed with four 12.7 mm M-2 Browning machine guns. Because of its lack of manoeuvrability, the F4F-3 lost to the Japanese fighter in close dogfights, so pilots prefer to avoid such situations by diving out of battle, taking advantage of their aircraft's higher speed. It was also used by Britain under the name Martlet II and Martlet III . It has been in the game since the start of the Open Beta Test prior to Update 1.27. The Wildcat is a beast when piloted well. Its strengths lie in its firepower and diving ability, but it also has the ability to outmanoeuvre most aircraft in War Thunder. This gives you numerous options when dogfighting. The F4F-3 Wildcat is a good all-around fighter, though its top speed and rate of climb are lacking. It is good to go head-on with opponents from other nations as their aircraft won't be able to withstand the damage that the Wildcat can deal, and the good protection for your pilot added to the overall resilience of the aircraft gives it some pretty impressive defence.",
+ "image": "https://static.encyclopedia.warthunder.com/images/f4f-3.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "518"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "15.1"
+  },
+  {
+   "label": "Turn time",
+   "value": "18.9"
+  },
+  {
+   "label": "Max altitude",
+   "value": "12,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "210 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "R-1830-86"
+  },
+  {
+   "label": "Length",
+   "value": "8.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.6 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "140 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.38 t (1h 43m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "826 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/13 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "420 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,800 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.55 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "467 → 628"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 80 / 150 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,400"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP/AP/T/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

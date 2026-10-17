@@ -1,0 +1,206 @@
+{
+ "id": "db_lk",
+ "wiki": "https://wiki.warthunder.com/unit/db_lk",
+ "name": "DB-LK",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The Belyayev DB-LK was an experimental bomber aircraft developed by Viktor Nikolayevich Belyayev for the Soviet Air Force in 1939. The DB-LK's unusual design, featuring a twin-boom fuselage on a large \"bat wing\", was a result of Belyayev's research to create an aircraft that maximised payload capacity and range. Due to its promising design, the DB-LK caught the attention of the Soviet Air Force, and various changes, often conflicting, were made. These ranged from dive-bombing capabilities and an internal bomb bay to a complex remote-controlled turret at the front and a conical swivel turret at the rear. The sole prototype of the DB-LK made its first flight in early 1940, and it was chosen as one of the aircraft to be flown over the Red Square during the May Day parade on 1 May. Following further testing later that year, many design flaws became apparent. Chief among these were a rear-heavy centre of gravity that resulted in long take-off runs and hampered the aircraft's flight characteristics, as well as poor cockpit visibility for both pilots. Because of this, and the fact that the DB-LK was inferior to the conventional DB-3 and Pe-2 bombers in terms of range and efficiency, the DB-LK programme was cancelled, and the prototype was destroyed in October 1941 to avoid capture by the Germans. Introduced in Update 2.53 \"Line of Contact\" , the DB-LK is one of the most unusual aircraft in terms of appearance. Designed to maximise payload capacity, the DB-LK features bombs of varying size, ranging from numerous smaller bombs for base and carpet bombings to a pair of 1,000 kg bombs for close air support. However, due to a combination of underpowered engines and an awkward centre of gravity, the DB-LK struggles to take off, especially with a heavy payload, in addition to being quite slow and sluggish overall. Despite the seemingly impressive defensive armaments, the DB-LK has numerous blind spots that can be easily exploited, especially directly behind the tail.",
+ "image": "https://static.encyclopedia.warthunder.com/images/db_lk.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "488"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "6"
+  },
+  {
+   "label": "Turn time",
+   "value": "32"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,800 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "750 m"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x M-87B"
+  },
+  {
+   "label": "Length",
+   "value": "9.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "21.6 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "159 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "7.82"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.2 t (2h 29m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "580 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.65 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "320 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,800 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.29 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "2,160 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "1,860 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "239"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,400"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (30 / 60 / 115) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-I/AP-I/AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "API-T/API-T/API-T/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-I/AP-I/AP-I/API-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "API-T/API-T/API-T/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

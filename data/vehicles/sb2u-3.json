@@ -1,0 +1,238 @@
+{
+ "id": "sb2u-3",
+ "wiki": "https://wiki.warthunder.com/unit/sb2u-3",
+ "name": "SB2U-3",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "The SB2U was developed in the early 1930s and although considered obsolete at the outbreak of World War II, it still remained in service through the Battle of Midway, however in 1943 it was withdrawn into training units and replaced by more advanced aircraft. This aircraft featured a constant-speed propeller which was intended to be utilized as a dive brake while performing dive bombing attack manoeuvres. There were three hard points for bombs to be attached, one 250 lb bomb under each wing and a single 500 or 1,000 lb bomb mounted onto a pylon under the fuselage. The larger bomb was also attached to what was called a \"trapeze\", a device which would when the bomb was released, swing the bomb clear of the propeller arc. It was introduced in Update 1.75 \"La Résistance\" . The SB2U-3 is the predecessor of the SB2U-2 , but it sits at a higher BR thanks to the armament. It is slightly slower, because of the engine, it uses the Pratt & Whitney R-1535-2, that has less HP than the SB2U-2, but the difference very little. It has access to the same payload, which means that it is excellent at dealing with heavily armoured naval targets and ground targets. The offensive armament is much better, with 4 x 12.7mm browning HMGs, while the SB2U-2 has access to only 2 x 7.7mm MGs. This means, that while the flight performance is mediocre, it can be used to some extent in air battles, since biplanes and early monoplanes are very vulnerable to this kind of machineguns, specially if incendiary bullets are used.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sb2u-3.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "360"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "6.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "22"
+  },
+  {
+   "label": "Max altitude",
+   "value": "6,800 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "300 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "R-1535-2"
+  },
+  {
+   "label": "Length",
+   "value": "10 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "12.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "130 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.31"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.39 t (1h 50m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "740 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.62 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -8/14 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "700 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "740 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,600 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.55 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "315 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "725 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "120 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "213 → 291"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 40 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP/AP/AP/T/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/I/AP",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/AP/I/AP-I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/T",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/AP-I/T",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

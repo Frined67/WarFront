@@ -1,0 +1,118 @@
+{
+ "id": "sw_sav_m43_1946",
+ "wiki": "https://wiki.warthunder.com/unit/sw_sav_m43_1946",
+ "name": "Sav m/43 (1946)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "II",
+ "br": {
+  "AB": "3.0",
+  "RB": "3.0",
+  "SB": "3.0"
+ },
+ "description": "The Stormartillerivagn m/43 was a Swedish self-propelled assault gun. Developed in 1943 by the Swedish company Scania-Vabis, this vehicle was based on the Strv m/41 S-II chassis. The designers modified the fighting compartment, increased the thickness of the frontal armour from 25 mm to 55 mm, and installed a more powerful gun. Initially, it was planned to mount the 105 mm Bofors m/44 gun on the Sav m/43, but due to delays in the development of this gun, the first batch of vehicles in 1944 was equipped with the 75 mm Bofors m/02. A total of 36 vehicles were built. The first batch was re-equipped with 105 mm guns in 1946, and all remained in service until 1970. These self-propelled guns did not see combat. Introduced in Update 1.97 \"Viking Fury\" , the Sav m/43 (1946) is a fairly effective self-propelled artillery unit. It features all-round armour protection, along with good mobility and firepower, making it a powerful weapon in skilled hands, although its slow reload time somewhat offsets this.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_sav_m43_1946.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "50 / 15 / 15 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "72 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "41"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13.3"
+  },
+  {
+   "label": "Ammunition",
+   "value": "41 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "13 → 10 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-14 / 20°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-20 / 15°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "5.6"
+  },
+  {
+   "label": "Repair cost",
+   "value": "779 → 964"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 80 / 100 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,430"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "slpprj m/44",
+   "type": "APBC",
+   "penetration": [
+    "67",
+    "65",
+    "57",
+    "49",
+    "42",
+    "36"
+   ]
+  },
+  {
+   "name": "sgr m/34 LT",
+   "type": "HE",
+   "penetration": [
+    "23",
+    "23",
+    "23",
+    "23",
+    "23",
+    "23"
+   ]
+  },
+  {
+   "name": "psgr m/49",
+   "type": "HEAT",
+   "penetration": [
+    "240",
+    "240",
+    "240",
+    "240",
+    "240",
+    "240"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

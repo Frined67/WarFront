@@ -1,0 +1,230 @@
+{
+ "id": "potez_630",
+ "wiki": "https://wiki.warthunder.com/unit/potez_630",
+ "name": "Potez 630",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.3",
+  "SB": "1.7"
+ },
+ "description": "The Potez 630 was a heavy twin-engined fighter designed by the French Air Force in the late 1930s and meant to compete with the German Bf 110. The aircraft saw service in the late interwar period and in the Second World War during the Battle of France and later, with Vichy France. The Potez 630 was considered ineffective, mainly due to its low speed and poor manoeuvrability. After Germany seized all Vichy French aircraft, the Potez 630 was relegated to second line duties while frontline service remained for better aircraft such as the Bf 110. It was introduced in Update 1.73 \"Vive la France\" . The Potez 630 is best used as an energy fighter. This aircraft is a heavy fighter with a sluggish climb rate. While piloting this aircraft, you will want to stay down in the mid to lower altitudes and dive on targets from those areas. Attempting to climb and shoot will just cause you to be a slow and large target for someone to shoot at. After levelling off from a dive, the Potez 630 will start to lose the energy that was built up and will bleed energy even faster if the plane is taken into a vertical loop or a turn. The key is when reaching the bottom of your dive (whether you hit your target or not) you need to start to climb again in preparation for another dive to build more energy for another attack. If you find yourself low and slow, turn your plane away from the enemy and begin to climb.",
+ "image": "https://static.encyclopedia.warthunder.com/images/potez_630.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "426"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "8.3"
+  },
+  {
+   "label": "Turn time",
+   "value": "22"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "450 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "14Ab-10"
+  },
+  {
+   "label": "Length",
+   "value": "11.1 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "16 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "126 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.42"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.59 t (1h 31m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "462 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.72 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/9 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "240 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "295 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "180 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "700 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.45 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,350 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "330 → 449"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 60 / 140 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,920"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "PT/HEI/AP/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/HEI/AP-T/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP/AP-T/HEI/AP-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/HEI-T",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/HEI",
+   "penetration": [
+    "38",
+    "34",
+    "23",
+    "14",
+    "9",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

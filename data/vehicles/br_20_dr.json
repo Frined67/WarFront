@@ -1,0 +1,206 @@
+{
+ "id": "br_20_dr",
+ "wiki": "https://wiki.warthunder.com/unit/br_20_dr",
+ "name": "B.R.20DR",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "The B.R.20DR was Italy's primary bomber during most of World War II and specially during the Africa Campaign. It was one of the most produced and widely used variants of the BR.20, being introduced in 1936 and serving until 1945. In fact, the BR.20 also served with Japan during World War II, with 82 units sold to this nation, however the aircraft was highly criticized for the poor engine reliability and lacking firepower. In total 500 units of the BR.20 \"Stork\" were produced between 1936 and 1943. It was introduced in Update 1.69 \"Regia Aeronautica\" alongside the initial Italian aviation tree The BR.20 has a superb bomb load and is quite strong, being able to carry more explosive ordnance than most other bombers. The defensive armament has excellent coverage; however, the dorsal gunner is quite exposed and commonly gets hit while in combat. It is very sluggish and the flight performance is inferior to most bombers at its BR. This is a very slow plane in Arcade and Realistic battles, and because these game modes are so short, by the time you reach your bombing target the match might even be over. The BR.20 is still however quite a treat to fly and is stable and well suited to Simulator. Another very interesting strategy the BR.20 DR is capable of is ironically, attacking other bombers. When the top & front gunner are pointed forward, the combined firepower of three 7.7 machine guns can surprise other bomber pilots especially if loaded with the AP-I belts.",
+ "image": "https://static.encyclopedia.warthunder.com/images/br_20_dr.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "430"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "4.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "31"
+  },
+  {
+   "label": "Max altitude",
+   "value": "7,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "750 m"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x A80 RC.41"
+  },
+  {
+   "label": "Length",
+   "value": "16.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "21.6 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "124 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "7.44"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.72 t (4h 12m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "675 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.73 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -4/6 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "280 / 429 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "310 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.15 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "212 → 291"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 40 / 80 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,430"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP-I/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/AP-I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP-I/AP-I/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,278 @@
+{
+ "id": "do_217j_1",
+ "wiki": "https://wiki.warthunder.com/unit/do_217j_1",
+ "name": "Do 217 J-1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.7"
+ },
+ "description": "The Do 217 is a German twin-engine night fighter and interceptor aircraft. Developed by Dornier from 1937 to 1940, it was based on operational experience with the Do 17 . Despite its resemblance to the Do 17 externally, the Do 217 was technically a completely new aircraft. It was produced from 1940 to 1945, with a total of 1,905 Do 217s built across all variants. The Do 217 J-1 , was a night fighter armed with four 20 mm MG FF cannons and four 7.92 mm MG 17 machine guns mounted in the nose. In 1941, the Luftwaffe urgently needed night interceptors because Ju 88s and Bf 110s were insufficient. The Do 217 J-1 was developed in 1941 and produced at Dornier factories from 1942 to 1943. A total of 130 aircraft were built during this period. The Do 217 J-1 was introduced in Update 1.29 . Its main advantage is its formidable firepower, which is capable of overwhelming virtually any opponent it encounters. However, the aircraft is slow, climbs poorly, and is not very maneuverable. Despite these limitations, its defensive turret armament sometimes allows it to fend off enemy fighters.",
+ "image": "https://static.encyclopedia.warthunder.com/images/do_217j_1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "469"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "5.9"
+  },
+  {
+   "label": "Turn time",
+   "value": "33"
+  },
+  {
+   "label": "Max altitude",
+   "value": "8,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "750 m"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x 801 ML"
+  },
+  {
+   "label": "Length",
+   "value": "18.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "19 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "228 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "10.85"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "2.07 t (1h 50m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "700 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.65 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/7 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "270 / 382 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "350 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "800 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "520 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.94 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,800 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "900 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "165 → 212"
+  },
+  {
+   "label": "Crew training",
+   "value": "600"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 30 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "4,450"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "300"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "IT/HEI/APHE",
+   "penetration": [
+    "15",
+    "13",
+    "8",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "IT/HEI/HEI/APHE",
+   "penetration": [
+    "15",
+    "13",
+    "8",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "FI-T/HEI/HEI/FI-T/HEI/HEI/APHE",
+   "penetration": [
+    "15",
+    "13",
+    "8",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT",
+   "penetration": [
+    "7",
+    "7",
+    "4",
+    "3",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "APHE/HEI/HEI/HEI/AP-I",
+   "penetration": [
+    "20",
+    "17",
+    "10",
+    "5",
+    "3",
+    "2"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "IT/AP-I/IAI/AP-I",
+   "penetration": [
+    "19",
+    "16",
+    "8",
+    "4",
+    "2",
+    "1"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP-T/AP-T/AP-T/IAI",
+   "penetration": [
+    "19",
+    "16",
+    "8",
+    "4",
+    "2",
+    "1"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

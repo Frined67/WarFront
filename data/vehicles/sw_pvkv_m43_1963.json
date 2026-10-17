@@ -1,0 +1,152 @@
+{
+ "id": "sw_pvkv_m43_1963",
+ "wiki": "https://wiki.warthunder.com/unit/sw_pvkv_m43_1963",
+ "name": "Pvkv m/43 (1963)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "III",
+ "br": {
+  "AB": "4.7",
+  "RB": "5.0",
+  "SB": "5.0"
+ },
+ "description": "After the introduction of very successful tank destroyers in World War II like the StuG III and StuG IV, Sweden decided to make its own version with similar design philosophy, resulting in the Pvkv m/43. While the last tank was delivered in 1948, the design continued to be modified and upgraded during the 1950s and '60s. Some of the more important upgrades were the introduction of an armoured roof, improved muzzle brake, a gun travel lock, and a bore evacuator. When the Strv m/41 was retired, the Pvkv m/43 received two Scania-Vabis L603 engines per vehicle. While this produced less horsepower than the Volvo A8B engine used in the original design, the new engines proved to be much more reliable. In 1970, the Pvkv m/43 was retired from service, and the guns were used in static fortifications until 1995. It was introduced in Update 1.97 \"Viking Fury\" . The Pvkv m/43 (1963) has a casemate design, and as such, plays best as a sniper. It will depend on positioning and good target acquisition. Use your binoculars to spot targets and use your APDS shell to deal with the most heavily armoured like the Tiger or Panther. It also has access to good gun depression, with -15 degrees, so it can peak over hills with ease. For a tank destroyer, it is fairly mobile, however this comes at the cost of armour, being very vulnerable to even 20 mm autocannons, that are very common among attack aircraft and some ground vehicles.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_pvkv_m43_1963.png",
+ "weapons": [
+  "8 mm ksp m/36 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "70 / 30 / 20 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "91 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "47"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "13"
+  },
+  {
+   "label": "Ammunition",
+   "value": "43 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "8.7 → 6.7 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 20°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-13 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "5.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "648 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 65°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Repair cost",
+   "value": "1,443 → 1,785"
+  },
+  {
+   "label": "Crew training",
+   "value": "30,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "90 / 140 / 170 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "29,900"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,200"
+  }
+ ],
+ "shells": [
+  {
+   "name": "slpgr m/43",
+   "type": "APCBC",
+   "penetration": [
+    "149",
+    "146",
+    "132",
+    "116",
+    "102",
+    "89"
+   ]
+  },
+  {
+   "name": "sgr m/38",
+   "type": "HE",
+   "penetration": [
+    "18",
+    "17",
+    "16",
+    "14",
+    "13",
+    "12"
+   ]
+  },
+  {
+   "name": "7,5 cm slpprj m/49",
+   "type": "APDS",
+   "penetration": [
+    "232",
+    "228",
+    "213",
+    "196",
+    "180",
+    "165"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

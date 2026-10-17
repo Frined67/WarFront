@@ -1,0 +1,141 @@
+{
+ "id": "sw_lago_1",
+ "wiki": "https://wiki.warthunder.com/unit/sw_lago_1",
+ "name": "Lago I",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The Lago I was a Swedish medium tank, developed for export to Hungary. However, Hungary chose to design their own medium tank, with the help of Škoda, and the project was cancelled. It was not until later that the Lago I was trialed by the Swedish army and further developed to the Strv m/42 , where it would have a long service life. The Lago I was introduced in Update 1.97 \"Viking Fury\" . It has a similar playstyle to an early Pz.III, being quite fast and manoeuvrable but not having the greatest in terms of firepower output. The Lago I does have access to post-war APDS rounds with great penetration, giving it the upper hand in long-range engagements where its angled armour can protect the vehicle well. The small breech of the vehicle also give it great gun depression, making it able to peek over hills to engage with hostiles without endangering itself.",
+ "image": "https://static.encyclopedia.warthunder.com/images/sw_lago_1.png",
+ "weapons": [
+  "37 mm kan m/38 cannon",
+  "8 mm ksp m/36 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "34 / 34 / 24 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "83 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "45"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16"
+  },
+  {
+   "label": "Ammunition",
+   "value": "100 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "4.1 → 3.1 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "13.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,250 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "648 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "566 → 728"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 50 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,400"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "slpprj m/38",
+   "type": "APBC",
+   "penetration": [
+    "59",
+    "55",
+    "41",
+    "28",
+    "19",
+    "13"
+   ]
+  },
+  {
+   "name": "slpgr m/39",
+   "type": "APHE",
+   "penetration": [
+    "55",
+    "51",
+    "37",
+    "26",
+    "17",
+    "12"
+   ]
+  },
+  {
+   "name": "3,7 cm slpprj m/49",
+   "type": "APDS",
+   "penetration": [
+    "115",
+    "111",
+    "95",
+    "78",
+    "64",
+    "52"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

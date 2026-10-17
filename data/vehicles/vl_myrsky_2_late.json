@@ -1,0 +1,186 @@
+{
+ "id": "vl_myrsky_2_late",
+ "wiki": "https://wiki.warthunder.com/unit/vl_myrsky_2_late",
+ "name": "VL Myrsky II",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.3",
+  "SB": "2.3"
+ },
+ "description": "The Myrsky II (\"Storm\" in Finnish) was a Finnish single-engine fighter aircraft used during World War II. Shortly before the outbreak of the Winter War, the Finnish Air Force commissioned the development of a domestic fighter aircraft. Five designs were submitted in May 1939, and one was selected by the state commission in June of that year. However, active development only began in 1940, following the German occupation of Denmark and Norway, which cut Finland off from the Allies. Work on refining the airframe and powerplant continued until 1943, and the aircraft did not enter service with combat units until August 1944. Though the Myrsky II participated in several combat missions, it failed to have any significant impact on the war. The VL Myrsky II was introduced as a reward for the 2021 \"Summer Landing\" event. While it does not possess exceptional flight characteristics, the aircraft's powerful machine guns and relatively high speed for an early monoplane make it a capable fighter.",
+ "image": "https://static.encyclopedia.warthunder.com/images/vl_myrsky_2_late.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "535"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "10"
+  },
+  {
+   "label": "Turn time",
+   "value": "18"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,700 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "350 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "SC3-G"
+  },
+  {
+   "label": "Length",
+   "value": "8.3 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "156 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "2.58"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.22 t (49m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "650 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.78 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -9/13 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "240 / 323 / 355 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "290 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "960"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,100 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.9 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "885"
+  },
+  {
+   "label": "Crew training",
+   "value": "2,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (35 / 60 / 120) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP/I",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP-T/I",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP/AP-T/AP",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "AP-T/I/I/I",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T/AP-T/AP-T/AP-T",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "13",
+    "8",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/I/AP/I",
+   "penetration": [
+    "28",
+    "26",
+    "19",
+    "13",
+    "8",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

@@ -1,0 +1,130 @@
+{
+ "id": "uk_t17e2",
+ "wiki": "https://wiki.warthunder.com/unit/uk_t17e2",
+ "name": "Staghound AA",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.0",
+  "SB": "2.0"
+ },
+ "description": "The T17E2 started as an armoured car requested by US Army Ordnance in July 1941. The request asked for a medium armoured car for combat services. Two companies, Ford Motor Company and Chevrolet, submitted designs to this request. During the T17's development, the British Purchasing Commission was also looking for a medium armoured car that could be used in the current campaign in North Africa. British requirements were a bit different than the American's and asked for the turret of the car to house at least two people and with a radio in the turret rather than in the hull. Some T17E1s were modified with a new turret developed by Frazer-Nash that equipped two .50 cal M2 Browning machine guns, this modified vehicle was given the name T17E2 . About 789 Staghounds were converted into the T17E2, also named the \"Staghound AA\" , in the period of October 1943 and April 1944. It was introduced in Update 1.55 \"Royal Armour\" along with the initial British ground tree. The Staghound AA is a very mobile SPAA with dual-mounted .50 cal machine guns, it also has armour rivalling some other Rank I vehicles and can thus withstand a majority of the smaller shells. The T17E2 has two obvious characteristics. It has wheels, giving it excellent speed and mobility, especially on hard surfaces like rock or roads. The wheels also mean that it struggles in mud, sand or snow. Then, there are the guns, the T17E2 is armed with a seemingly light armament of two 12.7 mm (.50 cal) machine guns. Compared to other SPAA of the rank, the armament are light. German and Japanese SPAA are armed with highly potent 20 mm auto cannons, which inflict far more damage to aircraft and vehicles alike. Instead, the T17E2 relies on its longevity and high rate of fire.",
+ "image": "https://static.encyclopedia.warthunder.com/images/uk_t17e2.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "22 / 19 / 9 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "84 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "88"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,800 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 75°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "30.1"
+  },
+  {
+   "label": "Repair cost",
+   "value": "334 → 433"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "20 / 30 / 30 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,950"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Universal",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": ".50 API",
+   "type": "API-T/AP-I/API-T",
+   "penetration": [
+    "30",
+    "27",
+    "19",
+    "12",
+    "8",
+    "5"
+   ]
+  },
+  {
+   "name": ".50 AP",
+   "type": "AP/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": ".50 API-T",
+   "type": "API-T",
+   "penetration": [
+    "29",
+    "27",
+    "19",
+    "12",
+    "7",
+    "5"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

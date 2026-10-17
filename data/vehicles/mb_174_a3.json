@@ -1,0 +1,266 @@
+{
+ "id": "mb_174_a3",
+ "wiki": "https://wiki.warthunder.com/unit/mb_174_a3",
+ "name": "M.B.174A-3",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "I",
+ "br": {
+  "AB": "2.0",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "In 1936, the French Air Force launched a modernization program requiring a two- or three-seat utility aircraft that could serve as a light bomber or reconnaissance aircraft. Designers at the former Bloch factory, which had recently been nationalized by SNCASO, proposed a twin-engine, low-wing aircraft with cantilever beams. Designated the M.B.170 AB2-A3 No. 01, the aircraft was powered by Gnome-Rhône 14N engines and had powerful armament. The aircraft made its first flight on February 15, 1938. This was followed by the three-seat bomber M.B.170B3 No. 2, which had weaker armament and a redesigned cockpit. The military was not satisfied, so minor changes were made, and the aircraft was redesignated the M.B.174A.3 . It took off for the first time in 1939 and was accepted into service in March 1940. Its speed and maneuverability allowed it to evade any German interceptors, and it received positive reviews from pilots. However, after France fell on June 22, 1940, the M.B.174s were transferred to auxiliary roles under the Vichy regime. They were used to monitor the movements of the British fleet in Gibraltar. The production had to be stopped at 56 aircraft. The M.B.174A-3 was introduced in Update 1.73 \"Vive la France\" . In combat, this aircraft leaves a mixed impression. While it has excellent flight characteristics for a bomber, its bomb load is too modest to reliably destroy enemy bases and ground vehicles.",
+ "image": "https://static.encyclopedia.warthunder.com/images/mb_174_a3.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "537"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "11.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "19"
+  },
+  {
+   "label": "Max altitude",
+   "value": "10,300 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "450 m"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "2 x 14N-48"
+  },
+  {
+   "label": "Length",
+   "value": "12.2 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "17.9 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "174 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "5.5"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "1.22 t (2h 41m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "680 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.75 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "260 / 317 / 330 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "280 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,350 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "800 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,350 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,500 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,350 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.22 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "355 → 448"
+  },
+  {
+   "label": "Crew training",
+   "value": "1,800"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 50 / 100 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,940"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "410"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/Ball/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "T/AP/AP/I/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "IT",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP/I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "T/AP/AP/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "T/AP",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

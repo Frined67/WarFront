@@ -1,0 +1,118 @@
+{
+ "id": "cn_zsd63_pg87",
+ "wiki": "https://wiki.warthunder.com/unit/cn_zsd63_pg87",
+ "name": "ZSD63/PG87",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "spaa",
+ "role": "SPAA",
+ "rank": "IV",
+ "br": {
+  "AB": "5.7",
+  "RB": "5.7",
+  "SB": "5.7"
+ },
+ "description": "The ZSD63/PG87 (known in Chinese client as ZSD63式履带裝甲输送车/PG87式双管高射炮, industry code: WZ531 for the chassis) was the field modification from PLAGF to build make-shift SPAA before new SPAAGs made into commission. The concept of ZSD63 started in 1958 as a fully-enclosed tracked APC with amphibious capabilities; after the flaws in design and new upgrades introduced to the 531A prototype, the ZSD63 eventually joined PLAGF in 1970 as the first domestic APC in service and has been used during the Vietnam War by Viet Cong and Sino-Vietnamese War by both side. The SPAA variant was likely the modification built in 1990s with dozer to reduce recoil during firing; alongside with other truck-base SPAA with PG87 25 mm autocannon, they served PLAGF to at least into the 21st Century when new SPAAG eventually replaced them. Introduced in Update \"Starfighters\" as the first Chinese vehicle to equip the PG87 autocannon, the ZSD63 is the third vehicle in the Chinese SPAA line and offers greatly improved anti-air capabilities to Chinese tankers. Though it looks rather like a jury-rigged technical from the Middle East, having a turret with twin autocannons grafted on an APC chassis, it packs some serious firepower for its rank. A slight brush from the ZSD63's rapid-fire cannons will tear aircraft and lightly armoured ground vehicles to shreds. Even medium tanks will be wary of the onslaught of AP rounds, which can cut through them like a buzzsaw. While it has excellent firepower, the defensive capabilities are lacking; the large size, paper-thin armour, and high profile make it an attractive target to anything on the battlefield. The pair of PG87 cannons have a 600 rpm fire rate that will empty its dual 40 round magazine (80 total) in just over 4 seconds, then to face a truly abysmal reload speed of 30 plus seconds! The vehicle also only carries enough ammo for 5 reloads which will vanish like magic. Its saving grace is the high velocity ammo that makes aiming easy; the succeeding Chinese SPAAs have a much lower rate of fire and lower velocity, thus harder to use against aerial targets until the WZ305 and its proximity-fused shells are researched. Despite these challenges, the ZSD63 can be a very fun vehicle to play and will serve well as an anti-air vehicle even beyond its low rank.",
+ "image": "https://static.encyclopedia.warthunder.com/images/cn_zsd63_pg87.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "12 / 8 / 8 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "250 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "60"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "18.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "480 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "16.9 → 13 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 90°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "37.8"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,892 → 3,722"
+  },
+  {
+   "label": "Crew training",
+   "value": "45,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "120 / 140 / 210 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "40,400"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,400"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/FI-T",
+   "penetration": [
+    "63",
+    "61",
+    "51",
+    "41",
+    "33",
+    "27"
+   ]
+  },
+  {
+   "name": "Type 87 HE",
+   "type": "FI-T",
+   "penetration": [
+    "8",
+    "8",
+    "6",
+    "5",
+    "4",
+    "3"
+   ]
+  },
+  {
+   "name": "Type 87 AP",
+   "type": "AP-T",
+   "penetration": [
+    "63",
+    "61",
+    "51",
+    "41",
+    "33",
+    "27"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

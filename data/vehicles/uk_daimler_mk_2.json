@@ -1,0 +1,153 @@
+{
+ "id": "uk_daimler_mk_2",
+ "wiki": "https://wiki.warthunder.com/unit/uk_daimler_mk_2",
+ "name": "Daimler Mk II",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.3",
+  "RB": "1.3",
+  "SB": "1.3"
+ },
+ "description": "The excellent performance of the turretless Daimler Scout Car led people to suggest that a larger armoured car version with a turret be built as well. The Daimler was similar in design but also introduced a rear-facing wheel for the commander to use in an emergency. The same turret used for the Tetrarch was employed by the Daimler. Most of their use was during the Africa Campaign, where armoured cars were crucial in the vast distances of the dessert, in situations where mobility was often more important than raw power. The tank was Britain's main reconnaissance vehicle during this time period, while it was also the heaviest of all the armoured cars fitted by the British. It was introduced in Update 1.71 \"New E.R.A.\" . A QF 2-pounder on 4x4 wheels, this vehicle is made to support infantry in a way similar to the cavalry. It is not made to withstand heavy fire. Notably, its wheeled configuration means the car does not fire well when on the move, and it will turn in an arc. Meanwhile, its good reverse speed could possibly save the car as long as the move happens before the enemy shoots. The Daimler is recognisable from other armoured cars by its hexagonal hull centre and its short length. It has 4 mm boxes scattered across the hull and a spare tire on the left side. Besides the main armament, it is equipped with a coaxial BESA machine gun (same MG as higher rank British vehicles), a decent gun to shower open-topped SPGs with lead.",
+ "image": "https://static.encyclopedia.warthunder.com/images/uk_daimler_mk_2.png",
+ "weapons": [
+  "40 mm QF 2-pounder cannon",
+  "7.92 mm BESA machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "16 / 10 / 14 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "76 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "80"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "14.5"
+  },
+  {
+   "label": "Ammunition",
+   "value": "52 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.6 → 2.8 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 25°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,700 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "94 → 128"
+  },
+  {
+   "label": "Crew training",
+   "value": "200"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "10 / 10 / 20 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "2,975"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "190"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Shot Mk.1 AP/T",
+   "type": "AP",
+   "penetration": [
+    "72",
+    "68",
+    "52",
+    "37",
+    "27",
+    "19"
+   ]
+  },
+  {
+   "name": "Shot Mk.IXB APCBC/T",
+   "type": "APCBC",
+   "penetration": [
+    "89",
+    "86",
+    "77",
+    "66",
+    "57",
+    "50"
+   ]
+  },
+  {
+   "name": "Shot Mk.1 APHV/T",
+   "type": "AP",
+   "penetration": [
+    "80",
+    "75",
+    "58",
+    "41",
+    "30",
+    "21"
+   ]
+  },
+  {
+   "name": "Shell Mk.1 AP/T",
+   "type": "APHE",
+   "penetration": [
+    "66",
+    "62",
+    "49",
+    "36",
+    "26",
+    "19"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-I/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

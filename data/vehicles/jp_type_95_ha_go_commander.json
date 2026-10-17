@@ -1,0 +1,113 @@
+{
+ "id": "jp_type_95_ha_go_commander",
+ "wiki": "https://wiki.warthunder.com/unit/jp_type_95_ha_go_commander",
+ "name": "Ha-Go Commander",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "light_tank",
+ "role": "Light tank",
+ "rank": "I",
+ "br": {
+  "AB": "1.0",
+  "RB": "1.0",
+  "SB": "1.0"
+ },
+ "description": "The Ha-Go Commander was a variant of the Ha-Go assigned to commanders of tank companies within the Japanese armoured forces. In the early stages, the Japanese, like many others, did not widely equip their tanks with radios, relying instead on signal flags. To ensure the tank of the company commander remained visible, it was often painted with relatively unique camouflage patterns or insignias. Command versions featured various modifications and deviations from standard production procedures. Some were equipped with a radio and circular antenna on the commander's cupola, while others, like this one, were fitted with smoke dischargers (although this feature was not exclusive to command vehicles). The Ha-Go Commander was introduced in Update 1.65 \"Way of the Samurai\" along with the initial Japanese Ground Forces Tree and was the prize in the 2016 \"Christmas gift\" giveaway. The Ha-Go is deployed for its agility, which makes it suitable for the role of a support tank. Its primary duty is to assist larger tanks in their advances. However, due to its limited armour, it can be easily destroyed in combat. The Ha-Go Commander serves a similar purpose, but it is equipped with four smoke grenades, which makes it more versatile tactically. This allows for a stealthy retreat or approach, based on the commander's daring strategy and situational requirements.",
+ "image": "https://static.encyclopedia.warthunder.com/images/jp_type_95_ha_go_commander.png",
+ "weapons": [
+  "37 mm Type 94 cannon",
+  "7.7 mm Type 97 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "12 / 12 / 10 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "74 %"
+  },
+  {
+   "label": "Crew",
+   "value": "3 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "48"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "16"
+  },
+  {
+   "label": "Ammunition",
+   "value": "119 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.7 → 2.9 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 20°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "11"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "3.9 → 3 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "498 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "322"
+  },
+  {
+   "label": "Crew training",
+   "value": "150"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (15 / 15 / 20) %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "5,240"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Type 94 APHE",
+   "type": "APHE",
+   "penetration": [
+    "34",
+    "33",
+    "27",
+    "22",
+    "17",
+    "14"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

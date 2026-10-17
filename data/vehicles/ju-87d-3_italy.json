@@ -1,0 +1,222 @@
+{
+ "id": "ju-87d-3_italy",
+ "wiki": "https://wiki.warthunder.com/unit/ju-87d-3_italy",
+ "name": "▄Ju 87 D-3",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "II",
+ "br": {
+  "AB": "2.3",
+  "RB": "2.0",
+  "SB": "2.3"
+ },
+ "description": "The Ju 87 D-3 (Italy) is an Italian dive bomber. It was introduced in Update 1.85 \"Supersonic\" . The Ju 87 D-3 (Italy) is a slow bomber when flying but decently fast in a dive. It is fairly durable for its battle rating, being able to take a decent amount of 7.7 mm and 12.7 mm fire before being fully disabled, but this doesn't mean you should fly in a straight line. The Stuka has a very low stall speed and is very manoeuvrable at lower speeds giving it an edge in a dive bomb run or a turn fight. The offensive and defensive armaments are a bit underwhelming, but can still heavily damage enemy aircraft in close proximity. In a dive attack, deploy the air brakes to control the acceleration so you don't gain too much speed and slam into the ground. Its armament consists of two MG 17s mounted in the wings, very good for killing soft ground targets like armoured cars and AA, and has a good bomb load for destroying hard targets like tanks, pillboxes, ships and bases. Its defensive turret consists of two fast-firing MG 81s but they are not lethal enough to shoot down planes reliably.",
+ "image": "https://static.encyclopedia.warthunder.com/images/ju-87d-3_italy.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "385"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "11.2"
+  },
+  {
+   "label": "Turn time",
+   "value": "31"
+  },
+  {
+   "label": "Max altitude",
+   "value": "7,500 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "513 m"
+  },
+  {
+   "label": "Crew",
+   "value": "2 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "Jumo 211J"
+  },
+  {
+   "label": "Length",
+   "value": "10.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "13.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "167 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "4.23"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.58 t (1h 42m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "730 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.65 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "320 / 454 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,200 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.21 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "1,596 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.27 kg"
+  },
+  {
+   "label": "Max weight",
+   "value": "1,220 kg"
+  },
+  {
+   "label": "Wing loading",
+   "value": "610 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "693 → 874"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "50 / 100 / 200 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,410"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "AP-T/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP/AI/AP-I",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AI/AP/AP/AP/AI",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP-T/Ball/Ball/AP-I/AI",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/AP-T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  },
+  {
+   "name": "AP-T",
+   "type": "AP-I/AP-T/AP-I/AP-T",
+   "penetration": [
+    "9",
+    "8",
+    "6",
+    "3",
+    "0",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

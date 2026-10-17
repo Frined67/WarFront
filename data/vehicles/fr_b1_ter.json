@@ -1,0 +1,165 @@
+{
+ "id": "fr_b1_ter",
+ "wiki": "https://wiki.warthunder.com/unit/fr_b1_ter",
+ "name": "B1 ter",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "heavy_tank",
+ "role": "Heavy tank",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "The B1 ter (prototype) , specifically Renault Hull No. 101 , was the final variant of the standard B1 series with only 4 prototypes built. Conceptualized in 1937 at the same time and with the same funds to develop B1 bis , the B1 ter started its life as B1 hull No. 101, built in 1929. It was remodelled completely to be a mock-up for the B1 ter's armour package and features, with only the structural parts remaining. However, this prototype would still be a far cry from the original plans for the B1 ter. After No. 101, 3 pre-production prototypes of the B1 ter were made by different companies from scratch, with different construction methods; prioritizing welding over bolting, a different 75 mm gun mount and different turret. With time running out, all the prototypes ended up falling back from their original assembly lines and 3 of the prototypes ended up sunk in a bombed transport ship on the Gironde river while attempting to sail to French Africa. The 4th and last prototype survived the invasion, but after the armistice leaving the tank in Vichy France, it was seized by the Italians. There is no further concrete information on its final fate. Introduced in Update 1.75 \"La Résistance\" as a premium pack vehicle, B1 ter 'No. 101' may not have been the final form of the B1 ter, but it does showcase its capabilities in the armour department so well that it's seen as strongest tank for its BR, averaging 75 mm thick armour all around, causing headaches even to dedicated anti-tank guns. While it also suffers the same downsides as the B1 bis : slow speeds, hull mounted gun, some flat plating to the front; the overall armour is so much more superior that angling is not a necessity and it can shrug off almost all shells in combat. No. 101 can single handedly become the front-line and dictate where the battle goes and with allies near can charge forward to victory. The B1 ter was discontinued from the store after War Thunder's 6th Anniversary sale , but was later reintroduced for War Thunder's 7th anniversary as a premium purchasable in-game for Golden Eagles. It has also been obtainable several times through the Warbond shop since January 2020.",
+ "image": "https://static.encyclopedia.warthunder.com/images/fr_b1_ter.png",
+ "weapons": [
+  "47 mm SA35 L/32 cannon",
+  "7.5 mm MAC 31 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "70 / 70 / 55 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "111 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "31"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "9.6"
+  },
+  {
+   "label": "Ammunition",
+   "value": "90 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "11.1 → 8.6 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-4 / 9°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-7 / 5°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "2.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "60 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "5.2 → 4 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-15 / 18°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7"
+  },
+  {
+   "label": "Ammunition",
+   "value": "4,050 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "6.5 → 5 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "550 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "929"
+  },
+  {
+   "label": "Crew training",
+   "value": "2,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (35 / 45 / 75) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Mle1910M",
+   "type": "APHE",
+   "penetration": [
+    "58",
+    "57",
+    "50",
+    "43",
+    "37",
+    "32"
+   ]
+  },
+  {
+   "name": "Mle1915",
+   "type": "HE",
+   "penetration": [
+    "11",
+    "11",
+    "11",
+    "11",
+    "11",
+    "11"
+   ]
+  },
+  {
+   "name": "Mle1935",
+   "type": "APC",
+   "penetration": [
+    "62",
+    "59",
+    "47",
+    "36",
+    "27",
+    "20"
+   ]
+  },
+  {
+   "name": "Mle1935 HE",
+   "type": "HE",
+   "penetration": [
+    "6",
+    "6",
+    "5",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

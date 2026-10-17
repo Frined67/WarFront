@@ -1,0 +1,110 @@
+{
+ "id": "uk_alecto_mk_1",
+ "wiki": "https://wiki.warthunder.com/unit/uk_alecto_mk_1",
+ "name": "Alecto I",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "tank_destroyer",
+ "role": "Tank destroyer",
+ "rank": "I",
+ "br": {
+  "AB": "1.7",
+  "RB": "1.7",
+  "SB": "1.7"
+ },
+ "description": "The Alecto Mk.I was a British experimental light self-propelled gun, built on the basis of the Light Tank Mk.VIII \"Harry Hopkins\". Due to delays in development and testing of the Mk.VIII, the first chassis available for conversion into a self-propelled gun appeared only in August 1943. Testing and refinement of the Alecto itself, which began only in 1944, also dragged on considerably; as a result, a sample more or less ready for production only appeared by June 1945, when the need for such a machine had already disappeared, since there were more powerful and refined self-propelled guns available. A small batch of Alectos were produced, the exact number of which is unknown. They did not participate in combat operations, were used for training purposes and were scrapped by 1955. Introduced during Update \"Wind of Change\" as a reward for the \"Battle for Arachis\" event, the Alecto represents a classic \"glass cannon\". Its 95 mm howitzer is a very powerful weapon, with powerful HE and HEAT shells at its disposal, but it reloads quite slowly and surviving the reloading process in the enemy's sight is unlikely, since it has virtually no armour. However, it has satisfactory mobility and a very small profile, which somewhat increases its chances of survival. Constant repositioning and long-range firing will be crucial, as this is where the Alecto can excel.",
+ "image": "https://static.encyclopedia.warthunder.com/images/uk_alecto_mk_1.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "10 / 10 / 10 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "104 %"
+  },
+  {
+   "label": "Crew",
+   "value": "4 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "50"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "20.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "48 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "11.1 → 8.6 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-5 / 26°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-15 / 15°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "7"
+  },
+  {
+   "label": "Repair cost",
+   "value": "374"
+  },
+  {
+   "label": "Crew training",
+   "value": "450"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "2 x (20 / 25 / 30) %"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Shell H.E./A.T.",
+   "type": "HEAT",
+   "penetration": [
+    "110",
+    "110",
+    "110",
+    "110",
+    "110",
+    "110"
+   ]
+  },
+  {
+   "name": "Shell Mk.Ia",
+   "type": "HE",
+   "penetration": [
+    "18",
+    "18",
+    "18",
+    "18",
+    "18",
+    "18"
+   ]
+  },
+  {
+   "name": "Shell SE Mk,I",
+   "type": "Smoke",
+   "penetration": [
+    "3",
+    "3",
+    "3",
+    "3",
+    "3",
+    "3"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

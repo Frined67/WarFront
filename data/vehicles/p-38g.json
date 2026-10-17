@@ -1,0 +1,256 @@
+{
+ "id": "p-38g",
+ "wiki": "https://wiki.warthunder.com/unit/p-38g",
+ "name": "P-38G-1",
+ "branchLabel": "Aviation",
+ "roleId": "fighter",
+ "role": "Fighter",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "3.3",
+  "SB": "3.7"
+ },
+ "description": "The P-38G was a minor evolution of the P-38 and was also widely produced with over 1,000 aircraft built. The P-38G was largely the same aircraft as the P-38F except the G ran at higher boost settings as well as having improved radio equipment. The Allison V-1710-51 in the P-38G (F10R) runs at a slightly higher manifold pressure (47.5) compared to the engine in the P-38F (47.0). Unfortunately, due to cooling issues with the engines at higher altitudes, the power was significantly limited. A decent portion of P-38G’s were actually F-5A Lightnings that were unarmed and fitted with five cameras for reconnaissance duties. These received the same improvements found in the P-38G and were built along the same production lines. The P-38G-1 was present at the beginning of the Open Beta Test prior to Update 1.27. It’s a significant improvement over the previous P-38. It features better engines, a lighter airframe, and the ability to use rockets. The P-38G is a fairly strong plane due to its low BR and excellent climb performance. Furthermore, all of the guns are mounted in the nose which greatly helps with quickly downing enemy aircraft. Unfortunately, the P-38G is still an early version of the P-38 family and lacks the dive brakes which help against compressibility. However, players should still be satisfied with the P-38G’s performance.",
+ "image": "https://static.encyclopedia.warthunder.com/images/p-38g.png",
+ "weapons": [
+  "20 mm AN/M2 cannon"
+ ],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "660"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "18"
+  },
+  {
+   "label": "Turn time",
+   "value": "22"
+  },
+  {
+   "label": "Max altitude",
+   "value": "12,192 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "380 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "V-1710-55"
+  },
+  {
+   "label": "Length",
+   "value": "11.6 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "15.8 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "232 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "6.23"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.82 t (1h 2m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "790 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.74 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -5/10 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "250 / 495 / 566 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "289 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "150 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "600 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "1.48 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,000 rounds"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "629 → 801"
+  },
+  {
+   "label": "Crew training",
+   "value": "6,300"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 100 / 200 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "10,310"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "750"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "HEI/AP-T",
+   "penetration": [
+    "39",
+    "36",
+    "25",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-T/AP-T/HEI/HEI",
+   "penetration": [
+    "39",
+    "36",
+    "25",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Air targets",
+   "type": "HEI/HEI/HEI/AP-T",
+   "penetration": [
+    "39",
+    "36",
+    "25",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "AP-T/AP-T/AP-T/HEI",
+   "penetration": [
+    "39",
+    "36",
+    "25",
+    "16",
+    "10",
+    "6"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "HEI",
+   "penetration": [
+    "5",
+    "4",
+    "4",
+    "4",
+    "4",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP-I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/AP-I/T/I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP/AP-I/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/T/T/AP-I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP-I/AP-I/I/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

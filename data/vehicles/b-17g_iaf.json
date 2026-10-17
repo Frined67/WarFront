@@ -1,0 +1,206 @@
+{
+ "id": "b-17g_iaf",
+ "wiki": "https://wiki.warthunder.com/unit/b-17g_iaf",
+ "name": "B-17G",
+ "branchLabel": "Aviation",
+ "roleId": "bomber",
+ "role": "Bomber",
+ "rank": "IV",
+ "br": {
+  "AB": "5.0",
+  "RB": "5.0",
+  "SB": "5.3"
+ },
+ "description": "By 1948, B-17s were no longer in service with the USAF as bombers. And since the IAF was desperate to acquire any combat-worthy aircraft, they got their hands on 3 privately owned, unarmed units that were flown to Czechoslovakia and armed with 7.62 mm MGs, makeshift bomb sights and German bomb racks. The planes bombed several targets during their journey to Israel, and during the entire Arab-Israeli War of 1948, the 3 planes flew 200 sorties. After being used as radio transceivers during the Sinai War of 1956, they were finally fully decommissioned in 1958. The B-17 was introduced along with the initial Israeli air tree in Update \"Winged Lions\" . At its BR, it's vulnerable to almost any plane, but especially those with air spawns or good climb rates. Planes like the Ta 152H, F8F-1B, and Bf 109s are common threats thanks to their good armament and climb capabilities. Like all strategic bombers, the B-17 is capable of destroying an entire base, however once spawned pilots should try to climb to more than 6000 m to be safe at least until the base is destroyed. When facing enemy planes, the weakest position is the front. Thus, when a dangerous enemy plane is detected, pilots should give the rear of the plane to the enemy to make shots harder.",
+ "image": "https://static.encyclopedia.warthunder.com/images/b-17g_iaf.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "510"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "4.6"
+  },
+  {
+   "label": "Turn time",
+   "value": "36"
+  },
+  {
+   "label": "Max altitude",
+   "value": "11,156 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "600 m"
+  },
+  {
+   "label": "Crew",
+   "value": "10 persons"
+  },
+  {
+   "label": "Engine",
+   "value": "4 x R-1820-97"
+  },
+  {
+   "label": "Length",
+   "value": "22.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "31.6 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "195 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "18.21"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "7.58 t (5h 8m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "516 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.63 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -2/2 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "249 / 361 / 383 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "290 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,950"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Ammunition",
+   "value": "2,300"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "2,617 → 3,562"
+  },
+  {
+   "label": "Crew training",
+   "value": "57,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "120 / 230 / 550 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "52,800"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "1,700"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "API-T/AP/AP/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/API-T",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/I/AP-I/API-T",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/AP/AP/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Armored targets",
+   "type": "AP/AP/AP/API-T",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/I/AP-I/API-T",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

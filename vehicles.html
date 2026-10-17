@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="th">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>ฐานข้อมูลยานพาหนะ | WarFront Guide</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/vehicles.css">
+    <link rel="stylesheet" href="css/chatbox.css">
+</head>
+
+<body>
+
+    <header id="global_header" class="global_header"></header>
+
+    <main class="max-w-6xl mx-auto px-4">
+
+        <h1 class="vehicles_title mt-6">ฐานข้อมูลยานพาหนะ</h1>
+        <p class="vehicles_subtitle">ข้อมูลดึงจาก War Thunder Wiki แยกตามประเภทและสัญชาติ</p>
+
+        <!-- กล่องตัวกรอง -->
+        <section class="vehicles_filter global_panel mt-4 p-4">
+            <div class="grid grid-cols-1 md:grid-cols-5 gap-3">
+                <div>
+                    <label class="vehicles_label" for="vehicles_search">ค้นหาชื่อ</label>
+                    <input type="text" id="vehicles_search" class="vehicles_input" placeholder="เช่น Tiger, Spitfire">
+                </div>
+                <div>
+                    <label class="vehicles_label" for="vehicles_branch">กลุ่ม</label>
+                    <select id="vehicles_branch" class="vehicles_input">
+                        <option value="">ทั้งหมด</option>
+                        <option value="ground">ยานเกราะภาคพื้น</option>
+                        <option value="aviation">อากาศยาน</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="vehicles_label" for="vehicles_role">ประเภท</label>
+                    <select id="vehicles_role" class="vehicles_input">
+                        <option value="">ทั้งหมด</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="vehicles_label" for="vehicles_nation">สัญชาติ</label>
+                    <select id="vehicles_nation" class="vehicles_input">
+                        <option value="">ทั้งหมด</option>
+                    </select>
+                </div>
+                <div>
+                    <label class="vehicles_label" for="vehicles_rank">Rank</label>
+                    <select id="vehicles_rank" class="vehicles_input">
+                        <option value="">ทั้งหมด</option>
+                    </select>
+                </div>
+            </div>
+            <div class="mt-3 flex items-center gap-3 flex-wrap">
+                <label class="vehicles_check">
+                    <input type="checkbox" id="vehicles_only_detail"> แสดงเฉพาะคันที่มีหน้ารายละเอียดครบ
+                </label>
+                <span id="vehicles_count" class="vehicles_count"></span>
+            </div>
+        </section>
+
+        <!-- รายการยานพาหนะ -->
+        <section id="vehicles_list" class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-3 mt-5">
+            <p class="vehicles_count">กำลังโหลด...</p>
+        </section>
+
+        <div class="text-center">
+            <button type="button" id="vehicles_more" class="vehicles_more hidden">โหลดเพิ่ม</button>
+        </div>
+
+    </main>
+
+    <footer class="global_footer">
+        ข้อมูลยานพาหนะดึงมาจาก <a href="https://wiki.warthunder.com" target="_blank">War Thunder Wiki</a>
+    </footer>
+
+    <script src="js/config.js"></script>
+    <script src="js/global.js"></script>
+    <script src="js/chatbox.js"></script>
+    <script src="js/vehicles.js"></script>
+</body>
+
+</html>

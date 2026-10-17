@@ -1,0 +1,182 @@
+{
+ "id": "p-51_a-36",
+ "wiki": "https://wiki.warthunder.com/unit/p-51_a-36",
+ "name": "A-36",
+ "branchLabel": "Aviation",
+ "roleId": "assault",
+ "role": "Strike aircraft",
+ "rank": "II",
+ "br": {
+  "AB": "2.7",
+  "RB": "2.7",
+  "SB": "2.7"
+ },
+ "description": "North American Aviation Company was busy during 1942 building and shipping Mustang Mk.I fighters to England to be incorporated into the Royal Air Force to fight alongside the Curtiss P-40 Tomahawks. Unfortunately for England, lend-lease funds ran out, and 93 unshipped Mustang IA/P-51s went to the US Army Air Forces. North American did not want to stop production of the P-51s and pressured the USAAF for a fighter contract. Unfortunately, for the fiscal year 1942, no government funds were available for new fighter aircraft. However, when it was observed that attack aircraft funds were available, North American reconfigured the Mustang into a dive bomber, outfitting it with heavier wings, bomb racks, and dive brakes. With this dive bomber/attack variant approved for manufacturing, NAA ramped up production and cranked out 500 A-36A aircraft, which saw use in the Mediterranean and China-Burma-India theater. Introduced in Update 1.51 \"Cold Steel\" , the A-36, as an early war multi-role aircraft, can suit the play-style of just about any pilot and can be reconfigured to accommodate different maps and missions. Outfitted with the Allison V-1710-87 inline water-cooled engine, the plane suffers in high-altitude flying; however, for lower altitude dive-bombing, this engine performed quite well. High enough speeds could be developed in a dive to rip the wings, so dive brakes were implemented to regulate the dive speed to around 630 km/h (390 mph). Maintaining speed in a dive ensures enough energy is available to zoom climb back up to altitude or to get away from any enemy fighters which may have attempted to intercept you. Depending on the map, the dive bomber can convert to a strafing aircraft once the bombs are released. With six internal 12.7 mm machine guns and four more possible mounted in gunpods, softer ground targets and other aircraft are no match and will be easy pickings.",
+ "image": "https://static.encyclopedia.warthunder.com/images/p-51_a-36.png",
+ "weapons": [],
+ "stats": [
+  {
+   "label": "Max speed",
+   "value": "589"
+  },
+  {
+   "label": "Rate of Climb",
+   "value": "13.1"
+  },
+  {
+   "label": "Turn time",
+   "value": "22.3"
+  },
+  {
+   "label": "Max altitude",
+   "value": "9,000 m"
+  },
+  {
+   "label": "Takeoff Run",
+   "value": "400 m"
+  },
+  {
+   "label": "Crew",
+   "value": "1 person"
+  },
+  {
+   "label": "Engine",
+   "value": "V-1710-87"
+  },
+  {
+   "label": "Length",
+   "value": "9.8 m"
+  },
+  {
+   "label": "Wingspan",
+   "value": "11.3 m"
+  },
+  {
+   "label": "Wing Loading",
+   "value": "184 kg/m²"
+  },
+  {
+   "label": "Base weight",
+   "value": "3.54"
+  },
+  {
+   "label": "Fuel in main tanks",
+   "value": "0.49 t (1h 19m)"
+  },
+  {
+   "label": "Max Speed Limit (IAS)",
+   "value": "855 km/h"
+  },
+  {
+   "label": "Mach Number Limit",
+   "value": "0.85 M"
+  },
+  {
+   "label": "G limit",
+   "value": "≈ -6/12 G"
+  },
+  {
+   "label": "Flap Speed Limit (IAS)",
+   "value": "279 / 521 / 652 km/h"
+  },
+  {
+   "label": "Gear Speed Limit (IAS)",
+   "value": "287 km/h"
+  },
+  {
+   "label": "Ammunition",
+   "value": "1,660"
+  },
+  {
+   "label": "Fire rate",
+   "value": "750 shots/min"
+  },
+  {
+   "label": "One-second Burst Mass",
+   "value": "0.54 kg"
+  },
+  {
+   "label": "Repair cost",
+   "value": "359 → 451"
+  },
+  {
+   "label": "Crew training",
+   "value": "3,000"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "30 / 50 / 110 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "6,950"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "530"
+  }
+ ],
+ "shells": [
+  {
+   "name": "Default",
+   "type": "T/Ball/Ball/I/AP-I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Universal",
+   "type": "AP-I/AP-I/AP-I/T/I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Ground targets",
+   "type": "T/AP/AP/AP/AP-I/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Tracers",
+   "type": "T/T/T/T/T/AP-I",
+   "penetration": [
+    "28",
+    "26",
+    "18",
+    "11",
+    "7",
+    "4"
+   ]
+  },
+  {
+   "name": "Stealth",
+   "type": "AP/AP-I/AP-I/I/I",
+   "penetration": [
+    "30",
+    "27",
+    "20",
+    "13",
+    "9",
+    "6"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}

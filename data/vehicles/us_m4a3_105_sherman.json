@@ -1,0 +1,177 @@
+{
+ "id": "us_m4a3_105_sherman",
+ "wiki": "https://wiki.warthunder.com/unit/us_m4a3_105_sherman",
+ "name": "M4A3 (105)",
+ "branchLabel": "Ground Vehicles",
+ "roleId": "medium_tank",
+ "role": "Medium tank",
+ "rank": "II",
+ "br": {
+  "AB": "3.3",
+  "RB": "3.0",
+  "SB": "3.0"
+ },
+ "description": "Though the M4 Sherman entered service with a 75 mm cannon, it was believed that the M4 Sherman platform could also be used to lob larger high-explosive shells in a direct-fire role. As such, work quickly began on a 105 mm howitzer mount for the M4 Sherman, with first tests starting on an M4A4E1 platform. Awkward ergonomics within the tank turret and an unbalanced turret design delayed proper tests of the howitzer-armed tank until February 1943. US soldier experiences overseas, namely in the Italian Theater, validated the need for a howitzer-armed Sherman as troops coming across heavy fortifications had to rely on the M7 Priest for their artillery guns, which was poorly suited for the direct fire role. The howitzer-armed M4 Sherman was approved for use and production started in February 1944 to be ready for the Normandy invasion, with the chosen chassis being the M4 (105) and M4A3 (104). Chrysler Corporation was contracted to produce all howitzer-armed tanks and helped produce a total of 4,680 units, with 2,539 being the M4A3 (105) HVSS. These tanks would see use not only in the European Theater but also in the Pacific Theater and even after World War II in the Korean War. Introduced alongside the American ground tree in Update 1.45 \"Steel Generals\" , the M4A3 (105) is a surprising beast where it is at in the ranks. Although the 105 mm relies only on chemical rounds in high-explosives and HEAT to do damage, the opponents the M4A3 (105) can face mostly have relatively thin armour spots that the explosive rounds can do significant damage on. The late-generation M4 Sherman design means that the M4A3 hull is of a single-slope design, which actually gives the tank relatively good frontal protection against the enemies it can face, with the armour able to go up to 100 mm in effective thickness. Finally, the use of a M4A3 chassis with its better engine power and HVSS design means it rides along the battlefield smoothly, giving it relatively good mobility and a stable platform for a faster stop-n-shoot tactic, though not as smooth as a 75 mm-armed M4 Sherman at this rank as the M4A3 (105) does not have a stabilizer. The M4A3 (105) can be a weapon to strike fear into the enemies, especially when used in a coordinated fashion with the rest of the team.",
+ "image": "https://static.encyclopedia.warthunder.com/images/us_m4a3_105_sherman.png",
+ "weapons": [
+  "12.7 mm M2HB machine gun",
+  "7.62 mm M1919A4 machine gun"
+ ],
+ "stats": [
+  {
+   "label": "Armour",
+   "value": "63 / 38 / 38 mm"
+  },
+  {
+   "label": "Visibility",
+   "value": "121 %"
+  },
+  {
+   "label": "Crew",
+   "value": "5 persons"
+  },
+  {
+   "label": "Max speed",
+   "value": "42"
+  },
+  {
+   "label": "Power-to-weight ratio",
+   "value": "15.8"
+  },
+  {
+   "label": "Ammunition",
+   "value": "66 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "13 → 10 s"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 35°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "4.2"
+  },
+  {
+   "label": "Ammunition",
+   "value": "600 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "575 shots/min"
+  },
+  {
+   "label": "Vertical guidance",
+   "value": "-10 / 30°"
+  },
+  {
+   "label": "Horizontal guidance",
+   "value": "-60 / 60°"
+  },
+  {
+   "label": "Turret Rotation Speed",
+   "value": "63"
+  },
+  {
+   "label": "Ammunition",
+   "value": "3,000 rounds"
+  },
+  {
+   "label": "Reload",
+   "value": "10.4 → 8 s"
+  },
+  {
+   "label": "Fire rate",
+   "value": "500 shots/min"
+  },
+  {
+   "label": "Repair cost",
+   "value": "540 → 731"
+  },
+  {
+   "label": "Crew training",
+   "value": "4,500"
+  },
+  {
+   "label": "Reward multiplier",
+   "value": "40 / 50 / 60 %"
+  },
+  {
+   "label": "Total cost of modifications",
+   "value": "8,410"
+  },
+  {
+   "label": "Talisman cost",
+   "value": "640"
+  }
+ ],
+ "shells": [
+  {
+   "name": "M1 shell",
+   "type": "HE",
+   "penetration": [
+    "27",
+    "27",
+    "27",
+    "27",
+    "27",
+    "27"
+   ]
+  },
+  {
+   "name": "M67 shot",
+   "type": "HEAT",
+   "penetration": [
+    "130",
+    "130",
+    "130",
+    "130",
+    "130",
+    "130"
+   ]
+  },
+  {
+   "name": "M84",
+   "type": "Smoke",
+   "penetration": [
+    "5",
+    "5",
+    "5",
+    "5",
+    "5",
+    "5"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "API-T/I/AP/API-T",
+   "penetration": [
+    "31",
+    "29",
+    "21",
+    "14",
+    "9",
+    "6"
+   ]
+  },
+  {
+   "name": "Default",
+   "type": "AP/T",
+   "penetration": [
+    "13",
+    "12",
+    "7",
+    "3",
+    "2",
+    "0"
+   ]
+  }
+ ],
+ "updated": "2026-10-17"
+}
