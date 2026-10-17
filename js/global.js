@@ -49,9 +49,13 @@ function getUser() {
     return JSON.parse(text);
 }
 
-// STEP 2: Google ส่ง ID token (JWT) กลับมา เราแกะส่วนกลางออกมาดูชื่อกับอีเมล
+// STEP 2: Google ส่ง ID token (JWT) กลับมา
+//         เราเก็บ token ไว้แนบไปกับทุกคำขอของหลังบ้าน แล้วให้หลังบ้านเป็นคนบอกว่า role อะไร
 function handleGoogleLogin(response) {
-    const parts = response.credential.split(".");
+    const token = response.credential;
+    localStorage.setItem("warfront_token", token);
+
+    const parts = token.split(".");
     const json = decodeURIComponent(
         atob(parts[1].replace(/-/g, "+").replace(/_/g, "/"))
             .split("")
@@ -60,21 +64,66 @@ function handleGoogleLogin(response) {
             })
             .join("")
     );
-    const token = JSON.parse(json);
+    const claims = JSON.parse(json);
 
     const user = {
-        name: token.name,
-        email: token.email,
-        picture: token.picture,
+        name: claims.name,
+        email: claims.email,
+        picture: claims.picture,
+        role: "user",
         loginAt: new Date().toISOString()
     };
     localStorage.setItem("warfront_user", JSON.stringify(user));
-    location.reload();
+
+    // ถามหลังบ้านว่าอีเมลนี้มี role อะไร (ถ้าไม่มีหลังบ้านก็ใช้สิทธิ์ผู้ใช้ทั่วไปไป)
+    apiFetch("api/auth/login", { method: "POST" })
+        .then(function (data) {
+            user.role = data.user.role;
+            user.name = data.user.name || user.name;
+            localStorage.setItem("warfront_user", JSON.stringify(user));
+        })
+        .catch(function (err) {
+            // ไม่เป็นไร เปิดเว็บแบบ static ธรรมดาก็ยังอ่านวิกิได้
+        })
+        .then(function () {
+            location.reload();
+        });
 }
 
-function logoutUser() {
-    localStorage.removeItem("warfront_user");
-    location.href = "index.html";
+function getToken() {
+    return localStorage.getItem("warfront_token") || "";
+}
+
+function isAdmin() {
+    const user = getUser();
+    return Boolean(user && user.role === "admin");
+}
+
+// ตัวกลางเรียกหลังบ้าน: แนบ token ของ Google ให้อัตโนมัติ และโยน error เป็นข้อความไทย
+async function apiFetch(path, options) {
+    const setting = options || {};
+    const headers = setting.headers || {};
+
+    if (getToken()) headers["Authorization"] = "Bearer " + getToken();
+    if (setting.body !== undefined) {
+        headers["Content-Type"] = "application/json";
+        setting.body = JSON.stringify(setting.body);
+    }
+    setting.headers = headers;
+
+    const res = await fetch(path, setting);
+
+    let data = null;
+    try {
+        data = await res.json();
+    } catch (err) {
+        data = null;
+    }
+
+    if (!res.ok) {
+        throw new Error((data && data.error) || "เรียกหลังบ้านไม่สำเร็จ (" + res.status + ")");
+    }
+    return data;
 }
 
 // STEP 3: หา Google Client ID — ถ้า deploy บน Cloudflare จะได้จาก /api/config
@@ -173,10 +222,24 @@ async function loadIndex() {
 }
 
 // โหลดข้อมูลละเอียดของยานพาหนะหนึ่งคัน
+// ดูในฐานข้อมูล (คันที่ admin เพิ่ม/แก้เอง) ก่อน ถ้าไม่มีจึงอ่านไฟล์ต้นฉบับจากวิกิใน data/
 async function loadVehicle(id) {
+    try {
+        const data = await apiFetch("api/vehicles/" + encodeURIComponent(id));
+        if (data && data.vehicle) return data.vehicle;
+    } catch (err) {
+        // ไม่มีในฐานข้อมูล หรือไม่มีหลังบ้าน -> ไปอ่านไฟล์ต่อ
+    }
+
     const res = await fetch("data/vehicles/" + id + ".json");
     if (!res.ok) throw new Error("ยังไม่มีข้อมูลละเอียดของคันนี้");
     return await res.json();
+}
+
+// โหลดรายการยานพาหนะที่อยู่ในฐานข้อมูล (ใช้เติมในหน้า vehicles.html และหน้าจัดการระบบ)
+async function loadDbVehicles(query) {
+    const data = await apiFetch("api/vehicles?" + new URLSearchParams(query || {}).toString());
+    return data;
 }
 
 // วาดแถบเมนูบนให้เหมือนกันทุกหน้า
@@ -187,21 +250,50 @@ function drawNavbar(active) {
         { href: "", text: "AI Tactical Commander", key: "chat" }
     ];
 
+    // เมนูจัดการระบบจะโชว์ให้เฉพาะผู้ดูแลระบบ
+    if (isAdmin()) {
+        menu.push({ href: "admin.html", text: "จัดการระบบ", key: "admin" });
+    }
+
     let html = '<a href="index.html" class="global_brand">WAR<span>FRONT</span></a>';
     html += '<nav class="global_nav">';
     menu.forEach(function (item) {
         const css = item.key === active ? "global_nav-link global_nav-link--active" : "global_nav-link";
+        // เมนูจัดการระบบเพิ่มคลาสเด่น ๆ ให้ไม่กลืนหายในหมู่เมนูอื่น ๆ
+        const adminCss = item.key === "admin" ? " global_nav-link--admin" : "";
+        // ปุ่ม AI ชวนให้กดใช้: เด่นสีและกะพริบแสง
+        const aiCss = item.key === "chat" ? " global_nav-link--ai" : "";
         if (item.key === "chat") {
             // ปุ่มนี้ไม่พาไปหน้าใหม่ แต่เปิดกล่องแชทลอยที่อยู่ในทุกหน้า
-            html += '<button type="button" class="' + css + ' global_nav-button" onclick="openChatbox()">' +
+            html += '<button type="button" class="' + css + adminCss + aiCss + ' global_nav-button" onclick="openChatbox()">' +
                 item.text + "</button>";
             return;
         }
-        html += '<a href="' + item.href + '" class="' + css + '">' + item.text + "</a>";
+        html += '<a href="' + item.href + '" class="' + css + adminCss + '">' + item.text + "</a>";
     });
     html += "</nav>";
     html += '<div id="global_login"></div>';
 
     document.getElementById("global_header").innerHTML = html;
     drawLoginBox("global_login");
+    drawFooter();
+}
+
+// วาดท้ายหน้าให้เหมือนกันทุกหน้า: แถบผู้จัดทำแนวนอน + เครดิตวิกิ
+function drawFooter() {
+    const footer = document.querySelector(".global_footer");
+    if (!footer) return;
+
+    footer.innerHTML =
+        '<div class="global_author">' +
+            '<img class="global_author-photo" src="img/profile.jpg" alt="รูปโปรไฟล์ของปรมินทร์ ปานเจริญ">' +
+            '<span class="global_author-name">ปรมินทร์ ปานเจริญ</span>' +
+            '<span class="global_author-sep">·</span>' +
+            "<span>รหัสนักศึกษา 674295011</span>" +
+            '<span class="global_author-sep">·</span>' +
+            '<a href="https://www.facebook.com/poramin.pancharoen.2024" target="_blank" rel="noopener">Facebook</a>' +
+        "</div>" +
+        '<p class="global_footer-note">ข้อมูลยานพาหนะดึงมาจาก ' +
+            '<a href="https://wiki.warthunder.com" target="_blank" rel="noopener">War Thunder Wiki</a>' +
+            " — โปรเจกต์เพื่อการศึกษา ไม่ได้มีส่วนเกี่ยวข้องกับ Gaijin Entertainment</p>";
 }

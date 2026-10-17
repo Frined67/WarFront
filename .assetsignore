@@ -1,0 +1,11 @@
+# ไฟล์ที่ไม่ต้องอัปขึ้น Cloudflare Pages (ไม่ใช่ของที่เบราว์เซอร์ต้องโหลด)
+node_modules
+.wrangler
+.git
+tools
+schema.sql
+wrangler.toml
+package.json
+package-lock.json
+README.md
+deploy.md

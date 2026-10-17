@@ -63,6 +63,46 @@ body {
     font-weight: 700;
 }
 
+/* เมนูจัดการระบบ: เด่นกว่าเมนูอื่น ให้ผู้ดูแลระบบเห็นชัด */
+.global_nav-link--admin {
+    background-color: rgba(200, 160, 74, 0.15);
+    border: 1px solid var(--warfront-accent);
+    color: var(--warfront-accent);
+    font-weight: 700;
+    box-shadow: 0 0 8px rgba(200, 160, 74, 0.35);
+}
+
+.global_nav-link--admin:hover {
+    background-color: var(--warfront-accent);
+    color: #1a1407;
+}
+
+.global_nav-link--admin.global_nav-link--active {
+    background-color: var(--warfront-accent);
+    color: #1a1407;
+}
+
+/* ปุ่ม AI Tactical Commander: เด่นและชวนให้กดใช้ */
+.global_nav-link--ai {
+    background: linear-gradient(135deg, #3b82f6, #8b5cf6);
+    color: #ffffff;
+    font-weight: 700;
+    border: 1px solid rgba(255, 255, 255, 0.25);
+    box-shadow: 0 0 12px rgba(139, 92, 246, 0.55);
+    animation: global-ai-pulse 2.2s ease-in-out infinite;
+}
+
+.global_nav-link--ai:hover {
+    background: linear-gradient(135deg, #2563eb, #7c3aed);
+    color: #ffffff;
+    box-shadow: 0 0 16px rgba(139, 92, 246, 0.85);
+}
+
+@keyframes global-ai-pulse {
+    0%, 100% { box-shadow: 0 0 8px rgba(139, 92, 246, 0.4); }
+    50% { box-shadow: 0 0 18px rgba(139, 92, 246, 0.9); }
+}
+
 .global_nav-button {
     border: none;
     background: transparent;
@@ -111,7 +151,7 @@ body {
 
 .global_footer {
     margin-top: 40px;
-    padding: 20px 16px;
+    padding: 12px 16px;
     border-top: 1px solid var(--warfront-line);
     font-size: 13px;
     color: #8b93a3;
@@ -120,4 +160,39 @@ body {
 
 .global_footer a {
     color: var(--warfront-accent);
+}
+
+/* ---- แถบผู้จัดทำท้ายหน้า: แนวนอน เรียบ ไม่มีกล่อง ---- */
+.global_author {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    margin-bottom: 8px;
+    font-size: 14px;
+    line-height: 1;
+}
+
+.global_author-photo {
+    width: 44px;
+    height: 44px;
+    flex: none;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 1px solid var(--warfront-line);
+}
+
+.global_author-name {
+    color: #e6e8ec;
+    font-weight: 600;
+}
+
+.global_author-sep {
+    color: #4a515f;
+}
+
+.global_footer-note {
+    margin: 0;
+    font-size: 12px;
 }

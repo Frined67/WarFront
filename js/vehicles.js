@@ -10,8 +10,26 @@ let shownCount = 40;    // แสดงทีละ 40 คัน กดปุ่
 const params = new URLSearchParams(location.search);
 
 // STEP 2: โหลดข้อมูลแล้วเตรียมตัวเลือกในกล่องกรอง
-loadIndex().then(function (data) {
+//         รายชื่อจากวิกิ (data/index.json) + คันที่เพิ่มเองในฐานข้อมูล (ถ้ามีหลังบ้าน)
+loadIndex().then(async function (data) {
     allVehicles = data.vehicles;
+
+    try {
+        const extra = await loadDbVehicles({ limit: 200 });
+        extra.vehicles.forEach(function (vehicle) {
+            // ถ้า id ซ้ำกับของวิกิ ให้ของในฐานข้อมูลทับไป (ถือว่าเป็นข้อมูลที่แก้ล่าสุด)
+            const same = allVehicles.findIndex(function (item) {
+                return item.id === vehicle.id;
+            });
+            if (same >= 0) {
+                allVehicles[same] = vehicle;
+            } else {
+                allVehicles.unshift(vehicle);
+            }
+        });
+    } catch (err) {
+        // ไม่มีหลังบ้าน/ฐานข้อมูล ก็แสดงเฉพาะข้อมูลจากวิกิ
+    }
 
     // เก็บค่าที่มีจริงในข้อมูล เอาไปใส่เป็น option
     const roles = {};

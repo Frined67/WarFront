@@ -1,0 +1,16 @@
+# wrangler.toml — ค่าตั้งของ Cloudflare Pages (โหมด advanced ใช้ _worker.js)
+name = "warfront"
+compatibility_date = "2024-09-23"
+pages_build_output_dir = "."
+
+# ฐานข้อมูล D1 (ชื่อ binding DB ตรงกับ env.DB ใน _worker.js)
+# database_id ของฐานข้อมูล warfront (สร้างไว้แล้วในบัญชี 674295011@parichat.skru.ac.th)
+[[d1_databases]]
+binding = "DB"
+database_name = "warfront"
+database_id = "c93912c5-7e69-4bba-9689-73cfbcdb9db0"
+
+# ค่าที่เปิดเผยได้ (ไม่ใช่ความลับ) — ส่วน GEMINI_API_KEY เก็บเป็น Secret ที่ Cloudflare
+[vars]
+GOOGLE_CLIENT_ID = "632966740639-7jm1ss9fp8hgjaqib3f6usibvt45l3p4.apps.googleusercontent.com"
+GEMINI_MODEL = "gemini-3.8-flash"

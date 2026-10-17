@@ -1,0 +1,16 @@
+{
+  "devDependencies": {
+    "wrangler": "^4.151.1"
+  },
+  "allowScripts": {
+    "esbuild@0.28.2": true,
+    "workerd@1.20261012.1": true
+  },
+  "name": "warfront",
+  "private": true,
+  "scripts": {
+    "dev": "wrangler pages dev .",
+    "db:init": "wrangler d1 execute warfront --local --file=./schema.sql",
+    "db:init:remote": "wrangler d1 execute warfront --remote --file=./schema.sql"
+  }
+}

@@ -1,0 +1,357 @@
+<!DOCTYPE html>
+<html lang="th">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>จัดการระบบ | WarFront Guide</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://accounts.google.com/gsi/client" async defer></script>
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="css/admin.css">
+    <link rel="stylesheet" href="css/chatbox.css">
+</head>
+
+<body>
+
+    <header id="global_header" class="global_header"></header>
+
+    <main class="max-w-6xl mx-auto px-4 pb-10">
+
+        <h1 class="admin_title mt-6">จัดการระบบ</h1>
+        <p class="admin_subtitle">เพิ่ม/แก้/ลบ ยานพาหนะ จัดการผู้ใช้และสิทธิ์ และตั้งค่า AI</p>
+
+        <!-- ถ้าไม่ใช่ admin จะเห็นแค่กล่องนี้ -->
+        <section id="admin_guard" class="global_panel p-5 mt-4 hidden"></section>
+
+        <!-- เนื้อหาทั้งหมดของหน้าจัดการระบบ -->
+        <div id="admin_main" class="hidden">
+
+            <!-- แถบสลับหน้า -->
+            <nav class="admin_tabs mt-4">
+                <button type="button" class="admin_tab admin_tab--active" data-tab="vehicles">ยานพาหนะ</button>
+                <button type="button" class="admin_tab" data-tab="users">ผู้ใช้และสิทธิ์</button>
+                <button type="button" class="admin_tab" data-tab="ai">ตั้งค่า AI</button>
+                <button type="button" class="admin_tab" data-tab="chat">ทดสอบ Chatbot</button>
+            </nav>
+
+            <p id="admin_message" class="admin_message hidden"></p>
+
+            <!-- ============ แท็บยานพาหนะ ============ -->
+            <section id="admin_panel_vehicles" class="admin_panel">
+
+                <div class="global_panel p-4 mt-4">
+                    <div class="flex items-end gap-3 flex-wrap">
+                        <div>
+                            <label class="admin_label" for="admin_v_search">ค้นหาในฐานข้อมูล</label>
+                            <input type="text" id="admin_v_search" class="admin_input" placeholder="ชื่อหรือรหัส">
+                        </div>
+                        <div>
+                            <label class="admin_label" for="admin_v_branch">กลุ่ม</label>
+                            <select id="admin_v_branch" class="admin_input">
+                                <option value="">ทั้งหมด</option>
+                                <option value="ground">ยานเกราะภาคพื้น</option>
+                                <option value="aviation">อากาศยาน</option>
+                            </select>
+                        </div>
+                        <button type="button" id="admin_v_new" class="admin_button">+ เพิ่มยานพาหนะใหม่</button>
+                    </div>
+                    <div class="mt-3 flex items-center gap-4 flex-wrap">
+                        <label class="admin_check">
+                            <input type="checkbox" id="admin_v_only_db"> แสดงเฉพาะคันที่แก้ไขไว้ในฐานข้อมูล
+                        </label>
+                        <span id="admin_v_count" class="admin_count"></span>
+                        <span id="admin_v_found" class="admin_count"></span>
+                    </div>
+                    <p class="admin_hint">คันที่ติดป้าย "ต้นฉบับวิกิ" กดแก้ไขได้เลย ระบบจะดึงข้อมูลเดิมมาเติมฟอร์มให้
+                        พอกดบันทึกจะกลายเป็นฉบับแก้ไขที่เก็บในฐานข้อมูล และหน้าเว็บจะแสดงฉบับนี้แทนไฟล์ต้นฉบับ</p>
+                </div>
+
+                <!-- ฟอร์มเพิ่ม/แก้ไข -->
+                <form id="admin_v_form" class="global_panel p-4 mt-4 hidden">
+                    <h2 class="admin_section" id="admin_v_form_title">เพิ่มยานพาหนะใหม่</h2>
+
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-3 mt-3">
+                        <div>
+                            <label class="admin_label" for="admin_f_id">รหัส (id) *</label>
+                            <input type="text" id="admin_f_id" class="admin_input" placeholder="us_m4a1" required>
+                        </div>
+                        <div class="md:col-span-2">
+                            <label class="admin_label" for="admin_f_name">ชื่อ *</label>
+                            <input type="text" id="admin_f_name" class="admin_input" placeholder="M4A1 Sherman" required>
+                        </div>
+                        <div>
+                            <label class="admin_label" for="admin_f_branch">กลุ่ม</label>
+                            <select id="admin_f_branch" class="admin_input">
+                                <option value="ground">ยานเกราะภาคพื้น</option>
+                                <option value="aviation">อากาศยาน</option>
+                            </select>
+                        </div>
+                        <div>
+                            <label class="admin_label" for="admin_f_nation">สัญชาติ</label>
+                            <select id="admin_f_nation" class="admin_input"></select>
+                        </div>
+                        <div>
+                            <label class="admin_label" for="admin_f_rank">Rank</label>
+                            <select id="admin_f_rank" class="admin_input"></select>
+                        </div>
+                        <div>
+                            <label class="admin_label" for="admin_f_roleid">ประเภท</label>
+                            <select id="admin_f_roleid" class="admin_input"></select>
+                        </div>
+                        <div>
+                            <label class="admin_label" for="admin_f_role">ชื่อประเภทภาษาอังกฤษ</label>
+                            <input type="text" id="admin_f_role" class="admin_input" placeholder="Medium tank">
+                        </div>
+                        <div class="grid grid-cols-3 gap-2">
+                            <div>
+                                <label class="admin_label" for="admin_f_ab">BR (AB)</label>
+                                <input type="text" id="admin_f_ab" class="admin_input" placeholder="3.7">
+                            </div>
+                            <div>
+                                <label class="admin_label" for="admin_f_rb">BR (RB)</label>
+                                <input type="text" id="admin_f_rb" class="admin_input" placeholder="3.7">
+                            </div>
+                            <div>
+                                <label class="admin_label" for="admin_f_sb">BR (SB)</label>
+                                <input type="text" id="admin_f_sb" class="admin_input" placeholder="3.7">
+                            </div>
+                        </div>
+                        <div>
+                            <label class="admin_label" for="admin_f_icon">ลิงก์ไอคอน</label>
+                            <input type="text" id="admin_f_icon" class="admin_input" placeholder="https://...">
+                        </div>
+                        <div>
+                            <label class="admin_label" for="admin_f_image">ลิงก์รูปใหญ่</label>
+                            <input type="text" id="admin_f_image" class="admin_input" placeholder="https://...">
+                        </div>
+                        <div>
+                            <label class="admin_label" for="admin_f_wiki">ลิงก์หน้าวิกิ</label>
+                            <input type="text" id="admin_f_wiki" class="admin_input" placeholder="https://wiki.warthunder.com/unit/...">
+                        </div>
+                    </div>
+
+                    <div class="mt-3">
+                        <label class="admin_label" for="admin_f_desc">คำอธิบาย</label>
+                        <textarea id="admin_f_desc" class="admin_input admin_textarea" rows="4"></textarea>
+                    </div>
+
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-3 mt-3">
+                        <div>
+                            <label class="admin_label" for="admin_f_stats">สเปก (บรรทัดละ 1 อย่าง: ชื่อ | ค่า)</label>
+                            <textarea id="admin_f_stats" class="admin_input admin_textarea" rows="6"
+                                placeholder="Max speed | 48 km/h&#10;Armour | 51 / 38 / 38 mm"></textarea>
+                        </div>
+                        <div>
+                            <label class="admin_label" for="admin_f_weapons">อาวุธ (บรรทัดละ 1 อย่าง)</label>
+                            <textarea id="admin_f_weapons" class="admin_input admin_textarea" rows="6"
+                                placeholder="75 mm M3 cannon&#10;2 x 7.62 mm M1919A4"></textarea>
+                        </div>
+                        <div>
+                            <label class="admin_label" for="admin_f_shells">กระสุน (ชื่อ | ชนิด | 10 | 100 | 500 | 1000 | 1500 | 2000)</label>
+                            <textarea id="admin_f_shells" class="admin_input admin_textarea" rows="6"
+                                placeholder="M61 | APCBC | 92 | 90 | 80 | 69 | 60 | 52"></textarea>
+                        </div>
+                    </div>
+
+                    <div class="mt-4 flex gap-3 flex-wrap">
+                        <button type="submit" class="admin_button">บันทึก</button>
+                        <button type="button" id="admin_v_cancel" class="admin_button admin_button--ghost">ยกเลิก</button>
+                    </div>
+                </form>
+
+                <!-- ตารางรายการ -->
+                <div class="global_panel p-4 mt-4 overflow-x-auto">
+                    <table class="admin_table">
+                        <thead>
+                            <tr>
+                                <th>รหัส</th>
+                                <th>ชื่อ</th>
+                                <th>กลุ่ม</th>
+                                <th>สัญชาติ</th>
+                                <th>Rank</th>
+                                <th>BR (RB)</th>
+                                <th>แก้ไขล่าสุด</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody id="admin_v_rows">
+                            <tr>
+                                <td colspan="8" class="admin_count">กำลังโหลด...</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <div class="text-center mt-3">
+                        <button type="button" id="admin_v_more" class="admin_button admin_button--ghost hidden">โหลดเพิ่ม</button>
+                    </div>
+                </div>
+
+            </section>
+
+            <!-- ============ แท็บผู้ใช้ ============ -->
+            <section id="admin_panel_users" class="admin_panel hidden">
+
+                <form id="admin_u_form" class="global_panel p-4 mt-4">
+                    <h2 class="admin_section">เพิ่มอีเมลและตั้งสิทธิ์ล่วงหน้า</h2>
+                    <p class="admin_hint">ใส่อีเมลไว้ก่อนได้ เจ้าตัวล็อกอินด้วย Google ครั้งแรกก็ได้สิทธิ์ตามที่ตั้งไว้</p>
+                    <div class="flex items-end gap-3 flex-wrap mt-3">
+                        <div>
+                            <label class="admin_label" for="admin_u_email">อีเมล *</label>
+                            <input type="email" id="admin_u_email" class="admin_input" placeholder="someone@skru.ac.th" required>
+                        </div>
+                        <div>
+                            <label class="admin_label" for="admin_u_name">ชื่อ</label>
+                            <input type="text" id="admin_u_name" class="admin_input">
+                        </div>
+                        <div>
+                            <label class="admin_label" for="admin_u_role">สิทธิ์</label>
+                            <select id="admin_u_role" class="admin_input">
+                                <option value="user">ผู้ใช้ทั่วไป</option>
+                                <option value="admin">ผู้ดูแลระบบ</option>
+                            </select>
+                        </div>
+                        <button type="submit" class="admin_button">เพิ่มผู้ใช้</button>
+                    </div>
+                </form>
+
+                <div class="global_panel p-4 mt-4 overflow-x-auto">
+                    <table class="admin_table">
+                        <thead>
+                            <tr>
+                                <th>อีเมล</th>
+                                <th>ชื่อ</th>
+                                <th>สิทธิ์</th>
+                                <th>ล็อกอินล่าสุด</th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody id="admin_u_rows">
+                            <tr>
+                                <td colspan="5" class="admin_count">กำลังโหลด...</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+
+            </section>
+
+            <!-- ============ แท็บตั้งค่า AI ============ -->
+            <section id="admin_panel_ai" class="admin_panel hidden">
+
+                <form id="admin_ai_form" class="global_panel p-4 mt-4">
+                    <h2 class="admin_section">ผู้ให้บริการ AI ของกล่องแชท</h2>
+                    <p class="admin_hint">เลือกผู้ให้บริการ แล้วใส่ API key กับชื่อโมเดล ค่าที่บันทึกไว้จะถูกใช้แทนค่าใน Environment Variable</p>
+
+                    <div class="admin_radios mt-3">
+                        <label class="admin_radio">
+                            <input type="radio" name="admin_ai_provider" value="gemini" checked>
+                            <span>
+                                <strong>Google Gemini</strong>
+                                <small>เรียก generativelanguage.googleapis.com โดยตรง</small>
+                            </span>
+                        </label>
+                        <label class="admin_radio">
+                            <input type="radio" name="admin_ai_provider" value="openai_compatible">
+                            <span>
+                                <strong>OpenAI-compatible</strong>
+                                <small>OpenAI, OpenRouter, Groq, Together, LM Studio, Ollama ฯลฯ</small>
+                            </span>
+                        </label>
+                    </div>
+
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-3 mt-4">
+                        <div>
+                            <label class="admin_label" for="admin_ai_model">ชื่อโมเดล</label>
+                            <input type="text" id="admin_ai_model" class="admin_input" placeholder="gemini-3.8-flash">
+                            <p class="admin_hint" id="admin_ai_model_hint"></p>
+                        </div>
+                        <div id="admin_ai_baseurl_box">
+                            <label class="admin_label" for="admin_ai_baseurl">Base URL (เฉพาะ OpenAI-compatible)</label>
+                            <input type="text" id="admin_ai_baseurl" class="admin_input" placeholder="https://api.openai.com/v1">
+                            <p class="admin_hint">ใส่ถึงระดับ /v1 ระบบจะต่อ /chat/completions ให้เอง</p>
+                        </div>
+                        <div class="md:col-span-2">
+                            <label class="admin_label" for="admin_ai_key">API key</label>
+                            <input type="password" id="admin_ai_key" class="admin_input" placeholder="วางค่าใหม่เท่านั้น เว้นว่างไว้ = ไม่เปลี่ยน"
+                                autocomplete="new-password">
+                            <p class="admin_hint" id="admin_ai_key_hint"></p>
+                        </div>
+                    </div>
+
+                    <div class="mt-4 flex gap-3 flex-wrap">
+                        <button type="submit" class="admin_button">บันทึกค่าตั้ง AI</button>
+                        <button type="button" id="admin_ai_clear" class="admin_button admin_button--ghost">ล้าง API key ที่เก็บไว้</button>
+                        <button type="button" id="admin_ai_test" class="admin_button admin_button--ghost">ทดสอบคุยกับ AI</button>
+                    </div>
+                    <p id="admin_ai_test_result" class="admin_hint mt-3"></p>
+                </form>
+
+            </section>
+
+            <!-- ============ แท็บทดสอบ Chatbot ============ -->
+            <section id="admin_panel_chat" class="admin_panel hidden">
+
+                <div class="admin_chat mt-4">
+
+                    <!-- ซ้าย: ตั้งค่า system prompt -->
+                    <aside class="global_panel admin_chat_side">
+                        <h2 class="admin_section">System prompt</h2>
+                        <p class="admin_hint">เว้นว่าง = ใช้ prompt มาตรฐานของผู้บัญชาการทหาร
+                            แก้ที่นี่แล้วคุยในกล่องขวาเพื่อดูว่าได้คำตอบแบบไหน (ไม่กระทบแชทจริงของหน้าเว็บ)</p>
+
+                        <textarea id="admin_chat_prompt" class="admin_input admin_chat_prompt" rows="12"
+                            placeholder="เว้นว่าง = ใช้ prompt มาตรฐานของผู้บัญชาการทหาร"></textarea>
+
+                        <div class="admin_chat_side-actions">
+                            <button type="button" id="admin_chat_default_prompt" class="admin_button admin_button--ghost">ดึง prompt มาตรฐานมาแก้</button>
+                            <button type="button" id="admin_chat_clear" class="admin_button admin_button--ghost">ล้างบทสนทนา</button>
+                        </div>
+
+                        <p class="admin_hint">บทสนทนาจะถูกส่งไปทั้งชุด ผู้ให้บริการจึงจำบริบทก่อนหน้าได้เหมือนแชทจริง</p>
+                    </aside>
+
+                    <!-- ขวา: กล่องแชท -->
+                    <div class="admin_chat_box">
+                        <header class="admin_chat_head">
+                            <div class="admin_chat_badge">AI</div>
+                            <div>
+                                <div class="admin_chat_title">ทดสอบ Chatbot</div>
+                                <div class="admin_chat_sub">ใช้ผู้ให้บริการที่ตั้งไว้ในแท็บตั้งค่า AI</div>
+                            </div>
+                            <span id="admin_chat_state" class="admin_chat_state">พร้อมทดสอบ</span>
+                        </header>
+
+                        <div id="admin_chat_log" class="admin_chat_log"></div>
+
+                        <div class="admin_chat_foot">
+                            <div class="admin_chat_quick">
+                                <button type="button" class="admin_chat_chip">M4A1 เจอ T-34 ที่ระยะ 500 เมตร ควรเล็งจุดไหน</button>
+                                <button type="button" class="admin_chat_chip">จัดกระสุนให้ Tiger H1 ยังไงดี</button>
+                                <button type="button" class="admin_chat_chip">วิธี dogfight กับ Spitfire</button>
+                            </div>
+                            <form id="admin_chat_test_form" class="admin_chat_form">
+                                <input type="text" id="admin_chat_question" class="admin_chat_input" required
+                                    autocomplete="off" placeholder="พิมพ์คำถามทดสอบ แล้วกด Enter">
+                                <button type="submit" id="admin_chat_send" class="admin_chat_send">ส่ง</button>
+                            </form>
+                        </div>
+                    </div>
+
+                </div>
+
+            </section>
+
+        </div>
+
+    </main>
+
+    <!-- ท้ายหน้าเติมด้วย drawFooter() ใน js/global.js ให้เหมือนกันทุกหน้า -->
+    <footer class="global_footer"></footer>
+
+    <script src="js/config.js"></script>
+    <script src="js/global.js"></script>
+    <script src="js/chatbox.js"></script>
+    <script src="js/admin.js"></script>
+</body>
+
+</html>
